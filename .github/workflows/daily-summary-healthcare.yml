@@ -57,7 +57,7 @@ jobs:
           uv run horizon --hours 48
 
       - name: Optional: Send to Obsidian vault via webhook
-        if: env.HORIZON_WEBHOOK_URL != ''
+        if: ${{ env.HORIZON_WEBHOOK_URL != '' }}
         run: |
           echo "📡 Webhook configured → daily summary pushed to Feishu/Obsidian"
           # Webhook configured via .env / config.json → handled by Horizon internal
