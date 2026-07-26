@@ -65,12 +65,6 @@
         "category": "国际机构"
       },
       {
-        "name": "EMA News (国际)",
-        "url": "https://www.ema.europa.eu/en/rss.xml",
-        "enabled": true,
-        "category": "国际机构"
-      },
-      {
         "name": "Hacker News (热门)",
         "url": "https://news.ycombinator.com/rss",
         "enabled": true,
@@ -79,6 +73,66 @@
       {
         "name": "Lobsters (技术社区)",
         "url": "https://lobste.rs/rss",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "Simon Willison (AI 跨行业洞察)",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-cross-industry"
+      },
+      {
+        "name": "TechCrunch AI",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed/rss",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "Hacker News (best)",
+        "url": "https://hnrss.org/newest",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "Dev.to",
+        "url": "https://dev.to/feed",
+        "enabled": true,
+        "category": "AI / 技术"
+      },
+      {
+        "name": "Hacker News (AI/ML)",
+        "url": "https://hnrss.org/newest?q=AI+OR+ML+OR+LLM",
         "enabled": true,
         "category": "AI / 技术"
       },
@@ -95,12 +149,6 @@
         "category": "医学期刊"
       },
       {
-        "name": "Blood · 最新文章",
-        "url": "https://ashpublications.org/action/showFeed?jc=bloodjournal&type=etoc&feed=rss&ai=blood",
-        "enabled": true,
-        "category": "医学期刊"
-      },
-      {
         "name": "Nature Medicine",
         "url": "https://www.nature.com/nm.rss",
         "enabled": true,
@@ -111,12 +159,6 @@
         "url": "https://jamanetwork.com/journals/jama/rss/sitewide/jama_currentissue.xml",
         "enabled": true,
         "category": "医学期刊"
-      },
-      {
-        "name": "Simon Willison (AI 跨行业洞察)",
-        "url": "https://simonwillison.net/atom/everything/",
-        "enabled": true,
-        "category": "ai-cross-industry"
       }
     ],
     "reddit": {
@@ -127,7 +169,7 @@
     }
   },
   "filtering": {
-    "ai_score_threshold": 4.0,
+    "ai_score_threshold": 3.0,
     "time_window_hours": 48,
     "custom_keywords": [
       "国家医保局",
