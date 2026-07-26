@@ -33,68 +33,97 @@
       {
         "name": "国家医疗保障局 · 政策法规",
         "url": "http://www.nhsa.gov.cn/col/col99/index.html",
-        "enabled": true,
-        "category": "国家医保局"
+        "enabled": false,
+        "category": "国家医保局",
+        "note": "GitHub Actions 美国服务器访问 .gov.cn 不稳定，禁用"
       },
       {
         "name": "国家药品监督管理局 · 公告通告",
         "url": "https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/",
-        "enabled": true,
-        "category": "国家药监局"
+        "enabled": false,
+        "category": "国家药监局",
+        "note": "GitHub Actions 美国服务器访问 .gov.cn 不稳定，禁用"
       },
       {
         "name": "国家药品监督管理局 · 政策法规",
         "url": "https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/yp/",
-        "enabled": true,
-        "category": "国家药监局"
+        "enabled": false,
+        "category": "国家药监局",
+        "note": "GitHub Actions 美国服务器访问 .gov.cn 不稳定，禁用"
       },
       {
         "name": "国家药品审评中心 (CDE) · 政策法规",
         "url": "https://www.cde.org.cn/policy.do?method=policy_list&type=zypolcy",
-        "enabled": true,
-        "category": "CDE"
+        "enabled": false,
+        "category": "CDE",
+        "note": "GitHub Actions 美国服务器访问 .gov.cn 不稳定，禁用"
       },
       {
         "name": "国家组织药品集中采购网 · 公告",
         "url": "http://www.yaozh.com/list/1.html",
-        "enabled": true,
-        "category": "集采"
+        "enabled": false,
+        "category": "集采",
+        "note": "GitHub Actions 美国服务器访问国内 .cn 域名不稳定，禁用"
       },
       {
         "name": "国家组织高值医用耗材联合采购办公室",
         "url": "https://www.chn-healthcare.com/",
-        "enabled": true,
-        "category": "集采"
+        "enabled": false,
+        "category": "集采",
+        "note": "禁用，理由同上"
       },
       {
         "name": "中国医药企业管理协会 · 通知公告",
         "url": "https://www.cpema.org.cn/",
-        "enabled": true,
-        "category": "协会"
+        "enabled": false,
+        "category": "协会",
+        "note": "禁用，理由同上"
       },
       {
         "name": "中国药学会 · 通知公告",
         "url": "https://www.cpa.org.cn/",
-        "enabled": true,
-        "category": "协会"
+        "enabled": false,
+        "category": "协会",
+        "note": "禁用，理由同上"
       },
       {
         "name": "新康界 · 行业资讯",
         "url": "https://www.xkjxb.com/",
-        "enabled": true,
-        "category": "行业媒体"
+        "enabled": false,
+        "category": "行业媒体",
+        "note": "禁用，理由同上"
       },
       {
         "name": "E 药经理人 · 行业资讯",
         "url": "https://www.ydr.com/",
-        "enabled": true,
-        "category": "行业媒体"
+        "enabled": false,
+        "category": "行业媒体",
+        "note": "禁用，理由同上"
       },
       {
         "name": "医药魔方 (PharmCube) · 资讯",
         "url": "https://www.pharmcube.com/",
+        "enabled": false,
+        "category": "行业媒体",
+        "note": "禁用，理由同上"
+      },
+      {
+        "name": "36 氪快讯（RSSHub 镜像）",
+        "url": "https://rsshub.app/36kr/newsflash",
         "enabled": true,
-        "category": "行业媒体"
+        "category": "国内行业媒体"
+      },
+      {
+        "name": "虎嗅（RSSHub 镜像）",
+        "url": "https://rsshub.app/huxiu/channel",
+        "enabled": true,
+        "category": "国内行业媒体"
+      },
+      {
+        "name": "微博热搜（RSSHub 镜像）",
+        "url": "https://rsshub.app/weibo/search/hot",
+        "enabled": true,
+        "category": "国内社交"
       },
       {
         "name": "WHO News (国际)",
