@@ -1,0 +1,223 @@
+{
+  "version": "1.0-healthcare",
+  "name": "Horizon-HealthCare（中国医药/医保/集采情报雷达）",
+  "description": "专为 LeoLiao vault 定制 · 聚焦国家医保局 / 药监局 / CDE / 集采 / 医药政策 + 国际医药动态",
+  "ai": {
+    "provider": "deepseek",
+    "model": "deepseek-v4-flash",
+    "base_url": "https://api.deepseek.com",
+    "api_key_env": "DEEPSEEK_API_KEY",
+    "temperature": 0.3,
+    "max_tokens": 8192,
+    "throttle_sec": 1,
+    "languages": [
+      "zh",
+      "en"
+    ],
+    "analysis_concurrency": 5,
+    "enrichment_concurrency": 5,
+    "system_prompt_suffix": "你是中国医药行业的资深政策分析师 + 商业情报专家。优先关注：医保目录调整、集采降价、药品审批、临床指南更新、商业战略变化、价格谈判、医保支付方式改革。涉及中国特有政策时（如医保谈判、首发价格形成机制、集采梯度降价等），请提供背景解释和影响评估。对企业战略、医药公司估值影响、跨行业影响（如对原料药/CMO/CDMO 的影响）做深度分析。"
+  },
+  "sources": {
+    "github": [
+      {
+        "type": "user_events",
+        "username": "karpathy",
+        "enabled": true
+      }
+    ],
+    "hackernews": {
+      "enabled": false
+    },
+    "rss": [
+      {
+        "name": "国家医疗保障局 · 政策法规",
+        "url": "http://www.nhsa.gov.cn/col/col99/index.html",
+        "enabled": true,
+        "category": "国家医保局"
+      },
+      {
+        "name": "国家药品监督管理局 · 公告通告",
+        "url": "https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/gzwjyp/",
+        "enabled": true,
+        "category": "国家药监局"
+      },
+      {
+        "name": "国家药品监督管理局 · 政策法规",
+        "url": "https://www.nmpa.gov.cn/xxgk/fgwj/gzwj/yp/",
+        "enabled": true,
+        "category": "国家药监局"
+      },
+      {
+        "name": "国家药品审评中心 (CDE) · 政策法规",
+        "url": "https://www.cde.org.cn/policy.do?method=policy_list&type=zypolcy",
+        "enabled": true,
+        "category": "CDE"
+      },
+      {
+        "name": "国家组织药品集中采购网 · 公告",
+        "url": "http://www.yaozh.com/list/1.html",
+        "enabled": true,
+        "category": "集采"
+      },
+      {
+        "name": "国家组织高值医用耗材联合采购办公室",
+        "url": "https://www.chn-healthcare.com/",
+        "enabled": true,
+        "category": "集采"
+      },
+      {
+        "name": "中国医药企业管理协会 · 通知公告",
+        "url": "https://www.cpema.org.cn/",
+        "enabled": true,
+        "category": "协会"
+      },
+      {
+        "name": "中国药学会 · 通知公告",
+        "url": "https://www.cpa.org.cn/",
+        "enabled": true,
+        "category": "协会"
+      },
+      {
+        "name": "新康界 · 行业资讯",
+        "url": "https://www.xkjxb.com/",
+        "enabled": true,
+        "category": "行业媒体"
+      },
+      {
+        "name": "E 药经理人 · 行业资讯",
+        "url": "https://www.ydr.com/",
+        "enabled": true,
+        "category": "行业媒体"
+      },
+      {
+        "name": "医药魔方 (PharmCube) · 资讯",
+        "url": "https://www.pharmcube.com/",
+        "enabled": true,
+        "category": "行业媒体"
+      },
+      {
+        "name": "WHO News (国际)",
+        "url": "https://www.who.int/news/rss",
+        "enabled": true,
+        "category": "国际机构"
+      },
+      {
+        "name": "FDA News (国际)",
+        "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+        "enabled": true,
+        "category": "国际机构"
+      },
+      {
+        "name": "EMA News (国际)",
+        "url": "https://www.ema.europa.eu/en/rss.xml",
+        "enabled": true,
+        "category": "国际机构"
+      },
+      {
+        "name": "NEJM · 最新文章",
+        "url": "https://www.nejm.org/action/showFeed?jc=nejm&type=etoc&feed=rss&ai=nejm",
+        "enabled": true,
+        "category": "医学期刊"
+      },
+      {
+        "name": "The Lancet · 最新文章",
+        "url": "https://www.thelancet.com/rssfeed/lancet_online.xml",
+        "enabled": true,
+        "category": "医学期刊"
+      },
+      {
+        "name": "Blood · 最新文章",
+        "url": "https://ashpublications.org/action/showFeed?jc=bloodjournal&type=etoc&feed=rss&ai=blood",
+        "enabled": true,
+        "category": "医学期刊"
+      },
+      {
+        "name": "Nature Medicine",
+        "url": "https://www.nature.com/nm.rss",
+        "enabled": true,
+        "category": "医学期刊"
+      },
+      {
+        "name": "Simon Willison (AI 跨行业洞察)",
+        "url": "https://simonwillison.net/atom/everything/",
+        "enabled": true,
+        "category": "ai-cross-industry"
+      }
+    ],
+    "reddit": {
+      "enabled": false
+    },
+    "telegram": {
+      "enabled": false
+    }
+  },
+  "filtering": {
+    "ai_score_threshold": 7.5,
+    "time_window_hours": 48,
+    "custom_keywords": [
+      "国家医保局",
+      "国家集采",
+      "集采",
+      "医保谈判",
+      "医保目录",
+      "首发价格",
+      "挂网价格",
+      "GPO",
+      "首仿",
+      "参比制剂",
+      "MAH",
+      "化药",
+      "生物药",
+      "JAK抑制剂",
+      "骨髓纤维化",
+      "罕见病",
+      "孤儿药",
+      "突破性疗法",
+      "优先审评",
+      "仿制药一致性评价",
+      "DSUR",
+      "罗伐昔替尼",
+      "芦可替尼",
+      "吉卡昔替尼",
+      "贝泽昔替尼"
+    ]
+  },
+  "webhook": {
+    "enabled": true,
+    "url_env": "HORIZON_WEBHOOK_URL",
+    "delivery": "summary_and_items",
+    "overview_position": "last",
+    "platform": "feishu",
+    "layout": "collapsible",
+    "fallback_layout": "markdown",
+    "languages": [
+      "zh"
+    ],
+    "request_body": {
+      "msg_type": "interactive",
+      "card": {
+        "schema": "2.0",
+        "config": {
+          "wide_screen_mode": true
+        },
+        "header": {
+          "title": {
+            "tag": "plain_text",
+            "content": "#{message_title}"
+          },
+          "template": "blue"
+        },
+        "body": {
+          "elements": [
+            {
+              "tag": "markdown",
+              "content": "#{summary}"
+            }
+          ]
+        }
+      }
+    },
+    "headers": ""
+  }
+}

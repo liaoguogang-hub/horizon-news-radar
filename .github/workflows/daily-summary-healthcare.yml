@@ -1,0 +1,76 @@
+name: Daily Horizon Summary (Healthcare Edition)
+
+on:
+  schedule:
+    # GitHub scheduled workflows use UTC. 22:30 UTC is 06:30 Asia/Shanghai;
+    # runs at start of business day to keep daily summary fresh
+    - cron: '30 22 * * *'
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  daily-summary:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Needed to commit changes
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: "0.11.26"
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Prepare Healthcare config (LeoLiao vault custom)
+        run: |
+          cp data/config.healthcare.json data/config.json
+          echo "✓ Using healthcare configuration (中国医保 / 药监 / 集采 / 医药期刊)"
+
+      - name: Run Horizon - Healthcare Radar
+        env:
+          # ====== API Keys（按 healthcare config 实际使用情况填写）======
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          AZURE_OPENAI_API_KEY: ${{ secrets.AZURE_OPENAI_API_KEY }}
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+          DOUBAO_API_KEY: ${{ secrets.DOUBAO_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
+          # ====== 数据源 Tokens ======
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+          # ====== 输出 Webhook ======
+          HORIZON_WEBHOOK_URL: ${{ secrets.HORIZON_WEBHOOK_URL }}
+        run: |
+          echo "🚀 Running Horizon Healthcare Radar (48h window)"
+          uv run horizon --hours 48
+
+      - name: Optional: Send to Obsidian vault via webhook
+        if: env.HORIZON_WEBHOOK_URL != ''
+        run: |
+          echo "📡 Webhook configured → daily summary pushed to Feishu/Obsidian"
+          # Webhook configured via .env / config.json → handled by Horizon internal
+
+      - name: Set current date as environment variable
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
+      - name: Deploy daily summary to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true
+          commit_message: "📡 [Healthcare] Daily Summary: ${{ env.DATE }}"
+          publish_branch: gh-pages
+          enable_jekyll: true
