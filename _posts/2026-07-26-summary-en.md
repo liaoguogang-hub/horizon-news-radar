@@ -81,16 +81,16 @@ lang: en
 70. [Team uses AlphaFold AI to redesign gene-editing proteins to make them safer](#item-70) ⭐️ ?/10
 71. [This is the world&\#x27;s most advanced robotic servicing satellite—that we know about](#item-71) ⭐️ ?/10
 72. [The quest to keep organs alive outside the body](#item-72) ⭐️ ?/10
-73. [You can get three months of Xbox Game Pass Ultimate for almost half off](#item-73) ⭐️ ?/10
-74. [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](#item-74) ⭐️ ?/10
-75. [The vertical video takeover is here](#item-75) ⭐️ ?/10
-76. [Google basically confirms the Pixel 11 is getting a price hike](#item-76) ⭐️ ?/10
-77. [Synth historian Oli Freke will spend big on a good bicycle](#item-77) ⭐️ ?/10
-78. [Teenage Engineering’s unique music machines are 30 percent off](#item-78) ⭐️ ?/10
-79. [Warner Bros. is suing Amazon for poaching employees](#item-79) ⭐️ ?/10
-80. [Is this e-reader case a gun?](#item-80) ⭐️ ?/10
-81. [What Surrounds Us will make you think a lot about circles](#item-81) ⭐️ ?/10
-82. [Folding and flipping phones are getting seriously good](#item-82) ⭐️ ?/10
+73. [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](#item-73) ⭐️ ?/10
+74. [The vertical video takeover is here](#item-74) ⭐️ ?/10
+75. [Google basically confirms the Pixel 11 is getting a price hike](#item-75) ⭐️ ?/10
+76. [Synth historian Oli Freke will spend big on a good bicycle](#item-76) ⭐️ ?/10
+77. [Teenage Engineering’s unique music machines are 30 percent off](#item-77) ⭐️ ?/10
+78. [Warner Bros. is suing Amazon for poaching employees](#item-78) ⭐️ ?/10
+79. [Is this e-reader case a gun?](#item-79) ⭐️ ?/10
+80. [What Surrounds Us will make you think a lot about circles](#item-80) ⭐️ ?/10
+81. [Folding and flipping phones are getting seriously good](#item-81) ⭐️ ?/10
+82. [Forget expensive sleepbuds. Buy this pillow instead](#item-82) ⭐️ ?/10
 83. [The Best Backpacking Sleeping Pads, Tested on the Trail \(2026\)](#item-83) ⭐️ ?/10
 84. [All the Ways You Can Make Reading on Your Phone Easier](#item-84) ⭐️ ?/10
 85. [The Solution to the Power Grid&\#x27;s Woes Might Just Be Sitting in Your Driveway](#item-85) ⭐️ ?/10
@@ -130,18 +130,18 @@ lang: en
 119. [This year, EU will again fine US tech more than it taxes public tech firms](#item-119) ⭐️ ?/10
 120. [Telemetry.sh – Telemetry Built for Agents](#item-120) ⭐️ ?/10
 121. [The hacker who humiliated spyware makers and was never caught](#item-121) ⭐️ ?/10
-122. [SkillOpt: Microsoft Teaches AI Agents to Self-Evolve Without Touching Model Weights](#item-122) ⭐️ ?/10
-123. [Why Developer Utilities Should Process Sensitive Data in Your Browser](#item-123) ⭐️ ?/10
-124. [I Built an Autonomous On-Chain Agent on Solana: Here&\#x27;s the Documentation I Wish I Had Earlier](#item-124) ⭐️ ?/10
-125. [Episode 1: Understanding Requirements](#item-125) ⭐️ ?/10
-126. [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](#item-126) ⭐️ ?/10
-127. [I made LLM context editable: a graph where the wires are the prompt](#item-127) ⭐️ ?/10
-128. [Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary](#item-128) ⭐️ ?/10
-129. [How to use third party web components - &quot;for the rest of us&quot;](#item-129) ⭐️ ?/10
-130. [Multi Agent RAG using LangGraph](#item-130) ⭐️ ?/10
-131. [How to Self-Host an AI API Gateway With Sub2API](#item-131) ⭐️ ?/10
-132. [I built a security layer for applications that developers can install in seconds](#item-132) ⭐️ ?/10
-133. [Conducting agents like an orchestra: how agents-concerto works](#item-133) ⭐️ ?/10
+122. [Software doesn&\#x27;t age. It stops adapting.](#item-122) ⭐️ ?/10
+123. [When the disk fills up: pressure and tenant isolation in Squirix preview.7](#item-123) ⭐️ ?/10
+124. [SkillOpt: Microsoft Teaches AI Agents to Self-Evolve Without Touching Model Weights](#item-124) ⭐️ ?/10
+125. [NestJS v12.0 vs. Ditsmod v3.0: Dynamic Modules, Providers, and the Power of Extension Groups \(Part 3\)](#item-125) ⭐️ ?/10
+126. [TestRail to Zephyr Scale Migration: CSV vs REST API](#item-126) ⭐️ ?/10
+127. [Why Developer Utilities Should Process Sensitive Data in Your Browser](#item-127) ⭐️ ?/10
+128. [Fix: resolve Qwen3 text encoder loading issues for FP8 and GGUF formats](#item-128) ⭐️ ?/10
+129. [I Built an Autonomous On-Chain Agent on Solana: Here&\#x27;s the Documentation I Wish I Had Earlier](#item-129) ⭐️ ?/10
+130. [Python Is More Than Just print\(&quot;Hello World&quot;\): Understanding the Fundamentals](#item-130) ⭐️ ?/10
+131. [Fetching Instagram Data Concurrently in Python with HikerAPI](#item-131) ⭐️ ?/10
+132. [How I Built an Agent That Keeps My Docs From Going Stale](#item-132) ⭐️ ?/10
+133. [Episode 1: Understanding Requirements](#item-133) ⭐️ ?/10
 134. [International Olympiad in AI opens an official medal track for AI systems](#item-134) ⭐️ ?/10
 135. [Show HN: I built a transparent terminal wrapper for unobtrusive AI](#item-135) ⭐️ ?/10
 136. [MCP Code Review Server – AI code review in your editor](#item-136) ⭐️ ?/10
@@ -811,15 +811,6 @@ rss · MIT Technology Review · Jul 24, 17:03
 ---
 
 <a id="item-73"></a>
-## [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale) ⭐️ ?/10
-
-You can get three months of Xbox Game Pass Ultimate for almost half off
-
-rss · The Verge · Jul 26, 15:00
-
----
-
-<a id="item-74"></a>
 ## [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con) ⭐️ ?/10
 
 Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more
@@ -828,7 +819,7 @@ rss · The Verge · Jul 26, 14:51
 
 ---
 
-<a id="item-75"></a>
+<a id="item-74"></a>
 ## [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook) ⭐️ ?/10
 
 The vertical video takeover is here
@@ -837,7 +828,7 @@ rss · The Verge · Jul 26, 12:00
 
 ---
 
-<a id="item-76"></a>
+<a id="item-75"></a>
 ## [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike) ⭐️ ?/10
 
 Google basically confirms the Pixel 11 is getting a price hike
@@ -846,7 +837,7 @@ rss · The Verge · Jul 25, 18:13
 
 ---
 
-<a id="item-77"></a>
+<a id="item-76"></a>
 ## [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview) ⭐️ ?/10
 
 Synth historian Oli Freke will spend big on a good bicycle
@@ -855,7 +846,7 @@ rss · The Verge · Jul 25, 15:15
 
 ---
 
-<a id="item-78"></a>
+<a id="item-77"></a>
 ## [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale) ⭐️ ?/10
 
 Teenage Engineering’s unique music machines are 30 percent off
@@ -864,7 +855,7 @@ rss · The Verge · Jul 25, 15:00
 
 ---
 
-<a id="item-79"></a>
+<a id="item-78"></a>
 ## [Warner Bros. is suing Amazon for poaching employees](https://www.theverge.com/business/971011/warner-bros-suing-amazon-poaching-employees) ⭐️ ?/10
 
 Warner Bros. is suing Amazon for poaching employees
@@ -873,7 +864,7 @@ rss · The Verge · Jul 25, 14:05
 
 ---
 
-<a id="item-80"></a>
+<a id="item-79"></a>
 ## [Is this e-reader case a gun?](https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun) ⭐️ ?/10
 
 Is this e-reader case a gun?
@@ -882,7 +873,7 @@ rss · The Verge · Jul 25, 13:00
 
 ---
 
-<a id="item-81"></a>
+<a id="item-80"></a>
 ## [What Surrounds Us will make you think a lot about circles](https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam) ⭐️ ?/10
 
 What Surrounds Us will make you think a lot about circles
@@ -891,12 +882,21 @@ rss · The Verge · Jul 25, 12:00
 
 ---
 
-<a id="item-82"></a>
+<a id="item-81"></a>
 ## [Folding and flipping phones are getting seriously good](https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer) ⭐️ ?/10
 
 Folding and flipping phones are getting seriously good
 
 rss · The Verge · Jul 25, 12:00
+
+---
+
+<a id="item-82"></a>
+## [Forget expensive sleepbuds. Buy this pillow instead](https://www.theverge.com/tech/970473/forget-expensive-sleepbuds-buy-this-pillow-instead) ⭐️ ?/10
+
+Forget expensive sleepbuds. Buy this pillow instead
+
+rss · The Verge · Jul 25, 07:00
 
 ---
 
@@ -1252,6 +1252,24 @@ rss · Hacker News \(best\) · Jul 26, 14:30
 ---
 
 <a id="item-122"></a>
+## [Software doesn&\#x27;t age. It stops adapting.](https://dev.to/axfab/software-doesnt-age-it-stops-adapting-13p3) ⭐️ ?/10
+
+Software doesn&\#x27;t age. It stops adapting.
+
+rss · Dev.to · Jul 26, 15:08
+
+---
+
+<a id="item-123"></a>
+## [When the disk fills up: pressure and tenant isolation in Squirix preview.7](https://dev.to/__2d3e61e/when-the-disk-fills-up-pressure-and-tenant-isolation-in-squirix-preview7-3dpa) ⭐️ ?/10
+
+When the disk fills up: pressure and tenant isolation in Squirix preview.7
+
+rss · Dev.to · Jul 26, 15:03
+
+---
+
+<a id="item-124"></a>
 ## [SkillOpt: Microsoft Teaches AI Agents to Self-Evolve Without Touching Model Weights](https://dev.to/sarantoon/skillopt-microsoft-teaches-ai-agents-to-self-evolve-without-touching-model-weights-3blg) ⭐️ ?/10
 
 SkillOpt: Microsoft Teaches AI Agents to Self-Evolve Without Touching Model Weights
@@ -1260,7 +1278,25 @@ rss · Dev.to · Jul 26, 15:02
 
 ---
 
-<a id="item-123"></a>
+<a id="item-125"></a>
+## [NestJS v12.0 vs. Ditsmod v3.0: Dynamic Modules, Providers, and the Power of Extension Groups \(Part 3\)](https://dev.to/kostyatretyak/nestjs-v120-vs-ditsmod-v30-dynamic-modules-providers-and-the-power-of-extension-groups-part-1jeh) ⭐️ ?/10
+
+NestJS v12.0 vs. Ditsmod v3.0: Dynamic Modules, Providers, and the Power of Extension Groups \(Part 3\)
+
+rss · Dev.to · Jul 26, 15:00
+
+---
+
+<a id="item-126"></a>
+## [TestRail to Zephyr Scale Migration: CSV vs REST API](https://dev.to/getrunshift/testrail-to-zephyr-scale-migration-csv-vs-rest-api-4b7) ⭐️ ?/10
+
+TestRail to Zephyr Scale Migration: CSV vs REST API
+
+rss · Dev.to · Jul 26, 14:49
+
+---
+
+<a id="item-127"></a>
 ## [Why Developer Utilities Should Process Sensitive Data in Your Browser](https://dev.to/justkhem/why-developer-utilities-should-process-sensitive-data-in-your-browser-2h6h) ⭐️ ?/10
 
 Why Developer Utilities Should Process Sensitive Data in Your Browser
@@ -1269,7 +1305,16 @@ rss · Dev.to · Jul 26, 14:45
 
 ---
 
-<a id="item-124"></a>
+<a id="item-128"></a>
+## [Fix: resolve Qwen3 text encoder loading issues for FP8 and GGUF formats](https://dev.to/arifachan/fix-resolve-qwen3-text-encoder-loading-issues-for-fp8-and-gguf-formats-2bl) ⭐️ ?/10
+
+Fix: resolve Qwen3 text encoder loading issues for FP8 and GGUF formats
+
+rss · Dev.to · Jul 26, 14:44
+
+---
+
+<a id="item-129"></a>
 ## [I Built an Autonomous On-Chain Agent on Solana: Here&\#x27;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge) ⭐️ ?/10
 
 I Built an Autonomous On-Chain Agent on Solana: Here&\#x27;s the Documentation I Wish I Had Earlier
@@ -1278,84 +1323,39 @@ rss · Dev.to · Jul 26, 14:44
 
 ---
 
-<a id="item-125"></a>
+<a id="item-130"></a>
+## [Python Is More Than Just print\(&quot;Hello World&quot;\): Understanding the Fundamentals](https://dev.to/dev_saravanan_journey/python-is-more-than-just-printhello-world-understanding-the-fundamentals-2mfg) ⭐️ ?/10
+
+Python Is More Than Just print\(&quot;Hello World&quot;\): Understanding the Fundamentals
+
+rss · Dev.to · Jul 26, 14:41
+
+---
+
+<a id="item-131"></a>
+## [Fetching Instagram Data Concurrently in Python with HikerAPI](https://dev.to/ashk_asef_b70c07a3f73a15e/fetching-instagram-data-concurrently-in-python-with-hikerapi-4m5a) ⭐️ ?/10
+
+Fetching Instagram Data Concurrently in Python with HikerAPI
+
+rss · Dev.to · Jul 26, 14:39
+
+---
+
+<a id="item-132"></a>
+## [How I Built an Agent That Keeps My Docs From Going Stale](https://dev.to/yureki_lab/how-i-built-an-agent-that-keeps-my-docs-from-going-stale-3pdj) ⭐️ ?/10
+
+How I Built an Agent That Keeps My Docs From Going Stale
+
+rss · Dev.to · Jul 26, 14:35
+
+---
+
+<a id="item-133"></a>
 ## [Episode 1: Understanding Requirements](https://dev.to/surajrkhonde/episode-1-understanding-requirements-415h) ⭐️ ?/10
 
 Episode 1: Understanding Requirements
 
 rss · Dev.to · Jul 26, 14:34
-
----
-
-<a id="item-126"></a>
-## [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde) ⭐️ ?/10
-
-How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files
-
-rss · Dev.to · Jul 26, 14:30
-
----
-
-<a id="item-127"></a>
-## [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl) ⭐️ ?/10
-
-I made LLM context editable: a graph where the wires are the prompt
-
-rss · Dev.to · Jul 26, 14:26
-
----
-
-<a id="item-128"></a>
-## [Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary](https://dev.to/renolu/terax-packs-a-terminal-editor-git-graph-and-an-ai-agent-into-an-8-mb-binary-40ih) ⭐️ ?/10
-
-Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary
-
-rss · Dev.to · Jul 26, 14:24
-
----
-
-<a id="item-129"></a>
-## [How to use third party web components - &quot;for the rest of us&quot;](https://dev.to/treehouse/how-to-use-third-party-web-components-for-the-rest-of-us-36ff) ⭐️ ?/10
-
-How to use third party web components - &quot;for the rest of us&quot;
-
-rss · Dev.to · Jul 26, 14:23
-
----
-
-<a id="item-130"></a>
-## [Multi Agent RAG using LangGraph](https://dev.to/ali_zain_08260777201341f4/multi-agent-rag-using-langgraph-2h1g) ⭐️ ?/10
-
-Multi Agent RAG using LangGraph
-
-rss · Dev.to · Jul 26, 14:19
-
----
-
-<a id="item-131"></a>
-## [How to Self-Host an AI API Gateway With Sub2API](https://dev.to/skedaddle/how-to-self-host-an-ai-api-gateway-with-sub2api-3i99) ⭐️ ?/10
-
-How to Self-Host an AI API Gateway With Sub2API
-
-rss · Dev.to · Jul 26, 14:16
-
----
-
-<a id="item-132"></a>
-## [I built a security layer for applications that developers can install in seconds](https://dev.to/one_fancyapps_71e15a2dea/i-built-a-security-layer-for-applications-that-developers-can-install-in-seconds-3c3j) ⭐️ ?/10
-
-I built a security layer for applications that developers can install in seconds
-
-rss · Dev.to · Jul 26, 14:14
-
----
-
-<a id="item-133"></a>
-## [Conducting agents like an orchestra: how agents-concerto works](https://dev.to/moruno21/conducting-agents-like-an-orchestra-how-agents-concerto-works-1b2c) ⭐️ ?/10
-
-Conducting agents like an orchestra: how agents-concerto works
-
-rss · Dev.to · Jul 26, 14:02
 
 ---
 
