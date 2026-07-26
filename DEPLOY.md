@@ -52,16 +52,30 @@ git push -u origin main
 
 | Secret 名称 | 必填 | 用途 | 推荐 |
 |------------|------|------|------|
-| `DEEPSEEK_API_KEY` | ⭐ 必填 1 | 默认 AI 提供方 | ✅ **推荐（最便宜）** |
+| `MINIMAX_API_KEY` | ⭐ 必填 1 | 默认 AI 提供方（你已有）| ✅ **推荐** |
 | `OPENAI_API_KEY` | 可选 | GPT 评分 | o3-mini 等 |
 | `ANTHROPIC_API_KEY` | 可选 | Claude 评分 | claude-3.5-haiku |
 | `GOOGLE_API_KEY` | 可选 | Gemini | gemini-2.0-flash |
 | `DASHSCOPE_API_KEY` | 可选 | 阿里 Qwen | 国产替代 |
 | `DOUBAO_API_KEY` | 可选 | 字节豆包 | — |
-| `MINIMAX_API_KEY` | 可选 | MiniMax | 你已有 |
-| `GITHUB_TOKEN` | ⭐ 强烈推荐 | 提高 GitHub API 限速到 5000/h | 自动生成 |
+| `DEEPSEEK_API_KEY` | 可选 | DeepSeek（备用）| — |
+| `GITHUB_TOKEN` | 内置自动 | Actions 自动注入 | **无需手动添加** |
+| `MY_GITHUB_PAT` | 可选 | 本地开发提高 API 速率 | 自行创建 |
 | `APIFY_TOKEN` | 可选 | Twitter 抓取 | 选填 |
 | `HORIZON_WEBHOOK_URL` | 可选 | Feishu 飞书机器人 URL | 后续 3.0 配置 |
+
+### 用户级 GitHub PAT 单独说明
+
+`GITHUB_TOKEN`（内置）自动用于 workflow——你**不需要**操作。
+
+如果你想在**本地开发**用 PAT 提高 GitHub API 速率（5000 次/小时 vs 60 次/小时），可以创建**自己的 PAT**：
+1. https://github.com/settings/tokens → **Generate new token (classic)**
+2. Note: "horizon-dev"
+3. Scopes: 勾选 `repo`（完整仓库访问）
+4. Generate token
+5. **复制 token**（仅显示一次）
+6. 在 GitHub Secrets 添加一个**不同名**的 Secret：Name = `MY_GITHUB_PAT`，Value = 你的 token
+7. 本地开发用：`export GH_TOKEN=$MY_GITHUB_PAT`
 
 ### 步骤 3：定制 daily-summary-healthcare.yml（已完成）
 
