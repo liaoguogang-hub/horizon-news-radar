@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 title: Horizon Daily
 description: AI-curated daily digest of tech and research news
-baseurl: "/horizon-news-radar"   ← 对
-url: "https://liaoguogang-hub.github.io"   ← 对
+baseurl: "/horizon-news-radar" # the subpath of your site
+url: "https://liaoguogang-hub.github.io" # the base hostname & protocol
 
 # Build settings
 markdown: kramdown
