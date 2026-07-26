@@ -56,12 +56,6 @@ jobs:
           echo "🚀 Running Horizon Healthcare Radar (48h window)"
           uv run horizon --hours 48
 
-      - name: Optional: Send to Obsidian vault via webhook
-        if: ${{ env.HORIZON_WEBHOOK_URL != '' }}
-        run: |
-          echo "📡 Webhook configured → daily summary pushed to Feishu/Obsidian"
-          # Webhook configured via .env / config.json → handled by Horizon internal
-
       - name: Set current date as environment variable
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
