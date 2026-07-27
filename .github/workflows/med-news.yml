@@ -57,7 +57,7 @@ jobs:
           uv run horizon --hours 48
 
       - name: Set current date as environment variable
-        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+        run: echo "DATE=$(date -u +'%Y-%m-%d')" >> $GITHUB_ENV
 
       - name: Send daily summary to Feishu (Open API)
         if: env.FEISHU_APP_ID != '' && env.FEISHU_CHAT_ID != ''
@@ -66,9 +66,12 @@ jobs:
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
         run: |
-          REPORT="docs/daily/${DATE}.md"
+          REPORT="docs/_posts/${DATE}-summary-zh.md"
+          echo "Looking for daily report at: $REPORT"
           if [ ! -f "$REPORT" ]; then
             echo "⚠️  No daily report found at $REPORT — skipping Feishu push"
+            echo "Available reports:"
+            ls -la docs/_posts/ 2>/dev/null || echo "  (docs/_posts/ does not exist)"
             exit 0
           fi
           echo "🚀 Sending daily report to Feishu chat..."
