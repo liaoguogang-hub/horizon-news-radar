@@ -5,7 +5,7 @@ date: 2026-07-27
 lang: en
 ---
 
-> From 154 items, 134 important content pieces were selected
+> From 153 items, 132 important content pieces were selected
 
 ---
 
@@ -23,8 +23,8 @@ lang: en
 12. [Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs](#item-12) ⭐️ ?/10
 13. [Show HN: Reverse Minesweeper](#item-13) ⭐️ ?/10
 14. [Go Analysis Framework: modular static analysis by go team](#item-14) ⭐️ ?/10
-15. [How to write English prose \(2023\)](#item-15) ⭐️ ?/10
-16. [Kill The Cookie Banner](#item-16) ⭐️ ?/10
+15. [Kill The Cookie Banner](#item-15) ⭐️ ?/10
+16. [How to write English prose \(2023\)](#item-16) ⭐️ ?/10
 17. [The relay market powering token resellers and fraud](#item-17) ⭐️ ?/10
 18. [Chinese chipmaker shares surge 470%](#item-18) ⭐️ ?/10
 19. [How Unix spell ran in 64 kB of RAM](#item-19) ⭐️ ?/10
@@ -33,27 +33,27 @@ lang: en
 22. [Teaching Kids Forth](#item-22) ⭐️ ?/10
 23. [Maybe we should revisit microkernels](#item-23) ⭐️ ?/10
 24. [A Voice From Nowhere](#item-24) ⭐️ ?/10
-25. [Make Reviews Possible Again With This One Simple Trick](#item-25) ⭐️ ?/10
-26. [SQLite WAL Mode Can Lock Short-Lived Readers](#item-26) ⭐️ ?/10
-27. [A shell colon does nothing. Use it anyway](#item-27) ⭐️ ?/10
-28. [On AI](#item-28) ⭐️ ?/10
-29. [N-body gravity simulation in O\(N\)](#item-29) ⭐️ ?/10
-30. [Memory Safety Absolutists](#item-30) ⭐️ ?/10
-31. [lobste.rs has a js-error: here is a mitigation](#item-31) ⭐️ ?/10
-32. [Most Googlebots are fake](#item-32) ⭐️ ?/10
-33. [What does GitHub’s security team even do?](#item-33) ⭐️ ?/10
-34. [The Design of Everyday Cryptography](#item-34) ⭐️ ?/10
-35. [A Fast Path for Fixed-Length Lists in Parquet](#item-35) ⭐️ ?/10
-36. [Being Linux Torvalds](#item-36) ⭐️ ?/10
-37. [Functional programming from first principles, part 1 – motivation](#item-37) ⭐️ ?/10
-38. [Xavier Leroy on programming, languages and formal verification](#item-38) ⭐️ ?/10
-39. [DOOM running on a regex engine](#item-39) ⭐️ ?/10
-40. [History of John Backus&\#x27;s FP languages](#item-40) ⭐️ ?/10
-41. [Dmitri Gaskin on jQuery \(2008\)](#item-41) ⭐️ ?/10
-42. [Himalaya v2.0.0: CLI to manage emails](#item-42) ⭐️ ?/10
-43. [Using ThinkPad T480 as a mobile phone](#item-43) ⭐️ ?/10
-44. [Interconverting std::function with copyable\_function](#item-44) ⭐️ ?/10
-45. [Forth Moving Lisp Moving Forth](#item-45) ⭐️ ?/10
+25. [Being Linux Torvalds](#item-25) ⭐️ ?/10
+26. [Make Reviews Possible Again With This One Simple Trick](#item-26) ⭐️ ?/10
+27. [lobste.rs has a js-error: here is a mitigation](#item-27) ⭐️ ?/10
+28. [SQLite WAL Mode Can Lock Short-Lived Readers](#item-28) ⭐️ ?/10
+29. [A shell colon does nothing. Use it anyway](#item-29) ⭐️ ?/10
+30. [On AI](#item-30) ⭐️ ?/10
+31. [N-body gravity simulation in O\(N\)](#item-31) ⭐️ ?/10
+32. [Memory Safety Absolutists](#item-32) ⭐️ ?/10
+33. [What are you doing this week?](#item-33) ⭐️ ?/10
+34. [Most Googlebots are fake](#item-34) ⭐️ ?/10
+35. [What does GitHub’s security team even do?](#item-35) ⭐️ ?/10
+36. [The Design of Everyday Cryptography](#item-36) ⭐️ ?/10
+37. [A Fast Path for Fixed-Length Lists in Parquet](#item-37) ⭐️ ?/10
+38. [Functional programming from first principles, part 1 – motivation](#item-38) ⭐️ ?/10
+39. [Xavier Leroy on programming, languages and formal verification](#item-39) ⭐️ ?/10
+40. [DOOM running on a regex engine](#item-40) ⭐️ ?/10
+41. [History of John Backus&\#x27;s FP languages](#item-41) ⭐️ ?/10
+42. [Dmitri Gaskin on jQuery \(2008\)](#item-42) ⭐️ ?/10
+43. [Himalaya v2.0.0: CLI to manage emails](#item-43) ⭐️ ?/10
+44. [Using ThinkPad T480 as a mobile phone](#item-44) ⭐️ ?/10
+45. [Interconverting std::function with copyable\_function](#item-45) ⭐️ ?/10
 46. [An Inside Look at the Relay Market Powering Token Resellers and Fraud](#item-46) ⭐️ ?/10
 47. [Ruff v0.16.0](#item-47) ⭐️ ?/10
 48. [Are brain waves the next unlock for physical AI?](#item-48) ⭐️ ?/10
@@ -66,51 +66,51 @@ lang: en
 55. [SDCC teaser gives us our first good look at Blade Runner 2099](#item-55) ⭐️ ?/10
 56. [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](#item-56) ⭐️ ?/10
 57. [With help from data, art museums are reframing the visitor experience](#item-57) ⭐️ ?/10
-58. [Big Tech accused of stonewalling European social media researchers](#item-58) ⭐️ ?/10
-59. [Champagne and Bullets belongs on the Mount Rushmore of bad movies](#item-59) ⭐️ ?/10
-60. [Apple is banking on privacy to set its smart glasses apart](#item-60) ⭐️ ?/10
-61. [The US is charging an American citizen for wiping his phone at the border](#item-61) ⭐️ ?/10
-62. [Carrie is just trying to make a friend in the new trailer](#item-62) ⭐️ ?/10
-63. [You can get three months of Xbox Game Pass Ultimate for almost half off](#item-63) ⭐️ ?/10
-64. [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](#item-64) ⭐️ ?/10
-65. [The vertical video takeover is here](#item-65) ⭐️ ?/10
-66. [Google basically confirms the Pixel 11 is getting a price hike](#item-66) ⭐️ ?/10
-67. [Synth historian Oli Freke will spend big on a good bicycle](#item-67) ⭐️ ?/10
-68. [Teenage Engineering’s unique music machines are 30 percent off](#item-68) ⭐️ ?/10
-69. [3 Best Smart Ring Models: Oura, RingConn, and Samsung \(2026\)](#item-69) ⭐️ ?/10
-70. [This Is Donald Trump’s AI Brain Trust](#item-70) ⭐️ ?/10
-71. [Best Laptops for College Students \(2026\): MacBooks and Beyond](#item-71) ⭐️ ?/10
-72. [Measles Is Becoming So Common That Treatments May Soon Be Needed](#item-72) ⭐️ ?/10
-73. [Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls](#item-73) ⭐️ ?/10
-74. [It’s Becoming Clear Why Black Holes Never Run Out of Fuel](#item-74) ⭐️ ?/10
-75. [The Best Backpacking Sleeping Pads, Tested on the Trail \(2026\)](#item-75) ⭐️ ?/10
-76. [All the Ways You Can Make Reading on Your Phone Easier](#item-76) ⭐️ ?/10
-77. [The Solution to the Power Grid&\#x27;s Woes Might Just Be Sitting in Your Driveway](#item-77) ⭐️ ?/10
-78. [The Best Motorola Phones, From Razr to Moto G \(2026\)](#item-78) ⭐️ ?/10
+58. [Champagne and Bullets belongs on the Mount Rushmore of bad movies](#item-58) ⭐️ ?/10
+59. [Apple is banking on privacy to set its smart glasses apart](#item-59) ⭐️ ?/10
+60. [The US is charging an American citizen for wiping his phone at the border](#item-60) ⭐️ ?/10
+61. [Carrie is just trying to make a friend in the new trailer](#item-61) ⭐️ ?/10
+62. [You can get three months of Xbox Game Pass Ultimate for almost half off](#item-62) ⭐️ ?/10
+63. [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](#item-63) ⭐️ ?/10
+64. [The vertical video takeover is here](#item-64) ⭐️ ?/10
+65. [Google basically confirms the Pixel 11 is getting a price hike](#item-65) ⭐️ ?/10
+66. [Synth historian Oli Freke will spend big on a good bicycle](#item-66) ⭐️ ?/10
+67. [Teenage Engineering’s unique music machines are 30 percent off](#item-67) ⭐️ ?/10
+68. [3 Best Smart Ring Models: Oura, RingConn, and Samsung \(2026\)](#item-68) ⭐️ ?/10
+69. [This Is Donald Trump’s AI Brain Trust](#item-69) ⭐️ ?/10
+70. [Best Laptops for College Students \(2026\): MacBooks and Beyond](#item-70) ⭐️ ?/10
+71. [Measles Is Becoming So Common That Treatments May Soon Be Needed](#item-71) ⭐️ ?/10
+72. [Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls](#item-72) ⭐️ ?/10
+73. [It’s Becoming Clear Why Black Holes Never Run Out of Fuel](#item-73) ⭐️ ?/10
+74. [The Best Backpacking Sleeping Pads, Tested on the Trail \(2026\)](#item-74) ⭐️ ?/10
+75. [All the Ways You Can Make Reading on Your Phone Easier](#item-75) ⭐️ ?/10
+76. [The Solution to the Power Grid&\#x27;s Woes Might Just Be Sitting in Your Driveway](#item-76) ⭐️ ?/10
+77. [The Best Motorola Phones, From Razr to Moto G \(2026\)](#item-77) ⭐️ ?/10
+78. [Best GoPro Camera \(2026\): Compact, Budget, Accessories](#item-78) ⭐️ ?/10
 79. [The Best Subscription-Free Home Security Cameras I’ve Tried](#item-79) ⭐️ ?/10
-80. [Best GoPro Camera \(2026\): Compact, Budget, Accessories](#item-80) ⭐️ ?/10
-81. [Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine \(2026\)](#item-81) ⭐️ ?/10
-82. [3 Clever Things You Can Do With an Old Amazon Kindle](#item-82) ⭐️ ?/10
-83. [If digital computers are conscious, they are conscious at the hardware level](#item-83) ⭐️ ?/10
-84. [How to Run an Autonomous Agent Against Your Own Server](#item-84) ⭐️ ?/10
-85. [A preferred way to design tools for AI agents](#item-85) ⭐️ ?/10
-86. [Show HN: Spsc-ring-threadsafe Python C ext. 100x faster as multiprocessing.Queue](#item-86) ⭐️ ?/10
-87. [Show HN: JavaScript/JSON and CSS minifier lib in minimal C89](#item-87) ⭐️ ?/10
-88. [How to Build an Automated SEO Workflow That Improves over Time](#item-88) ⭐️ ?/10
-89. [Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout](#item-89) ⭐️ ?/10
-90. [How to Set Up an On-Premises Project Management Platform](#item-90) ⭐️ ?/10
-91. [Finance engineering roles are 2.6% of open finance-department jobs](#item-91) ⭐️ ?/10
-92. [How to Build a 50k Ton Forging Press](#item-92) ⭐️ ?/10
-93. [Beyond Lambda-Calculus: Intensional Computation \(2017\) \[video\]](#item-93) ⭐️ ?/10
-94. [Libsm64: Mario 64 as a library for use in external game engines](#item-94) ⭐️ ?/10
-95. [Is Software Solved?](#item-95) ⭐️ ?/10
-96. [The Odyssey Leaked on X: Bootleg Seen by Millions in Hours Before Takedown](#item-96) ⭐️ ?/10
-97. [Removing React.js from the codebase and adapting Htmx for UI interactivity](#item-97) ⭐️ ?/10
-98. [Why I Left Google DeepMind](#item-98) ⭐️ ?/10
-99. [&quot;Please just use plain English, I don&\#x27;t understand what you&\#x27;re saying.&quot;](#item-99) ⭐️ ?/10
-100. [Show HN: Agent Console – A Local Dashboard for Codex and Claude Code](#item-100) ⭐️ ?/10
-101. [Brief notes on the OpenAI/Hugging Face incident](#item-101) ⭐️ ?/10
-102. [Resumepilot](#item-102) ⭐️ ?/10
+80. [Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine \(2026\)](#item-80) ⭐️ ?/10
+81. [3 Clever Things You Can Do With an Old Amazon Kindle](#item-81) ⭐️ ?/10
+82. [Show HN: Dozenal – A Game of Spatial Arithmetic](#item-82) ⭐️ ?/10
+83. [Ask HN: Why is every company encorporating AI everywhere?](#item-83) ⭐️ ?/10
+84. [If digital computers are conscious, they are conscious at the hardware level](#item-84) ⭐️ ?/10
+85. [How to Run an Autonomous Agent Against Your Own Server](#item-85) ⭐️ ?/10
+86. [A preferred way to design tools for AI agents](#item-86) ⭐️ ?/10
+87. [Show HN: Spsc-ring-threadsafe Python C ext. 100x faster as multiprocessing.Queue](#item-87) ⭐️ ?/10
+88. [Show HN: JavaScript/JSON and CSS minifier lib in minimal C89](#item-88) ⭐️ ?/10
+89. [How to Build an Automated SEO Workflow That Improves over Time](#item-89) ⭐️ ?/10
+90. [Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout](#item-90) ⭐️ ?/10
+91. [How to Set Up an On-Premises Project Management Platform](#item-91) ⭐️ ?/10
+92. [Finance engineering roles are 2.6% of open finance-department jobs](#item-92) ⭐️ ?/10
+93. [How to Build a 50k Ton Forging Press](#item-93) ⭐️ ?/10
+94. [Beyond Lambda-Calculus: Intensional Computation \(2017\) \[video\]](#item-94) ⭐️ ?/10
+95. [Libsm64: Mario 64 as a library for use in external game engines](#item-95) ⭐️ ?/10
+96. [Is Software Solved?](#item-96) ⭐️ ?/10
+97. [The Odyssey Leaked on X: Bootleg Seen by Millions in Hours Before Takedown](#item-97) ⭐️ ?/10
+98. [Removing React.js from the codebase and adapting Htmx for UI interactivity](#item-98) ⭐️ ?/10
+99. [Why I Left Google DeepMind](#item-99) ⭐️ ?/10
+100. [&quot;Please just use plain English, I don&\#x27;t understand what you&\#x27;re saying.&quot;](#item-100) ⭐️ ?/10
+101. [Show HN: Agent Console – A Local Dashboard for Codex and Claude Code](#item-101) ⭐️ ?/10
+102. [Most free mahjong games can deal you a board you can&\#x27;t finish. I built mine backwards.](#item-102) ⭐️ ?/10
 103. [Human-in-the-Loop Agentic DevOps: Govern AI Automation in GitHub Issues](#item-103) ⭐️ ?/10
 104. [I tried to build an Apple Shortcut from code. Apple said no, four times.](#item-104) ⭐️ ?/10
 105. [I Used to Hate App Updates. Then I Saw What Happens Behind the Screen](#item-105) ⭐️ ?/10
@@ -122,27 +122,25 @@ lang: en
 111. [The Oracle Problem Never Went Away, It Just Got a Rebrand](#item-111) ⭐️ ?/10
 112. [STOP ASKING &quot;Should I learn to code in 2026?&quot;](#item-112) ⭐️ ?/10
 113. [This Open-Source canvas replaced my file system](#item-113) ⭐️ ?/10
-114. [Fingerprint Verification in ASP.NET Core with SourceAFIS \(1:1 Matching\)](#item-114) ⭐️ ?/10
-115. [Ask HN: Why is every company encorporating AI everywhere?](#item-115) ⭐️ ?/10
-116. [AI YouTube Video Generator: From Content Creation to Scalable Video Production](#item-116) ⭐️ ?/10
-117. [China State Media Says Support for Open AI Models Has Limits](#item-117) ⭐️ ?/10
-118. [Ask HN: Where do those LLM-generated outreach emails come from?](#item-118) ⭐️ ?/10
-119. [Show HN: adCasa OS – AI marketing workspace built with Bayesian attribution](#item-119) ⭐️ ?/10
-120. [Meta launched a new AI optimism ad set to a song about human extinction](#item-120) ⭐️ ?/10
-121. [The AI bioweapon risk isn&\#x27;t jailbreaks](#item-121) ⭐️ ?/10
-122. [Build internal tools for your Startup with Construct AI](#item-122) ⭐️ ?/10
-123. [From Seed to Startup: How AI Is Revolutionizing Cannabis Cultivation](#item-123) ⭐️ ?/10
-124. [Ask HN: Does the tech industry require deterministic ML training?](#item-124) ⭐️ ?/10
-125. [General Resolution: LLM Usage in Debian](#item-125) ⭐️ ?/10
-126. [Show HN: Watch 14-Byte AI &quot;brains&quot; attempt to solve a 2D maze \(Its hard\)](#item-126) ⭐️ ?/10
-127. [China wants to end AI romances](#item-127) ⭐️ ?/10
-128. [AgentHost – Persistent, governed AI agents in your own cloud](#item-128) ⭐️ ?/10
-129. [Ask HN: Are we having a substantial increase of &quot;Show HN&quot; since LLM aided coding](#item-129) ⭐️ ?/10
-130. [Show HN: Rainslice – AI Employees for Home Services Businesses](#item-130) ⭐️ ?/10
-131. [Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization](#item-131) ⭐️ ?/10
-132. [TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels](#item-132) ⭐️ ?/10
-133. [Toward a test of medical AI superintelligence](#item-133) ⭐️ ?/10
-134. [Longitudinal plasma proteomics predict phenoconversion to clinically manifest ALS](#item-134) ⭐️ ?/10
+114. [Build a Basic AI Agent from Scratch: Security III](#item-114) ⭐️ ?/10
+115. [AI YouTube Video Generator: From Content Creation to Scalable Video Production](#item-115) ⭐️ ?/10
+116. [China State Media Says Support for Open AI Models Has Limits](#item-116) ⭐️ ?/10
+117. [Ask HN: Where do those LLM-generated outreach emails come from?](#item-117) ⭐️ ?/10
+118. [Show HN: adCasa OS – AI marketing workspace built with Bayesian attribution](#item-118) ⭐️ ?/10
+119. [Meta launched a new AI optimism ad set to a song about human extinction](#item-119) ⭐️ ?/10
+120. [The AI bioweapon risk isn&\#x27;t jailbreaks](#item-120) ⭐️ ?/10
+121. [Build internal tools for your Startup with Construct AI](#item-121) ⭐️ ?/10
+122. [From Seed to Startup: How AI Is Revolutionizing Cannabis Cultivation](#item-122) ⭐️ ?/10
+123. [Ask HN: Does the tech industry require deterministic ML training?](#item-123) ⭐️ ?/10
+124. [General Resolution: LLM Usage in Debian](#item-124) ⭐️ ?/10
+125. [Show HN: Watch 14-Byte AI &quot;brains&quot; attempt to solve a 2D maze \(Its hard\)](#item-125) ⭐️ ?/10
+126. [China wants to end AI romances](#item-126) ⭐️ ?/10
+127. [AgentHost – Persistent, governed AI agents in your own cloud](#item-127) ⭐️ ?/10
+128. [Ask HN: Are we having a substantial increase of &quot;Show HN&quot; since LLM aided coding](#item-128) ⭐️ ?/10
+129. [Show HN: Rainslice – AI Employees for Home Services Businesses](#item-129) ⭐️ ?/10
+130. [Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization](#item-130) ⭐️ ?/10
+131. [Toward a test of medical AI superintelligence](#item-131) ⭐️ ?/10
+132. [Longitudinal plasma proteomics predict phenoconversion to clinically manifest ALS](#item-132) ⭐️ ?/10
 
 ---
 
@@ -273,20 +271,20 @@ hackernews · Hacker News \(热门\) · Jul 26, 12:21 · [Discussion](https://ne
 ---
 
 <a id="item-15"></a>
-## [How to write English prose \(2023\)](https://thelampmagazine.com/blog/how-to-write-english-prose) ⭐️ ?/10
-
-How to write English prose \(2023\)
-
-hackernews · Hacker News \(热门\) · Jul 26, 17:29 · [Discussion](https://news.ycombinator.com/item?id=49060295)
-
----
-
-<a id="item-16"></a>
 ## [Kill The Cookie Banner](https://killthecookiebanner.eu/) ⭐️ ?/10
 
 Kill The Cookie Banner
 
 hackernews · Hacker News \(热门\) · Jul 26, 11:53 · [Discussion](https://news.ycombinator.com/item?id=49057175)
+
+---
+
+<a id="item-16"></a>
+## [How to write English prose \(2023\)](https://thelampmagazine.com/blog/how-to-write-english-prose) ⭐️ ?/10
+
+How to write English prose \(2023\)
+
+hackernews · Hacker News \(热门\) · Jul 26, 17:29 · [Discussion](https://news.ycombinator.com/item?id=49060295)
 
 ---
 
@@ -363,105 +361,6 @@ rss · Lobsters \(技术社区\) · Jul 27, 09:44
 ---
 
 <a id="item-25"></a>
-## [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html) ⭐️ ?/10
-
-Make Reviews Possible Again With This One Simple Trick
-
-rss · Lobsters \(技术社区\) · Jul 27, 08:37
-
----
-
-<a id="item-26"></a>
-## [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/) ⭐️ ?/10
-
-SQLite WAL Mode Can Lock Short-Lived Readers
-
-rss · Lobsters \(技术社区\) · Jul 26, 22:32
-
----
-
-<a id="item-27"></a>
-## [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) ⭐️ ?/10
-
-A shell colon does nothing. Use it anyway
-
-rss · Lobsters \(技术社区\) · Jul 25, 11:33
-
----
-
-<a id="item-28"></a>
-## [On AI](https://jcs.org/2026/07/23/ai) ⭐️ ?/10
-
-On AI
-
-rss · Lobsters \(技术社区\) · Jul 27, 08:52
-
----
-
-<a id="item-29"></a>
-## [N-body gravity simulation in O\(N\)](https://www.youtube.com/watch?v=FhMftauQZqU) ⭐️ ?/10
-
-N-body gravity simulation in O\(N\)
-
-rss · Lobsters \(技术社区\) · Jul 27, 08:45
-
----
-
-<a id="item-30"></a>
-## [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/) ⭐️ ?/10
-
-Memory Safety Absolutists
-
-rss · Lobsters \(技术社区\) · Jul 25, 21:38
-
----
-
-<a id="item-31"></a>
-## [lobste.rs has a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation) ⭐️ ?/10
-
-lobste.rs has a js-error: here is a mitigation
-
-rss · Lobsters \(技术社区\) · Jul 27, 09:48
-
----
-
-<a id="item-32"></a>
-## [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake) ⭐️ ?/10
-
-Most Googlebots are fake
-
-rss · Lobsters \(技术社区\) · Jul 27, 10:40
-
----
-
-<a id="item-33"></a>
-## [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/) ⭐️ ?/10
-
-What does GitHub’s security team even do?
-
-rss · Lobsters \(技术社区\) · Jul 27, 06:06
-
----
-
-<a id="item-34"></a>
-## [The Design of Everyday Cryptography](https://www.dlp.rip/everyday-cryptography/) ⭐️ ?/10
-
-The Design of Everyday Cryptography
-
-rss · Lobsters \(技术社区\) · Jul 27, 09:55
-
----
-
-<a id="item-35"></a>
-## [A Fast Path for Fixed-Length Lists in Parquet](https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/) ⭐️ ?/10
-
-A Fast Path for Fixed-Length Lists in Parquet
-
-rss · Lobsters \(技术社区\) · Jul 27, 09:26
-
----
-
-<a id="item-36"></a>
 ## [Being Linux Torvalds](https://antirez.com/news/171) ⭐️ ?/10
 
 Being Linux Torvalds
@@ -470,7 +369,115 @@ rss · Lobsters \(技术社区\) · Jul 27, 05:25
 
 ---
 
+<a id="item-26"></a>
+## [Make Reviews Possible Again With This One Simple Trick](https://silky.github.io/posts/reviews-one-simple-trick.html) ⭐️ ?/10
+
+Make Reviews Possible Again With This One Simple Trick
+
+rss · Lobsters \(技术社区\) · Jul 27, 08:37
+
+---
+
+<a id="item-27"></a>
+## [lobste.rs has a js-error: here is a mitigation](https://lobste.rs/s/llf3mg/lobste_rs_has_js_error_here_is_mitigation) ⭐️ ?/10
+
+lobste.rs has a js-error: here is a mitigation
+
+rss · Lobsters \(技术社区\) · Jul 27, 09:48
+
+---
+
+<a id="item-28"></a>
+## [SQLite WAL Mode Can Lock Short-Lived Readers](https://hynek.me/til/sqlite-read-only-wal-locked/) ⭐️ ?/10
+
+SQLite WAL Mode Can Lock Short-Lived Readers
+
+rss · Lobsters \(技术社区\) · Jul 26, 22:32
+
+---
+
+<a id="item-29"></a>
+## [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) ⭐️ ?/10
+
+A shell colon does nothing. Use it anyway
+
+rss · Lobsters \(技术社区\) · Jul 25, 11:33
+
+---
+
+<a id="item-30"></a>
+## [On AI](https://jcs.org/2026/07/23/ai) ⭐️ ?/10
+
+On AI
+
+rss · Lobsters \(技术社区\) · Jul 27, 08:52
+
+---
+
+<a id="item-31"></a>
+## [N-body gravity simulation in O\(N\)](https://www.youtube.com/watch?v=FhMftauQZqU) ⭐️ ?/10
+
+N-body gravity simulation in O\(N\)
+
+rss · Lobsters \(技术社区\) · Jul 27, 08:45
+
+---
+
+<a id="item-32"></a>
+## [Memory Safety Absolutists](https://itsallaboutthebit.com/memory-safety-absolutists/) ⭐️ ?/10
+
+Memory Safety Absolutists
+
+rss · Lobsters \(技术社区\) · Jul 25, 21:38
+
+---
+
+<a id="item-33"></a>
+## [What are you doing this week?](https://lobste.rs/s/r7zjlm/what_are_you_doing_this_week) ⭐️ ?/10
+
+What are you doing this week?
+
+rss · Lobsters \(技术社区\) · Jul 27, 10:51
+
+---
+
+<a id="item-34"></a>
+## [Most Googlebots are fake](https://digitalseams.com/blog/most-googlebots-are-fake) ⭐️ ?/10
+
+Most Googlebots are fake
+
+rss · Lobsters \(技术社区\) · Jul 27, 10:40
+
+---
+
+<a id="item-35"></a>
+## [What does GitHub’s security team even do?](https://orchidfiles.com/github-security-team/) ⭐️ ?/10
+
+What does GitHub’s security team even do?
+
+rss · Lobsters \(技术社区\) · Jul 27, 06:06
+
+---
+
+<a id="item-36"></a>
+## [The Design of Everyday Cryptography](https://www.dlp.rip/everyday-cryptography/) ⭐️ ?/10
+
+The Design of Everyday Cryptography
+
+rss · Lobsters \(技术社区\) · Jul 27, 09:55
+
+---
+
 <a id="item-37"></a>
+## [A Fast Path for Fixed-Length Lists in Parquet](https://www.morling.dev/blog/fast-path-for-fixed-length-lists-in-parquet/) ⭐️ ?/10
+
+A Fast Path for Fixed-Length Lists in Parquet
+
+rss · Lobsters \(技术社区\) · Jul 27, 09:26
+
+---
+
+<a id="item-38"></a>
 ## [Functional programming from first principles, part 1 – motivation](https://www.endoflineblog.com/functional-programming-from-first-principles-part-1-motivation) ⭐️ ?/10
 
 Functional programming from first principles, part 1 – motivation
@@ -479,7 +486,7 @@ rss · Lobsters \(技术社区\) · Jul 27, 08:54
 
 ---
 
-<a id="item-38"></a>
+<a id="item-39"></a>
 ## [Xavier Leroy on programming, languages and formal verification](https://www.youtube.com/watch?v=9Cswiqrq6So) ⭐️ ?/10
 
 Xavier Leroy on programming, languages and formal verification
@@ -488,7 +495,7 @@ rss · Lobsters \(技术社区\) · Jul 26, 14:59
 
 ---
 
-<a id="item-39"></a>
+<a id="item-40"></a>
 ## [DOOM running on a regex engine](https://4rh1t3ct0r7.github.io/doom-regex/) ⭐️ ?/10
 
 DOOM running on a regex engine
@@ -497,7 +504,7 @@ rss · Lobsters \(技术社区\) · Jul 27, 08:12
 
 ---
 
-<a id="item-40"></a>
+<a id="item-41"></a>
 ## [History of John Backus&\#x27;s FP languages](https://softwarepreservation.computerhistory.org/FP/) ⭐️ ?/10
 
 History of John Backus&\#x27;s FP languages
@@ -506,7 +513,7 @@ rss · Lobsters \(技术社区\) · Jul 27, 07:13
 
 ---
 
-<a id="item-41"></a>
+<a id="item-42"></a>
 ## [Dmitri Gaskin on jQuery \(2008\)](https://www.youtube.com/watch?v=8mwKq7_JlS8) ⭐️ ?/10
 
 Dmitri Gaskin on jQuery \(2008\)
@@ -515,7 +522,7 @@ rss · Lobsters \(技术社区\) · Jul 26, 14:50
 
 ---
 
-<a id="item-42"></a>
+<a id="item-43"></a>
 ## [Himalaya v2.0.0: CLI to manage emails](https://fosstodon.org/@pimalaya/116983467890532240) ⭐️ ?/10
 
 Himalaya v2.0.0: CLI to manage emails
@@ -524,7 +531,7 @@ rss · Lobsters \(技术社区\) · Jul 26, 00:45
 
 ---
 
-<a id="item-43"></a>
+<a id="item-44"></a>
 ## [Using ThinkPad T480 as a mobile phone](https://grego.site/blog/thinkphone) ⭐️ ?/10
 
 Using ThinkPad T480 as a mobile phone
@@ -533,21 +540,12 @@ rss · Lobsters \(技术社区\) · Jul 26, 23:17
 
 ---
 
-<a id="item-44"></a>
+<a id="item-45"></a>
 ## [Interconverting std::function with copyable\_function](https://quuxplusone.github.io/blog/2026/07/26/function-explosion/) ⭐️ ?/10
 
 Interconverting std::function with copyable\_function
 
 rss · Lobsters \(技术社区\) · Jul 27, 05:39
-
----
-
-<a id="item-45"></a>
-## [Forth Moving Lisp Moving Forth](https://letoverlambda.com/textmode.cl/guest/chap8.html) ⭐️ ?/10
-
-Forth Moving Lisp Moving Forth
-
-rss · Lobsters \(技术社区\) · Jul 26, 17:39
 
 ---
 
@@ -660,15 +658,6 @@ rss · Ars Technica · Jul 25, 11:00
 ---
 
 <a id="item-58"></a>
-## [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) ⭐️ ?/10
-
-Big Tech accused of stonewalling European social media researchers
-
-rss · Ars Technica · Jul 25, 10:45
-
----
-
-<a id="item-59"></a>
 ## [Champagne and Bullets belongs on the Mount Rushmore of bad movies](https://www.theverge.com/column/971103/champagne-and-bullets-bad-movies-review) ⭐️ ?/10
 
 Champagne and Bullets belongs on the Mount Rushmore of bad movies
@@ -677,7 +666,7 @@ rss · The Verge · Jul 26, 21:24
 
 ---
 
-<a id="item-60"></a>
+<a id="item-59"></a>
 ## [Apple is banking on privacy to set its smart glasses apart](https://www.theverge.com/tech/971101/apple-smart-glasses-privacy) ⭐️ ?/10
 
 Apple is banking on privacy to set its smart glasses apart
@@ -686,7 +675,7 @@ rss · The Verge · Jul 26, 19:36
 
 ---
 
-<a id="item-61"></a>
+<a id="item-60"></a>
 ## [The US is charging an American citizen for wiping his phone at the border](https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password) ⭐️ ?/10
 
 The US is charging an American citizen for wiping his phone at the border
@@ -695,7 +684,7 @@ rss · The Verge · Jul 26, 18:45
 
 ---
 
-<a id="item-62"></a>
+<a id="item-61"></a>
 ## [Carrie is just trying to make a friend in the new trailer](https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con) ⭐️ ?/10
 
 Carrie is just trying to make a friend in the new trailer
@@ -704,7 +693,7 @@ rss · The Verge · Jul 26, 15:33
 
 ---
 
-<a id="item-63"></a>
+<a id="item-62"></a>
 ## [You can get three months of Xbox Game Pass Ultimate for almost half off](https://www.theverge.com/gadgets/970775/xbox-game-pass-ultimate-deal-sale) ⭐️ ?/10
 
 You can get three months of Xbox Game Pass Ultimate for almost half off
@@ -713,7 +702,7 @@ rss · The Verge · Jul 26, 15:00
 
 ---
 
-<a id="item-64"></a>
+<a id="item-63"></a>
 ## [Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more](https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con) ⭐️ ?/10
 
 Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more
@@ -722,7 +711,7 @@ rss · The Verge · Jul 26, 14:51
 
 ---
 
-<a id="item-65"></a>
+<a id="item-64"></a>
 ## [The vertical video takeover is here](https://www.theverge.com/column/970756/vertical-video-tiktok-youtube-instagram-streaming-facebook) ⭐️ ?/10
 
 The vertical video takeover is here
@@ -731,7 +720,7 @@ rss · The Verge · Jul 26, 12:00
 
 ---
 
-<a id="item-66"></a>
+<a id="item-65"></a>
 ## [Google basically confirms the Pixel 11 is getting a price hike](https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike) ⭐️ ?/10
 
 Google basically confirms the Pixel 11 is getting a price hike
@@ -740,7 +729,7 @@ rss · The Verge · Jul 25, 18:13
 
 ---
 
-<a id="item-67"></a>
+<a id="item-66"></a>
 ## [Synth historian Oli Freke will spend big on a good bicycle](https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview) ⭐️ ?/10
 
 Synth historian Oli Freke will spend big on a good bicycle
@@ -749,7 +738,7 @@ rss · The Verge · Jul 25, 15:15
 
 ---
 
-<a id="item-68"></a>
+<a id="item-67"></a>
 ## [Teenage Engineering’s unique music machines are 30 percent off](https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale) ⭐️ ?/10
 
 Teenage Engineering’s unique music machines are 30 percent off
@@ -758,7 +747,7 @@ rss · The Verge · Jul 25, 15:00
 
 ---
 
-<a id="item-69"></a>
+<a id="item-68"></a>
 ## [3 Best Smart Ring Models: Oura, RingConn, and Samsung \(2026\)](https://www.wired.com/gallery/best-smart-rings/) ⭐️ ?/10
 
 3 Best Smart Ring Models: Oura, RingConn, and Samsung \(2026\)
@@ -767,7 +756,7 @@ rss · Wired · Jul 27, 10:35
 
 ---
 
-<a id="item-70"></a>
+<a id="item-69"></a>
 ## [This Is Donald Trump’s AI Brain Trust](https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/) ⭐️ ?/10
 
 This Is Donald Trump’s AI Brain Trust
@@ -776,7 +765,7 @@ rss · Wired · Jul 27, 10:00
 
 ---
 
-<a id="item-71"></a>
+<a id="item-70"></a>
 ## [Best Laptops for College Students \(2026\): MacBooks and Beyond](https://www.wired.com/story/best-college-laptops/) ⭐️ ?/10
 
 Best Laptops for College Students \(2026\): MacBooks and Beyond
@@ -785,7 +774,7 @@ rss · Wired · Jul 27, 09:31
 
 ---
 
-<a id="item-72"></a>
+<a id="item-71"></a>
 ## [Measles Is Becoming So Common That Treatments May Soon Be Needed](https://www.wired.com/story/measles-treatments-soon-needed/) ⭐️ ?/10
 
 Measles Is Becoming So Common That Treatments May Soon Be Needed
@@ -794,7 +783,7 @@ rss · Wired · Jul 27, 09:30
 
 ---
 
-<a id="item-73"></a>
+<a id="item-72"></a>
 ## [Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls](https://www.wired.com/review/soundcore-nebula-p1i-projector/) ⭐️ ?/10
 
 Soundcore Nebula P1i Projector Review: New Design, Classic Pitfalls
@@ -803,7 +792,7 @@ rss · Wired · Jul 27, 09:00
 
 ---
 
-<a id="item-74"></a>
+<a id="item-73"></a>
 ## [It’s Becoming Clear Why Black Holes Never Run Out of Fuel](https://www.wired.com/story/its-becoming-clear-why-black-holes-never-run-out-of-fuel/) ⭐️ ?/10
 
 It’s Becoming Clear Why Black Holes Never Run Out of Fuel
@@ -812,7 +801,7 @@ rss · Wired · Jul 27, 09:00
 
 ---
 
-<a id="item-75"></a>
+<a id="item-74"></a>
 ## [The Best Backpacking Sleeping Pads, Tested on the Trail \(2026\)](https://www.wired.com/gallery/best-backpacking-sleeping-pad/) ⭐️ ?/10
 
 The Best Backpacking Sleeping Pads, Tested on the Trail \(2026\)
@@ -821,7 +810,7 @@ rss · Wired · Jul 26, 11:09
 
 ---
 
-<a id="item-76"></a>
+<a id="item-75"></a>
 ## [All the Ways You Can Make Reading on Your Phone Easier](https://www.wired.com/story/all-the-ways-you-can-make-reading-easier-on-your-phone/) ⭐️ ?/10
 
 All the Ways You Can Make Reading on Your Phone Easier
@@ -830,7 +819,7 @@ rss · Wired · Jul 26, 11:00
 
 ---
 
-<a id="item-77"></a>
+<a id="item-76"></a>
 ## [The Solution to the Power Grid&\#x27;s Woes Might Just Be Sitting in Your Driveway](https://www.wired.com/story/ev-bidirectional-charging-solution-to-power-grid-woes/) ⭐️ ?/10
 
 The Solution to the Power Grid&\#x27;s Woes Might Just Be Sitting in Your Driveway
@@ -839,12 +828,21 @@ rss · Wired · Jul 26, 10:45
 
 ---
 
-<a id="item-78"></a>
+<a id="item-77"></a>
 ## [The Best Motorola Phones, From Razr to Moto G \(2026\)](https://www.wired.com/story/best-motorola-phones/) ⭐️ ?/10
 
 The Best Motorola Phones, From Razr to Moto G \(2026\)
 
 rss · Wired · Jul 26, 10:34
+
+---
+
+<a id="item-78"></a>
+## [Best GoPro Camera \(2026\): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/) ⭐️ ?/10
+
+Best GoPro Camera \(2026\): Compact, Budget, Accessories
+
+rss · Wired · Jul 26, 10:00
 
 ---
 
@@ -858,15 +856,6 @@ rss · Wired · Jul 26, 10:00
 ---
 
 <a id="item-80"></a>
-## [Best GoPro Camera \(2026\): Compact, Budget, Accessories](https://www.wired.com/gallery/best-gopro-hero-camera/) ⭐️ ?/10
-
-Best GoPro Camera \(2026\): Compact, Budget, Accessories
-
-rss · Wired · Jul 26, 10:00
-
----
-
-<a id="item-81"></a>
 ## [Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine \(2026\)](https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/) ⭐️ ?/10
 
 Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine \(2026\)
@@ -875,7 +864,7 @@ rss · Wired · Jul 25, 11:06
 
 ---
 
-<a id="item-82"></a>
+<a id="item-81"></a>
 ## [3 Clever Things You Can Do With an Old Amazon Kindle](https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/) ⭐️ ?/10
 
 3 Clever Things You Can Do With an Old Amazon Kindle
@@ -884,7 +873,25 @@ rss · Wired · Jul 25, 11:00
 
 ---
 
+<a id="item-82"></a>
+## [Show HN: Dozenal – A Game of Spatial Arithmetic](https://dozenal.game/) ⭐️ ?/10
+
+Show HN: Dozenal – A Game of Spatial Arithmetic
+
+rss · Hacker News \(best\) · Jul 27, 10:44
+
+---
+
 <a id="item-83"></a>
+## [Ask HN: Why is every company encorporating AI everywhere?](https://news.ycombinator.com/item?id=49067602) ⭐️ ?/10
+
+Ask HN: Why is every company encorporating AI everywhere?
+
+rss · Hacker News \(best\) · Jul 27, 10:39
+
+---
+
+<a id="item-84"></a>
 ## [If digital computers are conscious, they are conscious at the hardware level](https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html) ⭐️ ?/10
 
 If digital computers are conscious, they are conscious at the hardware level
@@ -893,7 +900,7 @@ rss · Hacker News \(best\) · Jul 27, 10:33
 
 ---
 
-<a id="item-84"></a>
+<a id="item-85"></a>
 ## [How to Run an Autonomous Agent Against Your Own Server](https://medium.com/@vektormemory/how-to-run-an-autonomous-agent-against-your-own-server-3ff9335ba69f) ⭐️ ?/10
 
 How to Run an Autonomous Agent Against Your Own Server
@@ -902,7 +909,7 @@ rss · Hacker News \(best\) · Jul 27, 10:32
 
 ---
 
-<a id="item-85"></a>
+<a id="item-86"></a>
 ## [A preferred way to design tools for AI agents](https://www.bolshchikov.com/p/your-agent-isnt-dumb-your-tools-are) ⭐️ ?/10
 
 A preferred way to design tools for AI agents
@@ -911,7 +918,7 @@ rss · Hacker News \(best\) · Jul 27, 10:32
 
 ---
 
-<a id="item-86"></a>
+<a id="item-87"></a>
 ## [Show HN: Spsc-ring-threadsafe Python C ext. 100x faster as multiprocessing.Queue](https://github.com/eliasdejong/spsc-ring-threadsafe) ⭐️ ?/10
 
 Show HN: Spsc-ring-threadsafe Python C ext. 100x faster as multiprocessing.Queue
@@ -920,7 +927,7 @@ rss · Hacker News \(best\) · Jul 27, 10:28
 
 ---
 
-<a id="item-87"></a>
+<a id="item-88"></a>
 ## [Show HN: JavaScript/JSON and CSS minifier lib in minimal C89](https://fossil.wanderinghorse.net/r/cssminc/doc/ckout/README.md) ⭐️ ?/10
 
 Show HN: JavaScript/JSON and CSS minifier lib in minimal C89
@@ -929,7 +936,7 @@ rss · Hacker News \(best\) · Jul 27, 10:22
 
 ---
 
-<a id="item-88"></a>
+<a id="item-89"></a>
 ## [How to Build an Automated SEO Workflow That Improves over Time](https://medium.com/@stefant/how-to-build-an-automated-seo-workflow-that-actually-improves-over-time-1a868a660ea8) ⭐️ ?/10
 
 How to Build an Automated SEO Workflow That Improves over Time
@@ -938,7 +945,7 @@ rss · Hacker News \(best\) · Jul 27, 10:20
 
 ---
 
-<a id="item-89"></a>
+<a id="item-90"></a>
 ## [Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout](https://www.wsj.com/business/big-companies-are-starting-to-hire-again-defying-predictions-of-ai-wipeout-f4974e99) ⭐️ ?/10
 
 Big Companies Are Starting to Hire Again, Defying Predictions of AI Wipeout
@@ -947,7 +954,7 @@ rss · Hacker News \(best\) · Jul 27, 10:16
 
 ---
 
-<a id="item-90"></a>
+<a id="item-91"></a>
 ## [How to Set Up an On-Premises Project Management Platform](https://ones.com/blog/how-to-set-up-an-on-premises-project-management-platform-without-real-time-cloud-sync/) ⭐️ ?/10
 
 How to Set Up an On-Premises Project Management Platform
@@ -956,7 +963,7 @@ rss · Hacker News \(best\) · Jul 27, 10:12
 
 ---
 
-<a id="item-91"></a>
+<a id="item-92"></a>
 ## [Finance engineering roles are 2.6% of open finance-department jobs](https://app.layerz.cc/resources/finance-engineer-statistics) ⭐️ ?/10
 
 Finance engineering roles are 2.6% of open finance-department jobs
@@ -965,7 +972,7 @@ rss · Hacker News \(best\) · Jul 27, 10:09
 
 ---
 
-<a id="item-92"></a>
+<a id="item-93"></a>
 ## [How to Build a 50k Ton Forging Press](https://www.construction-physics.com/p/how-to-build-a-50000-ton-forging) ⭐️ ?/10
 
 How to Build a 50k Ton Forging Press
@@ -974,7 +981,7 @@ rss · Hacker News \(best\) · Jul 27, 10:07
 
 ---
 
-<a id="item-93"></a>
+<a id="item-94"></a>
 ## [Beyond Lambda-Calculus: Intensional Computation \(2017\) \[video\]](https://www.youtube.com/watch?v=Mmjwdtcu99I) ⭐️ ?/10
 
 Beyond Lambda-Calculus: Intensional Computation \(2017\) \[video\]
@@ -983,7 +990,7 @@ rss · Hacker News \(best\) · Jul 27, 10:06
 
 ---
 
-<a id="item-94"></a>
+<a id="item-95"></a>
 ## [Libsm64: Mario 64 as a library for use in external game engines](https://github.com/libsm64/libsm64) ⭐️ ?/10
 
 Libsm64: Mario 64 as a library for use in external game engines
@@ -992,7 +999,7 @@ rss · Hacker News \(best\) · Jul 27, 10:04
 
 ---
 
-<a id="item-95"></a>
+<a id="item-96"></a>
 ## [Is Software Solved?](https://ahmet.ee/is-software-solved/) ⭐️ ?/10
 
 Is Software Solved?
@@ -1001,7 +1008,7 @@ rss · Hacker News \(best\) · Jul 27, 10:03
 
 ---
 
-<a id="item-96"></a>
+<a id="item-97"></a>
 ## [The Odyssey Leaked on X: Bootleg Seen by Millions in Hours Before Takedown](https://variety.com/2026/film/news/the-odyssey-leaked-high-quality-bootleg-x-1236821418/) ⭐️ ?/10
 
 The Odyssey Leaked on X: Bootleg Seen by Millions in Hours Before Takedown
@@ -1010,7 +1017,7 @@ rss · Hacker News \(best\) · Jul 27, 10:03
 
 ---
 
-<a id="item-97"></a>
+<a id="item-98"></a>
 ## [Removing React.js from the codebase and adapting Htmx for UI interactivity](https://misago-project.org/t/removing-reactjs-from-the-codebase-and-adapting-htmx-for-ui-interactivity/1267/) ⭐️ ?/10
 
 Removing React.js from the codebase and adapting Htmx for UI interactivity
@@ -1019,7 +1026,7 @@ rss · Hacker News \(best\) · Jul 27, 09:58
 
 ---
 
-<a id="item-98"></a>
+<a id="item-99"></a>
 ## [Why I Left Google DeepMind](https://www.lesswrong.com/posts/iKm2FhpWkuuBojm82/why-i-left-google-deepmind) ⭐️ ?/10
 
 Why I Left Google DeepMind
@@ -1028,7 +1035,7 @@ rss · Hacker News \(best\) · Jul 27, 09:56
 
 ---
 
-<a id="item-99"></a>
+<a id="item-100"></a>
 ## [&quot;Please just use plain English, I don&\#x27;t understand what you&\#x27;re saying.&quot;](https://twitter.com/mykola/status/2081450468178579594) ⭐️ ?/10
 
 &quot;Please just use plain English, I don&\#x27;t understand what you&\#x27;re saying.&quot;
@@ -1037,7 +1044,7 @@ rss · Hacker News \(best\) · Jul 27, 09:56
 
 ---
 
-<a id="item-100"></a>
+<a id="item-101"></a>
 ## [Show HN: Agent Console – A Local Dashboard for Codex and Claude Code](https://github.com/buhuipao/agent-console) ⭐️ ?/10
 
 Show HN: Agent Console – A Local Dashboard for Codex and Claude Code
@@ -1046,21 +1053,12 @@ rss · Hacker News \(best\) · Jul 27, 09:55
 
 ---
 
-<a id="item-101"></a>
-## [Brief notes on the OpenAI/Hugging Face incident](https://abstatisticalconsulting.substack.com/p/brief-notes-on-the-openaihugging) ⭐️ ?/10
-
-Brief notes on the OpenAI/Hugging Face incident
-
-rss · Hacker News \(best\) · Jul 27, 09:53
-
----
-
 <a id="item-102"></a>
-## [Resumepilot](https://resumpilot-xtlr.bolt.host/) ⭐️ ?/10
+## [Most free mahjong games can deal you a board you can&\#x27;t finish. I built mine backwards.](https://dev.to/dev_nash/most-free-mahjong-games-can-deal-you-a-board-you-cant-finish-i-built-mine-backwards-1cia) ⭐️ ?/10
 
-Resumepilot
+Most free mahjong games can deal you a board you can&\#x27;t finish. I built mine backwards.
 
-rss · Hacker News \(best\) · Jul 27, 09:49
+rss · Dev.to · Jul 27, 10:43
 
 ---
 
@@ -1164,24 +1162,15 @@ rss · Dev.to · Jul 27, 10:05
 ---
 
 <a id="item-114"></a>
-## [Fingerprint Verification in ASP.NET Core with SourceAFIS \(1:1 Matching\)](https://dev.to/lepresk/fingerprint-verification-in-aspnet-core-with-sourceafis-11-matching-1e99) ⭐️ ?/10
+## [Build a Basic AI Agent from Scratch: Security III](https://www.ruxu.dev/articles/ai/build-an-ai-agent-security-3/) ⭐️ ?/10
 
-Fingerprint Verification in ASP.NET Core with SourceAFIS \(1:1 Matching\)
+Build a Basic AI Agent from Scratch: Security III
 
-rss · Dev.to · Jul 27, 10:01
+rss · Hacker News \(AI/ML\) · Jul 27, 10:48
 
 ---
 
 <a id="item-115"></a>
-## [Ask HN: Why is every company encorporating AI everywhere?](https://news.ycombinator.com/item?id=49067602) ⭐️ ?/10
-
-Ask HN: Why is every company encorporating AI everywhere?
-
-rss · Hacker News \(AI/ML\) · Jul 27, 10:39
-
----
-
-<a id="item-116"></a>
 ## [AI YouTube Video Generator: From Content Creation to Scalable Video Production](https://textideo.com/use-cases/youtube) ⭐️ ?/10
 
 AI YouTube Video Generator: From Content Creation to Scalable Video Production
@@ -1190,7 +1179,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 09:24
 
 ---
 
-<a id="item-117"></a>
+<a id="item-116"></a>
 ## [China State Media Says Support for Open AI Models Has Limits](https://www.bloomberg.com/news/articles/2026-07-27/china-state-media-says-support-for-open-ai-models-has-limits) ⭐️ ?/10
 
 China State Media Says Support for Open AI Models Has Limits
@@ -1199,7 +1188,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 08:49
 
 ---
 
-<a id="item-118"></a>
+<a id="item-117"></a>
 ## [Ask HN: Where do those LLM-generated outreach emails come from?](https://news.ycombinator.com/item?id=49066659) ⭐️ ?/10
 
 Ask HN: Where do those LLM-generated outreach emails come from?
@@ -1208,7 +1197,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 08:29
 
 ---
 
-<a id="item-119"></a>
+<a id="item-118"></a>
 ## [Show HN: adCasa OS – AI marketing workspace built with Bayesian attribution](https://adcasa.io/) ⭐️ ?/10
 
 Show HN: adCasa OS – AI marketing workspace built with Bayesian attribution
@@ -1217,7 +1206,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 08:18
 
 ---
 
-<a id="item-120"></a>
+<a id="item-119"></a>
 ## [Meta launched a new AI optimism ad set to a song about human extinction](https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/) ⭐️ ?/10
 
 Meta launched a new AI optimism ad set to a song about human extinction
@@ -1226,7 +1215,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 08:09
 
 ---
 
-<a id="item-121"></a>
+<a id="item-120"></a>
 ## [The AI bioweapon risk isn&\#x27;t jailbreaks](https://point.free/blog/the-ai-bioweapon-risk-isnt-jailbreaks/) ⭐️ ?/10
 
 The AI bioweapon risk isn&\#x27;t jailbreaks
@@ -1235,7 +1224,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 08:04
 
 ---
 
-<a id="item-122"></a>
+<a id="item-121"></a>
 ## [Build internal tools for your Startup with Construct AI](https://construct.computer/blog/build-internal-tools-with-construct/) ⭐️ ?/10
 
 Build internal tools for your Startup with Construct AI
@@ -1244,7 +1233,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:40
 
 ---
 
-<a id="item-123"></a>
+<a id="item-122"></a>
 ## [From Seed to Startup: How AI Is Revolutionizing Cannabis Cultivation](https://www.researchgate.net/publication/410602482_From_Seed_to_Startup_How_AI_Is_Revolutionizing_Cannabis_Cultivation_and_Empowering_Small_Businesses) ⭐️ ?/10
 
 From Seed to Startup: How AI Is Revolutionizing Cannabis Cultivation
@@ -1253,7 +1242,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:33
 
 ---
 
-<a id="item-124"></a>
+<a id="item-123"></a>
 ## [Ask HN: Does the tech industry require deterministic ML training?](https://news.ycombinator.com/item?id=49066175) ⭐️ ?/10
 
 Ask HN: Does the tech industry require deterministic ML training?
@@ -1262,7 +1251,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:29
 
 ---
 
-<a id="item-125"></a>
+<a id="item-124"></a>
 ## [General Resolution: LLM Usage in Debian](https://www.debian.org/vote/2026/vote_002#texta) ⭐️ ?/10
 
 General Resolution: LLM Usage in Debian
@@ -1271,7 +1260,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:26
 
 ---
 
-<a id="item-126"></a>
+<a id="item-125"></a>
 ## [Show HN: Watch 14-Byte AI &quot;brains&quot; attempt to solve a 2D maze \(Its hard\)](https://con-dog.github.io/MINIMIO-PUBLIC-FRONTEND/) ⭐️ ?/10
 
 Show HN: Watch 14-Byte AI &quot;brains&quot; attempt to solve a 2D maze \(Its hard\)
@@ -1280,7 +1269,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:15
 
 ---
 
-<a id="item-127"></a>
+<a id="item-126"></a>
 ## [China wants to end AI romances](https://www.economist.com/china/2026/07/16/china-wants-to-end-ai-romances) ⭐️ ?/10
 
 China wants to end AI romances
@@ -1289,7 +1278,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:07
 
 ---
 
-<a id="item-128"></a>
+<a id="item-127"></a>
 ## [AgentHost – Persistent, governed AI agents in your own cloud](https://agenthost.space/) ⭐️ ?/10
 
 AgentHost – Persistent, governed AI agents in your own cloud
@@ -1298,7 +1287,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 07:00
 
 ---
 
-<a id="item-129"></a>
+<a id="item-128"></a>
 ## [Ask HN: Are we having a substantial increase of &quot;Show HN&quot; since LLM aided coding](https://news.ycombinator.com/item?id=49065810) ⭐️ ?/10
 
 Ask HN: Are we having a substantial increase of &quot;Show HN&quot; since LLM aided coding
@@ -1307,7 +1296,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 06:27
 
 ---
 
-<a id="item-130"></a>
+<a id="item-129"></a>
 ## [Show HN: Rainslice – AI Employees for Home Services Businesses](https://rainslice.ai/) ⭐️ ?/10
 
 Show HN: Rainslice – AI Employees for Home Services Businesses
@@ -1316,7 +1305,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 05:21
 
 ---
 
-<a id="item-131"></a>
+<a id="item-130"></a>
 ## [Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization](https://blogs.cisco.com/ai/introducing-antares-the-most-efficient-open-weight-ai-models-for-vulnerability-localization) ⭐️ ?/10
 
 Antares: Highly Efficient Open Weight AI Models for Vulnerability Localization
@@ -1325,16 +1314,7 @@ rss · Hacker News \(AI/ML\) · Jul 27, 05:13
 
 ---
 
-<a id="item-132"></a>
-## [TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels](https://tvm.apache.org/2026/06/22/tirx) ⭐️ ?/10
-
-TIRx: An Open Compiler Stack for Evolving Frontier ML Kernels
-
-rss · Hacker News \(AI/ML\) · Jul 27, 04:53
-
----
-
-<a id="item-133"></a>
+<a id="item-131"></a>
 ## [Toward a test of medical AI superintelligence](https://www.nature.com/articles/s41591-026-04539-8) ⭐️ ?/10
 
 Toward a test of medical AI superintelligence
@@ -1343,7 +1323,7 @@ rss · Nature Medicine · Jul 27, 00:00
 
 ---
 
-<a id="item-134"></a>
+<a id="item-132"></a>
 ## [Longitudinal plasma proteomics predict phenoconversion to clinically manifest ALS](https://www.nature.com/articles/s41591-026-04528-x) ⭐️ ?/10
 
 Longitudinal plasma proteomics predict phenoconversion to clinically manifest ALS
