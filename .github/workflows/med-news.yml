@@ -59,6 +59,25 @@ jobs:
       - name: Set current date as environment variable
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
+      - name: Send daily summary to Feishu (Open API)
+        if: env.FEISHU_APP_ID != '' && env.FEISHU_CHAT_ID != ''
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_CHAT_ID: ${{ secrets.FEISHU_CHAT_ID }}
+        run: |
+          REPORT="docs/daily/${DATE}.md"
+          if [ ! -f "$REPORT" ]; then
+            echo "⚠️  No daily report found at $REPORT — skipping Feishu push"
+            exit 0
+          fi
+          echo "🚀 Sending daily report to Feishu chat..."
+          uv run python scripts/feishu_notify.py \
+            --report "$REPORT" \
+            --app-id "$FEISHU_APP_ID" \
+            --app-secret "$FEISHU_APP_SECRET" \
+            --chat-id "$FEISHU_CHAT_ID"
+
       - name: Deploy daily summary to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
