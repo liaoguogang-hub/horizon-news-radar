@@ -132,9 +132,10 @@ def main():
         print("   (skipped — Horizon may have produced no items today)", file=sys.stderr)
         sys.exit(0)
 
-    # 从文件名提取日期
+    # 从文件名提取日期（文件名格式：YYYY-MM-DD-summary-zh.md）
     filename = os.path.basename(args.report)
-    date_str = filename.replace(".md", "")
+    # e.g. "2026-07-27-summary-zh.md" -> "2026-07-27"
+    date_str = filename.split("-summary-")[0] if "-summary-" in filename else filename.replace(".md", "")
 
     with open(args.report, encoding="utf-8") as f:
         content = f.read()
@@ -149,9 +150,9 @@ def main():
     # 标题
     title = f"📡 Horizon 医药日报 · {date_str}"
 
-    # GitHub Pages 链接（GitHub Pages 默认会渲染 docs/ 下的 .md）
-    # 实际链接要根据 Pages 配置调整
-    gh_pages_link = f"{args.pages_base}/daily/{date_str}/"
+    # GitHub Pages 链接（Jekyll permalink: /YYYY/MM/DD/summary-zh.html）
+    year, month, day = date_str.split("-")
+    gh_pages_link = f"{args.pages_base}/{year}/{month}/{day}/summary-zh.html"
 
     # 获取 token + 发送
     try:
