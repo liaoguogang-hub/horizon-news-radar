@@ -59,6 +59,21 @@ jobs:
       - name: Set current date as environment variable
         run: echo "DATE=$(date -u +'%Y-%m-%d')" >> $GITHUB_ENV
 
+      - name: Deploy daily summary to GitHub Pages (FIRST, so Feishu link is valid)
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          keep_files: true
+          commit_message: "📡 [Healthcare] Daily Summary: ${{ env.DATE }}"
+          publish_branch: gh-pages
+          enable_jekyll: true
+
+      - name: Wait for GitHub Pages to finish building (避免飞书推送时链接 404)
+        # peaceiris 推 gh-pages 后，GitHub Pages 内部 Jekyll 构建 + 公开访问需要 1-5 分钟
+        # 等 30 秒让 Pages 状态稳定后再推飞书
+        run: sleep 30
+
       - name: Send daily summary to Feishu (Open API)
         if: env.FEISHU_APP_ID != '' && env.FEISHU_CHAT_ID != ''
         env:
@@ -80,13 +95,3 @@ jobs:
             --app-id "$FEISHU_APP_ID" \
             --app-secret "$FEISHU_APP_SECRET" \
             --chat-id "$FEISHU_CHAT_ID"
-
-      - name: Deploy daily summary to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-          keep_files: true
-          commit_message: "📡 [Healthcare] Daily Summary: ${{ env.DATE }}"
-          publish_branch: gh-pages
-          enable_jekyll: true

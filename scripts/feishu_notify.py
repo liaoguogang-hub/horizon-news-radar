@@ -150,9 +150,10 @@ def main():
     # 标题
     title = f"📡 Horizon 医药日报 · {date_str}"
 
-    # GitHub Pages 链接（Jekyll permalink: /YYYY/MM/DD/summary-zh.html）
-    year, month, day = date_str.split("-")
-    gh_pages_link = f"{args.pages_base}/{year}/{month}/{day}/summary-zh.html"
+    # GitHub Pages 链接：指向根 URL（永远 200，永不 404）
+    # 之前用 /YYYY/MM/DD/summary-zh.html，依赖 Pages 实时构建状态
+    # 现在用根 URL：用户在首页可看到 7 天内所有 summary
+    gh_pages_link = args.pages_base.rstrip("/")
 
     # 获取 token + 发送
     try:
