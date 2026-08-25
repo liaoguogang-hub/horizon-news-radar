@@ -200,7 +200,7 @@ def build_feishu_card(date_str: str, news_items: list[dict], gh_pages_base: str)
     # Footer
     elements.append({
         "tag": "markdown",
-        "content": f"📚 [全部 7 天日报]({gh_pages_base.rstrip('/')}/) · [RSS 订阅]({gh_pages_base.rstrip('/')}/feed-zh.xml)",
+        "content": f"📚 [全部 7 天日报]({gh_pages_base.rstrip('/')}/) · [RSS 订阅]({gh_pages_base.rstrip('/')}/)",
     })
 
     return {
