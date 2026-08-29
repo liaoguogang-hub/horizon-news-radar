@@ -2,9 +2,12 @@ name: Daily Horizon Summary (Healthcare Edition)
 
 on:
   schedule:
-    # GitHub scheduled workflows use UTC. 17:00 UTC is 01:00 Asia/Shanghai (next day).
-    # 凌晨 1 点跑完，早上 1:15 左右可看
-    - cron: '0 17 * * *'
+    # 双 cron 防 GitHub Actions 调度延迟（2026-08-26/28/29 三次晚到 7-8 小时）。
+    # 16:00 UTC = Asia/Shanghai 00:00（深夜零点）
+    # 19:00 UTC = Asia/Shanghai 03:00（凌晨 3 点）
+    # 任意一次执行成功后，第二次会被 GitHub 跳过
+    - cron: '0 16 * * *'
+    - cron: '0 19 * * *'
   workflow_dispatch:      # Allow manual trigger
 
 jobs:
