@@ -5,343 +5,513 @@ date: 2026-11-03
 lang: en
 ---
 
-> From 176 items, 51 important content pieces were selected
+> From 233 items, 80 important content pieces were selected
 
 ---
 
-1. [Astra Edits Qwen Weights to Improve Reasoning](#item-1) ⭐️ 9.0/10
-2. [SLAC Reports Experimental Evidence for Altermagnetism](#item-2) ⭐️ 9.0/10
-3. [Povorcitinib Shows Phase 3 Efficacy in Nonsegmental Vitiligo](#item-3) ⭐️ 9.0/10
-4. [AI Could Make Mathematics More Egoless](#item-4) ⭐️ 8.0/10
-5. [Ubuntu LTS Kernel Remains Unpatched for Critical RCE](#item-5) ⭐️ 8.0/10
-6. [Anthropic’s Growth Flattens, Claim Challenged by New Revenue Data](#item-6) ⭐️ 8.0/10
-7. [Cloudflare Halves DNS Build Delay and Cuts Memory 85%](#item-7) ⭐️ 8.0/10
-8. [Anthropic Says AI Is Near Recursive Self-Improvement](#item-8) ⭐️ 8.0/10
-9. [Google Disrupts 1.3 Million-Device Android Botnet](#item-9) ⭐️ 8.0/10
-10. [Hundreds of AI Apps Hide Abusive Deepfake Features](#item-10) ⭐️ 8.0/10
-11. [P4 Trial Tests CT Versus Ultrasound Guidance for PCI](#item-11) ⭐️ 8.0/10
-12. [Global Cervical Cancer Burden Set to Rise by 2050](#item-12) ⭐️ 8.0/10
-13. [UNICORN trial supports neoadjuvant botensilimab combinations in colon cancer](#item-13) ⭐️ 8.0/10
-14. [Subvocal Brings Silent-Speech Control to Smart Glasses](#item-14) ⭐️ 7.0/10
-15. [Preserve the Websites You Value](#item-15) ⭐️ 7.0/10
-16. [Momentic Launches Autonomous QA Agents for Apps](#item-16) ⭐️ 7.0/10
-17. [Should the SEC Block Anthropic’s IPO?](#item-17) ⭐️ 7.0/10
-18. [Oracle Seeks $20 Billion for AI Infrastructure Expansion](#item-18) ⭐️ 7.0/10
-19. [PostHog Replaces DuckDB with Custom Trino-Based Warehouse](#item-19) ⭐️ 7.0/10
-20. [Linux Syscall Website and API Gain Expanded Coverage](#item-20) ⭐️ 7.0/10
-21. [FDA Sets Potency Expectations for Cell and Gene Therapies](#item-21) ⭐️ 7.0/10
-22. [Polyend Releases Tracker Firmware Source Code](#item-22) ⭐️ 7.0/10
-23. [Background Sound May Reveal a Device’s Exact Location](#item-23) ⭐️ 7.0/10
-24. [WiFi Devices Can Recognize Individual Keystrokes](#item-24) ⭐️ 7.0/10
-25. [LLM 0.37 Adds GPT-6.1 Models and Multimodal Embeddings](#item-25) ⭐️ 7.0/10
-26. [Publishers Sue Brave Over Alleged AI Content Scraping](#item-26) ⭐️ 7.0/10
-27. [42AI Launches With $62.5M and Human Behavior World Model](#item-27) ⭐️ 7.0/10
-28. [China Reveals Crewed Lunar Landing Timeline Before 2030](#item-28) ⭐️ 7.0/10
-29. [Evaluate AI Coding Agents by What They Ship](#item-29) ⭐️ 7.0/10
-30. [Autonomous AI Agents Bring the Semantic Web Closer](#item-30) ⭐️ 7.0/10
-31. [BMW to Launch Urban Driver Assist in 2027](#item-31) ⭐️ 7.0/10
-32. [OpenAI Pilots Emergency Grid Support at Georgia Data Center](#item-32) ⭐️ 7.0/10
-33. [U.S. Strikes Qeshm Island Amid War-Risk Diplomacy](#item-33) ⭐️ 7.0/10
-34. [Misconfigured Defender XDR Connectors Blind Security Teams](#item-34) ⭐️ 7.0/10
-35. [Show HN: Interactive Voxel Map of Central Warsaw](#item-35) ⭐️ 6.0/10
-36. [Bε-Trees and Write-Optimized Storage](#item-36) ⭐️ 6.0/10
-37. [Tor Browser 16.0 Ships Firefox ESR 153 Update](#item-37) ⭐️ 6.0/10
-38. [Gohawk Brings Resource-Focused Static Analysis to Go](#item-38) ⭐️ 6.0/10
-39. [LLMs Make Software Maturity Signals Easier to Fake](#item-39) ⭐️ 6.0/10
-40. [Trajectory Raises $45M to Simplify AI Model Training](#item-40) ⭐️ 6.0/10
-41. [Squarespace Cuts 19% of Its Workforce Amid Restructuring](#item-41) ⭐️ 6.0/10
-42. [Musk Restricts Grok Usage as Costs Surge](#item-42) ⭐️ 6.0/10
-43. [Apple Sets iPhone Revenue Record Without a Standard Model Launch](#item-43) ⭐️ 6.0/10
-44. [Meta to End Quest 2 and Quest Pro OS Updates in 2027](#item-44) ⭐️ 6.0/10
-45. [Ford Promises Not to Sell Driving Data to Brokers](#item-45) ⭐️ 6.0/10
-46. [Anthropic Restricts Claude&\#x27;s Video Game Recreation](#item-46) ⭐️ 6.0/10
-47. [Asus ROG Rapture GT-BN98 Pro Brings Wi-Fi 8 to Gaming Routers](#item-47) ⭐️ 6.0/10
-48. [Tracing America’s Political Spam-Text Ecosystem](#item-48) ⭐️ 6.0/10
-49. [Chatbot Route Advice Risks Misleading Hikers](#item-49) ⭐️ 6.0/10
-50. [Injected Code Crashed macOS Messages Fifteen Times](#item-50) ⭐️ 6.0/10
-51. [Crypto Liquidations Depend on Margin, Not Just Price](#item-51) ⭐️ 6.0/10
+1. [PROGRESS Trial Tests TAVR for Moderate Aortic Stenosis](#item-1) ⭐️ 9.0/10
+2. [Local Qwen 3.8 27B Demonstrates Weight-Space Interpretation](#item-2) ⭐️ 8.0/10
+3. [Postman Reportedly Auto-Installs AI Plugins and Transmits API Data](#item-3) ⭐️ 8.0/10
+4. [Scaling Mac Infrastructure Beyond the Desktop](#item-4) ⭐️ 8.0/10
+5. [Astra’s Qwen Weight Edits Mainly Fix Reasoning Termination](#item-5) ⭐️ 8.0/10
+6. [GitBook Recovers from AI-Assisted Infrastructure Breach](#item-6) ⭐️ 8.0/10
+7. [Codex Users Report Training Opt-Outs Silently Re-Enabled](#item-7) ⭐️ 8.0/10
+8. [ByteDance Scales Recommender Storage with USDB](#item-8) ⭐️ 8.0/10
+9. [Aircraft Sounds Can Reveal a Recording’s Exact Location](#item-9) ⭐️ 8.0/10
+10. [Anthropic Warns AI Is nearing Recursive Self-Improvement](#item-10) ⭐️ 8.0/10
+11. [42AI Launches With $62.5M and a Human Behavior Model](#item-11) ⭐️ 8.0/10
+12. [BlackX Bootkit Bypasses Secure Boot on Patched Windows](#item-12) ⭐️ 8.0/10
+13. [Apple Opens Siri AI to Third-Party Apps](#item-13) ⭐️ 8.0/10
+14. [Binance Says a Fake Job Interview Enabled a $6.34 Billion Crypto Heist](#item-14) ⭐️ 8.0/10
+15. [Hundreds of AI Apps Hide Abusive Deepfake Tools](#item-15) ⭐️ 8.0/10
+16. [Registry Finds No Detectable Mortality Difference Between PCI and CABG](#item-16) ⭐️ 8.0/10
+17. [Engineered TIL Shows Early Promise After Checkpoint Inhibitors](#item-17) ⭐️ 8.0/10
+18. [Cervical Cancer Burden Forecast to Rise by 2050](#item-18) ⭐️ 8.0/10
+19. [UNICORN trial reports promising neoadjuvant responses in colon cancer](#item-19) ⭐️ 8.0/10
+20. [Povorcitinib succeeds in two phase 3 vitiligo trials](#item-20) ⭐️ 8.0/10
+21. [Jailbreaking a Renault Navigation Clock](#item-21) ⭐️ 7.0/10
+22. [Stringman Is an $800 Open-Source Room-Scale Gripper Robot](#item-22) ⭐️ 7.0/10
+23. [Fujifilm Plans Fivefold LTO Tape Production Expansion](#item-23) ⭐️ 7.0/10
+24. [Flipper One Opens Pre-Orders Ahead of Kickstarter](#item-24) ⭐️ 7.0/10
+25. [Utah Charges Kalshi and Co-Founders With Felony Gambling Violations](#item-25) ⭐️ 7.0/10
+26. [Could a Pentium Chess Engine Have Beaten Kasparov?](#item-26) ⭐️ 7.0/10
+27. [Schools Rejecting AI May Lose Google Search](#item-27) ⭐️ 7.0/10
+28. [FDA Finalizes Risk-Based Potency Guidance for CGT Products](#item-28) ⭐️ 7.0/10
+29. [Previously Invisible Writing Found on PHerc. 306B Papyrus](#item-29) ⭐️ 7.0/10
+30. [kitty Terminal Emulator Releases Version 0.50.0](#item-30) ⭐️ 7.0/10
+31. [openSUSE Leap 16.1 Adds Immutable Mode](#item-31) ⭐️ 7.0/10
+32. [Census AI Data Raises Survey and Policy Concerns](#item-32) ⭐️ 7.0/10
+33. [Fal Raises $1.3B at a $16B Valuation](#item-33) ⭐️ 7.0/10
+34. [Apple Mandates 18+ Ratings for Romantic Apps](#item-34) ⭐️ 7.0/10
+35. [Apple Watch Begins Testing AI Conversation Recap Features](#item-35) ⭐️ 7.0/10
+36. [Publishers Sue Brave Over Alleged AI Content Scraping](#item-36) ⭐️ 7.0/10
+37. [Google Disrupts XCPE Botnet on 1.3 Million Android TV Boxes](#item-37) ⭐️ 7.0/10
+38. [EPA Retreat Raises Questions About Factory-Farm Air Pollution Enforcement](#item-38) ⭐️ 7.0/10
+39. [Third Human Bird-Flu Death Follows Livestock Spillover](#item-39) ⭐️ 7.0/10
+40. [Reverse Game Theory Incentivizes AI Agents to Follow Rules](#item-40) ⭐️ 7.0/10
+41. [Evaluate Coding Agents by Shippable Outcomes, Not Tokens](#item-41) ⭐️ 7.0/10
+42. [ChatGPT Search Volume Reaches 20% of Google’s](#item-42) ⭐️ 7.0/10
+43. [Promising Opioid Withdrawal Drug Faces DEA Scheduling Threat](#item-43) ⭐️ 7.0/10
+44. [Browser Tape Brings a High-Fidelity Juno-106-Style Studio to the Web](#item-44) ⭐️ 7.0/10
+45. [OpenAI Recruits Partners for Physical Engineering AI](#item-45) ⭐️ 7.0/10
+46. [Google Antigravity Adds Agentic Cheminformatics Capabilities](#item-46) ⭐️ 7.0/10
+47. [Managing Moderate Aortic Stenosis in Older Adults](#item-47) ⭐️ 7.0/10
+48. [Menopausal Hormone Therapy Triggers Distinct Microbiome Responses](#item-48) ⭐️ 7.0/10
+49. [SER-155 shows safety and fewer bloodstream infections in transplant trial](#item-49) ⭐️ 7.0/10
+50. [Kairos Launches Open-Source Real-Time Fraud Decisioning](#item-50) ⭐️ 6.0/10
+51. [Pratt Parsing Remains a Black Box](#item-51) ⭐️ 6.0/10
+52. [macOS 27 Reportedly Drops CoreStorage and HFS Volume Support](#item-52) ⭐️ 6.0/10
+53. [Voice- and Hardware-Assisted Terminal Workflows for Disabled Users](#item-53) ⭐️ 6.0/10
+54. [PostHog Explains Its Move Away From DuckDB](#item-54) ⭐️ 6.0/10
+55. [Polyend Opens Its Tracker Firmware](#item-55) ⭐️ 6.0/10
+56. [Bε-Trees and Write Optimization Explained](#item-56) ⭐️ 6.0/10
+57. [LLM 0.37 Adds Models, Endpoints, and Multimodal Embeddings](#item-57) ⭐️ 6.0/10
+58. [Trajectory Raises $45M to Simplify AI Model Training](#item-58) ⭐️ 6.0/10
+59. [Omen AI Acquires Aquatic Labs for $16 Million](#item-59) ⭐️ 6.0/10
+60. [Ukraine Strikes Push Russia Toward Underground Data Centers](#item-60) ⭐️ 6.0/10
+61. [Child Dies Amid Alleged CDC Alert Delay](#item-61) ⭐️ 6.0/10
+62. [Space Company Bets on Water-Based Propulsion](#item-62) ⭐️ 6.0/10
+63. [Meta Suspends No Kings Account Amid Election Pressure](#item-63) ⭐️ 6.0/10
+64. [China Sets Lunar Landing Target Before 2030](#item-64) ⭐️ 6.0/10
+65. [Federal Agencies Align with Trump’s “Super Intelligence” Label](#item-65) ⭐️ 6.0/10
+66. [Improving Insight Quality in Agentic Analytics](#item-66) ⭐️ 6.0/10
+67. [The Agentic Web Is Taking Shape](#item-67) ⭐️ 6.0/10
+68. [Asus ROG Rapture GT-BN98 Pro Brings Wi-Fi 8 Gaming](#item-68) ⭐️ 6.0/10
+69. [Investigating the Political Fundraising Text Spam Pipeline](#item-69) ⭐️ 6.0/10
+70. [Reddit Plans to End RSS and Public API Support](#item-70) ⭐️ 6.0/10
+71. [Scaling XLA Compiler Correctness on Production TPUs](#item-71) ⭐️ 6.0/10
+72. [RudderStack Open-Sources the DevBox Engineering Harness](#item-72) ⭐️ 6.0/10
+73. [Mineralized blood-cell-like structures found in 115-million-year-old dinosaur bone](#item-73) ⭐️ 6.0/10
+74. [Reconcile Salesforce Migrations with a Stable External Key](#item-74) ⭐️ 6.0/10
+75. [AI Agent Selects and Injects Gene Therapy Into a Mouse Brain](#item-75) ⭐️ 6.0/10
+76. [aem-eds-kit Converts Design Frames into AEM EDS Blocks](#item-76) ⭐️ 6.0/10
+77. [Revolut Cuts AI Coding Costs Tenfold with Self-Hosting](#item-77) ⭐️ 6.0/10
+78. [Uncracked City brings deceptive LLM suspects to mobile detective games](#item-78) ⭐️ 6.0/10
+79. [Mallard Brings Git-Like Session Management to AI Coding Agents](#item-79) ⭐️ 6.0/10
+80. [AI Predicts Cancer Survival From a Patient’s Selfie](#item-80) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Astra Edits Qwen Weights to Improve Reasoning](https://rikiyat.github.io/blog/weight-space-programming/) ⭐️ 9.0/10
+## [PROGRESS Trial Tests TAVR for Moderate Aortic Stenosis](https://www.nejm.org/doi/full/10.1056/NEJMoa2607326?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
 
-Researchers demonstrated that Astra can interpret and edit neural-network weights directly without gradient-based training. In the reported Qwen3.5-0.8B experiment, editing 0.016% of the weights removed a repetition-loop direction and raised MATH-500 accuracy from 7.9% to 48.1%. The work suggests that frontier models may be able to perform limited weight-space programming, potentially supporting automated diagnosis and repair of smaller models. If validated, the approach could reduce the need for hand-crafted training interventions, although broad reproducibility remains uncertain. The edit targeted a direction associated with repetition loops in the MLPs of layers 15 and 19, with 64 output columns changed in each layer, totaling 131,072 weights. Reported secondary gains included up to sixfold better math performance and roughly threefold better instruction following, but the demonstrations are concentrated on a small Qwen model and require independent validation.
+The multicenter, randomized PROGRESS trial compared TAVR with careful clinical surveillance in patients aged 65 or older with moderate aortic stenosis and at least one additional risk factor for progression. Published ahead of print in The New England Journal of Medicine, the study addresses whether preemptive valve replacement prevents deterioration better than observation. 现行指南通常建议中度主动脉瓣狭窄患者每1至2年接受超声心动图随访监测。如果TAVR在经过筛选的高风险患者中能够改善结局，其适应证可能从重度主动脉瓣狭窄扩展至中度疾病，并减少疾病进展为重度阶段。 The trial enrolled patients with moderate aortic stenosis and associated risk features, with reported risk markers including symptoms attributable to aortic stenosis and left ventricular ejection fraction at or below 50%. The comparison intervention was clinical surveillance rather than routine immediate valve replacement, and the available excerpts do not provide the complete numerical results, safety profile, or follow-up findings.
 
-hackernews · Hacker News \(热门\) · Nov 2, 18:21 · [Discussion](https://news.ycombinator.com/item?id=50341174)
+rss · NEJM · 最新文章 · Nov 2, 05:40
 
-**Background**: Weight editing modifies selected parameters in an already trained neural network instead of retraining the entire model through gradient descent. Mechanistic interpretability studies how such parameters and internal directions implement behaviors, including refusal, reasoning loops, or other model failures. Weight-space programming refers to using an AI system to identify those internal structures and make targeted parameter changes, as opposed to merely asking an LLM to generate a conventional fine-tuning dataset.
+**Background**: Aortic stenosis is a progressive narrowing of the aortic valve that can impair blood flow from the left ventricle into the aorta. TAVR is a minimally invasive catheter-based procedure in which a diseased aortic valve is replaced with a prosthetic valve. Moderate stenosis is commonly managed with periodic clinical and echocardiographic surveillance, whereas TAVR is an established treatment for severe disease.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://rikiyat.github.io/blog/weight-space-programming/">Sparks of Weight -Space Programming: LLMs can natively read &amp; write...</a></li>
-<li><a href="https://icml.cc/virtual/2026/79378">Decoy Direction Optimization: Mechanistic Weight Editing ...</a></li>
-<li><a href="https://arxiv.org/html/2602.11180v1">Mechanistic Interpretability for Large Language Model ...</a></li>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2607326">TAVR in Patients with Moderate Aortic Stenosis with At-Risk ...</a></li>
+<li><a href="https://www.edwards.com/patients-care-partners/trial/progress-patient">The PROGRESS trial - Edwards Lifesciences</a></li>
+<li><a href="https://www.nhlbi.nih.gov/health/tavr">Transcatheter Aortic Valve Replacement (TAVR) - NHLBI, NIH</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters were strikingly impressed that Astra could diagnose looping, remove a specific weight direction, and materially improve a Qwen model&\#x27;s mathematics without conventional training. Some argued that rapid comprehension of complex systems is already familiar in coding agents, while others questioned whether this represents an emergent capability or a narrowly trained weight-data capability; broader reproducibility remains a central concern.
-
-**Tags**: `#LLM Interpretability`, `#Weight Editing`, `#Machine Learning Research`, `#Qwen`, `#AI Reasoning`
+**Tags**: `#TAVR`, `#Aortic Stenosis`, `#Clinical Trials`, `#Cardiology`, `#Transcatheter Valve Implantation`
 
 ---
 
 <a id="item-2"></a>
-## [SLAC Reports Experimental Evidence for Altermagnetism](https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase) ⭐️ 9.0/10
+## [Local Qwen 3.8 27B Demonstrates Weight-Space Interpretation](https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/) ⭐️ 8.0/10
 
-SLAC researchers report the first direct observation of a distinctive property in an altermagnetic candidate material, providing key experimental evidence for altermagnetism as a distinct magnetic phase. The result, announced on October 29, 2026, strengthens the case that altermagnetism is a real phase of matter rather than only a theoretical prediction. Altermagnetism could expand the design space for spintronics and quantum materials by enabling spin-dependent electronic effects without conventional ferromagnetic net magnetization. Establishing it experimentally may also give condensed-matter physicists a new platform for studying symmetry-protected spin splitting and related quantum phenomena. Altermagnetic structures are collinear and crystal-symmetry compensated, so their opposing magnetic moments can produce zero net magnetization. Unlike conventional antiferromagnets protected by combined inversion and time-reversal symmetry, altermagnetic electronic bands can exhibit distinctive spin splitting even though the magnetic order itself carries no net magnetization.
+Simon Willison replicated a weight-interpretation experiment with Qwen 3.8 27B running on his laptop, extending behavior previously reported from the frontier model GPT-6 Astra. The model was given raw floating-point neural-network weights without code execution or other tools and appeared able to infer what the network had learned. The demonstration suggests that some weight-space reasoning may be available in locally run models rather than being exclusive to costly frontier systems. If the behavior is reliable, developers could use it for model inspection and targeted weight editing without writing conventional training loops, although the informal demonstration does not establish robustness. The original experiment trained four policy networks on simplified 10-by-10 versions of Breakout, Pong, Pac-Man, and Freeway, then asked an LLM to identify each game directly from its weights, with no tools and only one response. The associated paper also reports more ambitious weight-editing results, including a claimed MATH-500 increase from 7.9% to 48.1% after editing 0.016% of Qwen3.5-0.8B weights, but critics argue that tool-assisted updates and human-style research steps should be separated from native, no-code weight manipulation.
 
-rss · Hacker News \(热门\) · Nov 2, 21:42
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 3, 16:29 · [Discussion](https://news.ycombinator.com/item?id=50355251)
 
-**Background**: Ferromagnets retain a nonzero net magnetization, while conventional antiferromagnets contain oppositely aligned moments whose effects often cancel. Altermagnetism is another persistent magnetic state distinguished by crystal-symmetry compensation and unusual spin-split electronic bands. Spin splitting means that electronic states with opposite spins have different energies or momentum-space structures, a property central to possible spintronic applications.
+**Background**: Weight-space programming describes using a language model&\#x27;s reasoning to inspect or modify raw neural-network parameters rather than changing behavior only through prompts, code, or conventional optimization. Model weights normally influence outputs through learned numerical transformations, so identifying or editing them without executing the network is a qualitatively different capability from ordinary tool use. The work follows earlier claims that GPT-6 Astra could read weights, infer a network&\#x27;s behavior, and write small game-playing networks directly.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase">SLAC researchers find proof of altermagnetism, a new magnetic ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Altermagnetism">Altermagnetism - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2412.05377v1">Newly discovered magnetic phase: A brief review on Altermagnets</a></li>
+<li><a href="https://rikiyat.github.io/blog/weight-space-programming/">Sparks of Weight - Space Programming : LLMs can natively read ...</a></li>
+<li><a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">Qwen 3 . 8 27 B on my laptop can interpret model weights , too</a></li>
+<li><a href="https://huggingface.co/Qwen/Qwen3.8-27B">Qwen / Qwen 3 . 8 - 27 B · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#condensed-matter physics`, `#altermagnetism`, `#quantum materials`, `#spintronics`, `#scientific discovery`
+**Discussion**: Commenters were impressed that a local 27B model can approach frontier-model performance when guided like a technical lead, but they questioned whether its interpretations are consistently correct. Other discussion focused on whether the model could edit its own generation of Qwen weights and how known steering vectors, J-space concepts, and LoRA might explain the results, while one commenter proposed a playful benchmark involving producing a pelican riding a bicycle.
+
+**Tags**: `#LLMs`, `#Model Weights`, `#Weight-Space Programming`, `#Local Models`, `#AI Safety`
 
 ---
 
 <a id="item-3"></a>
-## [Povorcitinib Shows Phase 3 Efficacy in Nonsegmental Vitiligo](https://www.nature.com/articles/s41591-026-04739-2) ⭐️ 9.0/10
+## [Postman Reportedly Auto-Installs AI Plugins and Transmits API Data](https://github.com/postmanlabs/postman-app-support/issues/14370) ⭐️ 8.0/10
 
-Two randomized, controlled, phase 3 trials, STOP-V1 and STOP-V2, found that the oral JAK1 inhibitor povorcitinib was superior to placebo for improving F-VASI75 scores in people with nonsegmental vitiligo. This result supports povorcitinib as a potential systemic treatment for nonsegmental vitiligo, a condition for which effective options remain limited. If confirmed through review and regulatory assessment, the finding could expand treatment options for patients with extensive or difficult-to-treat disease. The publication reports the trials’ primary finding using F-VASI75, a facial vitiligo measure in which the primary endpoint represents a 75% reduction from baseline. Povorcitinib selectively inhibits JAK1, interrupting inflammatory cytokine signaling through the JAK-STAT pathway; however, the supplied summary does not report sample sizes, effect sizes, adverse events, or the drug’s regulatory status.
+A GitHub support issue alleges that Postman Desktop silently auto-installed Codex and Claude Code plugins, trusted its own hook, and attempted to send detailed API request data to Postman servers. The report says expanded secret values could be included when users populated request parameters through Postman variables, and that blocking the logging endpoint could prevent the application from working properly. If accurate, the behavior creates privacy, secrets-management, compliance, and enterprise-governance risks for a widely used API development platform. The concern is especially serious for healthcare and other regulated teams because API requests may contain credentials, tokens, personal data, or confidential business information. The reported telemetry includes expanded values substituted into request templates, such as \`\{\{some\_secret\}\}\`, rather than only the literal placeholder. Postman’s documentation presents Postman Vault as a way to access sensitive values at runtime without exposing them in collections or requests, but the issue concerns transmission through request logging; the evidence is a user report and support discussion, not a comprehensive independent audit.
 
-rss · Nature Medicine · Nov 2, 00:00
+hackernews · Hacker News \(热门\) · Nov 3, 17:22 · [Discussion](https://news.ycombinator.com/item?id=50354960)
 
-**Background**: Nonsegmental vitiligo is a chronic autoimmune condition that causes areas of skin to lose pigment and can produce substantial changes in appearance and quality of life. The F-VASI, or Facial Vitiligo Area Scoring Index, assesses the extent of depigmentation on the face, and F-VASI75 indicates a 75% improvement from baseline. Povorcitinib is an investigational selective JAK1 inhibitor designed to reduce inflammatory signaling involved in immune-mediated skin disease.
+**Background**: Postman is a graphical platform for constructing, testing, and monitoring API requests, with variables allowing reusable values such as hosts, tokens, and query parameters. AI coding-agent integrations can extend developer tooling with model- or agent-assisted workflows, but automatically installing them raises separate questions about consent, trust boundaries, and who can approve executable hooks. Postman Vault is intended to keep sensitive values out of saved request definitions, although developers should still verify exactly what each request, script, logging feature, and plugin transmits.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Povorcitinib">Povorcitinib - Wikipedia</a></li>
-<li><a href="https://dermington.com/tools/vasi-calculator/">VASI Calculator — Vitiligo Area Scoring Index (T-VASI &amp; F ...</a></li>
-<li><a href="https://cmsderm.ca/calculators/fvasi">F-VASI Calculator (Facial Vitiligo Area Scoring Index)</a></li>
+<li><a href="https://learning.postman.com/docs/use/postman-vault/use-vault-secrets">Use vault secrets in Postman | Postman Docs</a></li>
+<li><a href="https://learning.postman.com/docs/use/postman-vault/manage-vault-secrets/">Create and manage vault secrets in Postman Vault</a></li>
+<li><a href="https://cybersecuritynews.com/postman-api-testing-platform-flaw/">Postman API Testing Platform Flaw Exposes Sensitive Credentials</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#povorcitinib`, `#vitiligo`, `#JAK1 inhibitor`, `#phase 3 trials`, `#dermatology`
+**Discussion**: Commenters expressed strong distrust of Postman’s growing commercialization, forced sign-ins, telemetry, subscriptions, and AI features. A healthcare commenter said the company’s cyber team decertified Postman and the organization switched to Bruno overnight, while other participants recommended Bruno and Git-based request storage; some argued that Postman had become slow, bloated, or unnecessary.
+
+**Tags**: `#Postman`, `#API security`, `#privacy`, `#AI plugins`, `#developer tools`
 
 ---
 
 <a id="item-4"></a>
-## [AI Could Make Mathematics More Egoless](https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/) ⭐️ 8.0/10
+## [Scaling Mac Infrastructure Beyond the Desktop](https://namespace.so/blog/mac-at-any-scale) ⭐️ 8.0/10
 
-In his guest essay, Terence Tao presents an “egoless mathematics” framework that separates the value of mathematical truth from individual credit. The authors argue that AI-generated results should be evaluated by their correctness and usefulness, while human meaning, values, and social context remain central to mathematical research. AI-assisted proof and discovery could challenge conventional systems of authorship, priority, and academic credit. The framework could therefore influence research evaluation and collaboration policies as AI becomes more capable in mathematics. The essay is presented as a guest post by Karthik C. S., Amit Sahai, and Jie Xue, and its core proposal draws on a Platonic view in which mathematical truths exist independently of their discoverers. It is a normative proposal rather than evidence that AI has already eliminated personal credit in mathematics, and its practical implications for hiring, promotion, and attribution remain important questions.
+The article examines the engineering difficulties of operating Apple hardware and macOS in data centers, including automation, virtualization, signing, and deployment. It argues that the ecosystem’s server shortcomings often require costly workarounds rather than a purpose-built Mac server platform. Apple Silicon is increasingly used for continuous-integration runners and other macOS workloads, making reliable remote operation important to developer infrastructure. The analysis highlights how desktop-oriented defaults can increase operational complexity and cost at data-center scale. Notable obstacles include macOS virtualization constraints, fragmented automation and signing workflows, and the difficulty of keeping unattended machines fully operational. A Mac mini reportedly may need to be unlocked after startup, while projects such as VirtualBuddy and macOS-vz-kubelet demonstrate workarounds based on Apple’s virtualization framework and Kubernetes.
 
-hackernews · Hacker News \(热门\) · Nov 2, 18:54 · [Discussion](https://news.ycombinator.com/item?id=50341736)
+hackernews · Hacker News \(热门\) · Nov 3, 14:53 · [Discussion](https://news.ycombinator.com/item?id=50352758)
 
-**Background**: “Egoless” research treats the truth or usefulness of a result as more important than the status or personal prestige attached to its producer. AI makes this issue timely because automated theorem proving and AI-assisted problem solving can increasingly produce or support mathematical arguments, raising questions about verification, attribution, responsibility, and intellectual property. Related work has also called for mathematics-specific ethical guidelines because AI research differs from laboratory-centered scientific workflows.
+**Background**: macOS is traditionally designed for interactive personal devices rather than fleets of unattended servers, so features such as startup unlocking can disrupt remote automation. Virtualization tools can run macOS in virtual machines on supported Apple Silicon hosts, and macOS-vz-kubelet extends this approach to native macOS workloads on Kubernetes. These tools reflect the broader effort to adapt a desktop operating system and development ecosystem for cloud and data-center use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/">Egoless Mathematics in the AI Era | What&#x27;s new</a></li>
-<li><a href="https://teorth.github.io/tao-web/ai-views.html">Terence Tao on AI — a living summary — Terence Tao</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s43681-025-00660-5">The need for ethical guidelines in mathematical research in ...</a></li>
+<li><a href="https://github.com/insidegui/VirtualBuddy">insidegui/VirtualBuddy: Virtualize macOS 12 and later on Apple ...</a></li>
+<li><a href="https://github.com/agoda-com/macOS-vz-kubelet">agoda-com/ macOS -vz-kubelet: Run native macOS workloads on...</a></li>
+<li><a href="https://www.macstadium.com/virtualization">macOS Virtualization</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion was strongly divided. Some commenters welcomed the essay as a thoughtful response to AI and academic incentives, while others feared that an overly Platonic policy could erase the human meaning, motivation, and social values embedded in mathematics; one commenter also argued that “egoless” research ignores personal interest, aptitude, and livelihood.
+**Discussion**: Commenters broadly agreed that Apple’s desktop-oriented ecosystem imposes substantial operational burdens, especially around automation, signing, UI testing, and post-boot unlocking. Some suggested that dedicated Mac servers could justify higher prices, while others proposed Linux-based virtualization of Apple tools or fleets of inexpensive mobile-device-based alternatives.
 
-**Tags**: `#AI in mathematics`, `#egoless research`, `#mathematical culture`, `#AI research ethics`, `#Terry Tao`
+**Tags**: `#Apple Silicon`, `#macOS`, `#Data Center Infrastructure`, `#Virtualization`, `#Operating Systems`
 
 ---
 
 <a id="item-5"></a>
-## [Ubuntu LTS Kernel Remains Unpatched for Critical RCE](https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432) ⭐️ 8.0/10
+## [Astra’s Qwen Weight Edits Mainly Fix Reasoning Termination](https://honnibal.dev/blog/astra-read-write-misleading) ⭐️ 8.0/10
 
-Ubuntu had reportedly not shipped fixed kernels for CVE-2026-98432 nearly three weeks after disclosure, leaving the 22.04, 24.04, and 26.04 LTS releases without an official vendor patch. The delay drew criticism over Ubuntu&\#x27;s handling of the critical vulnerability and its limited mitigation guidance. The vulnerability carries a CVSS 9.8 rating and can reportedly be exploited over the network without privileges or user interaction, creating major exposure for Ubuntu LTS deployments. A prolonged patching gap in widely used long-term-support releases increases operational risk and may undermine confidence in Ubuntu as a server platform. CVE-2026-98432 is a use-after-free flaw in Linux kernel code that sets up incoming IPv4 TCP connections; it requires no user interaction, privileges, or local access, according to the search results. Fixed kernels were reported to be available for testing in AlmaLinux, but the provided discussion questions Ubuntu&\#x27;s priority classification and points to a Red Hat mitigation that may reduce exposure without fully preventing exploitation.
+A technical critique argues that Astra’s edits to Qwen3.5-0.8B do not demonstrate broadly improved reasoning or mathematics. The reported gain primarily reflects fewer premature reasoning-loop terminations rather than a fundamental improvement in the model’s mathematical ability. The distinction changes how researchers should interpret claims that a large language model can directly edit another model’s weights to make it smarter. It also illustrates the need to isolate the behavioral mechanism behind benchmark gains before presenting a narrow optimization as broad capability improvement. The original demonstration changed 131,072 weight entries, about 0.016% of Qwen3.5-0.8B’s nominal 800 million parameters, and was reported to raise MATH-500 from 7.9% to 48.1%. According to the critique, Astra mainly identified and corrected a tendency to emit the closing reasoning token with too little probability, so simple steering could potentially address a similar failure mode.
 
-hackernews · Hacker News \(热门\) · Nov 2, 18:39 · [Discussion](https://news.ycombinator.com/item?id=50341462)
+hackernews · Hacker News \(热门\) · Nov 3, 12:21 · [Discussion](https://news.ycombinator.com/item?id=50351111)
 
-**Background**: Ubuntu&\#x27;s LTS releases receive long-term maintenance through kernel security updates, while HWE stacks allow newer kernels and related components to be backported. A zero-day is a vulnerability known to attackers before the vendor distributes a fix, and a kernel RCE can give an attacker especially powerful control if code execution is successfully achieved.
+**Background**: Astra is presented as a model capable of reading, analyzing, and directly modifying the weights of another neural network without gradient descent or a conventional training loop. Qwen3.5-0.8B is a small open-weight model whose reasoning behavior can include repeated or prematurely terminated loops, making termination behavior an important confound when evaluating mathematical benchmarks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ubuntu.com/kernel/lifecycle">Ubuntu kernel lifecycle and enablement stack | Ubuntu</a></li>
-<li><a href="https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432">Ubuntu LTS kernels still unfixed for critical CVE-2026-98432 · freenode</a></li>
-<li><a href="https://almalinux.org/blog/2026-10-30-cve-2026-98432/">CVE-2026-98432: Patched kernels available in testing | AlmaLinux OS</a></li>
+<li><a href="https://explainx.ai/blog/weight-space-programming-gpt-6-astra-edits-qwen3-5-0-8b-weights-math-7-9-to-48-1-mit-csail-2026">GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1% ...</a></li>
+<li><a href="https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/">Qwen 3.8 27B on my laptop can interpret model weights, too</a></li>
+<li><a href="https://openreview.net/pdf?id=4VD2jMqJbN">Model Merging using Geometric Median of Task</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members strongly criticized the unexplained delay and Ubuntu&\#x27;s lack of actionable mitigation instructions. Some lost confidence in Ubuntu for new servers, while others highlighted the broader risk of consumer routers and embedded Linux systems that rarely receive kernel security updates; a cited comment also questioned why Ubuntu labeled the issue High rather than Critical.
+**Discussion**: Practitioners broadly agreed that the original framing was misleading, while some remained impressed by the underlying weight-space programming idea. Participants also noted that the original post disclosed the reasoning-loop mechanism, questioned whether the technique was genuinely new, and linked it to established approaches such as task vectors and LoRA.
 
-**Tags**: `#Ubuntu`, `#Linux Kernel`, `#Zero-Day`, `#Remote Code Execution`, `#Security Operations`
+**Tags**: `#mechanistic-interpretability`, `#model-editing`, `#Qwen`, `#LLM-reasoning`, `#research-critique`
 
 ---
 
 <a id="item-6"></a>
-## [Anthropic’s Growth Flattens, Claim Challenged by New Revenue Data](https://www.regenerator1.com/p/anthropics-growth-just-flattened) ⭐️ 8.0/10
+## [GitBook Recovers from AI-Assisted Infrastructure Breach](https://news.ycombinator.com/item?id=50354336) ⭐️ 8.0/10
 
-The article’s claim that Anthropic’s growth had flattened was challenged after the company released Q3 figures showing $16.96 billion in revenue, up 47% quarter over quarter from $11.6 billion and more than 1,000% year over year. Commenters also said September price cuts sharply increased Claude token consumption through OpenRouter. The dispute highlights how revenue growth, model pricing, and usage must be considered together when evaluating AI-model economics. Lower prices can create a temporary revenue pause while driving substantially greater consumption, although increased token use does not necessarily mean proportionate improvements in profitability. One commenter said Opus 5.5 launched on September 22, near the end of the quarter, and likely accelerated usage afterward. The discussion also raised the possibility that cheaper, more efficient models increased demand while lowering Anthropic’s serving costs, while another commenter argued that OpenAI offers better price-performance on a per-token basis.
+GitBook reported that an attacker used AI agents to gain unauthorized access to infrastructure credentials at 19:00 CET on November 2, prompting the company to take its app and authenticated documentation sites offline. The company later restored services, replaced infrastructure credentials and secrets, revoked all customer API tokens, and advised customers to rotate related tokens and re-authenticate integrations. The incident highlights the risk posed by AI-assisted attacks against credential-rich platforms that support developer documentation and third-party integrations. Affected organizations may need to rotate secrets across their own environments, while users of GitBook and connected services should treat API tokens and integration credentials as potentially exposed. GitBook said the attacker may have accessed Git Sync secrets, GitBook API tokens, third-party API tokens, and questions submitted to GitBook Assistant; it found no evidence that customer content was modified. The company invalidated all platform tokens, asked users to rotate remaining credentials, and said it would publish a fuller postmortem, while some services could remain degraded during recovery.
 
-hackernews · Hacker News \(热门\) · Nov 2, 22:33 · [Discussion](https://news.ycombinator.com/item?id=50344958)
+hackernews · Hacker News \(热门\) · Nov 3, 16:45
 
-**Background**: Anthropic develops the Claude family of AI models and sells access through subscriptions and API usage, so revenue can respond to both customer demand and changes in token prices. A price reduction may stimulate enough additional usage to increase revenue, but it can also compress revenue per token and make inference costs more important. The figures cited here are presented in the community discussion rather than independently verified through the provided search results.
+**Background**: GitBook is a hosted documentation platform whose authentication, API access, synchronization features, and integrations rely on secrets and tokens. When such credentials are exposed, rotating them can prevent unauthorized use, but customers must also rotate copies stored in connected tools, published integrations, and external automation systems. The incident&\#x27;s AI-agent label describes the attack method, but the available report does not detail the agents&\#x27; autonomy, underlying vulnerabilities, or the full attack timeline.
 
-**Discussion**: Most commenters rejected the flattening narrative, citing 47% quarterly revenue growth, more than 1,000% year-over-year growth, and price-driven increases in Claude token consumption. Others cautioned that revenue alone does not establish profitability, questioned whether lower model prices might cause a revenue stall, and argued that Anthropic must defend its price-performance against OpenAI.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://crypto.news/gitbook-ai-cyberattack-api-tokens-secrets/">GitBook urges token resets after AI-powered cyberattack</a></li>
+<li><a href="https://www.gate.com/news/detail/CAKE/gitbook-discloses-ai-agent-cyberattack-exposing-infrastructure-credentials-25389342">GitBook Discloses AI Agent Cyberattack Exposing ...</a></li>
+<li><a href="https://www.ox.security/blog/responding-to-a-supply-chain-breach-a-guide-to-key-rotation-version-pinning-and-scoping-the-blast-radius/">Responding to a Supply Chain Breach : A Guide to Key Rotation ...</a></li>
 
-**Tags**: `#Anthropic`, `#AI business`, `#revenue growth`, `#Claude pricing`, `#AI economics`
+</ul>
+</details>
+
+**Discussion**: GitBook&\#x27;s CTO said the team took most services offline to protect users, restored them progressively, and was monitoring for further attacks while communicating through email, Slack, and its status page. Community members generally praised GitBook for revoking tokens itself, while also questioning the lack of customer-facing breach notifications and emphasizing that users still needed to rotate external secrets and integrations.
+
+**Tags**: `#cybersecurity`, `#AI-assisted attack`, `#supply-chain security`, `#credential compromise`, `#GitBook`
 
 ---
 
 <a id="item-7"></a>
-## [Cloudflare Halves DNS Build Delay and Cuts Memory 85%](https://blog.cloudflare.com/dns-targeted-zone-builds/) ⭐️ 8.0/10
+## [Codex Users Report Training Opt-Outs Silently Re-Enabled](https://news.ycombinator.com/item?id=50352757) ⭐️ 8.0/10
 
-Cloudflare introduced a targeted build planner and unified scheduler so DNS zone-setting changes rebuild only the affected portions rather than entire zones containing potentially tens of millions of records. The change reduced full builds by about 40%, with 92.95% of builds avoiding a complete zone rebuild, and lowered peak memory from 79 GiB to 12 GiB. DNS zone builds apply configuration changes across large authoritative DNS datasets, so eliminating unnecessary work can shorten propagation-related delays and reduce infrastructure pressure. The improvements also demonstrate how workload-aware planning can help large-scale DNS services operate more efficiently during frequent configuration changes. Cloudflare reports an 85% reduction in peak memory, from 79 GiB to 12 GiB, and a roughly 40% reduction in full builds. According to the search results, the largest p99 build-delay spike fell from 14.6 minutes to half that level, although the implementation must preserve correctness when only rebuilding selected parts of a zone.
+Several Codex users reported that OpenAI had apparently silently re-enabled the &quot;Improve the model for everyone&quot; setting, even though they had previously opted out of having their conversations used for model training. The issue affects content processed through Codex, including material handled in cloud tasks, and users were directed to check both ChatGPT data controls and OpenAI&\#x27;s privacy controls. Codex chats can contain proprietary source code, credentials, architecture details, and other organizational data, so an unexpectedly restored training setting creates serious consent and data-governance risks. Organizations relying on a checkbox to prevent frontier labs from training on sensitive prompts may no longer have reliable assurance that their opt-out remains active. OpenAI&\#x27;s documentation says ChatGPT training data controls apply to content processed through Codex, including screenshots taken by Computer Use; local workflows run on the user&\#x27;s device, while cloud tasks run in OpenAI-managed environments. For personal ChatGPT workspaces, model training is enabled by default and can be disabled under the profile&\#x27;s Settings, Data Controls, and Improve the model for everyone; reports indicate that some users later found this toggle enabled again, although the supplied material does not establish the cause, scope, or duration of the reactivation.
 
-hackernews · Hacker News \(热门\) · Nov 2, 14:47 · [Discussion](https://news.ycombinator.com/item?id=50337558)
+hackernews · Hacker News \(热门\) · Nov 3, 14:53
 
-**Background**: A DNS zone is a collection of domain records and settings managed by an authoritative DNS provider. Cloudflare previously rebuilt an entire zone after certain setting changes, even when the affected data was small and the zone contained tens of millions of records. Its targeted planner selects the smallest safe rebuild and coordinates that work through a unified scheduler.
+**Background**: Codex is OpenAI&\#x27;s coding agent and can be used through a ChatGPT plan, the Codex CLI, or editor integrations. ChatGPT&\#x27;s &quot;Improve the model for everyone&quot; control governs whether eligible conversations may be used to improve models, and OpenAI states that the corresponding ChatGPT training controls also cover content processed through Codex. Enterprise controls therefore remain important for teams handling proprietary code, although this report raises questions about whether an individual account&\#x27;s preference is being applied consistently.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.cloudflare.com/dns-targeted-zone-builds/">How we halved DNS build delay and cut memory use by 85%</a></li>
-<li><a href="https://daily.dev/posts/how-we-halved-dns-build-delay-and-cut-memory-use-by-85--jhnmypmtx">How we halved DNS build delay and cut memory use by 85%</a></li>
-<li><a href="https://www.cloudflare.com/products/dns/">Cloudflare DNS - World&#x27;s Fastest DNS</a></li>
+<li><a href="https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan">Using Codex with your ChatGPT plan | OpenAI Help Center</a></li>
+<li><a href="https://help.openai.com/en/articles/8983130-what-if-i-want-to-keep-my-history-on-but-disable-model-training">What if I want to keep my history on but disable model ...</a></li>
+<li><a href="https://help.openai.com/en/articles/7730893-data-controls-in-chatgpt">Data controls in ChatGPT - OpenAI Help Center</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community participants viewed the work positively, including praise for Cloudflare&\#x27;s technical writing and interest in the return on investment from memory optimization. They also questioned whether 700 changes per second was sufficiently high for Cloudflare&\#x27;s scale and raised concerns about long-term bugs introduced by moving from a relational approach to incremental targeted rebuilds.
+**Discussion**: Commenters expressed alarm and distrust, with some independently reporting that the setting had re-enabled despite earlier opt-out requests. They criticized opaque retention practices at other providers, including Gemini&\#x27;s coupling of saved activity with model improvement, and argued that sensitive organizations should consider self-hosted inference rather than relying on provider checkboxes; some broader claims about sandbox behavior and model-training practices were speculative.
 
-**Tags**: `#DNS`, `#Infrastructure`, `#Performance Optimization`, `#Memory Efficiency`, `#Cloudflare`
+**Tags**: `#OpenAI`, `#Codex`, `#data-privacy`, `#model-training`, `#AI-governance`
 
 ---
 
 <a id="item-8"></a>
-## [Anthropic Says AI Is Near Recursive Self-Improvement](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) ⭐️ 8.0/10
+## [ByteDance Scales Recommender Storage with USDB](https://arxiv.org/abs/2611.02618) ⭐️ 8.0/10
 
-Anthropic reportedly warned that AI systems are approaching recursive self-improvement, meaning they may soon be able to improve the processes used to train or build subsequent AI systems. The available report does not provide detailed evidence, benchmarks, or a timeline supporting the warning. If recursive self-improvement becomes feasible, it could accelerate progress in AI research and create a feedback loop in which better AI systems help produce still-better systems. That possibility has major implications for frontier-AI safety, governance, and evaluations of systems that can autonomously improve themselves. 递归自我改进通常被描述为AI系统修改或改进用于生成后续更强AI系统的机制。现有材料中的说法仍是一项警告，而非已经得到验证的能力；报道没有给出技术证据、具体模型名称、评估结果或“非常接近”的明确判定标准。
+ByteDance presented USDB, a unified sequence-storage practice designed for both streaming and batch recommender-system workloads. It addresses the imbalance between frequent small updates and repeated large reads by using CascadeLSM time-based compaction, differentiated replicas, and shared persistent files. Modern recommendation models increasingly depend on long, attribute-rich user histories, making storage performance a potential bottleneck in large-scale machine-learning infrastructure. USDB could help organizations serving both online and offline recommendation workloads reduce the cost and complexity of managing sequence data. CascadeLSM uses time-based compaction stages to materialize application-specific histories, while differentiated replicas share persistent files. The available material presents the architecture at a high level but does not provide enough evaluation data or implementation detail to assess its impact quantitatively.
 
-rss · TechCrunch AI · Nov 2, 22:14
+rss · Hacker News \(热门\) · Nov 3, 16:40
 
-**Background**: Recursive self-improvement is a hypothesized process in which an AI system improves its own code, learning process, or research capabilities, potentially producing an intelligence explosion. A central condition is that research progress must occur faster than the difficulty of conducting that research, allowing each generation of systems to accelerate the next one. The concept remains debated and is associated with both AI takeoff scenarios and strong safety concerns.
+**Background**: Recommender systems often train on sequential user behavior, and the associated histories can become both long and attribute-rich. Streaming workloads continually update these histories, whereas batch training repeatedly reads large portions of them, creating asymmetric access patterns that specialized storage systems seek to address. USDB is ByteDance&\#x27;s stated practice for unifying these sequence-storage requirements across streaming and batch processing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self - improvement - Wikipedia</a></li>
-<li><a href="https://www.lesswrong.com/w/recursive-self-improvement">Recursive Self - Improvement — LessWrong</a></li>
-<li><a href="https://aman.ai/primers/ai/recursive-self-improvement/">Aman&#x27;s AI Journal • Primers • Recursive Self Improvement (RSI)</a></li>
+<li><a href="https://arxiv.org/abs/2611.02618">[2611.02618] USDB: Scaling Storage for Next-Generation ...</a></li>
+<li><a href="https://arxiv.org/html/2611.02618">USDB: Scaling Storage for Next-Generation Recommender Systems ...</a></li>
+<li><a href="https://newsscore.com/story/199450">ByteDance unveils USDB storage system for recommendation ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Artificial Intelligence`, `#Recursive Self-Improvement`, `#AI Safety`, `#Anthropic`, `#Frontier Models`
+**Tags**: `#recommender-systems`, `#storage-systems`, `#ByteDance`, `#machine-learning-infrastructure`, `#systems-research`
 
 ---
 
 <a id="item-9"></a>
-## [Google Disrupts 1.3 Million-Device Android Botnet](https://www.theverge.com/1024807/google-botnet-android-tv-shut-down) ⭐️ 8.0/10
+## [Aircraft Sounds Can Reveal a Recording’s Exact Location](https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/) ⭐️ 8.0/10
 
-Google said it removed an undisclosed firmware backdoor from 1.3 million Android set-top boxes manufactured by certified partner Videostrong and ended the company&\#x27;s Android device certification relationship. Google and security partners disrupted the XCPE botnet, which primarily consisted of Android TV boxes. The incident shows that certification alone does not guarantee trustworthy firmware and exposes a major supply-chain risk affecting more than a million already deployed IoT devices. It could also undermine consumer confidence in certified Android products and prompt stronger firmware auditing and update controls. Google alleges that Videostrong deliberately installed the backdoor to generate revenue through malware distribution, advertising fraud, and residential proxy services. The company also barred Videostrong from building or selling certified Android devices, although the reported backdoor did not affect Google Play Store.
+A video by Colsto demonstrates how to extract nearly imperceptible aircraft sounds from a recording, analyze their Doppler curves, and match them with ADS-B flight data to infer the recording’s location. The demonstration reportedly localizes a reference recording within about 100 meters and may require less than one minute of audio in some cases. The technique shows that ordinary videos can carry meaningful location clues even without explicit metadata or visible landmarks. It could strengthen multimedia forensics and verification work, while also raising privacy concerns for people who publish recordings from aircraft-visible locations. The method combines acoustic Doppler analysis with aircraft motion and ADS-B records, using signals such as speed, distance, and gaps between flights to constrain candidate locations. Its accuracy depends on the recording’s audio quality, identifiable aircraft sounds, suitable flight data, and the availability of enough observations; it is presented as a video demonstration rather than a peer-reviewed study.
 
-rss · The Verge · Nov 2, 20:37
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 3, 05:32
 
-**Background**: Android TV set-top boxes are internet-connected IoT devices that often depend on manufacturer firmware and limited update support. A botnet is a collection of compromised devices remotely controlled by an operator, which can be used for activities such as malware delivery, advertising fraud, proxy services, or denial-of-service attacks. Google&\#x27;s certification program covers device compliance with its platform requirements, but this incident highlights the importance of independently verifying manufacturer firmware.
+**Background**: ADS-B is an aviation surveillance system in which aircraft periodically broadcast position and related information, allowing their movements to be tracked. When an aircraft passes a stationary microphone, its sound shifts in frequency because of the Doppler effect. By analyzing those frequency changes and comparing them with recorded flight trajectories, investigators can use ambient audio as an OSINT clue for geolocation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cyberinsider.com/google-dismantles-xcpe-android-botnet-1-3-million-devices/">Google dismantles 1.3 million-device Android botnet, bans TV ...</a></li>
-<li><a href="https://www.cyberend.io/blog/google-disrupts-android-tv-botnet-tied-to-device-maker-videostrong">Google disrupts Android TV botnet linked to Videostrong</a></li>
-<li><a href="https://www.android.com/certified/">Certified | Android</a></li>
+<li><a href="https://www.youtube.com/watch?v=UytYrhYLOKI">I discovered a sound that leaks your exact location ... - YouTube</a></li>
+<li><a href="https://github.com/1337isnot1337/DOPPLERGEIST">GitHub - 1337isnot1337/DOPPLERGEIST: A tool to geolocate audio ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android security`, `#botnets`, `#IoT`, `#supply-chain security`, `#Google`
+**Discussion**: Simon Willison characterized the work as a technically creative OSINT demonstration and linked it through Lobste.rs, where the featured link points to a discussion about background sounds leaking exact locations.
+
+**Tags**: `#OSINT`, `#geolocation`, `#privacy`, `#audio-forensics`, `#ADS-B`
 
 ---
 
 <a id="item-10"></a>
-## [Hundreds of AI Apps Hide Abusive Deepfake Features](https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/) ⭐️ 8.0/10
+## [Anthropic Warns AI Is nearing Recursive Self-Improvement](https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/) ⭐️ 8.0/10
 
-WIRED investigated roughly 400 AI-powered apps and websites linked to Chinese-language developers that appeared to be ordinary AI tools but secretly allowed users to create violent AI-generated images and videos. The findings show how users may encounter harmful generative-media capabilities disguised behind benign interfaces, creating risks for victims and placing greater pressure on app stores, websites, and model providers to enforce disclosure and safety controls. The investigation covered some 400 services and focused on undisclosed features for generating violent synthetic images and video. The supplied report summary does not provide details about specific apps, detection methods, enforcement actions, or the developers’ responses.
+Anthropic reportedly warns that AI systems are close to recursively improving themselves, potentially accelerating further AI development. The excerpt does not provide the underlying evidence, timeline, or technical benchmarks supporting this warning. If recursive self-improvement becomes practical, AI could improve the research, engineering, and training processes used to build subsequent systems, potentially producing rapid capability gains. The claim is therefore an important AI-safety signal, although its significance depends on evidence not included in the excerpt. Recursive self-improvement is a hypothesized process in which an AI system modifies or rewrites components of its own code or training process to create a more capable successor. The supplied material offers no definition of Anthropic’s specific threshold, no measured capability, and no independent verification of how close current systems are to it.
 
-rss · Wired · Nov 2, 10:00
+rss · TechCrunch AI · Nov 2, 22:14
 
-**Background**: AI-generated deepfakes use generative models to fabricate realistic-looking images, video, or audio, often by manipulating an existing person’s likeness. Their rapid production and broad distribution have made moderation difficult, particularly when abusive capabilities are concealed rather than clearly advertised.
+**Background**: Recursive self-improvement, or RSI, is the idea that a sufficiently capable AI could improve itself and then use its enhanced abilities to create an even better successor. In I. J. Good’s formulation, this recursive cycle could produce an intelligence explosion, while some researchers dispute how rapidly such an explosion could occur. The term also carries longstanding concern among AI-safety advocates, who view unchecked RSI as a potential source of severe or irreversible risk.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://hivemoderation.com/ai-generated-content-detection">AI - Generated Content Detection | Hive</a></li>
-<li><a href="https://buble.ai/acceptable-use-policy">Acceptable Use Policy for AI -generated content and services on Buble</a></li>
-<li><a href="https://www.techbuzz.ai/articles/grok-still-hosts-sexualized-deepfakes-despite-ai-safety-push">Grok Still Hosts Sexualized Deepfakes Despite AI ... | The Tech Buzz</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Recursive_self-improvement">Recursive self - improvement - Wikipedia</a></li>
+<li><a href="https://aman.ai/primers/ai/recursive-self-improvement/">Aman&#x27;s AI Journal • Primers • Recursive Self Improvement (RSI)</a></li>
+<li><a href="https://www.noahpinion.blog/p/wheres-the-intelligence-explosion">Where’s the “ intelligence explosion ”? - by Ramez Naam</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Safety`, `#Deepfakes`, `#App Governance`, `#Content Moderation`, `#Platform Abuse`
+**Tags**: `#Artificial Intelligence`, `#Recursive Self-Improvement`, `#AI Safety`, `#Anthropic`, `#AGI`
 
 ---
 
 <a id="item-11"></a>
-## [P4 Trial Tests CT Versus Ultrasound Guidance for PCI](https://www.nejm.org/doi/full/10.1056/NEJMoa2610771?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 8.0/10
+## [42AI Launches With $62.5M and a Human Behavior Model](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/) ⭐️ 8.0/10
 
-The New England Journal of Medicine published the P4 trial comparing coronary computed tomography angiography with intravascular ultrasound as guidance strategies for percutaneous coronary intervention. The supplied item identifies the randomized study but does not report its clinical outcomes. The trial could influence how interventional cardiologists plan stent placement and assess coronary anatomy during PCI. Its implications would depend on whether the strategies differed in clinical outcomes, safety, procedural efficiency, or resource use, none of which can be determined from the supplied excerpt. Coronary CT angiography provides noninvasive cross-sectional imaging before or during evaluation, whereas intravascular ultrasound is a catheter-based method that visualizes the vessel from inside the artery during PCI. Because the excerpt contains no sample size, endpoint, follow-up duration, effect estimates, or limitations, the trial&\#x27;s direction and strength of evidence cannot be assessed.
+42AI emerged from stealth with $62.5 million in funding and introduced a world model intended to predict human behavior in previously unseen situations. The company claims its system can forecast how people may act when facing novel circumstances. The launch signals substantial investor interest in AI systems that model and anticipate human decisions rather than merely generate text. Such models could influence forecasting, market analysis, planning, and other decision-support applications, while raising questions about prediction reliability and responsible use. 42AI claims 98% accuracy when predicting market trades, but founder Gal-Or clarified that the metric measures whether trading flows fall within a predicted range rather than whether every individual trade was correctly forecast. The available report does not provide enough technical detail to assess the model’s architecture, training data, evaluation methods, or performance outside market-related tasks.
 
-rss · NEJM · 最新文章 · Nov 1, 06:45
+rss · TechCrunch AI · Nov 2, 16:30
 
-**Background**: Percutaneous coronary intervention uses catheter-based imaging and contrast angiography to guide decisions such as lesion assessment and stent sizing. Angiography can be limited by two-dimensional visual estimation, while intravascular ultrasound offers more detailed internal vessel measurements. Coronary CT angiography is a noninvasive imaging approach, and prior randomized evidence summarized in the search results associates intravascular imaging guidance with lower major adverse cardiovascular event risk than angiography alone.
+**Background**: A world model is an AI system that represents an environment and predicts how states or actions may evolve over time. Human-behavior world models apply this idea to social or decision-making contexts, aiming to anticipate actions in situations not directly represented in historical data. Existing approaches often rely on large language models that are prompted or fine-tuned to role-play a target demographic, an approach that Mirror Particle has criticized as fundamentally flawed.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7666918/">When to use intravascular ultrasound or optical coherence...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6309719/">Imaging during percutaneous coronary intervention for ...</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s12928-026-01318-7">Intravascular imaging guidance for percutaneous coronary ...</a></li>
+<li><a href="https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/">42 AI comes out of stealth with $62.5M and a world model that can...</a></li>
+<li><a href="https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/">Mirror Particle is building a ‘ world model ’ of human behavior</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cardiology`, `#percutaneous coronary intervention`, `#medical imaging`, `#randomized clinical trial`, `#intravascular ultrasound`
+**Tags**: `#world-models`, `#AI-funding`, `#human-behavior-prediction`, `#AI-research`, `#startup-launch`
 
 ---
 
 <a id="item-12"></a>
-## [Global Cervical Cancer Burden Set to Rise by 2050](https://www.nature.com/articles/s41591-026-04729-4) ⭐️ 8.0/10
+## [BlackX Bootkit Bypasses Secure Boot on Patched Windows](https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/) ⭐️ 8.0/10
 
-A Global Burden of Disease analysis estimated 887,000 new cervical cancer cases and 369,000 deaths worldwide in 2023. The study also forecasts that both incidence and mortality will increase further by 2050. The projected increase indicates that cervical cancer will remain a major and worsening global public-health challenge despite the availability of effective screening and vaccination measures. The findings can help governments and health agencies prioritize prevention, early detection, treatment capacity, and international resource allocation. The reported estimates cover the global, regional, and national burden of cervical cancer through 2023, with projections extending to 2050. The supplied summary does not specify the forecast scenarios, confidence intervals, geographic disparities, or the methodological assumptions used to calculate future cases and deaths.
+The BlackX UEFI bootkit was used in a 2026 espionage campaign targeting diplomatic organizations in Tajikistan, Uzbekistan, and Turkmenistan. It bypassed Windows Secure Boot by exploiting the Baton Drop vulnerability, identified as CVE-2022-21894, even on fully patched systems. The campaign shows that fully patched Windows systems can still be compromised below the operating system, where firmware code runs before security software starts. It also raises questions about whether ambiguities or weaknesses in Microsoft&\#x27;s Secure Boot policies and implementation contribute to the persistence of signed-component exploitation. BlackX resembles the BlackLotus bootkit and loads a malicious UEFI driver intended to interfere with Kaspersky and Avast security products. The core issue is the Baton Drop vulnerability in the Secure Boot trust chain, rather than an unpatched flaw in a Windows application or conventional kernel component.
 
-rss · Nature Medicine · Nov 2, 00:00
+rss · Ars Technica · Nov 3, 16:03
 
-**Background**: The Global Burden of Disease study is a large international epidemiological program that assesses mortality, disability, and risk factors associated with diseases and injuries. It provides standardized estimates across countries and time periods, while forecasting methods use historical trends and alternative scenarios to project future health burdens. Such estimates help describe the scale and distribution of disease, but they remain model-based and depend on the quality and assumptions of the underlying data.
+**Background**: UEFI is the firmware standard that initializes a modern computer before the operating system loads. Secure Boot should verify boot components against trusted keys, but signed third-party boot loaders have previously exposed bypass paths, allowing malicious firmware to undermine the operating system&\#x27;s trust boundary.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.thelancet.com/gbd">Global Burden of Disease - The Lancet</a></li>
-<li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2824%2900932-2/abstract">Forecasting the global burden of disease to 2050</a></li>
-<li><a href="https://www.healthdata.org/sites/default/files/2024-05/GBD_2021_Forecasting_infographic_FINAL_2024.05.16.pdf">Forecasts of disease burden through 2050</a></li>
+<li><a href="https://securelist.com/uefi-bootkit-blackx/121539/">New BlackX UEFI bootkit exploiting Baton Drop | Securelist</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/">BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</a></li>
+<li><a href="https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html">BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cervical cancer`, `#global burden of disease`, `#epidemiology`, `#public health`, `#disease forecasting`
+**Tags**: `#UEFI`, `#Secure Boot`, `#Windows Security`, `#Bootkit`, `#Firmware Exploitation`
 
 ---
 
 <a id="item-13"></a>
-## [UNICORN trial supports neoadjuvant botensilimab combinations in colon cancer](https://www.nature.com/articles/s41591-026-04710-1) ⭐️ 8.0/10
+## [Apple Opens Siri AI to Third-Party Apps](https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps) ⭐️ 8.0/10
 
-The phase 2 UNICORN trial reported that a short course of neoadjuvant botensilimab, with or without balstilimab, met its primary endpoint of pathological major response in patients with pMMR or dMMR colon cancer. The findings support further evaluation of a brief preoperative dual-checkpoint regimen that produced pathological tumor response across both MMR subgroups. If confirmed in larger randomized trials, this approach could change the treatment sequence and potentially surgical planning for locally advanced colon cancer. Botensilimab is an Fc-enhanced CTLA-4-targeting bispecific antibody, while balstilimab is a PD-1-blocking monoclonal antibody. The supplied report identifies pathological major response as the trial&\#x27;s primary endpoint but does not provide response rates, sample size, safety results, or arm-specific outcomes, so the magnitude and durability of benefit remain unclear.
+Apple said iOS 27.3 gives developers access to Siri AI integration for all apps, including actions in third-party apps. The preview also supports natural-language prompts, personal context, and on-screen awareness. This expands Siri AI from an Apple-controlled assistant into a broader platform interface that developers can extend with app-specific capabilities. It could reshape voice-driven app integration while increasing the importance of user permissions, privacy controls, and App Store review requirements. Developers can expose app data through entities and define actions that Siri can perform using Apple&\#x27;s App Intents system, with the preview available for iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas. A search result notes that App Store apps may not be able to use the feature until spring, while the provided excerpt does not specify the final availability date or detailed privacy safeguards.
 
-rss · Nature Medicine · Nov 2, 00:00
+rss · The Verge · Nov 3, 20:16
 
-**Background**: Mismatch repair deficiency can make colorectal cancers highly immunogenic and particularly sensitive to immune checkpoint inhibitors. Neoadjuvant immunotherapy is given before surgery to shrink tumors and assess pathological response; in dMMR or MSI-H disease, prior studies have reported especially high pathological complete-response rates, although imaging may not always predict the surgical findings accurately.
+**Background**: Siri AI is Apple&\#x27;s redesigned, more conversational assistant built on Apple Intelligence. Its personal-context feature can use information already on a user&\#x27;s device, while on-screen awareness lets it understand what is visible and respond to context beyond a simple voice command. Third-party integration is built around App Intents, which allows apps to define structured capabilities that the assistant can invoke.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11609826/">Botensilimab , an Fc-Enhanced Anti– CTLA - 4 Antibody , Is Effective...</a></li>
-<li><a href="https://www.cancer.gov/publications/dictionaries/cancer-drug/def/balstilimab">Definition of balstilimab - NCI Drug Dictionary - NCI</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12926347/">Discordance between radiological and pathological response to ...</a></li>
+<li><a href="https://developer.apple.com/news/?id=gdk2umrf">Siri AI is now open to all developers - Latest News - Apple ...</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/">Apple introduces Siri AI, a profoundly more capable and ...</a></li>
+<li><a href="https://www.ithinkdiff.com/siri-ai-developer-preview-third-party-apps/">Siri AI Developer Preview Lets Any App Add Siri Actions</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Apple Intelligence`, `#Siri`, `#iOS`, `#Third-Party Apps`, `#AI Assistants`
+
+---
+
+<a id="item-14"></a>
+## [Binance Says a Fake Job Interview Enabled a $6.34 Billion Crypto Heist](https://www.wired.com/story/binance-says-hackers-used-well-known-tricks-to-carry-out-a-dollar634-billion-heist/) ⭐️ 8.0/10
+
+Binance reported that suspected North Korean attackers compromised an engineer through a fake job interview and malicious download, then stole digital assets worth approximately $6.34 billion. The engineer was reportedly instructed to download malware disguised as a job assignment during a second interview. The reported theft would rank among the largest cryptocurrency heists and shows that a major exchange can be compromised through an employee rather than a direct breach of its public-facing systems. The incident highlights the growing risk of social engineering and malicious downloads targeting cryptocurrency firms and their technical staff. The engineer was contacted through a legitimate job-hunting platform and invited to interviews with fake company representatives. The downloaded malware reportedly used obfuscation techniques to evade detection, but the supplied material provides limited detail about the intrusion mechanism, the precise sequence of compromise, or the disposition of the stolen assets.
+
+rss · Wired · Nov 3, 19:04
+
+**Background**: A clickfake interview is a social-engineering scheme in which criminals pose as recruiters to induce targets to click links, download malware, or disclose sensitive information. Such attacks shift the initial target from software and corporate infrastructure to individual employees, whose access and trust may provide a path into protected systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bbc.com/news/articles/ck5ynwz9gy67o">Binance says fake job interviews used as part of $6.3bn ... - BBC</a></li>
+<li><a href="https://www.huntress.com/cybersecurity-101/topic/what-is-clickfake-interview-cybersecurity-threat">What Is a Clickfake Interview ? Definition, Tactics... | Huntress</a></li>
+<li><a href="https://www.wired.com/story/3cx-supply-chain-attack-north-korea-cryptocurrency-targets/">Massive 3CX Supply - Chain Hack Targeted Cryptocurrency ... | WIRED</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cryptocurrency-security`, `#North Korean hackers`, `#social engineering`, `#supply-chain attacks`, `#Binance`
+
+---
+
+<a id="item-15"></a>
+## [Hundreds of AI Apps Hide Abusive Deepfake Tools](https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/) ⭐️ 8.0/10
+
+WIRED identified roughly 400 apps and websites linked to Chinese-language developers that appear to offer ordinary AI tools while secretly enabling users to generate violent and sexually abusive AI-generated images and videos. The findings expose a serious gap between product descriptions and actual functionality across AI app stores, websites, and potentially major social platforms. They also raise broader concerns about consent, non-consensual abuse, content moderation, and whether users can safely upload their photos. The affected products masquerade as routine AI applications, making their abusive capabilities difficult for users to anticipate or discover through normal app-store listings. Search coverage indicates that the investigation brought scrutiny to Apple’s App Store, Google Play, and Meta, although the provided material does not specify what enforcement action, if any, followed.
+
+rss · Wired · Nov 2, 10:00
+
+**Background**: Deepfake tools can generate realistic synthetic images or videos from supplied photographs. Content moderation generally combines automated classifiers with human review to identify harmful user-generated and AI-generated material, but hidden features can bypass visibility and consent checks. The investigation therefore highlights moderation challenges beyond merely detecting explicit content after publication.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/">Hundreds of Mundane AI Apps Are Hiding Sexually Abusive ...</a></li>
+<li><a href="https://www.analyticsinsight.net/news/ai-deepfake-scam-400-apps-hide-abusive-tools-on-app-stores">AI Deepfake Scam: 400+ Apps Hide Abusive Tools on App Stores</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Safety`, `#Deepfakes`, `#Generative AI`, `#Content Moderation`, `#Investigative Journalism`
+
+---
+
+<a id="item-16"></a>
+## [Registry Finds No Detectable Mortality Difference Between PCI and CABG](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902104-5/fulltext?rss=yes) ⭐️ 8.0/10
+
+A prospective analysis of the multicentre IRIS-MAIN registry found no statistically detectable difference in all-cause mortality between drug-eluting stent PCI and CABG for left main coronary artery disease. The authors suggest that multidisciplinary Heart Team assessment may help patients and clinicians weigh the trade-offs of either strategy. Left main coronary artery disease is clinically important, and the findings provide real-world evidence that may support individualized treatment selection rather than assuming one approach is superior for every patient. However, the observational design means the results cannot establish that the strategies are equivalent in survival. The analysis was prospective but non-randomised and enrolled patients with left main coronary artery disease who were considered suitable for either PCI or CABG. A lack of a statistically detectable mortality difference should not be interpreted as proof of equivalence, and the analysis alone cannot establish causal treatment effects.
+
+rss · The Lancet · 最新文章 · Nov 3, 19:57
+
+**Background**: Left main coronary artery disease can compromise a major artery supplying a large part of the heart, making treatment selection particularly consequential. PCI uses catheter-based implantation of a drug-eluting stent, whereas CABG uses bypass grafts to restore blood flow. The Heart Team approach brings relevant specialties together to support multidisciplinary assessment and shared decision-making.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11308725/">Building and Optimizing the Interdisciplinary Heart Team - PMC</a></li>
+<li><a href="https://heart.bmj.com/content/108/11/e2">Getting the best from the Heart Team : guidance for cardiac ... | Heart</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cardiovascular medicine`, `#coronary artery disease`, `#percutaneous coronary intervention`, `#coronary artery bypass grafting`, `#clinical registry`
+
+---
+
+<a id="item-17"></a>
+## [Engineered TIL Shows Early Promise After Checkpoint Inhibitors](https://www.nature.com/articles/s41591-026-04743-6) ⭐️ 8.0/10
+
+A pooled, non-prespecified analysis of phase 1 and phase 1/2 trials found that amsokigene autoleucel could be manufactured successfully, was generally well tolerated, and produced a preliminary efficacy signal in patients with advanced melanoma refractory to immune checkpoint inhibitors. The autologous tumor-infiltrating lymphocyte therapy uses regulatable membrane-bound IL-15 and does not require IL-2. The therapy addresses a major unmet need for patients whose advanced melanoma progresses despite immune checkpoint blockade. If its early signal is confirmed in controlled studies, removing IL-2 dependence while improving T-cell persistence could make cell therapy more practical and scalable. Amsokigene autoleucel expresses membrane-bound IL-15 fused to a drug-responsive regulatory domain, allowing expansion and persistence to be modulated. The reported findings are preliminary because the pooled analysis was not prespecified, and the evidence comes from early-phase trials.
+
+rss · Nature Medicine · Nov 3, 00:00
+
+**Background**: Tumor-infiltrating lymphocyte therapy isolates a patient&\#x27;s own antitumor T cells, engineers them, and reinfuses them to treat advanced solid tumors. Immune checkpoint inhibitors help T cells attack tumors, but some melanomas remain resistant. Conventional TIL manufacturing commonly uses IL-2 to support T-cell growth, while regulatable membrane-bound IL-15 is designed to provide such support without systemic IL-2 exposure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41591-026-04743-6">Regulatable membrane-bound IL-15 engineered TIL cell therapy ...</a></li>
+<li><a href="https://www.cell.com/molecular-therapy-family/molecular-therapy/fulltext/S1525-0016%2825%2900310-7">IL-2-independent expansion, persistence, and antitumor ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9748991/">Efficacy and safety of lifileucel, a one-time autologous ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cancer-immunotherapy`, `#tumor-infiltrating lymphocytes`, `#IL-15`, `#melanoma`, `#clinical-trials`
+
+---
+
+<a id="item-18"></a>
+## [Cervical Cancer Burden Forecast to Rise by 2050](https://www.nature.com/articles/s41591-026-04729-4) ⭐️ 8.0/10
+
+A Global Burden of Disease analysis published in Nature Medicine estimated 887,000 new cervical cancer cases and 369,000 deaths worldwide in 2023. The study also forecasts that both incidence and mortality will increase further by 2050. A projected rise in cervical cancer cases and deaths would increase pressure on screening, vaccination, diagnosis, and cancer-treatment services worldwide. The findings also underscore the need to strengthen preventive measures and address geographic disparities in disease burden. The analysis covers the global, regional, and national burden of cervical cancer from 1990 through 2023, with projections extending to 2050. The supplied article summary does not specify the forecasting model, uncertainty intervals, regional results, or assumptions underlying the projections.
+
+rss · Nature Medicine · Nov 2, 00:00
+
+**Background**: The Global Burden of Disease study systematically estimates incidence, prevalence, mortality, disability, and risk factors across many diseases and countries, integrating cancer registries, vital-registration systems, cohort studies, and health surveys. Disease-burden forecasts use historical trends and population projections to estimate future health effects, but long-range predictions depend on assumptions about demography, risk factors, prevention, and treatment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Global_Burden_of_Disease_study">Global Burden of Disease study - Wikipedia</a></li>
+<li><a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1563631/full">Frontiers | Global , regional, and national burden and risk factors of...</a></li>
+<li><a href="https://www.bmj.com/content/388/bmj-2024-080952">Projections for prevalence of Parkinson’s disease and its... | The BMJ</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cervical cancer`, `#global health`, `#disease burden`, `#epidemiology`, `#forecasting`
+
+---
+
+<a id="item-19"></a>
+## [UNICORN trial reports promising neoadjuvant responses in colon cancer](https://www.nature.com/articles/s41591-026-04710-1) ⭐️ 8.0/10
+
+The phase 2 UNICORN trial found that a short course of neoadjuvant botensilimab, with or without balstilimab, achieved pathological major responses in patients with pMMR or dMMR colon cancer. The study met its primary endpoint of pathological major response rate. This result supports further evaluation of brief neoadjuvant immunotherapy before surgery in colon cancer, including patients whose tumors are MMR proficient. If confirmed in larger or randomized studies and linked to durable outcomes, the approach could expand immunotherapy use beyond the traditional focus on dMMR disease. Botensilimab is an Fc-enhanced CTLA-4-targeting bispecific antibody, while balstilimab is an anti-PD-1 antibody; the regimen therefore combines complementary immune-checkpoint approaches when both are used. The available report is a short abstract with limited methodological detail, so response rates, cohort sizes, safety, follow-up, and the relative contribution of each drug require confirmation from the full publication.
+
+rss · Nature Medicine · Nov 2, 00:00
+
+**Background**: Neoadjuvant therapy is administered before definitive surgery, with the aim of shrinking or eliminating tumor and testing treatment sensitivity. pMMR and dMMR describe whether tumor DNA mismatch-repair proteins are intact or deficient, and this biomarker can influence prognosis and responses to immune-checkpoint therapy. Pathological major response means that surgery reveals little or no residual viable tumor, although imaging or biopsy results alone cannot establish that outcome.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10627057/">Next-generation CTLA - 4 targeting molecules and combination therapy...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/34452745/">Phase II study of the safety and efficacy of the anti-PD-1 ...</a></li>
+<li><a href="https://www.cap.org/article/mismatches-in-mismatch-repair-navigating-discordant-mmr-msi-test-results/">Mismatches in Mismatch Repair: Navigating Discordant MMR/MSI ...</a></li>
 
 </ul>
 </details>
@@ -350,795 +520,1346 @@ rss · Nature Medicine · Nov 2, 00:00
 
 ---
 
-<a id="item-14"></a>
-## [Subvocal Brings Silent-Speech Control to Smart Glasses](https://news.ycombinator.com/item?id=50340088) ⭐️ 7.0/10
-
-YC F26 startup The Subvocal Company is developing smart glasses that decode silently mouthed speech into computer text at conversational speed. Unlike its earlier EMG prototype, the current system uses radio-frequency sensing through embedded frame antennas and foundation models to interpret changes caused by the tongue, lips, and soft palate, with an added mode for closed-lip internal speech. The system could provide discreet, hands-free computer control in libraries, offices, public spaces, and for users who cannot or prefer not to speak aloud. It also illustrates a shift toward wearable sensing that can infer a user&\#x27;s intent without relying on microphones, cameras, or audible speech, although accuracy, privacy, and hardware fit remain critical adoption barriers. Subvocal abandoned face electrodes because sweat, electrical interference, placement variability, and user discomfort undermined EMG. The team built a low-noise RF sensing stack and foundation models, but antenna alignment and cross-user generalization remain difficult because facial anatomy changes signal patterns; external reporting lists a $499 price, preorders, and a claimed rate above 200 words per minute, while the founders did not provide a sufficiently clear current accuracy figure.
-
-hackernews · Hacker News \(热门\) · Nov 2, 17:16
-
-**Background**: Silent-speech interfaces let users communicate with computers by mouthing words without producing audible sound. Subvocal&\#x27;s approach uses RF waves that pass through the face and are modulated by speech-related articulation, while a trained model translates those perturbations into text. The method differs from reading lip movements with a camera or measuring surface muscle activity with electrodes, and prior research has explored silent speech as an accessible, always-available input method.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://runany.dev/blog/subvocal/">Subvocal : glasses that type what you mouth silently</a></li>
-<li><a href="https://shiftdelete.net/en/subvocal-glasses">Subvocal Glasses : $499 Silent Speech Glasses Raise $1.3M</a></li>
-<li><a href="https://www.mdpi.com/1424-8220/24/22/7368">Silent Speech Eyewear Interface: Silent Speech Recognition ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters found Subvocal compelling, particularly for accessibility and discreet hands-free computing, but criticized the missing accuracy figures as the main purchasing objection. They also raised concerns about antenna and processing placement, prescription-frame compatibility, fit for unusual nose and head shapes, and whether inference occurs locally or in the cloud; one commenter warned that the sensing approach could still enable sensitive physiological inferences.
-
-**Tags**: `#silent-speech`, `#smart-glasses`, `#human-computer-interaction`, `#accessibility`, `#edge-AI`
-
----
-
-<a id="item-15"></a>
-## [Preserve the Websites You Value](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/) ⭐️ 7.0/10
-
-The article urges readers to personally preserve valuable websites as links disappear, platforms shut down, and major archives remain incomplete. It presents custom capture tools such as ArchiveWeb and SingleFile as practical ways to save selected content or complete, media-rich pages. Personal archives can preserve fragile cultural, technical, and community material that centralized crawlers may never capture. The article also reflects growing concern that AI-mediated information systems could concentrate control over the available historical record. SingleFile saves a page—including CSS, images, fonts, and frames—as one HTML file and supports major desktop and mobile browsers. ArchiveWeb is presented as a more customizable option for selecting what to capture, but users remain responsible for storage, legality, copyright, and the completeness of their archives.
-
-hackernews · Hacker News \(热门\) · Nov 2, 13:25 · [Discussion](https://news.ycombinator.com/item?id=50336518)
-
-**Background**: Link rot refers to web content becoming inaccessible as pages move, domains expire, or hosting services close. The Wayback Machine and similar services preserve many pages, but they cannot capture every site, dynamically generated state, or media asset, especially when a forum was never crawled. Browser-based tools offer a complementary approach for preservation selected by individual users.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://chromewebstore.google.com/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle">SingleFile - Chrome Web Store</a></li>
-<li><a href="https://github.com/gildas-lormeau/SingleFile">GitHub - gildas-lormeau/SingleFile: Web Extension for saving ...</a></li>
-<li><a href="https://worldmetrics.org/best/website-archiving-software/">Top 10 Best Website Archiving Software | 2026 Verified Picks</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters strongly agreed, citing 404 errors, vanished personal sites, and forums that disappeared without complete Wayback Machine coverage. They praised ArchiveWeb&\#x27;s selective captures and SingleFile&\#x27;s portable output, while warning that AI can reconstruct salvaged material but cannot recover data that no longer exists.
-
-**Tags**: `#web-archiving`, `#digital-preservation`, `#link-rot`, `#Wayback-Machine`, `#SingleFile`
-
----
-
-<a id="item-16"></a>
-## [Momentic Launches Autonomous QA Agents for Apps](https://momentic.ai/) ⭐️ 7.0/10
-
-Momentic, a YC W24 startup, launched Mo, an autonomous QA agent harness that explores web, iOS, and Android flows to detect bugs and regressions. In its 60-minute benchmark on four open-source apps with 1,396 human-labeled bugs, Mo reported 269 findings, 19.3% recall, 84% precision, and a cost of $2.67 per bug. The system targets a major limitation of script-based end-to-end testing: tests encode brittle implementation details such as XPath, text, or aria attributes and require ongoing maintenance. Mo&\#x27;s higher reported recall could help teams uncover more edge cases as AI-generated code expands, although its higher cost and lack of independent validation remain important tradeoffs. Mo uses a self-organizing directed acyclic graph to fork exploration into parallel subagents, specialized planning and locator agents, and cooperative resource leases that permit concurrent use but only one active modification of a resource. The launch also includes a tunnel for exposing private sites and local apps, with capacity for hundreds of concurrent browsers and devices; desktop support is described as forthcoming.
-
-hackernews · Hacker News \(热门\) · Nov 2, 17:05 · [Discussion](https://news.ycombinator.com/item?id=50339913)
-
-**Background**: Traditional end-to-end frameworks such as Playwright, Selenium, and Maestro automate browsers and devices through scripts that identify controls and assert expected behavior. Agentic QA instead uses language models to plan interactions, interpret screenshots, and explore application states without requiring every path to be hardcoded. Autonomous UI-testing research similarly emphasizes state exploration, action selection, and defect detection rather than fixed test sequences.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://testingbot.com/playwright-vs-selenium">Playwright vs Selenium : Which Should You Choose? | TestingBot</a></li>
-<li><a href="https://arxiv.org/html/2503.08464v2">An Autonomous RL Agent Methodology for Dynamic Web UI Testing ...</a></li>
-<li><a href="https://deepswe.lol/">DeepSWE — Long-Horizon Software Engineering Benchmark</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters were intrigued by the DAG-based expansion of test coverage and higher bug recall, but questioned the value of paying $2.67 per bug when Codex cost $0.80, the product&\#x27;s two-year YC timeline, and whether it could outperform a custom open-source harness. Mobile testing on real devices was viewed as a potential differentiator, while one commenter also raised an undisclosed email-to-Slack notification concern.
-
-**Tags**: `#AI agents`, `#automated testing`, `#bug detection`, `#software quality assurance`, `#mobile testing`
-
----
-
-<a id="item-17"></a>
-## [Should the SEC Block Anthropic’s IPO?](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/) ⭐️ 7.0/10
-
-An article argues that the SEC should block Anthropic’s IPO on public-interest grounds, citing concerns that include corporate conduct, AI-related risks, and the interests of ordinary investors. The proposal has prompted a broader debate over the SEC’s authority, the reliability of the evidence presented, corruption risk, and the role of market forces. If regulators could stop a major AI company’s IPO based on broad public-interest considerations, the precedent could expand government influence over access to public markets and investment decisions. The dispute also highlights a central tension in securities regulation: protecting investors and preventing fraud versus preserving fair, market-driven access to capital. The discussion emphasizes that the SEC’s established role centers on disclosure, fraud enforcement, and fair securities markets rather than deciding whether a company is a good investment. Commenters also challenged an uncited claim that American workplace AI use fell from 46% in summer 2025 to 33% in 2026, arguing that its source could not be located and that anecdotal adoption appeared to be increasing.
-
-hackernews · Hacker News \(热门\) · Nov 2, 22:30 · [Discussion](https://news.ycombinator.com/item?id=50344919)
-
-**Background**: An IPO is the process through which a private company raises capital by selling shares to the public, subject to regulatory review and securities-law disclosure requirements. SEC oversight is generally directed toward ensuring that investors receive required information and that offering documents and market conduct comply with the law. Prior episodes, such as China’s suspension of Ant Group’s IPO, show that regulators may intervene in major offerings, although that case arose in a different legal and institutional environment.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sec.gov/search-filings">SEC .gov | Search Filings</a></li>
-<li><a href="https://www.npr.org/2020/11/03/930799521/regulators-squash-giant-ant-ipo">Alibaba&#x27;s Ant Group Has IPO Blocked : NPR</a></li>
-<li><a href="https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records">AI giant Anthropic files for an IPO that could break records : NPR</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Most commenters opposed giving the SEC a general veto over IPOs, arguing that its role is to require adequate disclosure and enforce the law rather than judge whether Anthropic is a good or bad investment. Some favored blocking the IPO if Anthropic violated applicable law, while others raised concerns about index-fund exposure, inconsistent treatment, and whether profitability-related exclusions from some ETFs could serve as an alternative safeguard.
-
-**Tags**: `#AI Policy`, `#SEC Regulation`, `#Anthropic`, `#IPO`, `#Public Interest`
-
----
-
-<a id="item-18"></a>
-## [Oracle Seeks $20 Billion for AI Infrastructure Expansion](https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html) ⭐️ 7.0/10
-
-Oracle plans to raise $20 billion through new stock and bond sales to finance a large-scale AI infrastructure buildout. The financing would support Oracle’s expansion of computing capacity for cloud-based AI workloads. The raise could accelerate Oracle’s position in AI cloud infrastructure and increase its ability to serve major model developers. It also exposes shareholders to dilution while adding leverage and technology-obsolescence risks in a capital-intensive market. One commenter estimated that half of the financing would come from stock sales and produce roughly 2.5% shareholder dilution at the then-current market capitalization, though the allocation was not independently confirmed in the supplied material. Another commenter warned that facilities designed around older GPUs could lose their economic advantage before reaching full utilization if newer NVIDIA hardware delivers substantially more tokens per watt and dollar.
-
-hackernews · Hacker News \(热门\) · Nov 2, 19:27 · [Discussion](https://news.ycombinator.com/item?id=50342284)
-
-**Background**: Oracle is a major cloud computing provider seeking to expand the data-center capacity used to train and run AI models. Such facilities require substantial upfront investment in land, power, networking, and accelerators such as NVIDIA GPUs. Financing the buildout through both debt and equity spreads the funding burden but introduces repayment obligations and potential shareholder dilution.
-
-**Discussion**: The discussion was overwhelmingly negative and polarized, with commenters mocking Oracle, portraying the strategy as bubble-driven, and calling for stronger scrutiny of the company’s spending. The most technically substantive concern was that rapid GPU efficiency gains could strand infrastructure built around older hardware; another commenter quantified potential dilution, while several personal or political attacks carried little analytical weight.
-
-**Tags**: `#Oracle`, `#AI infrastructure`, `#cloud computing`, `#corporate finance`, `#GPU economics`
-
----
-
-<a id="item-19"></a>
-## [PostHog Replaces DuckDB with Custom Trino-Based Warehouse](https://posthog.com/blog/moving-off-duckdb) ⭐️ 7.0/10
-
-PostHog is replacing its DuckDB-based warehouse with HogLake, its own open table format running on a custom flavor of Trino, after scaling beyond a trillion rows exposed limits in single-node sizing, DuckLake, and the Postgres-wire interface. The new architecture is being tested first on PostHog&\#x27;s petabyte-scale data before being offered to design partners. The migration illustrates how infrastructure choices for very large analytical workloads may need to change quickly as scale, concurrency, and operational requirements evolve. It also highlights the engineering and organizational risks of repeatedly rebuilding a core warehouse without sufficiently documenting benchmarks and validation. HogLake replaces both DuckDB and the DuckLake extension previously used by PostHog, while Trino provides distributed SQL execution over external data rather than acting as a database that stores the data itself. The available reporting says the migration followed an earlier ClickHouse-to-DuckDB rebuild only five months earlier, but it does not provide enough detail to establish whether the new system definitively resolves the underlying scaling or operational problems.
-
-hackernews · Hacker News \(热门\) · Nov 2, 16:02 · [Discussion](https://news.ycombinator.com/item?id=50338747)
-
-**Background**: DuckDB is an in-process analytical database suited to local SQL workloads, whereas ClickHouse is a distributed column-oriented OLAP system designed for horizontally scaled analytics. Trino is a distributed SQL query engine that can query data across heterogeneous sources without owning the stored data. PostHog&\#x27;s sequence of ClickHouse, DuckDB, and Trino-based choices reflects the difficulty of balancing query performance, scalability, workload flexibility, and operational complexity for rapidly growing data volumes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://runtimewire.com/article/posthog-moves-warehouse-off-duckdb-trino-hoglake">PostHog moves its warehouse off DuckDB five months after ...</a></li>
-<li><a href="https://trino.io/">Trino | Distributed SQL query engine for big data</a></li>
-<li><a href="https://daily.dev/posts/moving-our-warehouse-off-duckdb-ns6yl1bka">Moving our warehouse off DuckDB - daily.dev</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters broadly welcomed the ability to migrate with limited disruption but criticized the article for providing too few measurements, insufficient testing detail, and little evidence that the latest architecture solved the original problems. Some questioned whether PostHog had allowed the DuckDB deployment enough time to mature, while others suggested revisiting ClickHouse with improved Iceberg support or reviewing the company&\#x27;s warehouse-management complexity.
-
-**Tags**: `#data-warehouse`, `#DuckDB`, `#Trino`, `#ClickHouse`, `#analytics-infrastructure`
-
----
-
 <a id="item-20"></a>
-## [Linux Syscall Website and API Gain Expanded Coverage](https://syscall.sh/) ⭐️ 7.0/10
+## [Povorcitinib succeeds in two phase 3 vitiligo trials](https://www.nature.com/articles/s41591-026-04739-2) ⭐️ 8.0/10
 
-The Linux syscall website at syscall.sh has been updated with more architectures, a kernel-version selector, syscall descriptions, improved mobile usability, and a new API at api.syscall.sh. The author also mentions a companion CLI with an embedded dataset, though its code still needs tidying and public release. 这次更新让开发者可以更方便地通过浏览器、脚本和移动设备查询不同架构的系统调用。它对内核开发、调试、处理 seccomp 相关问题以及核对架构专用常量尤其有用，不过属于渐进式改进，并非基础性技术突破。 Syscall numbers and calling conventions can differ across Linux architectures and ABIs, so the added architecture and kernel selectors are important context for any lookup. Community participants also noted that on x86\_64 and x32 the syscall number is placed in eax rather than rax, and recommended checking local headers with the C preprocessor to avoid incorrect constants.
+In the randomized, controlled STOP-V1 and STOP-V2 phase 3 trials, oral JAK1 inhibitor povorcitinib produced greater improvement than placebo on the F-VASI75 endpoint in people with nonsegmental vitiligo. The findings support povorcitinib as a potential systemic treatment for nonsegmental vitiligo, a disease for which effective options remain limited. If approved and confirmed by regulators, it could expand the available treatment options for patients with extensive or treatment-resistant disease. Both trials evaluated povorcitinib against placebo using F-VASI75, meaning at least a 75% reduction in the baseline facial Vitiligo Area Scoring Index score. The supplied summary establishes superiority on this endpoint but does not provide sample sizes, effect estimates, safety findings, treatment durations, or regulatory status.
 
-hackernews · Hacker News \(热门\) · Nov 2, 09:29 · [Discussion](https://news.ycombinator.com/item?id=50334704)
+rss · Nature Medicine · Nov 2, 00:00
 
-**Background**: A system call is the mechanism through which a user-space program requests an operating-system service from the kernel. Linux exposes a broadly similar API across architectures, but the numeric syscall identifiers, register conventions, and available calls can vary by architecture, ABI, and kernel version. These distinctions also separate the Linux kernel interface from the C standard library and POSIX, whose interfaces are defined differently.
+**Background**: Nonsegmental vitiligo commonly affects multiple body areas symmetrically and results from loss of pigment-producing melanocytes. JAK inhibitors modulate immune signaling by blocking enzymes in the JAK-STAT pathway, which regulates cytokine responses in immune cells. F-VASI focuses on the face, where vitiligo can have a particularly substantial effect on quality of life.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.chromium.org/chromium-os/developer-library/reference/linux-constants/syscalls/">Linux System Call Table</a></li>
-<li><a href="https://man7.org/linux/man-pages/man2/syscalls.2.html">syscalls (2) - Linux manual page</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Linux_kernel_interfaces">Linux kernel interfaces - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Janus_kinase_inhibitor">Janus kinase inhibitor - Wikipedia</a></li>
+<li><a href="https://dermington.com/tools/vasi-calculator/">VASI Calculator — Vitiligo Area Scoring Index (T-VASI &amp; F ...</a></li>
+<li><a href="https://cmsderm.ca/calculators/fvasi">F-VASI Calculator (Facial Vitiligo Area Scoring Index)</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion was broadly positive, with the project described as a valuable resource, while participants raised practical correctness concerns about architecture-specific numbers, x86\_64 and x32 register usage, and the Linux-versus-POSIX distinction. Some suggested safer string APIs with explicit capacity and length, recommended verifying values against local headers, and noted that the companion CLI can operate from an embedded dataset without repeatedly querying the API.
-
-**Tags**: `#Linux`, `#system-calls`, `#API-reference`, `#kernel-development`, `#developer-tools`
+**Tags**: `#povorcitinib`, `#vitiligo`, `#JAK1 inhibitor`, `#phase 3 trials`, `#clinical research`
 
 ---
 
 <a id="item-21"></a>
-## [FDA Sets Potency Expectations for Cell and Gene Therapies](http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality) ⭐️ 7.0/10
+## [Jailbreaking a Renault Navigation Clock](https://blog.nns.ee/2026/11/02/renault-hack/) ⭐️ 7.0/10
 
-The FDA issued final guidance requiring manufacturers of cellular and gene therapy products to implement comprehensive, science- and risk-based potency assurance plans. These plans are intended to ensure that products meet applicable potency standards throughout development and manufacturing. The guidance gives manufacturers clearer expectations for demonstrating that advanced therapy products retain their intended biological activity and potency. It may affect assay development, process controls, material controls, in-process testing, and lot-release strategies across the biomanufacturing sector. FDA describes potency assurance as a multifaceted strategy that includes manufacturing-process design and control, material control, in-process testing, and potency lot-release assays. The supplied announcement does not provide implementation dates, product-specific requirements, or details about how the final guidance differs from earlier recommendations.
+The author reverse-engineered a Renault navigation system and exploited undocumented interfaces to change its displayed time. The investigation confirmed that the correct settings menu could not be reached without a navigation SD card, so bypassing the normal workflow was necessary. The project illustrates how legacy automotive infotainment systems can hide critical functions behind undocumented hardware and software dependencies. It also highlights the broader difficulty of maintaining accurate clocks in vehicles whose GPS, time-zone rules, real-time clocks, and displays may not synchronize reliably. The hack relied on reverse engineering rather than the navigation SD card workflow intended by the manufacturer. Community examples describe vehicles with multiple CAN-bus clocks, obsolete time-zone tables, manually selected countries, and even real-time clocks that lack the conventional 32.768 kHz crystal input.
 
-rss · FDA Press Releases \(国际\) · Nov 2, 13:56
+hackernews · Hacker News \(热门\) · Nov 2, 16:29 · [Discussion](https://news.ycombinator.com/item?id=50339288)
 
-**Background**: Potency is the measurable ability of a cellular or gene therapy product to produce its intended therapeutic effect. Because such products are more complex than conventional biologics, manufacturers need strategies that connect product and process knowledge with appropriate analytical testing. FDA&\#x27;s framework covers controls applied across manufacturing rather than relying only on a single end-product assay.
+**Background**: A vehicle clock may combine GPS-derived universal time, local time-zone and daylight-saving rules, and a battery-backed real-time clock \(RTC\) used to preserve time while the vehicle is off. Older infotainment systems often rely on fixed rule tables and undocumented interfaces, so software updates or changes in local time rules can leave displayed time incorrect.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/potency-assurance-cellular-and-gene-therapy-products">Potency Assurance for Cellular and Gene Therapy Products | FDA</a></li>
-<li><a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/potency-tests-cellular-and-gene-therapy-products">Potency Tests for Cellular and Gene Therapy Products | FDA</a></li>
-<li><a href="https://insights.forgebiologics.com/how-potency-assays-support-gene-therapy-success">Potency Assays for Cell and Gene Therapy: A Complete Guide</a></li>
+<li><a href="https://blog.nns.ee/2026/11/02/renault-hack/">Jailbreaking my car &#x27;s navigation system just so I can change the time</a></li>
+<li><a href="https://research.buaa.edu.cn/en/publications/a-hybrid-time-synchronization-optimization-scheme-for-onboard-pay/">A Hybrid Time Synchronization Optimization Scheme for Onboard...</a></li>
+<li><a href="https://dredyson.com/how-to-set-rtc-time-correctly-in-embedded-linux-systems-a-definitive-step-by-step-troubleshooting-guide-for-automotive-software-engineers-working-with-connected-car-infotainment-and-can-bus-platform/">How to Set RTC Time Correctly in Embedded Linux Systems ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cell and gene therapy`, `#FDA regulation`, `#potency testing`, `#biomanufacturing`, `#quality assurance`
+**Discussion**: Readers praised the detailed write-up and its practical value while sharing similar problems involving unsynchronized CAN-bus clocks, outdated time-zone data, and GPS-equipped cars that still forced manual country selection. One commenter joked that the author should have obtained the SD card from the previous owner, while another stressed the need to document such work so the fix remains usable later.
+
+**Tags**: `#embedded-systems`, `#automotive-hacking`, `#reverse-engineering`, `#CAN-bus`, `#real-time-clocks`
 
 ---
 
 <a id="item-22"></a>
-## [Polyend Releases Tracker Firmware Source Code](https://polyend.com/whats-up/tracker-the-biggest-update-yet/) ⭐️ 7.0/10
+## [Stringman Is an $800 Open-Source Room-Scale Gripper Robot](https://neufangled.com/) ⭐️ 7.0/10
 
-Polyend has published the firmware source code for the original Tracker, Tracker+, and Tracker Mini on GitHub alongside Tracker Community Edition 1.0. This release enables users to inspect and modify the firmware and develop shared firmware variants. Publishing the source code turns Polyend&\#x27;s hardware ecosystem from a largely closed platform into one that supports community-driven development. It could benefit musicians, sound designers, and developers seeking new functions, bug fixes, and experimental workflows for the standalone sampling workstations. Tracker Community Edition is built directly from Polyend&\#x27;s original firmware source code, while the standard update process installs a .ptf firmware file through the device&\#x27;s Firmware folder and Config menu. A separate clean-room project, OpenTracker, is explicitly unaffiliated with Polyend and contains none of Polyend&\#x27;s code, fonts, icons, or graphics, so it should not be confused with the official Community Edition release.
+Stringman is an open-source, cable-driven gripper robot designed to pick up objects across a room for about $800. Its creator, Nathaniel, presents it as a low-cost alternative to conventional fixed-base robotic arms and has opened the project to community questions and experimentation. The project lowers the cost and complexity of building a remotely positioned manipulation system, potentially making room-scale robotics more accessible to hobbyists, educators, and researchers. Its open-source design could also encourage experimentation with novel cable-driven grippers and nontraditional applications. Stringman uses tensioned cables to transmit motion to a gripper operating at room scale, while a tension limit releases the line if excessive force is applied. The creator says overhead obstructions such as ceiling fans can generally be avoided by lowering the work area, but the project’s suitability for cluttered household environments and fine-grained sorting remains unproven.
 
-rss · Hacker News \(热门\) · Nov 2, 17:20
+hackernews · Hacker News \(热门\) · Nov 3, 16:47 · [Discussion](https://news.ycombinator.com/item?id=50354358)
 
-**Background**: Polyend Tracker is a standalone sampling workstation with device-specific firmware and project files. Its firmware normally updates from a packaged .ptf file placed on the device&\#x27;s SD card, but the new Community Edition repository extends that model by exposing the underlying code for community development. The release was accompanied by an official GitHub repository created for the Tracker Community Edition.
+**Background**: Cable-driven mechanisms transmit force and motion through flexible cables, allowing robot components to be lightweight and mechanically decoupled from their actuators. In robotics, this approach is used in grippers, arms, and wearable devices because it can route power and motion through narrow or flexible structures, although cable tension, routing, durability, and precise force control can complicate operation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/polyend/tracker-ce">GitHub - polyend/tracker-ce: Official Polyend Tracker ...</a></li>
-<li><a href="https://sonicstate.com/news/2026/11/03/huge-polyend-tracker-update/">Huge Polyend Tracker Update - sonicstate.com</a></li>
-<li><a href="https://polyend.com/downloads/tracker-downloads/">Tracker downloads • Polyend</a></li>
+<li><a href="https://www.sciencedirect.com/topics/engineering/cable-driven-mechanisms">Cable-Driven Mechanisms - an overview | ScienceDirect Topics</a></li>
+<li><a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.808154/full">Frontiers | An Accessible, Open - Source Dexterity Test: Evaluating the...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#open-source-hardware`, `#firmware`, `#Polyend Tracker`, `#music-technology`, `#developer-tools`
+**Discussion**: Commenters reacted positively to the inventive, inexpensive design and the potential for useful commercial applications, while one participant drew comparisons with the earlier Hangprinter project. Skeptics questioned whether the cables would function reliably in real households and suggested scaling it down for tasks such as sorting small bolts into Gridfinity bins; the creator also noted its tension-release safety feature.
+
+**Tags**: `#robotics`, `#open-source hardware`, `#gripper`, `#cable-driven mechanisms`, `#humanoid robotics`
 
 ---
 
 <a id="item-23"></a>
-## [Background Sound May Reveal a Device’s Exact Location](https://youtu.be/UytYrhYLOKI) ⭐️ 7.0/10
+## [Fujifilm Plans Fivefold LTO Tape Production Expansion](https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/) ⭐️ 7.0/10
 
-一段视频展示了如何分析设备录制的背景音频，从而推断设备所有者的精确位置。现有材料没有说明具体系统、数据集或评估方法，因此目前无法独立验证该演示的准确性与可复现性。 如果该方法能够可靠运行，日常麦克风录音可能成为位置追踪的侧信道，从而影响收集环境音频的应用、录音工具和设备用户的隐私。这与声学侧信道和环境声音地理定位研究的趋势一致，也凸显了加强权限控制与音频保护的必要性。 相关研究会将录音转换为频谱图，再利用机器学习模型从自然声音推断地理位置；声学侧信道研究则考察设备发出的声音能否成为与位置相关的信号。然而，所链接的新闻材料没有提供方法说明、基准测试、攻击条件、错误率，也未证明所谓“精确位置”比演示场景中的定位更精细。
+Fujifilm plans to increase LTO tape production fivefold as AI workloads generate more data requiring large-scale, low-cost archival storage. The expansion links the company’s manufacturing investment directly to growing enterprise demand for offline and cold-storage media. 此次扩产表明，人工智能带来的数据增长正在重新推高企业磁带需求；磁带是一种成熟介质，适合保存大量不经常访问的数据。这可能扩大供应并提高一种低成本替代方案的可用性，从而减少将所有数据长期存放在成本较高的硬盘、固态硬盘或云存储中的需求。 LTO, or Linear Tape-Open, uses magnetic tape for backup, archiving, and data transfer, and its drives and automated libraries can manage roughly 100 slots in a single library according to the LTO organization. Tape’s advertised drive speeds are theoretical ceilings rather than typical operating rates, while practical costs include not only cartridges but also drives, libraries, handling, and periodic restore testing.
 
-rss · Lobsters \(技术社区\) · Nov 2, 19:42
+hackernews · Hacker News \(热门\) · Nov 2, 14:02 · [Discussion](https://news.ycombinator.com/item?id=50336918)
 
-**Background**: Acoustic side channels exploit unintended sound produced or captured by a device to infer information that the attacker was not supposed to obtain. Audio geolocation is a related approach that identifies environmental or biological sounds, such as waves, aircraft noise, or species vocalizations, and uses their geographic associations to narrow down a recording’s location. Ambient-sound matching can therefore reveal where a recording occurred, although its precision depends heavily on the recording environment and available reference data.
+**Background**: AI systems require large datasets and generate additional logs, model artifacts, and training-related information, increasing the amount of information organizations must retain. LTO is an open magnetic-tape standard used for backup, archiving, and bulk data transfer, while Fujifilm has worked with magnetic tape since the 1950s and released its first LTO Ultrium storage tape in 2000. Tape is slower to access than disks but is commonly used where storage cost and retention over long periods matter more than rapid retrieval.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dl.acm.org/doi/10.1145/3778350">SoK: Acoustic Side Channels | ACM Computing Surveys</a></li>
-<li><a href="https://arxiv.org/html/2505.18726v1">Audio Geolocation: A Natural Sounds Benchmark - arXiv.org [2505.18726] Audio Geolocation: A Natural Sounds Benchmark (PDF) Audio Geolocation: A Natural Sounds Benchmark Title:Audio Geolocation: A Natural Sounds Benchmark Audio Geolocation: A Natural Sounds Benchmark | alphaXiv Bioacoustic Geolocation: Species Sounds as Geographic Signals BIOACOUSTICGEOLOCATION SPECIESSOUNDS ASGEOGRAPHICSIGNALS</a></li>
-<li><a href="https://www.mdpi.com/2224-2708/14/6/119">Passive Localization in GPS-Denied Environments via Acoustic ...</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/">Fujifilm to boost tape production 5x as AI fuels archiving demand</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Linear_Tape-Open">Linear Tape - Open - Wikipedia</a></li>
+<li><a href="https://www.lto.org/">LTO Ultrium: Reliable and Scalable Open Tape Storage Format</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#security`, `#location-tracking`, `#audio-analysis`, `#side-channel`
+**Discussion**: Commenters emphasized that successful tape writes are not enough: data should actually be restored to verify recoverability, because tapes may fail retrieval despite passing a simple readability check. They also offered cloud cold storage as a cheaper backup alternative, noted that drives and libraries can cost more than cartridges, questioned the absence of consumer-friendly tape hardware, and asked why alternative high-density archival media have not gained wider adoption.
+
+**Tags**: `#data-storage`, `#LTO-tape`, `#AI-infrastructure`, `#data-archiving`, `#backup`
 
 ---
 
 <a id="item-24"></a>
-## [WiFi Devices Can Recognize Individual Keystrokes](https://ieeexplore.ieee.org/document/7875144) ⭐️ 7.0/10
+## [Flipper One Opens Pre-Orders Ahead of Kickstarter](https://flipper.net/pages/flipper-one) ⭐️ 7.0/10
 
-IEEE researchers presented WiKey, a system that recognizes keystrokes by analyzing WiFi channel state information \(CSI\) captured by commodity WiFi devices. It exploits the distinct multipath distortions produced when fingers and hands move while typing. WiKey suggests that ordinary wireless hardware can infer keyboard activity without installing software on the target device. This could enable passive input recognition and new human-computer interaction methods, while also raising privacy and surveillance concerns. The system forms a CSI waveform for each keystroke based on differences in hand and finger movement and the resulting multipath disturbances. The supplied material does not report the paper&\#x27;s accuracy, sampling rate, keyboard type, or robustness under changes in environment and device placement.
+Flipper opened pre-orders for Flipper One, a programmable multi-purpose hardware platform built around open-source Linux firmware. Its networking toolkit supports up to five WAN uplinks, dynamic routing, failover, load balancing, firewall rules, VPN tunneling, and simultaneous Wi-Fi hotspot and client operation. Flipper One combines an open hardware and Linux ecosystem with portable networking features that are uncommon in consumer devices, potentially serving travelers, security researchers, educators, and hardware enthusiasts. Its multi-WAN and VPN capabilities could provide flexible, secure connectivity when ordinary hotspots are slow or untrusted. The platform uses fully open-source Linux firmware with a mainline kernel, avoiding vendor-specific board-support packages and binary blobs, and its hardware designs are published in the Flipperdevices GitHub repository. Reported specifications include a Rockchip RK3576 processor, 8 GB of RAM, dual Ethernet, Wi-Fi 6E, and M.2 expansion, although launch pricing and full Kickstarter terms are not provided in the supplied material.
 
-rss · Lobsters \(技术社区\) · Nov 2, 14:43
+hackernews · Hacker News \(热门\) · Nov 3, 19:32 · [Discussion](https://news.ycombinator.com/item?id=50356994)
 
-**Background**: WiFi sensing extracts information about physical activity from changes in radio signals as they propagate through the environment. CSI describes how the wireless channel varies over time, and nearby movement can create distinctive signal patterns that machine-learning methods may classify. Later research notes that location and environmental dependence can reduce performance, potentially requiring additional data collection and model retraining.
+**Background**: Flipper One is positioned as an open Linux multi-tool and cyberdeck rather than a conventional single-purpose gadget. It can operate as a network gateway, multi-hotspot bridge, inline Ethernet sniffer, or USB Wi-Fi/Ethernet adapter, with routing and failover configurable through the platform. In a multi-WAN setup, multiple network connections can be combined to improve resilience or distribute traffic, while VPN tunneling helps protect traffic across untrusted public networks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ieeexplore.ieee.org/abstract/document/7875144">Recognizing Keystrokes Using WiFi Devices | IEEE Journals ...</a></li>
-<li><a href="https://smkrali.github.io/pdf/jsac2017_doublecolumn.pdf">Recognizing Keystrokes Using WiFi Devices</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S1389128624001865">LiKey: Location-independent keystroke recognition on numeric ...</a></li>
+<li><a href="https://flipper.net/pages/flipper-one">Flipper One — Open Linux Multi-Tool</a></li>
+<li><a href="https://docs.flipper.net/one/general/features">Features - Flipper One Documentation</a></li>
+<li><a href="https://blog.flipper.net/flipper-one-we-need-your-help/">Flipper One — We Need Your Help</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#WiFi sensing`, `#Keystroke recognition`, `#Human-computer interaction`, `#Wireless security`, `#Signal processing`
+**Discussion**: Community reaction was strongly positive, with pre-order interest, praise for Flipper&\#x27;s existing Zero for SPI reading and flashing, and particular enthusiasm for the multi-WAN toolkit as a compact travel router that could outperform slow airport hotspots. Other participants valued Flipper One as an educational and hardware-hacking platform, while one commenter raised an unresolved question about using large language models for physical penetration testing.
+
+**Tags**: `#Flipper One`, `#hardware hacking`, `#networking`, `#cybersecurity`, `#open-source hardware`
 
 ---
 
 <a id="item-25"></a>
-## [LLM 0.37 Adds GPT-6.1 Models and Multimodal Embeddings](https://simonwillison.net/2026/Nov/2/llm/) ⭐️ 7.0/10
+## [Utah Charges Kalshi and Co-Founders With Felony Gambling Violations](https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/) ⭐️ 7.0/10
 
-LLM 0.37 adds support for the gpt-6.1-sol and gpt-6.1-terra models and introduces an llm openai endpoint add command for configuring OpenAI-compatible providers. The release also changes the default model to gpt-6-luna, priced at half the previous default, and improves binary embeddings to support models such as Gemini Embedding 2. This release lowers the cost of LLM&\#x27;s default usage while making the tool easier to adapt to different providers and newer model families. Its expanded embedding support broadens the library&\#x27;s usefulness for applications that search or compare text, audio, images, and video through a unified multimodal representation. The binary embeddings change allows different input content to carry different content-type values, which is required for modalities such as Gemini Embedding 2. The release accumulated roughly two months of features and fixes and credits 12 contributors, most of whom used AI assistance; the maintainer used Opus 5.5 or GPT-6 Astra for triage and reviewed the submissions as examples resembling bug reports.
+Utah has filed felony gambling charges against Kalshi and its co-founders, escalating the dispute over whether prediction markets can operate without state gambling licenses. The case intensifies the confrontation between state gambling enforcement and federal oversight of event contracts. The charges could shape how states enforce gambling laws against CFTC-regulated prediction markets and determine whether contracts based on future events are derivatives or prohibited gambling. The outcome may affect Kalshi, Polymarket, and similar platforms, as well as their users and state regulatory authority. Utah alleges that Kalshi and its co-founders violated Utah gambling laws, but the supplied report does not specify the individual statutes, counts, or potential penalties. Prediction-market litigation is already widespread: by early 2026, more than 20 lawsuits and cease-and-desist actions were pending nationwide, while CFTC rulemaking continued.
 
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 2, 23:49
+hackernews · Hacker News \(热门\) · Nov 3, 15:29 · [Discussion](https://news.ycombinator.com/item?id=50353229)
 
-**Background**: LLM is Simon Willison’s open-source command-line tool and Python library for interacting with models from OpenAI, Anthropic, Google, and other providers through remote or locally hosted APIs. An OpenAI-compatible endpoint accepts requests using a familiar OpenAI-style schema, allowing existing clients to switch providers largely by changing the base URL. Multimodal embeddings convert several kinds of media into vectors so they can be searched or compared within a shared representation space.
+**Background**: Prediction markets allow users to trade contracts tied to the outcomes of future events. Kalshi operates under CFTC oversight as a designated contract market, while critics argue that the transactions function as gambling and therefore require state licenses. The central issue is whether federal commodities-law treatment preempts state gambling restrictions or leaves states free to regulate such platforms.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/simonw/llm">GitHub - simonw/llm: Access large language models from the ...</a></li>
-<li><a href="https://flo2.com/blog/openai-compatible-api">OpenAI - Compatible API : One Base URL for Every Model — flo2</a></li>
-<li><a href="https://app.ailog.fr/en/blog/news/multimodal-embeddings-2026">Multimodal Embeddings 2026: One Model for Text , Images , and...</a></li>
+<li><a href="https://www.ncsl.org/state-federal/prediction-markets-a-new-frontier-in-state-regulatory-authority">Prediction Markets: A New Frontier in State Regulatory Authority</a></li>
+<li><a href="https://www.cftc.gov/LearnandProtect/PredictionMarkets">Understanding Prediction Markets and Event Contracts | CFTC</a></li>
+<li><a href="https://www.federalregister.gov/documents/2026/06/12/2026-11854/prediction-markets-public-interest-determinations">Federal Register :: Prediction Markets; Public Interest ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#CLI tools`, `#Python`, `#embeddings`, `#OpenAI-compatible APIs`
+**Discussion**: Commenters broadly supported Utah&\#x27;s assertion of state authority, viewing criminal enforcement as a necessary check on large platforms. Others condemned Kalshi&\#x27;s marketing practices, alleged regulatory capture, and possible use of VPNs or proxies to evade Utah restrictions, while one dissenting commenter argued that the law should adapt to legitimate technology businesses.
+
+**Tags**: `#prediction-markets`, `#gambling-regulation`, `#legal-policy`, `#federalism`, `#Kalshi`
 
 ---
 
 <a id="item-26"></a>
-## [Publishers Sue Brave Over Alleged AI Content Scraping](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/) ⭐️ 7.0/10
+## [Could a Pentium Chess Engine Have Beaten Kasparov?](https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html) ⭐️ 7.0/10
 
-The New York Times and other publishers sued Brave Software, alleging that it scraped copyrighted journalism without permission and distributed it to AI companies including Anthropic and Perplexity. The complaints also accuse Brave of enabling users to bypass publisher paywalls. The case could clarify whether a browser company can be treated as a content intermediary when it collects, indexes, and supplies news to downstream AI providers. A ruling against Brave could increase legal exposure and costs across the AI content supply chain. The allegations concern Brave Index, which reportedly provides paid access to collected content, as well as alleged scraping for AI training and paywall circumvention. The central legal questions include fair use, authorization, and the responsibilities of browser vendors versus AI companies; these remain unresolved allegations at this stage.
+The article argues that a modern chess engine, limited to Pentium-class hardware, would likely have defeated Garry Kasparov in 1996. Its central claim is that gains in position evaluation and search algorithms matter more than raw computing power. The analysis reframes the 1996 Deep Blue–Kasparov match as a test of algorithms as well as specialized hardware, suggesting that modern software could narrow or reverse a historic gap. It also illustrates how rapid improvements in evaluation and search can outweigh brute-force computation. Modern engines approximate the value of each position with a heuristic evaluation function, then search possible continuations using techniques such as alpha–beta pruning. The argument is not that contemporary software would match today&\#x27;s strongest engines unchanged; constrained compute forces different search and evaluation tradeoffs, and Kasparov could potentially exploit resulting weaknesses.
 
-rss · TechCrunch AI · Nov 2, 19:19
+hackernews · Hacker News \(热门\) · Nov 3, 07:56 · [Discussion](https://news.ycombinator.com/item?id=50349276)
 
-**Background**: Web scraping automatically extracts content from websites and can be used to build search indexes, train AI systems, or power retrieval-augmented generation. Publishers have increasingly challenged such practices because they can enable AI companies to train on journalism without permission while preserving excerpts that direct users to paid subscriptions.
+**Background**: Deep Blue defeated Kasparov in the 1997 rematch after losing the six-game 1996 match 2–4, but it was a specialized machine whose architecture differed from a general-purpose Pentium PC. A chess engine generally combines move generation, a heuristic position evaluation, and adversarial tree search to select moves. Alpha–beta pruning reduces the number of positions evaluated by discarding branches that cannot affect the final minimax result.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times">The New York Times sues Brave web browser for AI scraping and ...</a></li>
-<li><a href="https://aiparabellum.com/newspapers-sue-brave-ai-scraping-paywall-bypass/">Newspapers Sue Brave Over AI Scraping and Paywall Bypass</a></li>
-<li><a href="https://radar.aitoolnet.com/guide/nyt-sues-brave-over-ai-scraping-copyright-risk-developer-guide-mvzw6rpv">NYT Sues Brave Over AI Scraping: Copyright Risk &amp; Developer ...</a></li>
+<li><a href="https://www.chessprogramming.org/Evaluation">Evaluation - Chess Programming Wiki</a></li>
+<li><a href="https://www.ibm.com/history/deep-blue">IBM’s computer checkmated a human chess champion in...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#copyright`, `#web scraping`, `#AI`, `#Brave`, `#publishers`
+**Discussion**: Commenters broadly accepted that modern evaluation and search explain much of engine progress, but challenged the claim that a resource-limited modern engine necessarily would have beaten Kasparov, since reduced compute can expose serious weaknesses. Other contributors questioned claims about how much grandmasters analyze and argued that Kasparov&\#x27;s preparation and match performance were decisive variables; one branch shifted to an unrelated discussion of modern video compression.
+
+**Tags**: `#chess-algorithms`, `#game-search`, `#computer-hardware`, `#AI`, `#Kasparov`
 
 ---
 
 <a id="item-27"></a>
-## [42AI Launches With $62.5M and Human Behavior World Model](https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/) ⭐️ 7.0/10
+## [Schools Rejecting AI May Lose Google Search](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html) ⭐️ 7.0/10
 
-42AI emerged from stealth with $62.5 million in funding and introduced a world model designed to predict human behavior in previously unseen situations. The company says its system can anticipate what people will do before they make a decision. If validated, this approach could improve AI-agent planning, simulations, and decision support in situations beyond familiar training distributions. The large funding round also signals strong investor interest in world models that model people rather than only physical environments. The announcement provides no substantial technical evidence, benchmark results, or deployment details for evaluating the behavior-prediction claim. A relevant comparison is Mirror Particle, whose team argues that prompting or fine-tuning large language models to role-play target demographics is a fundamentally limited approach to behavior prediction.
+Google plans to remove student access to Google Search from K-12 schools that block its generative-AI features, according to reports published on November 3, 2026. Schools that permit AI can choose between the consumer-style experience with AI Overviews and AI chat or a Guided Learning mode powered by Gemini. The all-or-nothing policy could affect millions of classrooms and limit schools’ ability to protect students from generative AI or independently govern data use. It also turns control over a core educational tool into leverage for enforcing broader AI adoption. The policy reportedly takes effect in early 2027 and applies to student accounts at K-12 schools that restrict AI tools. Its significance depends on how broadly Google defines an AI restriction and whether exceptions or transition arrangements are available.
 
-rss · TechCrunch AI · Nov 2, 16:30
+hackernews · Hacker News \(热门\) · Nov 3, 15:25 · [Discussion](https://news.ycombinator.com/item?id=50353192)
 
-**Background**: An AI world model builds an internal representation of an environment and predicts how it will change over time in response to actions. World models are used in reinforcement learning to support reasoning and decision-making, while human-behavior world models seek to simulate how people respond to circumstances. Such systems could help researchers test interventions, simulate attitudes and behaviors, and build agents that plan more reliably under distribution shifts.
+**Background**: AI Overviews place AI-generated summaries directly in Google Search, while Gemini is Google’s generative-AI model family. For schools, these tools offer new search, writing, and tutoring capabilities but also raise questions about student privacy, age-appropriate content, data access, and local oversight.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/">Mirror Particle is building a ‘ world model ’ of human behavior</a></li>
-<li><a href="https://en.wikipedia.org/wiki/World_model_%28artificial_intelligence%29">World model (artificial intelligence) - Wikipedia</a></li>
-<li><a href="https://hai.stanford.edu/policy/simulating-human-behavior-with-ai-agents">Simulating Human Behavior with AI Agents - Stanford HAI</a></li>
+<li><a href="https://www.cnn.com/2026/11/03/tech/google-ai-search-policy">Google will let schools turn off AI, but they may also lose ...</a></li>
+<li><a href="https://tech.yahoo.com/ai/gemini/articles/google-cut-student-search-access-183114550.html">Google Will Cut Student Search Access for Schools That Block AI</a></li>
+<li><a href="https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai/">Google Will Disable Search for Schools Banning AI - Forbes</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#world-models`, `#AI-agents`, `#funding`, `#behavior-prediction`, `#generative-AI`
+**Discussion**: Commenters were sharply divided: some argued that AI summaries may be more reliable than link-heavy search results, while others condemned the policy as coercive and questioned why Google couples search access to AI adoption. Additional concerns included Gmail’s inability to separate newer generative-AI features from older machine-learning functions and inadequate parental controls for children.
+
+**Tags**: `#Google Search`, `#Generative AI`, `#Education`, `#AI Policy`, `#Search Visibility`
 
 ---
 
 <a id="item-28"></a>
-## [China Reveals Crewed Lunar Landing Timeline Before 2030](https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/) ⭐️ 7.0/10
+## [FDA Finalizes Risk-Based Potency Guidance for CGT Products](http://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality) ⭐️ 7.0/10
 
-China has publicly outlined a plan to land humans on the Moon within three years, targeting a landing before 2030. The disclosed timeline does not include an Apollo 8- or Artemis II-like crewed lunar flyby. A public schedule would give China’s lunar program greater visibility and place it in direct competition with NASA’s goal of landing humans on the Moon by 2028. The omission of a dedicated lunar-flyby step could affect how observers evaluate the program’s technical and schedule risk. The supplied report contains few technical details and does not identify the exact target year, landing site, launch vehicle, or spacecraft. China’s broader plan includes robotic missions such as Chang’e 8 in 2028–29, which is intended to help establish the technical basis for the International Lunar Research Station.
+The U.S. Food and Drug Administration issued final guidance requiring manufacturers of cellular and gene therapy products to implement comprehensive, science- and risk-based potency quality plans. The guidance addresses how manufacturers should incorporate potency assurance throughout product development, manufacturing, and post-approval monitoring. The guidance gives manufacturers clearer expectations for demonstrating that complex cellular and gene therapy products remain potent throughout their lifecycle. It could affect assay development, manufacturing controls, comparability strategies, regulatory submissions, and the consistency of quality data submitted for approval and post-approval oversight. The framework is risk-based rather than prescribing a single potency assay for every product, so manufacturers must select and justify testing strategies appropriate to product characteristics and development risks. Potency assay development is particularly important for increasingly complex CGT products and is most effective when planned early, before pivotal nonclinical studies and clinical translation.
 
-rss · Ars Technica · Nov 2, 17:09
+rss · FDA Press Releases \(国际\) · Nov 2, 13:56
 
-**Background**: China’s Chinese Lunar Exploration Program includes lunar orbiters, landers, rovers, and sample-return spacecraft launched on Long March rockets. China publicly announced crewed lunar landing plans for 2030 at a conference in July 2023, but much of its space program has remained opaque. NASA’s Artemis II is a roughly 10-day crewed lunar flyby intended to test deep-space systems before later surface missions.
+**Background**: Potency testing measures a product&\#x27;s ability to produce the intended biological effect and is therefore essential to establishing product quality and consistency. Cell and gene therapy products are often more complex than conventional biologics, making their assays and quality-control strategies more challenging. FDA&\#x27;s 2023 draft guidance proposed a science- and risk-based strategy for potency assurance, and the final guidance formalizes that approach.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Chinese_Lunar_Exploration_Program">Chinese Lunar Exploration Program - Wikipedia</a></li>
-<li><a href="https://www.nasa.gov/mission/artemis-ii/">Artemis II: NASA’s First Crewed Lunar Flyby in 50 Years - NASA</a></li>
+<li><a href="https://www.fda.gov/news-events/press-announcements/fda-provides-clarity-support-cell-and-gene-therapy-development-and-quality">FDA Provides Clarity to Support Cell and Gene Therapy ...</a></li>
+<li><a href="https://www.fda.gov/regulatory-information/search-fda-guidance-documents/potency-assurance-cellular-and-gene-therapy-products">Potency Assurance for Cellular and Gene Therapy Products</a></li>
+<li><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1190016/full">Frontiers | Potency testing of cell and gene therapy products</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#China`, `#lunar landing`, `#human spaceflight`, `#Moon exploration`, `#space policy`
+**Tags**: `#FDA guidance`, `#cell and gene therapy`, `#potency testing`, `#biomanufacturing`, `#regulatory affairs`
 
 ---
 
 <a id="item-29"></a>
-## [Evaluate AI Coding Agents by What They Ship](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/) ⭐️ 7.0/10
+## [Previously Invisible Writing Found on PHerc. 306B Papyrus](https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the) ⭐️ 7.0/10
 
-The article argues that AI coding agents should be evaluated primarily by useful software outcomes they deliver, rather than by token consumption. It notes that an agentic coding workflow can consume 10 to 50 times more tokens than a basic chat prompt. Token usage measures computational input, not development value, and varies widely across planning, code generation, testing, and error-correction workflows. Outcome-based evaluation can therefore give engineering teams a better basis for comparing agent productivity, cost, and operational impact. Useful supporting measures include shipped work, cycle time, review load, incident impact, developer time saved, and token burn. Token burn should remain visible as an input metric, but it should not be treated as a proxy for return on investment without corresponding output measures.
+Researchers reported that previously unseen writing has been detected in PHerc. 306B, a carbonized papyrus from Herculaneum. The writing had apparently remained inaccessible for roughly 2,000 years. The finding expands what scholars may be able to recover from one of antiquity’s most important surviving manuscript collections. If the text can be deciphered and contextualized, it could provide new evidence about the library’s contents, its intellectual activity, or the people who produced and used the scroll. PHerc. 306B was carbonized by Mount Vesuvius’s eruption in AD 79 and buried at the Villa of the Papyri in Herculaneum, described as the only surviving library from classical antiquity. The supplied material does not explain the imaging or computational method used to detect the writing, nor does it establish how much of the new text has been read.
 
-rss · MIT Technology Review · Nov 2, 13:10
+rss · Hacker News \(热门\) · Nov 2, 19:18
 
-**Background**: Unlike a one-turn chatbot, an AI coding agent can plan, generate code, execute tests, inspect failures, and revise its work across multiple model calls. LLM pricing commonly scales with input and output tokens, so more iterative workflows can produce substantially higher variable costs. Agent evaluation therefore needs to distinguish resource consumption from the business and engineering value of completed work.
+**Background**: The Herculaneum papyri were recovered from carbonized scrolls buried by the eruption of Mount Vesuvius in AD 79. Their blackened surfaces and tightly fused layers make direct reading and physical opening difficult, so researchers use virtual unwrapping and computational imaging to expose hidden text. The Vesuvius Challenge provides PHerc. 306B’s photograph, a 3D model, and related data for this research.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://whoburnedmore.com/guides/ai-coding-roi-metrics">AI Coding ROI Metrics Beyond Token Burn — whoburnedmore</a></li>
-<li><a href="https://wandb.ai/onlineinference/genai-research/reports/AI-agent-evaluation-Metrics-strategies-and-best-practices--VmlldzoxMjM0NjQzMQ">AI agent evaluation : Metrics , strategies, and best practices</a></li>
-<li><a href="https://www.plexorlabs.com/blog/token-economics-llm-costs">Token Economics: Understanding the True Cost of LLM ...</a></li>
+<li><a href="https://scrollprize.org/data_browser/PHerc0306B">PHerc 0306B — Vesuvius Challenge | Vesuvius Challenge</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Herculaneum_papyri">Herculaneum papyri - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2304.02084v4">EduceLab-Scrolls: Verifiable Recovery of Text from ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Agents`, `#Software Engineering`, `#LLM Evaluation`, `#Developer Productivity`, `#Token Economics`
+**Tags**: `#ancient-papyri`, `#archaeology`, `#historiography`, `#manuscripts`, `#scholarly-discovery`
 
 ---
 
 <a id="item-30"></a>
-## [Autonomous AI Agents Bring the Semantic Web Closer](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/) ⭐️ 7.0/10
+## [kitty Terminal Emulator Releases Version 0.50.0](https://sw.kovidgoyal.net/kitty/changelog/#id1) ⭐️ 7.0/10
 
-The article revisits Tim Berners-Lee’s 2001 Semantic Web vision and explains how autonomous AI agents are beginning to reshape internet navigation and use. It presents the emerging agentic web as a practical, AI-driven continuation of the original goal of enabling software agents to act on the web. If autonomous agents become primary users of the web, websites and APIs will increasingly need to expose structured, machine-readable information and support delegated interactions. This could affect web publishers, service providers, developers, and users by changing how tasks are requested, negotiated, and completed. The Semantic Web relies on standards such as RDF and OWL to represent metadata, concepts, relationships, and ontologies, allowing machines to reason over and integrate heterogeneous data. Modern agents add goal-directed planning, tool use, and machine-to-machine coordination, but the provided material does not report a specific implementation, product launch, or new standard.
+kitty terminal emulator version 0.50.0 has been released, with the accompanying changelog linked from the project’s official website. The provided news item does not include the individual changes listed in that changelog. kitty is a widely used, GPU-accelerated terminal emulator for Linux, macOS, and some BSD systems, so a new release may introduce fixes and improvements for command-line users. The significance of this particular version cannot be assessed more precisely without its detailed changelog entries. The release version is 0.50.0, and the official changelog is hosted on kitty’s project website. kitty is free and open-source, and its terminal interface can be configured alongside common shells, tmux, and desktop window managers.
 
-rss · MIT Technology Review · Nov 2, 09:35
+rss · Lobsters \(技术社区\) · Nov 3, 17:43
 
-**Background**: Tim Berners-Lee, James Hendler, and Ora Lassila introduced the Semantic Web vision in Scientific American in 2001. Unlike the original web, which primarily connected human-readable documents, the Semantic Web aimed to give data explicit meaning through linked data, metadata, ontologies, and shared standards. The emerging agentic web applies a related idea to autonomous AI systems that browse, interact, plan, and complete tasks on users’ behalf.
+**Background**: kitty is a cross-platform, feature-rich terminal emulator that uses GPU acceleration for terminal rendering. It supports configurable terminal behavior and can integrate with existing shells, terminal multiplexers such as tmux, and window-management workflows.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Semantic_Web">Semantic Web</a></li>
-<li><a href="https://www.britannica.com/topic/Semantic-Web">Semantic Web | Linked Data, Ontologies, RDF | Britannica What Is the Semantic Web? | Ontotext Fundamentals Semantic Web Standards The Semantic Web Made Easy What is the semantic web: definition, examples, and current ... Semantic Web and RDF - GeeksforGeeks</a></li>
+<li><a href="https://github.com/kovidgoyal/kitty">GitHub - kovidgoyal/ kitty : If you live in the terminal , kitty is made for...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Kitty_%28terminal_emulator%29">kitty ( terminal emulator ) - Wikipedia</a></li>
+<li><a href="https://docs.rockylinux.org/10/desktop/tools/kitty/">Installing the Kitty terminal emulator - Documentation</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#kitty`, `#terminal-emulator`, `#release`, `#command-line`
+
+---
+
+<a id="item-31"></a>
+## [openSUSE Leap 16.1 Adds Immutable Mode](https://en.opensuse.org/Release_announcement_16.1) ⭐️ 7.0/10
+
+openSUSE Leap 16.1 is the first minor release in the Leap 16 series. It introduces an Immutable Mode that integrates the Leap Micro immutable server distribution into Leap. The release brings immutable-system capabilities to the mainstream Leap distribution, expanding its use for servers and other workloads requiring stronger system integrity. It also unifies functionality previously associated with Leap Micro within Leap 16.1. Immutable Mode is presented as the mechanism for bringing Leap Micro into Leap, while Leap Micro remains a fixed-release-oriented distribution aimed at container hosts, edge devices, and virtual machines. Community discussion is limited, but users have raised questions about software installation because Flatpak and Distrobox are not preinstalled in the new mode.
+
+rss · Lobsters \(技术社区\) · Nov 3, 13:22
+
+**Background**: openSUSE Leap is the conventional Linux distribution in the openSUSE portfolio, while Leap Micro is an immutable, fixed-release counterpart designed for infrastructure-oriented workloads. Immutable operating systems protect the core filesystem by limiting in-place changes and commonly rely on alternative application-installation methods such as Flatpak or containers. Leap 16.1 extends this model to Leap through its new Immutable Mode.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.opensuse.org/2026/09/28/leap-161-rc/">Try Immutable Mode with openSUSE Leap 16.1 RC</a></li>
+<li><a href="https://forums.opensuse.org/t/leap-16-1-immutable-mode-software-installation/196936">Leap 16.1 immutable mode - software installation</a></li>
+<li><a href="https://www.linuxconsultant.org/opensuse-leap-is-the-immutable-distro-now-leap-micro-is-out/">openSUSE Leap is The Immutable Distro Now, Leap Micro is Out...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The announcement links to a Lobsters discussion, but no substantive comments were provided for assessment. The available forum discussion focuses on software installation, particularly the absence of preinstalled Flatpak and Distrobox.
+
+**Tags**: `#openSUSE`, `#Linux`, `#immutable OS`, `#distribution release`, `#server computing`
+
+---
+
+<a id="item-32"></a>
+## [Census AI Data Raises Survey and Policy Concerns](https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/) ⭐️ 7.0/10
+
+Simon Willison reconstructed Apollo Global Management’s AI-adoption chart using the Census Bureau’s October 22, 2026 release and found that a November 2025 survey-question change creates a break that cannot be bridged directly. He also argues that the Bureau’s AI-related data collection appears inconsistent with Executive Order 14434 on superintelligence. Census BTOS figures are used by investors, companies, and policymakers to assess AI adoption, so flawed comparisons can materially distort conclusions about corporate demand and productivity. The alleged conflict with executive policy adds a governance dimension because official statistics should remain credible, methodologically transparent, and legally aligned. BTOS surveys 200,000 businesses every two weeks from a population of 1.2 million, rotating panels so an individual business participates once every 12 weeks. The new six-wave averages show AI use in any business function reaching 40.7% for firms with at least 250 employees and 21.1% for firms with 5–9 employees, but uncertainty is not displayed and no adjustment bridges the November 2025 wording change; the gap also includes the 2025 government shutdown.
+
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 2, 13:31
+
+**Background**: BTOS is a high-frequency, nationally representative survey of U.S. employer businesses conducted by the Census Bureau. Its estimates use sampling weights, are subject to sampling and nonsampling error, and are not edited because data are collected and released rapidly. The AI supplement measures business use, types of AI, and possible employment effects, while Executive Order 14434 establishes U.S. policy for superintelligence.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.census.gov/hfp/btos/">Business Trends and Outlook Survey - Census.gov</a></li>
+<li><a href="https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/">Inaugurating The Era Of Super Intelligence – The White House</a></li>
+<li><a href="https://www.govinfo.gov/content/pkg/DCPD-202600656/pdf/DCPD-202600656.pdf">Executive Order 14434—Inaugurating the Era of Super ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI adoption`, `#data analysis`, `#Census Bureau`, `#AI policy`, `#data quality`
+
+---
+
+<a id="item-33"></a>
+## [Fal Raises $1.3B at a $16B Valuation](https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/) ⭐️ 7.0/10
+
+AI inference startup Fal raised a $1.3 billion funding round led by Bessemer, doubling its valuation to $16 billion amid surging demand. The financing shows that investors see strong commercial demand for infrastructure that runs generative AI models in production. It also highlights the strategic importance of efficient, scalable inference as AI applications move from model development into real-world deployment. The round was led by Bessemer, but the report does not disclose the round&\#x27;s structure, participating investors, revenue figures, or profitability. Fal operates an inference platform for image, video, audio, 3D, and world models, with more than 1,400 model endpoints available through one API and serverless GPU capacity that can autoscale.
+
+rss · TechCrunch AI · Nov 3, 19:34
+
+**Background**: AI training builds or improves a model, while inference is the process of using that trained model to generate outputs in real applications. Fal provides infrastructure for accessing and deploying generative-media models, including running custom models and pipelines on serverless GPUs that scale automatically or use reserved capacity.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ai-tldr.dev/learn/production-llmops/llmops-fundamentals/training-vs-inference/">Training vs Inference in AI: What&#x27;s the Difference? | AI/TLDR</a></li>
+<li><a href="https://fal.ai/inference">Inference Platform for Generative Media | fal</a></li>
+<li><a href="https://fal.ai/">fal, your full stack for generative media — fal, Creative ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI inference`, `#venture funding`, `#startups`, `#generative AI`, `#business`
+
+---
+
+<a id="item-34"></a>
+## [Apple Mandates 18+ Ratings for Romantic Apps](https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/) ⭐️ 7.0/10
+
+Apple announced that dating apps and AI companions offering sexual or romantic content must receive an 18+ age rating in the App Store. The policy applies to existing and newly submitted apps. The rule could materially reshape the App Store’s dating and AI-companion category by limiting distribution to adults and requiring stronger child-safety controls. It also creates new age-rating, disclosure, and potentially age-verification obligations for developers. Apple plans to add the relevant disclosure descriptors in App Store Connect on November 16, 2026, and affected apps must comply by January 12, 2027. The report does not specify the exact verification technology developers must use or how compliance will be enforced.
+
+rss · TechCrunch AI · Nov 3, 15:38
+
+**Background**: Apple’s age-rating system assigns global ratings ranging from 4+ to 18+, with additional region-specific ratings in some markets. An 18+ designation generally prevents downloads by minors and may trigger adult confirmation, so it is stricter than simply hiding explicit features inside a lower-rated app.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.3u.com/news/details/15327/apple-to-require-18-age-ratings-for-dating-apps-and-ai-companions">Apple to Require 18+ Age Ratings for Dating Apps and AI ... - 3uTools</a></li>
+<li><a href="https://trysonar.app/blog/app-store-age-rating">App Store Age Rating : New Tiers and Questionnaire | Sonar Blog</a></li>
+<li><a href="https://www.applaunchclub.co/blog/app-store-age-rating-questionnaire">App Store Age Rating Questionnaire: How to Answer It Correctly...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Apple App Store`, `#AI companions`, `#Age verification`, `#App Store policy`, `#Child safety`
+
+---
+
+<a id="item-35"></a>
+## [Apple Watch Begins Testing AI Conversation Recap Features](https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/) ⭐️ 7.0/10
+
+Apple is testing Audio Intelligence features for Apple Watch in the watchOS 27.3 developer beta. Siri Recap can generate summaries of conversations through ambient listening, while Live Rewind creates text transcripts of the previous 15 seconds of speech. These features extend AI-assisted recall and note-taking to a widely used wearable, potentially making it easier to capture conversations without reaching for a phone. They also signal Apple’s effort to make always-available audio computing more routine while keeping some user control over when listening occurs. Siri Recap is off by default, can be scheduled by time or location, and can be toggled from Control Center. Live Rewind provides a short rolling transcript rather than a complete conversation record, and the system combines on-device processing with cloud-based AI models.
+
+rss · TechCrunch AI · Nov 3, 07:20
+
+**Background**: Audio Intelligence is a new class of Apple Intelligence features that uses Apple Watch microphones and Apple silicon to recognize sounds, identify music, and support spoken interactions. Its conversation tools take different approaches: Siri Recap produces high-level notes and key points, whereas Live Rewind transcribes only a brief recent portion of speech.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://support.apple.com/en-us/148354">About Audio Intelligence features on Apple Watch Series 12 ...</a></li>
+<li><a href="https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/">Apple Watch&#x27;s new AI features are normalizing the idea... | TechCrunch</a></li>
+<li><a href="https://vomo.ai/guide/can-apple-watch-transcribe-conversations">Can Apple Watch Transcribe Conversations? Siri Recap ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Apple Watch`, `#On-Device AI`, `#Audio Intelligence`, `#Conversation Recap`, `#Beta Testing`
+
+---
+
+<a id="item-36"></a>
+## [Publishers Sue Brave Over Alleged AI Content Scraping](https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/) ⭐️ 7.0/10
+
+The New York Times and other publishers sued Brave in federal court, alleging that the browser company scraped copyrighted journalism and unlawfully distributed it to customers including Anthropic and Perplexity. The complaint characterizes Brave as a “supplier, dealer, and distributor” of allegedly stolen news content. The case could reshape how browsers collect web content, respect paywalls, and monetize data used to train AI systems. It may also establish important precedent for publishers pursuing AI companies that obtain content without permission or negotiate licensing arrangements. Search results report that the lawsuit was filed in federal court in Manhattan and alleges Brave bypassed publisher paywalls, indexed scraped journalism, and licensed it to AI companies including Anthropic, Perplexity, Mistral, xAI, and Cohere. These are allegations rather than adjudicated findings, and the available reports provide limited detail about the legal claims and Brave’s response.
+
+rss · TechCrunch AI · Nov 2, 19:19
+
+**Background**: Brave is a privacy-focused browser whose products have included Brave Search, a search engine that indexes web content. The dispute concerns a business model in which an intermediary acquires or collects publisher content and provides access to AI companies, potentially without the publishers’ authorization. Similar publisher litigation against technology companies has increasingly focused on unlicensed content collection for AI training.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://i10x.ai/news/nyt-sues-brave-ai-scraping-lawsuit">NYT Sues Brave Browser Over AI Content Scraping</a></li>
+<li><a href="https://applescoop.org/story/new-york-times-sues-brave-browser-ai-scraping-lawsuit-explained">The New York Times sues Brave over AI scraping: what it claims</a></li>
+<li><a href="https://aidailypost.com/news/nyt-other-publications-sue-brave">NYT Sues Brave Over AI Training Data Scraping</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#content scraping`, `#copyright`, `#AI data licensing`, `#web browsers`, `#publishing`
+
+---
+
+<a id="item-37"></a>
+## [Google Disrupts XCPE Botnet on 1.3 Million Android TV Boxes](https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/) ⭐️ 7.0/10
+
+Google and industry partners dismantled the XCPE backdoor and botnet, which was intentionally developed and operated by OEM Videostrong Technology Co. for financial gain. The campaign had covertly infected approximately 1.3 million Android TV boxes. The disruption removes infrastructure used to operate a massive botnet affecting consumer television devices. It also highlights the risks of persistent firmware compromises and the growing need for coordinated action across device manufacturers, cloud providers, and security researchers. The XCPE campaign depended on a backdoor intentionally built into devices supplied by the OEM, rather than being only a conventional malicious application. The compromised command infrastructure was disrupted, but reporting indicates that the firmware backdoor may remain and that device owners still lack a universal removal tool.
+
+rss · Ars Technica · Nov 3, 17:08
+
+**Background**: A botnet is a collection of compromised devices that can receive and execute commands from an operator. In this case, Android TV boxes were compromised through the XCPE backdoor, enabling large-scale remote control of devices without users&\#x27; knowledge. Android TV and other Internet-connected devices can remain vulnerable when vulnerabilities or backdoors persist in firmware.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet">Shutting the Door on the XCPE Botnet | Google Cloud Blog</a></li>
+<li><a href="https://windowsforum.com/news/google-disrupts-xcpe-botnet-on-1-3-million-android-tv-boxes-but-firmware-backdoor-remains.450643/">Google Disrupts XCPE Botnet on 1.3 Million Android TV Boxes ...</a></li>
+<li><a href="https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/">Google dismantles botnet secretly running on 1.3 million ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cybersecurity`, `#botnet`, `#Android TV`, `#IoT security`, `#Google`
+
+---
+
+<a id="item-38"></a>
+## [EPA Retreat Raises Questions About Factory-Farm Air Pollution Enforcement](https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/) ⭐️ 7.0/10
+
+Critics argue that the EPA is effectively abandoning Clean Air Act enforcement against factory farms. The provided excerpt does not specify a formal policy announcement, court ruling, or agency action underlying that criticism. A broad retreat from enforcement could leave emissions from concentrated animal-feeding operations outside major federal pollution-control and reporting requirements. That could affect neighboring communities, industrial agriculture, and the consistency of Clean Air Act enforcement. Environmental Integrity reports that some factory-farm sites are dirtier than some of America’s most polluted cities and that EPA data indicate industrial-scale hazardous-air-pollutant emissions. A 2017 EPA Office of Inspector General report found no reliable method for tracking animal-farm emissions or determining compliance with the Clean Air Act, while EPA operates air-quality monitors for pollutants including PM2.5, ozone, and nitrogen dioxide.
+
+rss · Ars Technica · Nov 3, 14:49
+
+**Background**: The Clean Air Act is the primary federal law for reducing and controlling air pollution in the United States. Concentrated animal-feeding operations can emit ammonia, hydrogen sulfide, particulate matter, and other pollutants, but their regulatory treatment has depended on statutory interpretation, monitoring capabilities, and enforcement decisions. EPA enforcement data and environmental advocates’ analyses are therefore central to determining whether large farms are consistently subject to federal air-quality rules.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://environmentalintegrity.org/news/unregulated-factory-farm-air-pollution-at-some-sites-now-dirtier-than-americas-most-polluted-cities/">Unregulated Factory Farm Air Pollution at... | Environmental Integrity</a></li>
+<li><a href="https://grist.org/climate-energy/factory-farms-no-longer-have-to-report-their-air-emissions-thats-dangerous-for-their-neighbors/">Factory farms no longer have to report their air emissions . | Grist</a></li>
+<li><a href="https://www.epa.gov/outdoor-air-quality-data/interactive-map-air-quality-monitors">Interactive Map of Air Quality Monitors | US EPA</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#EPA`, `#Clean Air Act`, `#factory farms`, `#air pollution`, `#environmental policy`
+
+---
+
+<a id="item-39"></a>
+## [Third Human Bird-Flu Death Follows Livestock Spillover](https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/) ⭐️ 7.0/10
+
+A third person has died from bird flu since the virus began spreading among livestock. Public-health authorities continue to assess the overall threat as low while the virus keeps spreading. A confirmed human death associated with transmission into livestock raises concern about animal-to-human spillover and possible occupational exposure. It also highlights the need to monitor livestock outbreaks while accurately weighing the currently low public-health risk. The report does not identify the victim, location, exposure route, or viral subtype, so the provided information cannot establish broader human-to-human transmission. H5N1 is a zoonotic virus that can infect humans and other mammals, although human infections have historically been rare and largely isolated to farm workers.
+
+rss · Ars Technica · Nov 2, 21:21
+
+**Background**: Zoonotic spillover occurs when a pathogen passes from an animal to a human, potentially through direct contact, contaminated environments, or vectors. Highly pathogenic avian influenza H5N1 was first reported in dairy cattle in the United States on March 25, 2024, marking the first known detection of these viruses in cows. Human infections remain uncommon, but continued circulation among cattle and other livestock creates opportunities for additional exposure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://extension.unr.edu/livestock-biosecurity/avian-influenza.aspx">Highly Pathogenic Avian Influenza | Livestock Biosecurity | University...</a></li>
+<li><a href="https://www.cdc.gov/bird-flu/situation-summary/mammals.html">Current Situation: Bird Flu in Dairy Cows | Bird Flu | CDC</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182890/">Zoonotic spillover : Understanding basic aspects for better prevention...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#avian influenza`, `#bird flu`, `#public health`, `#livestock`, `#zoonosis`
+
+---
+
+<a id="item-40"></a>
+## [Reverse Game Theory Incentivizes AI Agents to Follow Rules](https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/) ⭐️ 7.0/10
+
+A proposed alignment approach applies mechanism design, also called “reverse game theory,” to create incentives that make following human rules the most rational choice for powerful AI agents. The available coverage presents the concept as a way to steer increasingly capable models away from rogue behavior, but it provides little technical validation. As AI systems become more capable and autonomous, relying only on instructions may not reliably prevent harmful behavior. Incentive-based alignment could supplement other safeguards by making compliance advantageous within the environment in which agents operate. Reverse game theory is described here as mechanism design: rather than analyzing an existing game, designers construct rules and incentives intended to produce desired behavior. The provided material does not specify the algorithms, experimental results, objective functions, or robustness limits of this proposed approach.
+
+rss · MIT Technology Review · Nov 3, 10:43
+
+**Background**: AI alignment seeks to ensure that advanced systems pursue objectives consistent with human intentions and remain subject to appropriate safeguards. Mechanism design, conventionally called reverse game theory, starts from desired outcomes and builds the rules of an interaction environment so that rational participants are incentivized to produce them. In multi-agent AI safety, this framing extends beyond individual models to the institutions, incentives, and interactions that shape collective behavior.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/">How “reverse game theory” could keep AI agents in check</a></li>
+<li><a href="https://cryptobriefing.com/reverse-game-theory-ai-alignment/">Reverse game theory aims to align AI agents with human values</a></li>
+<li><a href="https://rogueaitracker.com/research/arxiv-multiagent-institutional-design/">Institutional design shapes multi-agent AI safety</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI alignment`, `#game theory`, `#mechanism design`, `#AI safety`, `#multi-agent systems`
+
+---
+
+<a id="item-41"></a>
+## [Evaluate Coding Agents by Shippable Outcomes, Not Tokens](https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/) ⭐️ 7.0/10
+
+The article argues that AI coding agents should be measured by completed, shippable software outcomes rather than token consumption. It notes that iterative agent workflows can consume 10 to 50 times as many tokens as a simple prompt because agents plan, generate code, run tests, and revise their work. 词元消耗只能反映一项运营成本，无法说明智能体是否生成了可靠且可用的软件。以成果为导向的评估可能为工程管理者提供更清晰的依据，用于比较不同智能体、衡量开发效率，并在不同模型和工作流之间分配预算。 The 10-to-50-fold comparison is between an iterative coding-agent task and a basic chat prompt, so it should not be treated as a universal benchmark across all models or tasks. A sound outcome metric would also need to define what counts as completed and shippable, potentially including successful tests, merged code, defect rates, and human review requirements.
+
+rss · MIT Technology Review · Nov 2, 13:10
+
+**Background**: AI coding agents differ from ordinary chat assistants because they can take actions in a development environment and use feedback from execution. A typical loop includes planning, code generation, testing, observation, and revision, with token use occurring at multiple stages. Existing agentic benchmarks assess capabilities such as terminal tasks, web research, and computer-use workflows, while patch quality is another way to evaluate coding performance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.bswen.com/blog/2026-06-08-reduce-ai-token-usage/">How to Reduce AI Coding Assistant Token Usage by... | BSWEN</a></li>
+<li><a href="https://benchlm.ai/agentic">Best LLMs for Agentic — October 2026 Leaderboard | BenchLM. ai</a></li>
+<li><a href="https://www.morphllm.com/claude-benchmarks">Claude Benchmarks (2026): Opus 5, Sonnet 5, and Fable 5 at 95...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#software engineering`, `#LLM evaluation`, `#developer productivity`, `#token economics`
+
+---
+
+<a id="item-42"></a>
+## [ChatGPT Search Volume Reaches 20% of Google’s](https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search) ⭐️ 7.0/10
+
+OpenAI consumer product lead Adam Fry said at a Monday press event that search queries run through ChatGPT now equal 20% of the volume handled by Google. The claim signals rapid growth in ChatGPT’s use as a search alternative. A 20% comparison would indicate that ChatGPT Search has become a meaningful competitor to Google Search in consumers’ information-seeking behavior. It could strengthen OpenAI’s position in the AI search market and increase pressure on Google to adapt its search products. The figure is an OpenAI claim announced by Adam Fry, rather than an independently verified market-share measurement disclosed in the excerpt. The comparison concerns query volume and does not by itself establish equivalent revenue, user reach, commercial impact, or overall search-market share.
+
+rss · The Verge · Nov 3, 18:30
+
+**Background**: ChatGPT Search lets users ask questions and receive current answers with links to relevant web sources, reducing the need to visit a traditional search engine for many tasks. The emergence of “Ask Chat” as an alternative to “Google it” reflects a broader shift toward conversational AI interfaces for information discovery. Query volume is one indicator of usage, but the excerpt does not explain the exact measurement methodology used for the comparison.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/introducing-chatgpt-search/">Introducing ChatGPT search | OpenAI</a></li>
+<li><a href="https://www.digitalapplied.com/blog/ai-search-engine-statistics-2026-market-share">AI Search Engine Statistics 2026: Market Share Data</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#ChatGPT`, `#Google Search`, `#AI search`, `#OpenAI`, `#consumer behavior`
+
+---
+
+<a id="item-43"></a>
+## [Promising Opioid Withdrawal Drug Faces DEA Scheduling Threat](https://www.wired.com/story/opioid-users-sr-17018-drug-to-help-them-quit-dea-ban/) ⭐️ 7.0/10
+
+Users on Reddit and Discord report that the experimental drug SR-17018 eliminates opioid withdrawal symptoms, but the DEA has placed it in the same controlled-substance category as heroin. This scheduling action could obstruct clinical research and prevent patients from accessing a potentially useful treatment. The dispute highlights how drug-scheduling rules can determine whether promising treatments for opioid use disorder can be studied and made available. It also affects harm-reduction efforts and communities seeking alternatives to conventional withdrawal-management methods. SR-17018 is an experimental compound associated with mu-opioid-receptor stabilization and biased kappa-opioid-receptor activity in preclinical research. Its reported benefits come largely from user accounts, while the search results do not establish that the compound has completed the clinical evidence required for routine treatment; DEA scheduling also carries research restrictions and penalties.
+
+rss · Wired · Nov 3, 10:00
+
+**Background**: Opioid withdrawal can involve intense physical symptoms, and the search results describe increased challenges during the fentanyl era. SR-17018 is being investigated as a possible non-opioid or opioid-receptor-targeted approach to stabilizing withdrawal biology. Under the U.S. Controlled Substances Act, the DEA classifies substances into five schedules, and Schedule I substances have the most restrictive research and handling rules.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.sr17018study.com/withdrawal/">SR-17018 and Opioid Withdrawal | MOR Stabilization ...</a></li>
+<li><a href="https://www.deadiversion.usdoj.gov/schedules/schedules.html?utm">Controlled Substance Schedules - DEA Diversion Control Division</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10556383/">Ibogaine/Noribogaine in the Treatment of Substance Use ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#public health`, `#opioid use disorder`, `#drug policy`, `#DEA`, `#clinical research`
+
+---
+
+<a id="item-44"></a>
+## [Browser Tape Brings a High-Fidelity Juno-106-Style Studio to the Web](https://browsertape.com/metro#share=7bcc8ad92b7a4f458d924e3ea7ebf8b5) ⭐️ 7.0/10
+
+Browser Tape is a browser-based, DAWless-style music studio demonstrated with a playable recreation of Kavinsky’s “Nightcall,” with all audio generated locally. Its centerpiece, Cybelle, is a C++/WebAssembly Juno-106 clone built from a SPICE circuit model and calibrated against real hardware. The project shows how C++/WebAssembly can run computationally intensive audio DSP locally in a browser, potentially reducing the need for native software or hardware instruments. It also reflects a broader effort to combine tactile, hardware-inspired music-making with the convenience of browser-based tools. The developer says roughly 80% of development time went into Cybelle’s sound engine, including iterative calibration of its filter and chorus through blind tests against a physical Juno-106. The implementation balances fidelity with CPU performance on most laptops, although the current showcase appears centered on a single instrument rather than demonstrating a broad, independently validated studio ecosystem.
+
+rss · Hacker News \(best\) · Nov 3, 21:14
+
+**Background**: The Roland Juno-106, released in 1984, is an analog synthesizer whose voice architecture and recognizable filter and chorus are central to many classic electronic-music sounds. SPICE modeling simulates electronic circuits at the component level, while WebAssembly allows compiled C++ to execute within a browser at near-native speed. Browser Tape’s interface is designed to evoke a small hardware setup containing a synthesizer, drums, a MIDI recorder, and physical-style controls without requiring a conventional DAW.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/WebAssembly/Guides/C_to_Wasm">将 C/ C++ 编译为 WebAssembly - WebAssembly | MDN</a></li>
+<li><a href="https://developer.chrome.com/docs/devtools/wasm">Debug C/ C++ WebAssembly | Chrome DevTools | Chrome for...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Roland_Juno-106">Roland Juno - 106 - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#WebAssembly`, `#Web Audio`, `#Synthesizers`, `#Audio DSP`, `#Creative Coding`
+
+---
+
+<a id="item-45"></a>
+## [OpenAI Recruits Partners for Physical Engineering AI](https://dev.to/alifar/openai-invites-engineering-partners-to-shape-ai-workflows-for-the-physical-world-577) ⭐️ 7.0/10
+
+OpenAI is inviting engineers, engineering firms, and software vendors to co-develop AI workflows for physical-product design and manufacturing. The initiative spans mechanical and electrical engineering, with integrations planned around CAD, simulation, and PCB-design environments. This extends frontier AI beyond general-purpose chat and coding into established engineering toolchains, where practical use depends on specialist constraints, iterative review, and domain-specific workflows. Engineering software vendors and manufacturers could help turn OpenAI&\#x27;s models into deployable product-design capabilities. OpenAI describes the initiative as an early-stage collaboration rather than a standardized, off-the-shelf engineering product, and says outside participants can help train and develop models for engineering and manufacturing. Cited examples include an Astra device, work involving OpenAI hardware teams, and collaborations with Chip Ganassi Racing and Mazda.
+
+rss · Dev.to · Nov 3, 21:15
+
+**Background**: CAD software supports parametric part and assembly design, while simulation tools predict mechanical, thermal, fluid, or system behavior before physical prototypes are built. PCB-design tools create schematics, route boards, and increasingly offer AI-assisted electronics workflows, showing why integration with existing tools is important.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://cadchat.com/articles/best-cad-software-for-mechanical-engineers/">9 Best CAD Software for Mechanical Engineers - cadchat.com</a></li>
+<li><a href="https://www.ptc.com/en/technologies/cad/simulation-and-analysis/simulation-tools">CAD Simulation Tools | PTC</a></li>
+<li><a href="https://www.flux.ai/p/eda">AI Electronics Design &amp; PCB Layout Software | Flux</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OpenAI`, `#AI for engineering`, `#physical-world AI`, `#CAD`, `#simulation`
+
+---
+
+<a id="item-46"></a>
+## [Google Antigravity Adds Agentic Cheminformatics Capabilities](https://dev.to/pklavc/agentic-cheminformatics-with-google-antigravity-5e18) ⭐️ 7.0/10
+
+Google DeepMind announced Google Antigravity with Cheminformatics Skills for agentic drug-discovery workflows. The system can search compounds, perform matched molecular pair analysis, and propose novel rigidified macrocycles with synthetic routes in about an hour using lung-cancer treatment examples. Combining compound retrieval, molecular-pair analysis, generative macrocycle design, and route proposal in one workflow could shorten early discovery cycles. It also points toward AI systems that execute linked scientific tasks rather than merely answer isolated chemical queries. The demonstrated workflow searched thousands of compounds and generated rigidified macrocycle candidates with synthetic routes, but the announcement does not disclose model architecture, training data, filtering methods, performance metrics, or safety guardrails. It also provides no API specification, SDK details, integration guide, or clear explanation of whether Antigravity is a model, hosted service, library, or internal platform.
+
+rss · Dev.to · Nov 3, 21:14
+
+**Background**: Agentic AI combines a model with planning, tool use, and iterative execution to perform multi-step tasks. In cheminformatics, compound search can use structures, substructures, similarity, or physicochemical properties, while matched molecular pair analysis compares related molecules to identify structural changes associated with activity or property differences. Macrocycles are large ring-shaped molecules that can address challenging protein targets; rigidification limits their accessible conformations, potentially improving binding specificity and making optimization easier.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/">Agentic Cheminformatics with Google Antigravity — Google DeepMind</a></li>
+<li><a href="https://aiglobalwire.com/article/agentic-cheminformatics-with-google-antigravity-f9971bfd-fe06-4ae4-861d-13ca96dbd526">Agentic cheminformatics with Google Antigravity - AI Global Wire</a></li>
+<li><a href="https://ainewsleader.com/articles/183786/agentic-cheminformatics-with-google-antigravity">Agentic cheminformatics with Google Antigravity - AI News Leader</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Agentic AI`, `#Cheminformatics`, `#Drug Discovery`, `#Google DeepMind`, `#Macrocycles`
+
+---
+
+<a id="item-47"></a>
+## [Managing Moderate Aortic Stenosis in Older Adults](https://www.nejm.org/doi/full/10.1056/NEJMe2613400?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 7.0/10
+
+A New England Journal of Medicine perspective examines management of moderate aortic stenosis in older adults, with particular attention to surveillance and the timing of intervention. The article was published ahead of print. The management of moderate aortic stenosis is clinically consequential because delaying intervention after progression to severe disease may worsen outcomes, while premature valve replacement exposes patients to unnecessary procedural risk. Older adults require individualized decisions that account for symptoms, disease progression, ventricular dysfunction, life expectancy, and functional status. Aortic valve replacement clearly relieves symptoms and improves survival in symptomatic severe aortic stenosis, whereas evidence for intervention in moderate disease remains less uniform. Patients with moderate aortic stenosis and left ventricular dysfunction may benefit from earlier intervention, and accurate severity assessment can require multimodality imaging when echocardiographic findings are discordant.
+
+rss · NEJM · 最新文章 · Nov 2, 05:40
+
+**Background**: Aortic stenosis is a progressive narrowing of the aortic valve that can impair blood flow from the left ventricle to the aorta. Surveillance is commonly used to monitor valve severity and ventricular function, while intervention becomes more strongly indicated when severe disease produces symptoms. Modern imaging and risk stratification have increased interest in identifying moderate disease that is likely to progress rapidly or already warrants earlier treatment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMe2613400">Management of Moderate Aortic Stenosis in Older Adults — The ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8201468/">Moderate Aortic Stenosis: What is it and When Should We ...</a></li>
+<li><a href="https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2020.570689/full">Frontiers | Multimodality Imaging for Discordant Low-Gradient Aortic ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cardiology`, `#aortic stenosis`, `#geriatrics`, `#clinical management`, `#medical research`
+
+---
+
+<a id="item-48"></a>
+## [Menopausal Hormone Therapy Triggers Distinct Microbiome Responses](https://www.nature.com/articles/s41591-026-04737-4) ⭐️ 7.0/10
+
+A six-month metagenomic study tracked the gut, oral, urinary, and vaginocervical microbiomes of perimenopausal women receiving menopausal hormone therapy. The findings indicate substantial variation in microbiome responses across women and body sites, suggesting that system metagenomics could help inform treatment response and care. Highly individualized microbiome responses may explain why women have different experiences with menopausal hormone therapy. The results could support more personalized treatment selection and monitoring, although the announcement does not establish that microbiome profiling is ready for routine clinical use. The study followed women for six months and assessed four microbiome niches rather than focusing only on the gut. The supplied announcement does not report sample size, hormone formulations, analytical methods, specific microbial changes, or the strength of associations with clinical outcomes.
+
+rss · Nature Medicine · Nov 3, 00:00
+
+**Background**: Human microbiomes are communities of microorganisms living in different body sites, and each site has a distinct ecological role in health. Metagenomics analyzes DNA from entire microbial communities, allowing researchers to examine their composition and functional potential rather than relying on a single organism. Menopause-associated changes and medication responses are increasingly viewed as interacting with the microbiome, which raises questions about how microbiome data could support precision medicine for women&\#x27;s health.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11238057/">A complete guide to human microbiomes: Body niches ...</a></li>
+<li><a href="https://www.frontiersin.org/journals/microbiomes/articles/10.3389/frmbi.2026.1953547/full">Frontiers | Menopause -associated gut microbiome remodeling and...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#microbiome`, `#menopausal hormone therapy`, `#metagenomics`, `#precision medicine`, `#women&\#x27;s health`
+
+---
+
+<a id="item-49"></a>
+## [SER-155 shows safety and fewer bloodstream infections in transplant trial](https://www.nature.com/articles/s41591-026-04686-y) ⭐️ 7.0/10
+
+A phase 1b trial reported that oral live biotherapeutic SER-155 had a safety profile similar to placebo in adults receiving allogeneic hematopoietic cell transplantation. Across open-label and randomized, placebo-controlled cohorts, treatment was associated with fewer bloodstream infections and warrants further clinical investigation. Bloodstream infections are a common and potentially serious complication of allogeneic hematopoietic cell transplantation, particularly when patients develop agranulocytosis. A microbiota-based intervention that reduces infections could address an important unmet need, but the early-phase evidence requires confirmation in larger trials. The study used two cohorts: an open-label cohort with 15 participants and a randomized, placebo-controlled cohort with 45 participants. SER-155 is an investigational, cultivated, oral, multi-strain live biotherapeutic composed of 16 human-commensal bacterial strains encapsulated for oral administration; these phase 1b findings are preliminary and do not yet establish efficacy.
+
+rss · Nature Medicine · Nov 3, 00:00
+
+**Background**: Allogeneic hematopoietic cell transplantation replaces a recipient&\#x27;s hematopoietic system with cells from a donor and can leave patients highly vulnerable to infection because of conditioning therapy and impaired immune recovery. Live biotherapeutic products contain defined microorganisms intended to exert a therapeutic effect, and oral formulations can deliver bacterial strains to the gastrointestinal tract. This approach is related to, but distinct from, fecal microbiota transplantation, which transfers fecal microbial material rather than a standardized cultivated bacterial product.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41591-026-04686-y">A live biotherapeutic product for adult allogeneic ... - Nature</a></li>
+<li><a href="https://www.serestherapeutics.com/wp-content/uploads/2025/07/SER-155-001-EBMT-2025-1.pdf">SER-155-001 EBMT 2025</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/33500639/">Clinical Analysis of Bloodstream Infections During Agranulocytosis...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#live biotherapeutic`, `#hematopoietic cell transplantation`, `#clinical trial`, `#microbiome therapeutics`, `#infectious disease`
+
+---
+
+<a id="item-50"></a>
+## [Kairos Launches Open-Source Real-Time Fraud Decisioning](https://github.com/finic-ai/kairos) ⭐️ 6.0/10
+
+Finic launched Kairos, an open-source real-time risk and fraud decisioning platform that combines XGBoost and logistic regression with natural-language “System One” models. It also provides an MCP server so coding agents can define workflows, train models on organizational data, and select the best-performing variant. Kairos targets two common weaknesses in fraud detection: insufficient labeled examples and the rapid obsolescence of fixed models and rules. Its open-source and agent-assisted approach could lower implementation barriers and shorten update cycles, but the launch provides no benchmarks or substantive evidence of production effectiveness. Natural-language decision models can express questions such as “Is this a throwaway email” without requiring large labeled datasets, while traditional models contribute structured predictive signals. Kairos can be self-hosted with Docker or used through Finic’s hosted service; however, the announcement does not specify latency, model-quality, data-handling, or deployment requirements.
+
+rss · Hacker News \(best\) · Nov 3, 21:16
+
+**Background**: Real-time fraud decisioning assigns or blocks transactions and user actions while they are occurring. Conventional systems commonly combine rules with supervised models such as XGBoost, but both approaches can degrade as attackers adapt and may require substantial labeled data and specialist teams to maintain. Kairos positions natural-language models and agent-driven workflow tools as complements to, rather than verified replacements for, those conventional systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/html/2501.15290v1">Advanced Real-Time Fraud Detection Using RAG-Based LLMs</a></li>
+<li><a href="https://www.sas.com/en_us/software/fraud-decisioning.html">SAS Fraud Decisioning | Real-Time Fraud Detection ...</a></li>
+<li><a href="https://www.datavisor.com/blog/top-10-real-time-decisioning-platforms-for-fraud-and-aml-in-2026">Top 10 Real-Time Decisioning Platforms for Fraud and AML in 2026</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#fraud-detection`, `#decisioning-platforms`, `#machine-learning`, `#open-source`, `#financial-risk`
+
+---
+
+<a id="item-51"></a>
+## [Pratt Parsing Remains a Black Box](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/) ⭐️ 6.0/10
+
+The article presents Pratt parsing as a powerful but opaque or underappreciated technique for building expression parsers. The supplied item contains only the title and a link to comments, so it does not reveal the article’s specific implementation, examples, or conclusions. Understanding Pratt parsing can help language and compiler developers design expression parsers more directly, especially when operators have varied precedence and associativity. The article’s limited available details make its broader practical impact difficult to assess. Pratt parsing is a top-down, operator-precedence parsing technique introduced by Vaughan Pratt in a 1973 paper. It combines recursive descent with precedence and associativity handling, but the supplied content provides no technical excerpts, benchmarks, or implementation details from the article itself.
+
+rss · Hacker News \(热门\) · Nov 3, 20:07
+
+**Background**: Operator-precedence parsers interpret grammars in which operators have different priorities, as commonly required by arithmetic expressions. Pratt parsing extends recursive descent by using binding powers to decide when nested expression levels should stop, making precedence and associativity explicit rather than encoding them indirectly in grammar structure.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html">Simple but Powerful Pratt Parsing - GitHub Pages</a></li>
+<li><a href="https://dawoodjee.com/blog/pratt-parsing/">Pratt Parsing - The definitive guide</a></li>
+<li><a href="https://abarker.github.io/typped/pratt_parsing_intro.html">2. Introduction to Pratt parsing and its terminology</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#parsing`, `#programming-languages`, `#compilers`, `#software-engineering`
+
+---
+
+<a id="item-52"></a>
+## [macOS 27 Reportedly Drops CoreStorage and HFS Volume Support](https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/) ⭐️ 6.0/10
+
+The article claims that macOS 27 no longer supports legacy CoreStorage and HFS volumes. The provided item contains only a link to Hacker News comments, so the claim is not independently substantiated by the supplied content. 依赖旧式外置硬盘、加密 HFS+ 卷或 CoreStorage 逻辑卷结构的用户，可能遇到兼容性、挂载或数据迁移问题。加密与未加密 HFS+ 卷的区别至关重要，因为现有报道明确描述的是 macOS 28 停止支持加密 HFS+，而非全面取消 HFS+ 支持。 CoreStorage was the logical-volume architecture associated with Apple’s encrypted HFS+ implementation, while HFS+ is an older journaling filesystem. Search results report that unencrypted HFS+ volumes can continue to work and that encrypted HFS+ support is ending in macOS 28, so the headline’s broader wording requires verification.
+
+rss · Hacker News \(热门\) · Nov 3, 19:27
+
+**Background**: HFS+ replaced the original Hierarchical File System as Apple’s primary filesystem with Mac OS 8.1 and introduced journaling for improved reliability. macOS Sierra removed read-write support for the original HFS filesystem, while later systems could generally read HFS+ volumes. Apple’s move away from encrypted HFS+ reflects the broader transition from legacy storage formats to APFS.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://developer.apple.com/library/archive/technotes/tn/tn1150.html">Technical Note TN1150: HFS Plus Volume Format</a></li>
+<li><a href="https://en.wikipedia.org/wiki/HFS_Plus">HFS Plus - Wikipedia</a></li>
+<li><a href="https://www.squaredtech.co/apple-to-drop-encrypted-hfs-support-in-macos-28-what-to-do-now">Encrypted HFS+ Support Ending In MacOS 28: Key Steps</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#macOS`, `#CoreStorage`, `#HFS`, `#storage`, `#compatibility`
+
+---
+
+<a id="item-53"></a>
+## [Voice- and Hardware-Assisted Terminal Workflows for Disabled Users](https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation) ⭐️ 6.0/10
+
+The author presents a personal setup that combines Svalboard, Talon Voice, and custom Talon extensions to reduce mouse and conventional keyboard dependence when reading, editing, and navigating terminal commands. The article also asks how other users interact with terminals in 2026, with the goal of developing a more genuinely voice-first terminal experience. Terminal interfaces often preserve accessibility barriers even when the underlying command-line tools are powerful, particularly because scrolling, command editing, and text selection demand precise physical input. Demonstrating alternatives that combine voice recognition, specialized keyboards, and automation may make command-line work more accessible to disabled users and encourage broader assistive-technology support in developer tools. The reported obstacles include physical scrolling, slow correction of previous commands through arrow-key sequences, and mouse-based selection for copying output into commands. Talon already provides terminal commands, but composing complex commands and editing existing text remain cumbersome, so the author relies on extensions—including custom ones—and seeks a more efficient voice-first approach.
+
+rss · Lobsters \(技术社区\) · Nov 3, 18:54
+
+**Background**: Talon Voice is a voice-control platform whose commands can invoke operating-system, application, and custom actions; its command browser exposes available actions and associated spoken labels. Svalboard is a customizable keyboard in the Datahand tradition, designed to support hands-free or alternative physical interaction, while Talon extensions can add specialized terminal behaviors beyond the built-in commands.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://talonvoice.com/docs/reference/commands.html">Commands · Talon</a></li>
+<li><a href="https://talonvoice.com/docs/reference/voice-control.html">Default commands · Talon</a></li>
+<li><a href="https://svalboard.com/">Svalboard - Datahand forever!</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#accessibility`, `#terminal`, `#voice-control`, `#Talon`, `#assistive-technology`
+
+---
+
+<a id="item-54"></a>
+## [PostHog Explains Its Move Away From DuckDB](https://posthog.com/blog/moving-off-duckdb) ⭐️ 6.0/10
+
+PostHog published an engineering account explaining why it is moving its data warehouse away from DuckDB. The supplied article contains only a link to a discussion page, so the specific replacement architecture, migration plan, and performance results are not available here. The decision offers a practical signal about the operational limits of DuckDB in a production warehouse, particularly as PostHog’s analytics requirements evolve. It may help data-infrastructure teams assess whether an embedded analytical database remains suitable for their scale, isolation, and concurrency needs. DuckDB is an embedded OLAP system designed for local analytics and direct processing of files such as Parquet and CSV; it has limited transactional and parallel-write capabilities compared with systems built for concurrent data ingestion. PostHog previously rebuilt its warehouse on DuckDB after moving away from ClickHouse, while its managed warehouse documentation describes DuckDB and DuckLake as components of an isolated analytical environment.
+
+rss · Lobsters \(技术社区\) · Nov 3, 07:33
+
+**Background**: DuckDB runs as an embedded analytical database rather than a separately managed database cluster, making it useful for development, interactive exploration, and file-native workflows. PostHog previously moved its second-generation warehouse from ClickHouse to DuckDB and later documented a managed warehouse built around DuckDB and DuckLake. The new migration indicates that the earlier architectural choice is being reconsidered as PostHog’s production requirements change.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://system-design.space/en/chapter/duckdb-overview/">DuckDB : embedded analytical DBMS and architecture</a></li>
+<li><a href="https://motherduck.com/duckdb-book-summary-chapter1/">What Is DuckDB ? Introduction, Use Cases &amp; Architecture | MotherDuck</a></li>
+<li><a href="https://posthog.com/docs/data-warehouse/managed-warehouse">Managed warehouse - Docs - PostHog</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#DuckDB`, `#Data Warehousing`, `#Data Infrastructure`, `#PostHog`, `#Database Migration`
+
+---
+
+<a id="item-55"></a>
+## [Polyend Opens Its Tracker Firmware](https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120) ⭐️ 6.0/10
+
+Polyend released the firmware source code for the Tracker music sampler and introduced Tracker Community Edition 1.0 for the Tracker, Tracker+, and Tracker Mini. Users can now install the firmware on supported instruments, modify it, and distribute their own versions. The release gives musicians, sound designers, and developers greater control over the Tracker platform and supports continued community experimentation. It also reflects a broader shift in music hardware toward open firmware and user-generated extensions. The source code is available through the official Tracker CE repository, while the bootloader is kept separate from the application firmware. On the original Tracker MK66, the bootloader runs on a dedicated microcontroller.
+
+rss · Lobsters \(技术社区\) · Nov 2, 15:22
+
+**Background**: The Polyend Tracker is a music sampler whose behavior and features are determined partly by its firmware. Publishing that source code allows users to inspect and customize the software, potentially create new instrument workflows, and share modifications with other Tracker owners.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://polyend.com/whats-up/tracker-the-biggest-update-yet/">Tracker. The biggest update yet. - Polyend</a></li>
+<li><a href="https://github.com/polyend/tracker-ce">GitHub - polyend/tracker-ce: Official Polyend Tracker ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#open-source`, `#firmware`, `#music-technology`, `#hardware`, `#developer-tools`
+
+---
+
+<a id="item-56"></a>
+## [Bε-Trees and Write Optimization Explained](https://www.usenix.org/publications/login/oct15/bender) ⭐️ 6.0/10
+
+The article introduces Bε-trees as write-optimized data structures for organizing on-disk storage, such as databases and file systems. It also explains the write-optimization techniques underlying the recently discussed GEFS file system. Bε-trees help reduce the cost of updating large data structures, making them relevant to database engines and modern file systems. The connection to GEFS shows how this research underpins a system designed around crash safety, corruption detection, simplicity, and fast snapshots. A Bε-tree is a write-optimized counterpart to a B-tree and can be used to organize an application&\#x27;s on-disk storage. GEFS builds a traditional Plan 9 9P file-system interface over a forest of copy-on-write Bε trees.
+
+rss · Lobsters \(技术社区\) · Nov 2, 20:26
+
+**Background**: A B-tree organizes data hierarchically and is widely used in databases and file systems, but updates can require moving or rewriting data. Write-optimized structures such as Bε-trees use buffering to make frequent modifications more efficient. GEFS, short for Good Enough File System, is a file system built for Plan 9 that prioritizes crash safety, corruption detection, simplicity, and fast snapshots rather than optimizing every metric equally.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.usenix.org/publications/login/oct15/bender">An Introduction to Bε - trees and Write - Optimization | USENIX</a></li>
+<li><a href="https://orib.dev/gefs.pdf">GEFS, A Good Enough File System</a></li>
+<li><a href="https://notes.billmill.org/link_blog/2023/04/Good_Enough_File_System.html">Good Enough File System - llimllib notes</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The linked discussion centers on the technical background to GEFS and provides a place for readers to ask about Bε-tree and write-optimization concepts.
+
+**Tags**: `#Bε-trees`, `#write-optimization`, `#file-systems`, `#GEFS`, `#databases`
+
+---
+
+<a id="item-57"></a>
+## [LLM 0.37 Adds Models, Endpoints, and Multimodal Embeddings](https://simonwillison.net/2026/Nov/2/llm/) ⭐️ 6.0/10
+
+Simon Willison released LLM 0.37, adding support for the gpt-6.1-sol and gpt-6.1-terra models and a new llm openai endpoint add command for configuring additional OpenAI-compatible endpoints. The release changes the default model to gpt-6-luna, which costs half as much as the previous gpt-5.6-luna default, and expands embeddings to handle binary content with differing content types. This release reduces the friction of working with multiple model providers and lowers the default cost of running LLM, making the tool more practical for routine experimentation and automation. Its broader embedding support also improves compatibility with multimodal models that accept text, audio, images, and video. The release accumulated roughly two months of features and fixes and included contributions from 12 authors, most of whom used AI assistance. Willison said he used Opus 5.5 or GPT-6 Astra to triage the contributions, treating many pull requests as reproducible bug reports, although he sometimes implemented alternative fixes himself.
+
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 2, 23:49
+
+**Background**: LLM is Simon Willison’s open-source command-line tool and Python library for interacting with language models through APIs. OpenAI-compatible endpoints expose a common interface for chat, embeddings, and related model operations, which makes it easier to use providers beyond OpenAI. Gemini Embedding 2 is a natively multimodal embedding model that maps text, audio, images, video, and documents into a shared vector space for cross-modal search, classification, and clustering.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://ai.google.dev/gemini-api/docs/embeddings">Embeddings | Gemini API | Google AI for Developers</a></li>
+<li><a href="https://developers.cloudflare.com/workers-ai/configuration/open-ai-compatibility/">OpenAI compatible API endpoints · Cloudflare Workers AI docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#CLI tools`, `#Python library`, `#embeddings`, `#OpenAI-compatible APIs`
+
+---
+
+<a id="item-58"></a>
+## [Trajectory Raises $45M to Simplify AI Model Training](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/) ⭐️ 6.0/10
+
+Trajectory raised a $45 million Series A to develop tools that make AI model training accessible to nontechnical users. The one-year-old startup reached a $300 million valuation after the round. The funding reflects growing demand for lower-code AI development tools that let businesses adapt models to specialized tasks without relying heavily on specialist engineers. It also signals investor confidence in continual learning as a path toward automating and simplifying model improvement. Trajectory&\#x27;s platform lets businesses connect an open-source AI model to an application, collect performance feedback, and retrain the model to improve specialized tasks over time. The available reporting provides limited information about deployment results, technical safeguards, pricing, and customers.
+
+rss · TechCrunch AI · Nov 2, 23:13
+
+**Background**: Continual learning is an approach in which a model learns from new feedback and continues improving after its initial training. Trajectory applies this concept by using application performance data to retrain an open-source model, potentially reducing the need for nontechnical teams to manage complex training pipelines themselves.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/">Trajectory raises $45M to make AI model training ... | TechCrunch</a></li>
+<li><a href="https://www.gate.com/news/detail/GOOGL/trajectory-raises-45m-series-a-to-automate-ai-model-training-25369602">Trajectory Raises $45M Series A to Automate AI Model Training</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#startup-funding`, `#model-training`, `#low-code`, `#democratization`
+
+---
+
+<a id="item-59"></a>
+## [Omen AI Acquires Aquatic Labs for $16 Million](https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/) ⭐️ 6.0/10
+
+Omen AI acquired Aquatic Labs in a $16 million cash-and-stock transaction, adding its sensor research, intellectual property, and team to Omen’s data-center water-management platform. The combined company aims to automate monitoring and treatment of cooling fluids, helping data centers reduce water waste and prevent operational disruptions. The acquisition combines AI-based fluid monitoring with Aquatic Labs’ sensor expertise as liquid cooling becomes increasingly important for AI data centers. Better monitoring and treatment could lower water consumption, reduce contamination-related outages, and help operators scale chip capacity more efficiently. The deal is structured as $16 million in cash and stock and follows Omen AI’s $31 million Series A. Omen AI previously focused on monitoring chip coolant and detecting bacterial outbreaks; the acquisition adds Aquatic Labs’ sensor work to its automated fluid-monitoring and treatment efforts.
+
+rss · TechCrunch AI · Nov 2, 15:00
+
+**Background**: Liquid cooling moves heat away from high-density AI chips through circulating fluid, but operators must monitor coolant chemistry, contamination, and water use. Immersion cooling can reduce infrastructure size relative to air cooling, although available fluids and flow-control mechanisms present implementation challenges. Automated sensing and treatment are therefore relevant to both data-center reliability and sustainability goals.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.prnewswire.com/news-releases/omen-ai-acquires-aquatic-labs-bringing-ocean-sensing-expertise-to-automate-data-center-cooling-302926594.html">Omen AI Acquires Aquatic Labs, Bringing Ocean-Sensing ...</a></li>
+<li><a href="https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/">Omen AI &#x27;s plan to optimize data centers is all wet | TechCrunch</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1359431124007804">Liquid cooling of data centers: A necessity facing challenges</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#data centers`, `#water management`, `#acquisitions`, `#sustainability`
+
+---
+
+<a id="item-60"></a>
+## [Ukraine Strikes Push Russia Toward Underground Data Centers](https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/) ⭐️ 6.0/10
+
+Russia is accelerating plans to place data centers underground as Ukrainian drone strikes highlight the vulnerability of its exposed digital infrastructure. The move represents a shift toward hardening critical computing facilities against physical attacks. The conflict is making data-center physical security a strategic concern rather than merely an operational issue. Russia’s response could influence how operators and governments protect cloud capacity, energy systems, and communications networks during wartime. Underground siting may reduce exposure to drone strikes, fire, and other surface-level threats, but it can complicate cooling, power delivery, maintenance, and emergency access. The available report provides little technical detail or evidence about which facilities, timelines, or underground technologies are involved.
+
+rss · Ars Technica · Nov 3, 20:39
+
+**Background**: Data centers support cloud services, storage, and computing, but their physical plants, power connections, and network links can be concentrated at conspicuous sites. Recent drone attacks on commercial data centers in the Middle East have similarly prompted operators to strengthen perimeter defenses and counter-drone systems. Underground data centers are being explored for physical resilience and lower land use, although they require specialized engineering.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://factually.co/fact-checks/technology/drone-regional-conflict-attacks-impact-data-center-physical-security-20b7fa">How Have Drone and Regional‑Conflict Attacks Changed P...</a></li>
+<li><a href="https://apnews.com/article/amazon-aws-data-center-uae-iran-bahrain-71066b0a822c4cfd88b61e3fe79af917">Strikes on Amazon data centers highlights vulnerability to physical ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#data centers`, `#infrastructure security`, `#drones`, `#Russia`, `#Ukraine`
+
+---
+
+<a id="item-61"></a>
+## [Child Dies Amid Alleged CDC Alert Delay](https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/) ⭐️ 6.0/10
+
+Another child reportedly died from measles while the CDC was accused of delaying a public-health alert. New York&\#x27;s governor linked the outbreak to Robert Kennedy Jr.&\#x27;s long-standing anti-vaccine activism. The reported death and alleged delay raise concerns about vaccination policy, outbreak detection, and the speed of public-health communication. The political attribution may also influence scrutiny of federal health leadership and responses to measles outbreaks. The supplied item does not provide the child&\#x27;s identity, outbreak location, date of death, details of the allegedly delayed alert, or evidence supporting the claims. It attributes the governor&\#x27;s view to Kennedy&\#x27;s anti-vaccine activism, but does not include a response from the CDC or Kennedy.
+
+rss · Ars Technica · Nov 3, 17:21
+
+**Background**: Measles is a highly contagious viral disease, and vaccination is the principal means of preventing outbreaks. The CDC coordinates public-health guidance and outbreak responses in the United States, while state and local health agencies investigate cases and implement containment measures. Robert Kennedy Jr. is identified in the item as having a long history of anti-vaccine activism.
+
+**Tags**: `#public health`, `#measles outbreak`, `#vaccination`, `#CDC`, `#health policy`
+
+---
+
+<a id="item-62"></a>
+## [Space Company Bets on Water-Based Propulsion](https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/) ⭐️ 6.0/10
+
+A space company is developing a spacecraft propulsion strategy based on water, a propellant described as available almost everywhere. The article’s teaser suggests a comparison involving spacecraft propellant and delta-V. Using abundant water could reduce dependence on scarce or costly propellants and enable propulsion in water-rich environments. The approach may also require a multipurpose propulsion architecture capable of handling different maneuver regimes. Research on water-based spacecraft propulsion has examined a chemical-electrical system using water for both high-thrust chemical maneuvers and high-specific-impulse electrical maneuvers. Steam propulsion has also been investigated as a way to move spacecraft between water-rich asteroids, although the supplied excerpt does not identify the company or disclose performance figures.
+
+rss · Ars Technica · Nov 3, 16:50
+
+**Background**: Delta-V measures how much velocity change a spacecraft can achieve with its available propellant, making it a central metric for comparing propulsion options. Water can serve as the working fluid for steam propulsion, while the cited research also proposes using it as feed material for electrical propulsion. Such concepts seek to exploit water found in space rather than relying solely on propellant carried from Earth.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/">This space company is betting its future on a propellant ...</a></li>
+<li><a href="https://spiral.imperial.ac.uk/server/api/core/bitstreams/166f6087-b0b6-4bff-a3e4-4a4aa7ff4010/content">Water as an Environmentally Friendly Propellant for a Multi ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/World_Is_Not_Enough_%28spacecraft_propulsion%29">World Is Not Enough ( spacecraft propulsion ) - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#spaceflight`, `#propulsion`, `#propellant`, `#spacecraft`, `#delta-v`
+
+---
+
+<a id="item-63"></a>
+## [Meta Suspends No Kings Account Amid Election Pressure](https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/) ⭐️ 6.0/10
+
+Meta suspended the No Kings protest movement’s Instagram account on election day, prompting allegations of political pressure and an apology from the company. Meta said the suspension resulted from a sharp increase in traffic that appeared to be generated by bots. The incident highlights the tension between platform integrity protections and political expression, particularly when automated enforcement can affect high-profile protest accounts during an election. It also raises questions about corporate accountability and the transparency of Meta’s content-moderation decisions. Search results report that the account went dark for several hours and that Meta later attributed the suspension to bot-like automated activity. Oversight Board representatives warned that election-period moderation failures can take two forms: overenforcement that suppresses political speech and underenforcement that weakens electoral integrity.
+
+rss · Ars Technica · Nov 3, 15:39
+
+**Background**: No Kings is a protest movement organized around opposition to concentrated political power, and its Instagram account became an important channel for distributing protest-related content. Meta moderates Facebook and Instagram using automated systems as well as human review, while election periods increase scrutiny because misinformation, manipulation, and overreach can threaten civic participation. Stanford’s case study notes that Meta’s platforms have evolved from campaign tools into central actors in democratic processes worldwide.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests">Outrage after Meta suspends No Kings Instagram account during ...</a></li>
+<li><a href="https://www.reuters.com/technology/meta-apologizes-after-suspending-no-kings-instagram-account-2026-10-19/">Meta apologizes after suspending &quot;No Kings&quot; Instagram account</a></li>
+<li><a href="https://www.oversightboard.com/news/oversight-board-statement-on-protecting-election-integrity-on-metas-platforms/">Oversight Board Statement On Protecting Election Integrity On ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: No community comments were provided. The related reporting focused on outrage, demands for an explanation, and concern that the suspension could constitute censorship, while Meta characterized it as a technical response to bot-driven traffic.
+
+**Tags**: `#Meta`, `#Instagram`, `#content moderation`, `#free speech`, `#tech policy`
+
+---
+
+<a id="item-64"></a>
+## [China Sets Lunar Landing Target Before 2030](https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/) ⭐️ 6.0/10
+
+China has publicly disclosed a plan to land Chinese astronauts on the Moon before 2030. The proposed mission would carry a three-person crew, with two astronauts expected to walk on the lunar surface. The timeline makes China&\#x27;s human lunar-landing ambitions a matter of public space policy and puts pressure on the country to demonstrate the launch, spacecraft, navigation, and landing capabilities required for the mission. It also marks China as a direct competitor to the United States in the renewed effort to return humans to the Moon. The announcement provides a target date and crew concept but little technical detail. It also does not include a preliminary crewed lunar-orbit or flyby mission comparable to Apollo 8 or Artemis II, so those missions would apparently not precede the proposed landing in the same way.
+
+rss · Ars Technica · Nov 2, 17:09
+
+**Background**: Apollo 8 was the first crewed mission to reach the Moon, orbiting it ten times in December 1968 without landing. Artemis II is NASA and CSA&\#x27;s planned crewed lunar flyby, intended to test human spaceflight systems around the Moon before later Artemis surface missions. China&\#x27;s Chinese Lunar Exploration Program is organized into staged missions that demonstrate technologies for increasingly ambitious lunar objectives.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.globaltimes.cn/page/202610/1373353.shtml">China aims for manned moon landing before 2030 ... - Global Times</a></li>
+<li><a href="https://www.nasa.gov/mission/artemis-ii/">Artemis II : NASA’s First Crewed Lunar Flyby in 50 Years - NASA</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#China`, `#lunar landing`, `#space policy`, `#human spaceflight`
+
+---
+
+<a id="item-65"></a>
+## [Federal Agencies Align with Trump’s “Super Intelligence” Label](https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/) ⭐️ 6.0/10
+
+On September 29, 2026, President Donald Trump signed an executive order directing federal agencies to replace references to “artificial intelligence” with “Super Intelligence,” or “SI,” in official communications and non-statutory documents. The article examines which government entities have followed the directive. The terminology mandate could reshape how federal agencies describe AI programs, procurement priorities, and national AI policy while signaling political loyalty to the administration. It may also affect existing contracts, reporting obligations, grants, and guidance that use established statutory definitions of AI. The order applies to official communications and non-statutory documents, while existing laws and regulations may continue to use the statutory term “artificial intelligence.” Analysts therefore face a distinction between a broad rebranding campaign and the more legally constrained language used in procurement and regulatory frameworks.
+
+rss · MIT Technology Review · Nov 3, 04:18
+
+**Background**: An executive order directs executive-branch agencies to follow presidential policy without having the same status as legislation passed by Congress. The broader 2025–2026 federal AI policy shift has emphasized U.S. leadership in AI, and the September 29, 2026 orders continued that policy direction through terminology and federal-service initiatives.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://natlawreview.com/article/white-house-adopts-super-intelligence-terminology-and-launches-si-powered">&quot; Super Intelligence &quot; Terminology Adopted by the White House</a></li>
+<li><a href="https://www.wiley.law/alert-Executive-Order-Rebrands-AI-as-Super-Intelligence-and-Signals-Potential-Federal-Legislative-Changes">Executive Order Rebrands AI as “Super Intelligence” and ...</a></li>
+<li><a href="https://www.govinfo.gov/content/pkg/DCPD-202501186/pdf/DCPD-202501186.pdf">Executive Order 14365—Ensuring a National Policy Framework ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI policy`, `#US government`, `#executive orders`, `#super intelligence`, `#technology politics`
+
+---
+
+<a id="item-66"></a>
+## [Improving Insight Quality in Agentic Analytics](https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/) ⭐️ 6.0/10
+
+MIT Technology Review Insights examines why enterprise analytics agents often produce substandard insights and how organizations can improve their reliability and usefulness. It identifies insufficient business context as a leading problem, recommending investment in semantic layers and governance rather than simply deploying larger models. 代理式 AI 不仅可以回答分析问题，还能自动执行完整工作流，并依据生成的洞察采取行动。如果洞察不可靠或缺乏业务背景，系统可能自动执行错误建议，因此洞察质量已成为企业必须重视的关键问题。 The available excerpt emphasizes semantic layers, data governance, and business context as the main levers for better agent-generated insights. It does not provide detailed benchmarks, implementation steps, or strong evidence in the promotional excerpt, so the article&\#x27;s broader technical claims remain insufficiently substantiated here.
+
+rss · MIT Technology Review · Nov 2, 17:00
+
+**Background**: Generative AI has made enterprise analytics more accessible to users across an organization. Agentic AI adds another step by allowing agents to automate analytical workflows and act on their findings. Semantic layers provide governed business meaning for underlying data, while governance establishes policies and oversight for enterprise AI outputs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/">Raising the quality of insights in agentic analytics</a></li>
+<li><a href="https://infomineo.com/artificial-intelligence/agentic-ai-analytics/">Agentic AI Analytics: Transform Dashboards to Decisions</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#agentic AI`, `#enterprise analytics`, `#generative AI`, `#AI reliability`, `#data insights`
+
+---
+
+<a id="item-67"></a>
+## [The Agentic Web Is Taking Shape](https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/) ⭐️ 6.0/10
+
+MIT Technology Review examines the web’s evolution from Tim Berners-Lee’s early Semantic Web vision into an ecosystem of autonomous, LLM-based software agents. Unlike Berners-Lee’s imagined agents, today’s agents can infer meaning from ordinary webpage text without requiring special semantic tags. This shift suggests that AI agents could increasingly act directly on websites and other digital services, making machine-to-machine interaction a central feature of the next internet era. It could affect web infrastructure, online transactions, service design, and the security assumptions underpinning digital ecosystems. The Semantic Web concept was proposed in a 2001 Scientific American article by Berners-Lee and two colleagues, a decade after he invented the World Wide Web. The excerpt highlights a key difference between the original vision and current LLM-based agents: modern systems can interpret unstructured page content without explicit tags that identify facts such as addresses or services.
+
+rss · MIT Technology Review · Nov 2, 09:35
+
+**Background**: Tim Berners-Lee invented the World Wide Web, HTML, the URL system, and HTTP. His Semantic Web vision aimed to make internet content machine-readable so autonomous software agents could find, interpret, and act on information for users. The emerging agentic web revisits that goal using large language models and agents capable of goal-driven interaction with digital services.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/">The agentic web is here | MIT Technology Review</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners - Lee - Wikipedia</a></li>
 <li><a href="https://arxiv.org/pdf/2507.21206">Agentic Web: Weaving the Next Web with AI Agents - arXiv.org</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#agentic web`, `#Semantic Web`, `#AI agents`, `#World Wide Web`, `#autonomous software`
+**Tags**: `#agentic web`, `#AI agents`, `#Semantic Web`, `#web infrastructure`, `#technology trends`
 
 ---
 
-<a id="item-31"></a>
-## [BMW to Launch Urban Driver Assist in 2027](https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027) ⭐️ 7.0/10
+<a id="item-68"></a>
+## [Asus ROG Rapture GT-BN98 Pro Brings Wi-Fi 8 Gaming](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/) ⭐️ 6.0/10
 
-BMW will expand its navigation-guided, partially automated driver assistance into urban environments from 2027, starting in Germany before reaching additional markets. The system will use BMW Maps route guidance to assist with turns, lane changes, right-of-way situations, and roundabouts. The rollout will extend partially automated driving assistance beyond highways and into complex city environments, potentially intensifying competition with systems such as Tesla FSD. It could accelerate wider adoption of advanced driver-assistance features, although BMW’s system remains supervised rather than fully autonomous. Urban deployment is planned for vehicles equipped with BMW Operating System X, with the required hardware already present in the relevant models. The driver remains responsible for monitoring the road and taking over when needed, while exact availability and performance in other markets will depend on local rollout and regulatory conditions.
-
-rss · The Verge · Nov 2, 20:03
-
-**Background**: BMW already offers navigation-guided assistance on highways, including automatic stopping and starting at traffic lights through its City Assistant function. Its 2027 expansion adds more complex urban maneuvers, but the technology remains Level 2 driver assistance because it automates steering and speed control without transferring driving responsibility to the system.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://newsroom.bmwgroup.com/global/bmw-to-expand-urban-driver-assistance-functions-from-2027/">BMW TO EXPAND URBAN DRIVER ASSISTANCE FUNCTIONS FROM 2027.</a></li>
-<li><a href="https://www.press.bmwgroup.com/united-kingdom/article/detail/T0460704EN_GB/bmw-maps-displays-navigation-and-driver-assistance-information-in-a-single-3d-view">BMW Maps displays navigation and driver assistance ...</a></li>
-<li><a href="https://www.motortradenews.com/industry-market-news/bmw-to-expand-partially-automated-driving-to-cities-from-2027/">BMW to expand partially automated driving to cities from 2027</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#autonomous-driving`, `#urban-driver-assist`, `#BMW`, `#Tesla-FSD`, `#mobility`
-
----
-
-<a id="item-32"></a>
-## [OpenAI Pilots Emergency Grid Support at Georgia Data Center](https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program) ⭐️ 7.0/10
-
-OpenAI announced the Grid Protectors Program, a pilot at an upcoming data center in Effingham County, Georgia, that can release up to 1,000 megawatts during extreme weather or emergencies. The company says this capacity could power air conditioners for roughly 700,000 homes. The program could make high-density AI infrastructure more acceptable to communities by allowing operators to reduce grid strain when demand is most constrained. It also reflects a broader shift toward demand response, in which data centers temporarily curtail consumption instead of requiring additional generation and grid upgrades. The pilot is associated with OpenAI’s planned Georgia compute campus and is intended to extend to future projects in collaboration with utilities. The announcement does not specify how the 1,000-megawatt capacity would be freed, how emergency events would be triggered, or whether the estimate assumes a specific duration and load profile.
-
-rss · The Verge · Nov 2, 18:01
-
-**Background**: Demand response is an approach in which electricity users temporarily reduce or shift consumption during peak demand or grid stress. Extreme heat and cold can create the most severe constraints, while data centers can contribute to rapid demand growth because their computing equipment consumes electricity continuously. Behind-the-meter generation is another related option because it allows a data center to operate from its own power supply rather than relying entirely on the utility grid.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openai.com/index/grid-protectors-program/">Introducing the Grid Protectors Program | OpenAI</a></li>
-<li><a href="https://www.ey.com/en_us/insights/power-utilities/demand-response-and-data-center-growth">Demand response and data center growth | EY - US</a></li>
-<li><a href="https://cloud.google.com/blog/products/infrastructure/using-demand-response-to-reduce-data-center-power-consumption">Using demand response to reduce data center power consumption ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#power grid`, `#energy policy`, `#OpenAI`
-
----
-
-<a id="item-33"></a>
-## [U.S. Strikes Qeshm Island Amid War-Risk Diplomacy](https://www.wsj.com/world/middle-east/u-s-strikes-irans-qeshm-island-as-trump-talks-down-war-risks-79d73d3d) ⭐️ 7.0/10
-
-The United States reportedly struck Iran&\#x27;s Qeshm Island while diplomatic efforts were underway to reduce the risk of a broader war. The available headline and link do not provide further details about the operation. A U.S. strike on Iranian territory could escalate a regional confrontation and affect security across the Middle East. Simultaneous diplomacy suggests an effort to constrain the conflict, but the limited information makes the strike&\#x27;s scale and consequences unclear. The report identifies Qeshm Island and says the strike occurred as war-risk diplomacy continued, but it does not specify the date, target, military method, casualties, or operational objective. President Trump is referenced in connection with the diplomatic effort.
-
-rss · Hacker News \(best\) · Nov 3, 00:51
-
-**Background**: Qeshm Island lies near the strategically important Strait of Hormuz, a major maritime route for global energy shipments, although the provided material does not establish that the strike targeted shipping or a particular facility. The headline frames the event as both a military action and an effort to manage war risks through diplomacy.
-
-**Tags**: `#Geopolitics`, `#Iran`, `#United States`, `#Military Conflict`, `#Middle East`
-
----
-
-<a id="item-34"></a>
-## [Misconfigured Defender XDR Connectors Blind Security Teams](https://dev.to/cdsecuritylab/sentinel-showed-the-same-attack-twice-then-it-missed-the-next-one-4p56) ⭐️ 7.0/10
-
-A realistic security operations lab demonstrates how running the Defender XDR connector alongside legacy per-product connectors can produce duplicate incidents, incomplete cloud alerts, and inactive hunting tables. The scenario also emphasizes checking high-severity incident queues and whether automatic attack disruption is enabled. Duplicates and missing telemetry can conceal genuine attacks behind operational noise, while disabled data sources can make hunting queries appear to prove that no malicious activity occurred. These configuration failures affect security operations teams by increasing alert fatigue, slowing response, and weakening containment. In the lab, bi-directional synchronization causes an analyst&\#x27;s decision to close one copy as a duplicate to be reversed when another portal still marks the incident as active. The article uses Defender for Cloud incidents lacking entities or alerts and a silent DeviceProcessEvents rule as examples of separate ingestion and configuration problems with one mistaken root cause.
-
-rss · Dev.to · Nov 3, 01:09
-
-**Background**: Microsoft Defender XDR can synchronize incidents, alerts, and advanced-hunting data with Microsoft Sentinel, including status, ownership, and closing reasons when bi-directional synchronization is enabled. DeviceProcessEvents records process-creation activity and related events, but queries against it are only meaningful when the required table or connector is active. Running overlapping integrations may therefore create parallel incident records rather than improve visibility.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://learn.microsoft.com/en-us/azure/sentinel/connect-microsoft-365-defender">Stream data from Microsoft Defender XDR to Microsoft Sentinel ...</a></li>
-<li><a href="https://learn.microsoft.com/en-us/azure/sentinel/microsoft-365-defender-sentinel-integration">Microsoft Defender XDR integration with Microsoft Sentinel</a></li>
-<li><a href="https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-deviceprocessevents-table">DeviceProcessEvents table in the advanced hunting schema ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Microsoft Defender XDR`, `#Security Operations Center`, `#Incident Response`, `#Data Connectors`, `#Threat Hunting`
-
----
-
-<a id="item-35"></a>
-## [Show HN: Interactive Voxel Map of Central Warsaw](https://p.migdal.pl/warsaw-vibe-voxel/) ⭐️ 6.0/10
-
-The open-source Warsaw in Voxels project presents central Warsaw as an explorable 3D voxel scene inspired by Minecraft and MagicaVoxel. Users can change the date, time of day, and weather, navigate the city, and select pedestrians to control them. The project combines several public datasets into an engaging, interactive representation of a real city, making urban data easier to explore than conventional maps. Its open-source release may also support reuse for other cities and further voxel-based visualization experiments. OpenStreetMap supplies buildings, streets, sidewalks, and tram tracks; Polish GUGiK/Geoportal LiDAR data and aerial imagery provide building heights, trees, and colors; Warsaw&\#x27;s city tree database supplies species information used for seasonal foliage. The developer says desktop browsers work best, mobile support is partially optimized, and the initial load may take a long time.
-
-hackernews · Hacker News \(热门\) · Nov 2, 16:25 · [Discussion](https://news.ycombinator.com/item?id=50339221)
-
-**Background**: A voxel map represents a city as blocks or cells, allowing geographic features to be viewed and navigated in a game-like three-dimensional environment. LiDAR, or Light Detection and Ranging, captures precise three-dimensional measurements of buildings and vegetation, while aerial imagery can provide visual textures and colors. Combining these sources can produce a more lifelike urban model, although the accuracy of each layer depends on the underlying datasets and processing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://giscarta.com/solutions/gis-for-lidar-data">GIS for Lidar | LiDAR Data Analysis and Visualization</a></li>
-<li><a href="https://radiusmapper.com/features/lidar">LiDAR Map: Online 3D Point Cloud Viewer | RadiusMapper</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community members praised the project&\#x27;s presentation and compared it with similar real-data city visualizations such as Streets of Prague. Several users reported severe performance problems, including sub-1 FPS rates or large gaps between rendered frames, while others noted conspicuous inaccuracies around the Old Town and Plac Zamkowy, including incorrect colors, excessive building heights, and simplified landmarks.
-
-**Tags**: `#geospatial-visualization`, `#voxel-mapping`, `#open-data`, `#web-graphics`, `#interactive-maps`
-
----
-
-<a id="item-36"></a>
-## [Bε-Trees and Write-Optimized Storage](https://www.usenix.org/publications/login/oct15/bender) ⭐️ 6.0/10
-
-A 2015 USENIX article introduces Bε-trees as write-optimized data structures for organizing on-disk storage in databases and file systems. The post connects this foundational technique to the copy-on-write tree design used by the GEFS file system. Bε-trees provide a B-tree-like key-value interface while improving performance for inserts, range queries, and updates, making them relevant to storage engines that must handle frequent writes efficiently. The connection to GEFS shows how this older research underpins a newer file system designed around crash safety, corruption detection, simplicity, and fast snapshots. The article compares the asymptotic performance of Bε-trees with B-trees and explains their write-optimization mechanisms. GEFS builds a traditional Plan 9 9P interface over a forest of copy-on-write Bε-trees, but its authors explicitly prioritize being “good enough” for daily use rather than optimizing every possible metric.
-
-rss · Lobsters \(技术社区\) · Nov 2, 20:26
-
-**Background**: A B-tree is a balanced tree data structure commonly used to organize keys in databases and file systems. A Bε-tree retains a similar key-value API but uses a more write-friendly buffer-management approach, allowing data to be stored in sorted, packed runs rather than repeatedly rewriting individual pages. GEFS is a file system for Plan 9 that layers a conventional 9P interface over copy-on-write Bε-trees to provide crash-safe, corruption-detecting snapshots.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.usenix.org/publications/login/oct15/bender">An Introduction to Bε-trees and Write-Optimization - USENIX</a></li>
-<li><a href="https://www3.cs.stonybrook.edu/~bender/newpub/2015-BenderFaJa-login-wods.pdf">An Introduction to B -trees and Write-Optimization</a></li>
-<li><a href="https://orib.dev/gefs.pdf">GEFS, A Good Enough File System</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Bε-trees`, `#write-optimization`, `#file-systems`, `#data-structures`, `#storage-systems`
-
----
-
-<a id="item-37"></a>
-## [Tor Browser 16.0 Ships Firefox ESR 153 Update](https://blog.torproject.org/new-release-tor-browser-160/) ⭐️ 6.0/10
-
-The Tor Project released Tor Browser 16.0 for desktop and Android, updating the browser to Firefox ESR 153. The release also redesigns the desktop Settings experience and introduces a modernized Android interface built with Jetpack Compose. This major release gives Tor Browser users newer underlying browser components while making security and privacy controls easier to configure. It may be particularly relevant to users in censored regions and to people who rely on Tor’s networking and anonymity protections. The desktop Settings redesign uses a cleaner layout, revised navigation, and clearer labels and descriptions to help users locate and manage options. The release also adds optional generic window titles for additional privacy and introduces Linux ARM support, according to the published release coverage.
-
-rss · Lobsters \(技术社区\) · Nov 2, 16:28
-
-**Background**: Tor Browser is a privacy-focused browser that routes traffic through the Tor network, helping users access the internet while reducing exposure to surveillance and censorship. Its security and privacy settings can be adjusted for different threat models, so clarity and usability in the Settings interface are important. Tor Browser releases are closely tied to updates to Firefox ESR and related components.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://blog.torproject.org/new-release-tor-browser-160/">New Release: Tor Browser 16.0 | The Tor Project</a></li>
-<li><a href="https://forum.torproject.org/t/new-release-tor-browser-16-0/22338">New Release: Tor Browser 16.0 - News - Tor Project Forum</a></li>
-<li><a href="https://piunikaweb.com/2026/11/02/tor-browser-update-redesigned-settings-linux-arm-support/">Tor Browser v16.0 brings redesigned Settings, Linux ARM ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Tor Browser`, `#Privacy`, `#Security`, `#Release Notes`
-
----
-
-<a id="item-38"></a>
-## [Gohawk Brings Resource-Focused Static Analysis to Go](https://gohawk.dev/) ⭐️ 6.0/10
-
-Gohawk is an industrial-grade static analyzer for Go that detects resource-management and concurrency problems. According to its project page, it has already been used to find and fix bugs in Docker, Kubernetes, and Caddy. Gohawk targets gaps commonly left by established Go analyzers, including ownership, lifecycle, concurrency, API-contract, and path-aware policy checks. Its reported use in prominent infrastructure projects could make it valuable for teams seeking to catch subtle resource-handling bugs before deployment. The tool is designed to run alongside go vet, Staticcheck, and go-critic rather than replace them. The available material provides no version information, benchmarks, rule inventory, integration instructions, or quantified results, so claims of industrial effectiveness remain insufficiently documented.
-
-rss · Lobsters \(技术社区\) · Nov 2, 13:56
-
-**Background**: Static analysis examines source code without executing the program to identify likely defects. In Go, tools such as go vet, Staticcheck, and go-critic provide broad checks, while Gohawk takes a narrower resource-focused approach covering ownership, object lifecycle, concurrency, API contracts, and path-aware policies. Resource leaks matter because an unreleased file, lock, connection, or other resource can cause exhaustion or degraded reliability over time.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://gohawk.dev/">gohawk | Resource -focused static analysis for Go</a></li>
-<li><a href="https://pkg.go.dev/github.com/kojah/gohawk">gohawk command - github.com/kojah/ gohawk - Go Packages</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Go`, `#static-analysis`, `#resource-management`, `#developer-tools`
-
----
-
-<a id="item-39"></a>
-## [LLMs Make Software Maturity Signals Easier to Fake](https://simonwillison.net/2026/Nov/1/kyle-kingsbury/) ⭐️ 6.0/10
-
-Kyle Kingsbury argues that LLM-generated code and documentation erode trust by making conventional indicators of software maturity easier to counterfeit. He asks how maintainers can ensure correctness and then demonstrate that quality to users. If polished documentation, extensive tests, or convincing code no longer reliably indicate maturity, users and maintainers must find stronger ways to establish provenance and correctness. This could increase verification demands for AI-assisted software across the industry. The quotation appears in Kingsbury&\#x27;s Jepsen analysis of ParticleDB 1.1.4 and is commentary rather than new research or an implemented solution. The excerpt provides no concrete verification method, and the available results describe AI-code detectors only as preliminary signals that should be combined with version history, review, and human judgment.
-
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 1, 16:49
-
-**Background**: Jepsen analyzes distributed systems by testing safety properties, most notably consistency-model violations, and evaluating whether a system satisfies its claimed guarantees. Kingsbury applies that technical setting to a broader trust problem: generative AI can quickly produce code and documentation that imitate markers of a mature, reliable project without independently proving that the software works.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://jepsen.io/consistency">Consistency</a></li>
-<li><a href="https://particledb.ai/docs/">ParticleDB documentation | ParticleDB</a></li>
-<li><a href="https://www.iplocation.net/blog/best-ai-code-detectors-you-can-use-to-verify-code-authenticity">Best AI Code Detectors You Can Use to Verify Code Authenticity</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLMs`, `#software trust`, `#documentation quality`, `#AI-generated code`, `#software maintenance`
-
----
-
-<a id="item-40"></a>
-## [Trajectory Raises $45M to Simplify AI Model Training](https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/) ⭐️ 6.0/10
-
-One-year-old startup Trajectory raised a $45 million Series A, bringing its reported valuation to $300 million. The funding will support its platform for post-training and deploying AI models using production data, with an emphasis on making the workflow accessible to nontechnical experts. The funding reflects growing demand for tools that bring foundation-model customization beyond specialist machine-learning teams. If accessible and reliable, Trajectory could help domain professionals improve models for specific business workflows and accelerate enterprise adoption of AI. Trajectory&\#x27;s self-serve platform lets users provide tasks and scoring methods, then train, evaluate, and deploy a model in one place, reportedly replacing a workflow that previously required four products and about five lines of code. Businesses can begin with an open-source model and connect it to applications so the platform can collect performance feedback, but the available report provides limited detail about model quality, pricing, and deployment safeguards.
-
-rss · TechCrunch AI · Nov 2, 23:13
-
-**Background**: Post-training adapts a pretrained foundation model to particular tasks, data, or desired behavior rather than training a model from scratch. Trajectory describes continual learning as a loop in which models use feedback from connected applications to improve over time, while low-code interfaces seek to make this process accessible to domain experts without advanced AI engineering skills.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/">Trajectory raises $45M to make AI model training accessible ...</a></li>
-<li><a href="https://www.trajectory.ai/field-notes/introducing-the-trajectory-platform">Own Your Value Function: Introducing the Trajectory Platform</a></li>
-<li><a href="https://www.trajectory.ai/">Trajectory</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI funding`, `#AI training`, `#startups`, `#low-code AI`, `#enterprise AI`
-
----
-
-<a id="item-41"></a>
-## [Squarespace Cuts 19% of Its Workforce Amid Restructuring](https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/) ⭐️ 6.0/10
-
-Squarespace announced that it is laying off 19% of its employees as part of a broader organizational restructuring. The company characterized the job cuts as part of a wider reorganization of the business. The cuts affect a substantial share of Squarespace’s workforce and could have implications for employees, operations, and customers relying on the website-building platform. The move also highlights continued organizational consolidation in the web-hosting and website-builder market. The reported workforce reduction is 19%, but the available report does not provide the total employee count, affected teams, severance details, implementation schedule, or reasons for the restructuring. No further technical or operational changes were specified.
-
-rss · TechCrunch AI · Nov 2, 19:25
-
-**Background**: Squarespace is a website-building and web-hosting platform that helps users create and manage websites. A workforce reduction described as part of a broader restructuring can involve changes to staffing, management, or organizational priorities, but the available report does not specify which areas will change.
-
-**Tags**: `#Squarespace`, `#layoffs`, `#restructuring`, `#web hosting`, `#startup industry`
-
----
-
-<a id="item-42"></a>
-## [Musk Restricts Grok Usage as Costs Surge](https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/) ⭐️ 6.0/10
-
-Elon Musk said he throttled Grok Bot usage limits because demand grew at what he described as an unsustainable pace. He also called Grok&\#x27;s growth the fastest he had ever seen from a product. The restrictions illustrate the economic tension between rapid consumer adoption and the cost of serving AI-powered products. They may reduce availability for users while xAI works to improve the unit economics of heavy Grok usage. The report provides no exact before-and-after limits, cost figures, affected plans, or implementation timeline. xAI&\#x27;s API rate limits generally use requests per second and tokens per minute, but the available material does not establish that the announced Grok Bot restrictions use the same thresholds.
-
-rss · TechCrunch AI · Nov 2, 16:23
-
-**Background**: Grok Bot is an AI-powered product whose usage can generate variable inference costs, especially when users submit long prompts or request computationally intensive tasks. Rising usage can therefore increase total expenses even as the per-token cost of comparable AI inference declines, making demand management important for product sustainability.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.x.ai/developers/rate-limits">Rate Limits | SpaceXAI Docs</a></li>
-<li><a href="https://a16z.com/llmflation-llm-inference-cost/">Welcome to LLMflation - LLM inference cost is going down fast</a></li>
-<li><a href="https://labs.adaline.ai/p/token-burnout-why-ai-costs-are-climbing">Token Burnout: Why AI Costs Are Climbing and How Product Leaders...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Grok`, `#xAI`, `#LLM economics`, `#usage limits`, `#Elon Musk`
-
----
-
-<a id="item-43"></a>
-## [Apple Sets iPhone Revenue Record Without a Standard Model Launch](https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings) ⭐️ 6.0/10
-
-Apple reported record fourth-quarter iPhone revenue of $57.58 billion, up 17% from the same period a year earlier. The result came despite the company not launching a new standard iPhone model during its latest product refresh. The result indicates that iPhone demand can remain strong even without a conventional new-model launch, potentially weakening the assumption that annual hardware releases are essential to sales growth. It may strengthen Apple&\#x27;s position in the premium smartphone market and give the company greater flexibility in its product-release schedule. The reported figure covers Apple&\#x27;s fourth fiscal quarter and represents revenue rather than a stated unit-sales total. The available item does not identify the models driving growth, provide regional detail, or explain how the 17% increase was calculated beyond the year-over-year comparison.
-
-rss · The Verge · Nov 2, 22:02
-
-**Background**: Apple&\#x27;s iPhone revenue is commonly used as a broad indicator of demand for its smartphone business because the company does not routinely disclose quarterly iPhone unit sales. A fiscal fourth quarter differs from the calendar fourth quarter and includes important seasonal holiday sales, so comparisons are generally made with the corresponding prior-year fiscal period.
-
-**Tags**: `#Apple`, `#iPhone`, `#Quarterly Earnings`, `#Consumer Hardware`, `#Sales Revenue`
-
----
-
-<a id="item-44"></a>
-## [Meta to End Quest 2 and Quest Pro OS Updates in 2027](https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates) ⭐️ 6.0/10
-
-Meta plans to release the final operating-system update for Quest 2 and Quest Pro by March 2027, with version v213 expected to be the last major feature update. The company will continue providing security patches and critical bug fixes after the feature-update period ends. This changes the long-term support outlook for millions of Quest 2 owners and developers who depend on Meta&\#x27;s VR platform. Ending feature updates may affect new capabilities, app compatibility, and hardware development, although essential security and stability work will continue. The final planned OS release is v213, scheduled for no later than March 2027. The announcement distinguishes the end of feature updates from the end of all support, because security patches and critical bug fixes are still planned.
-
-rss · The Verge · Nov 2, 21:04
-
-**Background**: Meta&\#x27;s Quest 2 and Quest Pro are virtual-reality headsets whose operating systems receive feature updates as well as security and maintenance fixes. A product entering the end-of-feature-update phase can remain usable and receive essential fixes, but it will no longer receive planned operating-system enhancements.
-
-**Tags**: `#Meta`, `#VR`, `#Quest 2`, `#Quest Pro`, `#software support`
-
----
-
-<a id="item-45"></a>
-## [Ford Promises Not to Sell Driving Data to Brokers](https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers) ⭐️ 6.0/10
-
-Ford pledged never to sell customers&\#x27; driving data to third-party data brokers. The commitment forms part of a broader privacy promise for connected vehicles. The pledge could give Ford an edge over competitors that have faced legal and regulatory scrutiny for sharing telematics data without authorization. It also signals that connected-vehicle privacy and consumer consent are becoming more important competitive concerns. The announcement concerns driving data generated by connected vehicles and the sharing of that information with data brokers. The available report does not specify the pledge&\#x27;s implementation rules, enforcement mechanisms, or whether Ford will continue sharing such data with other third parties for purposes such as insurance.
-
-rss · The Verge · Nov 2, 19:05
-
-**Background**: Connected cars use sensors, telematics systems, and vehicle apps to collect information about location, vehicle operation, and driving behavior. Insurers and other companies can use this information for services such as claims assessment, while data brokers may facilitate its distribution and commercial use.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://privacypillar.com/automotive-industry-protecting-connected-vehicle-data/">Automotive Industry: Protecting Connected Vehicle Data</a></li>
-<li><a href="https://www.insureone.com/knowledge-center/auto-insurance/vehicle-data-telematics-insurance-claims-costs-privacy-connected-cars/">Vehicle Data, Telematics and Insurance: How Connected Cars ...</a></li>
-<li><a href="https://www.moneygeek.com/insurance/auto/driving-data-insurers-privacy/">Is Your Car Selling Your Driving Data to Insurers? (2026)</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#data-privacy`, `#connected-cars`, `#telematics`, `#data-brokers`, `#automotive`
-
----
-
-<a id="item-46"></a>
-## [Anthropic Restricts Claude&\#x27;s Video Game Recreation](https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones) ⭐️ 6.0/10
-
-Anthropic added two sentences to Claude Code&\#x27;s system prompt, reportedly on Opus 5.5, steering the tool away from recreating another developer&\#x27;s specific game. Claude Code remains available for original games, genre-based projects, and games created from users&\#x27; own designs and assets. The update gives Anthropic&\#x27;s copyright and usage policies greater influence over what Claude Code builds, amid growing use of AI for game decompilation, recompilation, and ports. It could reduce direct assistance for unauthorized recreations while leaving AI-assisted game development and preservation work largely available. The reported restriction targets recreating someone else&\#x27;s specific game because Anthropic says doing so with Claude may infringe intellectual property. It does not appear to be a general ban on coding games or a technical block; the behavior is primarily shaped through system-prompt instructions, so enforcement may remain dependent on how consistently the model follows them.
-
-rss · The Verge · Nov 2, 18:56
-
-**Background**: Game decompilation converts compiled machine code back into readable source code, while static recompilation and source ports adapt existing games to modern systems. AI can accelerate some of these processes, raising concerns that it may facilitate unauthorized ports or derivative works. Anthropic distinguishes those projects from original games and projects based on the user&\#x27;s own designs and assets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.dexerto.com/gaming/anthropic-adds-new-claude-rule-banning-recreations-of-existing-games-3423516/">Anthropic adds new Claude rule banning recreations of existing games</a></li>
-<li><a href="https://www.pcgamingwiki.com/wiki/List_of_unofficial_ports">List of unofficial ports - PCGamingWiki PCGW - bugs, fixes, crashes...</a></li>
-<li><a href="https://www.rockpapershotgun.com/claims-that-genai-speeds-up-pc-ports-of-classic-games-are-either-false-or-missing-the-point-says-banjo-kazooie-recompiled-developer">Claims that genAI speeds up PC ports of classic games are either...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Anthropic`, `#Claude Code`, `#AI-generated games`, `#Copyright`, `#Retro gaming`
-
----
-
-<a id="item-47"></a>
-## [Asus ROG Rapture GT-BN98 Pro Brings Wi-Fi 8 to Gaming Routers](https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro/) ⭐️ 6.0/10
-
-The Asus ROG Rapture GT-BN98 Pro is an early quad-band Wi-Fi 8 gaming router, combining high wireless throughput with gaming-focused features. Asus specifies up to 30,000 Mbps aggregate wireless performance and two 10-gigabit Ethernet ports. This product gives early adopters a way to test Wi-Fi 8, whose development emphasizes reliable, low-latency networking in crowded environments rather than peak speeds alone. Its pricing and ecosystem support will help determine whether Wi-Fi 8 gaming routers become practical for mainstream consumers. The GT-BN98 Pro supports up to 320 MHz channels and 4096-QAM, with AI Game Boost, AiProtection, VPN support, and mesh compatibility. As a proprietary product review rather than an industry announcement, it offers evidence of Wi-Fi 8&\#x27;s current capabilities but does not establish the standard&\#x27;s long-term value.
+Asus has introduced the ROG Rapture GT-BN98 Pro, described as an early Wi-Fi 8 gaming router with a quad-band design. WIRED found it exceptionally fast and feature-packed, but rated it 6.0 out of 10 because it primarily provides early product coverage rather than a major technological breakthrough. The router provides an early look at Wi-Fi 8 hardware and may appeal to gamers and enthusiasts seeking high-end wireless performance. However, its premium positioning and limited novelty make it more significant as a product test than as an announcement of a transformative networking standard. The GT-BN98 Pro uses a quad-band gaming-router design and emphasizes speed and extensive features. The review also cautions that Wi-Fi 8 should not automatically be interpreted as millimeter-wave operation, since IEEE 802.11 work on those topics is separate.
 
 rss · Wired · Nov 2, 16:44
 
-**Background**: Wi-Fi 8 is the tentative name for IEEE 802.11bn, also known as Ultra High Reliability. Unlike earlier generations that concentrated primarily on higher peak data rates, it targets effective throughput, reliability, and latency in dense, interference-prone networks. A quad-band router operates across four frequency bands, while gaming features are intended to prioritize traffic such as multiplayer game sessions.
+**Background**: Wi-Fi 8 is associated with the developing IEEE 802.11bn standard and is expected to focus on extremely high throughput and ultra-high reliability. A quad-band router combines multiple frequency bands, while Multi-Link Operation can use different bands and channels simultaneously to improve capacity, stability, and data-transfer efficiency.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Wi-Fi_8">Wi-Fi 8 - Wikipedia</a></li>
-<li><a href="https://rog.asus.com/networking/rog-rapture-gt-bn98-pro/">ROG Rapture GT-BN98 Pro | Gaming Networking｜ROG - Republic of .....</a></li>
+<li><a href="https://viewplaytek.com/what-is-wifi-8/">What Is Wi - Fi 8 ? 802 . 11 bn, Ultra High Reliability And Wireless Video</a></li>
+<li><a href="https://www.symmetryelectronics.com/blog/wifi-standards-802-11a-b-g-n-vs-802-11ac/">WiFi Standards 802 . 11 a/ b /g/n vs. 802 . 11 ac | Symmetry Electronics</a></li>
+<li><a href="https://rog.asus.com/me-en/articles/networking/the-best-gaming-routers-in-2025-from-asus-and-rog/">The best gaming routers in 2025 from ASUS and ROG</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Wi-Fi 8`, `#networking`, `#gaming routers`, `#Asus ROG`, `#hardware review`
+**Tags**: `#Wi-Fi 8`, `#gaming routers`, `#networking hardware`, `#Asus ROG`, `#product review`
 
 ---
 
-<a id="item-48"></a>
-## [Tracing America’s Political Spam-Text Ecosystem](https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/) ⭐️ 6.0/10
+<a id="item-69"></a>
+## [Investigating the Political Fundraising Text Spam Pipeline](https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/) ⭐️ 6.0/10
 
-A WIRED investigation reported that one recipient received nearly 2,000 campaign fundraising texts intended for someone else. The reporting traced a network involving politicians, data brokers, political messaging firms, and disputed targeting practices. The findings illustrate how political campaigns can turn inaccurately targeted voter data into a commercial fundraising ecosystem. They also raise privacy, consent, and accountability concerns because campaigns, brokers, agencies, platforms, and payment processors may share responsibility for spam messages. Campaigns may obtain phone numbers from public voter-registration records or purchase lists from third-party data brokers. Under FCC guidance, political robotexts sent by autodialers generally require prior express consent, identification, and an opt-out mechanism such as replying “STOP.”
+A WIRED investigation reports that one recipient received nearly 2,000 political fundraising texts intended for other people while trying to trace how the misdirected messages were generated. The account follows links among political campaigns, data brokers, messaging platforms, and practices that may enable deceptive targeting. The incident illustrates how political campaigns can rely on fragmented commercial services to purchase audiences and distribute fundraising messages at scale. It also highlights privacy concerns over voter and donor data and shows how recipients may bear the evidence-gathering burden when messaging practices appear deceptive. The nearly 2,000 messages were intended for someone else, making the case a firsthand account rather than a comprehensive analysis of the entire industry. Broader research indicates that fundraising texts can involve paid list brokers, messaging platforms, payment processors, and outside political consultants, but the supplied material does not establish that every participant shares responsibility for deception.
 
 rss · Wired · Nov 2, 11:00
 
-**Background**: Political campaigns use text messaging because it can reach prospective supporters quickly and support small-dollar fundraising. Related search results describe a broader business chain in which messaging firms draft and send messages, platforms deliver them, brokers supply phone lists, and processors collect a share of donations. Consent rules are especially important because robotexts are treated as calls under FCC robocall rules.
+**Background**: Political campaigns increasingly combine voter and donor records with SMS outreach to identify likely supporters and solicit donations. Data brokers can assemble or license such audiences, while specialist consultants, routing platforms, and processors may handle campaign content, delivery, and payments, making it difficult for a recipient to see the complete chain. Projects such as AB Jail collect potentially misleading fundraising messages so researchers can examine patterns of political spam.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell/">My Journey to the Center of America’s Political Spam Text ...</a></li>
-<li><a href="https://stateofsurveillance.org/articles/surveillance/data-brokers-political-campaigns-voter-targeting/">Data Brokers and Political Campaigns - State of Surveillance</a></li>
-<li><a href="https://www.fcc.gov/consumers/guides/political-campaign-robocalls-and-robotexts-rules">Political Campaign Robocalls and Robotexts Rules</a></li>
+<li><a href="https://nonprofitnewsfeed.com/news/political-panic-fundraising-texting/">Political Fundraising Texts Have Become a Self-Licking Spam ...</a></li>
+<li><a href="https://www.datamasters.org/political-campaigns-voter-donor-data-strategy/">Voter &amp; Donor Data Strategy for Political Campaigns</a></li>
+<li><a href="https://www.abjail.org/">AB Jail - Tracking Misleading Political Fundraising</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#political-spam`, `#data-brokers`, `#digital-privacy`, `#political-fundraising`, `#investigation`
+**Tags**: `#political-tech`, `#SMS-spam`, `#data-brokers`, `#privacy`, `#investigative-journalism`
 
 ---
 
-<a id="item-49"></a>
-## [Chatbot Route Advice Risks Misleading Hikers](https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/) ⭐️ 6.0/10
+<a id="item-70"></a>
+## [Reddit Plans to End RSS and Public API Support](https://www.reddit.com/r/technology/comments/1wubsf7/reddit_is_killing_rss_feeds_and_ending_public_api/) ⭐️ 6.0/10
 
-The article warns that hikers who outsource route planning to AI chatbots may weaken their own judgment and make unsafe decisions in the backcountry. It highlights the potentially deadly consequences of treating generated hiking advice as authoritative. AI assistants are increasingly used to summarize maps, terrain, weather, and trip options, but plausible advice may conceal incorrect assumptions or missing context. This makes independent verification and sound wilderness judgment essential for anyone relying on these tools. The excerpt identifies automation bias as the central risk: people may surrender critical thinking to an AI-generated plan rather than cross-checking it against maps, weather reports, trail conditions, and personal abilities. The supplied material does not provide technical evidence, specific incidents, chatbot performance data, or limitations from the original article.
+Reddit reportedly plans to discontinue its RSS feeds and public API on November 13. The available material does not provide further implementation details or an official policy notice. The change could disrupt developers, aggregators, feed readers, and automated workflows that depend on Reddit content. It also signals a shift away from broadly accessible syndication and programmatic access, potentially requiring affected users to adopt approved alternatives or revise their integrations. The reported cutoff date is November 13, but the supplied item does not specify the year, affected endpoints, replacement mechanisms, access restrictions, or migration guidance. Reddit&\#x27;s public API supports reading and writing posts, comments, and votes, while RSS feeds expose structured, subscribable updates; ending both would affect different but overlapping developer use cases.
 
-rss · Wired · Nov 1, 10:30
+rss · Hacker News \(best\) · Nov 3, 21:08
 
-**Background**: Automation bias occurs when people accept an automated system’s recommendation while insufficiently evaluating contradictory evidence or its limitations. Generative AI can produce fluent and plausible guidance, including inaccurate exercise or route advice, so users should treat it as an aid rather than a substitute for maps, official trail information, local expertise, and sound decision-making.
+**Background**: RSS is a standardized mechanism through which websites publish structured, subscribable content updates, and many feed readers and aggregators rely on it. Reddit&\#x27;s public API allows applications to read and write Reddit content such as posts, comments, and upvotes, enabling integrations and community-management tools. The reported shutdown would therefore affect both feed-based content distribution and more interactive developer integrations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1754288/full">Frontiers | The impact of intention to adopt generative AI for exercise...</a></li>
-<li><a href="https://inf.news/en/tech/da7d638beb283403ae32f68ac1f2ad7c.html">Research reveals: AI chatbots have unique decision - making biases ...</a></li>
+<li><a href="https://kbcafe.com/what-is-rss">What is RSS ?, feeds , readers, and how syndication works | KB Cafe</a></li>
+<li><a href="https://developers.reddit.com/docs/capabilities/server/reddit-api">Reddit API Overview | Reddit for Developers</a></li>
+<li><a href="https://developers.reddit.com/docs/api/public-api">README | Reddit for Developers</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI chatbots`, `#hiking safety`, `#automation bias`, `#critical thinking`, `#generative AI`
+**Tags**: `#Reddit`, `#RSS`, `#Public API`, `#Platform Changes`, `#Developer Tools`
 
 ---
 
-<a id="item-50"></a>
-## [Injected Code Crashed macOS Messages Fifteen Times](https://dev.to/prodbymarcu/one-unrecognized-selector-killed-messagesapp-15-times-5a96) ⭐️ 6.0/10
+<a id="item-71"></a>
+## [Scaling XLA Compiler Correctness on Production TPUs](https://arxiv.org/abs/2611.00624) ⭐️ 6.0/10
 
-On November 1, 2026, macOS 26.6.1&\#x27;s Messages app restarted 15 times after BlueBubblesHelper.dylib triggered an Objective-C exception. The root cause was an attempt to call the nonexistent \`index\` method on an \`IMTypingChatItem\` created for a pseudo-GUID used by BlueBubbles to locate a conversation. This demonstrates how a small compatibility mistake in injected third-party code can repeatedly terminate an Apple application even when messaging delivery remains healthy. It also highlights the debugging challenges and operational risks of extending macOS apps through DYLIB injection rather than supported application interfaces. All 15 crash reports showed \`EXC\_CRASH / SIGABRT\` and \`- \[IMTypingChatItem index\]: unrecognized selector sent to instance\`; the injected server recorded 16 detected DYLIB crashes that day. The problematic \`/typing\` request used the pseudo-GUID \`any;-;&lt;phone&gt;\`, appeared 677 times in the current log and 8,496 times across both rotated logs, and caused a pending typing item to be treated as a real message item.
+An article presents practical approaches for maintaining XLA compiler correctness on large-scale production TPU workloads. The supplied material identifies the topic and article link but does not expose the article’s detailed methods, tools, or results. Compiler correctness is essential for reliable model training and inference because an incorrect transformation can silently produce wrong numerical results at scale. Lessons from production TPU deployments may also be useful to compiler engineers and machine-learning infrastructure teams operating complex accelerator workloads. XLA is a domain-specific machine-learning compiler used by frameworks including TensorFlow, JAX, and PyTorch, and its architecture combines target-independent analyses with target-specific code generation. The available article excerpt does not describe the proposed correctness techniques, test coverage, scale, or limitations, so those details cannot be evaluated from the supplied content.
 
-rss · Dev.to · Nov 3, 01:10
+rss · Hacker News \(best\) · Nov 3, 21:06
 
-**Background**: Objective-C uses dynamic message dispatch, and an unrecognized selector causes a runtime exception when an object does not implement the requested method. Here, BlueBubbles injected \`BlueBubblesHelper.dylib\` into Messages to implement private-API features; a pending \`IMTypingChatItem\` lacked \`index\`, so the uncaught exception called \`abort\(\)\`. The article&\#x27;s subject is a CSS-related selector as used by the adapter, not a CSS stylesheet selector.
+**Background**: XLA optimizes linear-algebra computation for processors and machine-learning accelerators, aiming to improve execution speed and memory usage. Its compiler pipeline uses intermediate representations and specialized passes to transform framework-level computations into efficient device code. On large TPU workloads, preserving semantic equivalence across many numerical shapes, optimization passes, and hardware-specific transformations is a critical engineering concern.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://deepwiki.com/jezzmemo/JJException/3.1.2-unrecognized-selector-handling">Unrecognized Selector Handling | jezzmemo/JJException | DeepWiki</a></li>
-<li><a href="https://specterops.io/blog/2025/08/21/armed-and-dangerous-dylib-injection-on-macos/">ARM-ed and Dangerous: Dylib Injection on macOS - SpecterOps</a></li>
-<li><a href="https://theevilbit.github.io/posts/dyld_insert_libraries_dylib_injection_in_macos_osx_deep_dive/">DYLD_INSERT_LIBRARIES DYLIB injection in macOS / OSX</a></li>
+<li><a href="https://openxla.org/xla/architecture">XLA architecture - OpenXLA Project</a></li>
+<li><a href="https://github.com/openxla/xla">GitHub - openxla/xla: A machine learning compiler for GPUs ... XLA:GPU Architecture Overview | OpenXLA Project XLA Compiler and Runtime | tensorflow/tensorflow | DeepWiki Core Architecture | openxla/xla | DeepWiki Technical Architecture and Systematic Benchmarking of the ...</a></li>
+<li><a href="https://github.com/openxla/xla/blob/main/docs/architecture.md">xla/docs/architecture.md at main · openxla/xla · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#macOS`, `#debugging`, `#crash-analysis`, `#DYLIB-injection`, `#CSS`
+**Tags**: `#XLA`, `#TPU`, `#compiler-correctness`, `#ML-infrastructure`, `#Google`
 
 ---
 
-<a id="item-51"></a>
-## [Crypto Liquidations Depend on Margin, Not Just Price](https://dev.to/deeprade/liquidation-isnt-triggered-by-a-price-its-triggered-by-running-out-of-margin-17ic) ⭐️ 6.0/10
+<a id="item-72"></a>
+## [RudderStack Open-Sources the DevBox Engineering Harness](https://github.com/rudderlabs/devbox) ⭐️ 6.0/10
 
-The article explains that roughly $1.6 billion in crypto positions was liquidated in one day after an exchange reported a theft, despite many traders not being wrong about price direction. It clarifies that liquidation is triggered when a position&\#x27;s remaining margin falls below the exchange&\#x27;s maintenance-margin requirement, usually evaluated against an aggregated mark price rather than the venue&\#x27;s last traded price. The core condition is wallet\_balance &lt; notional\_value × maintenance\_margin\_rate; in the article&\#x27;s example, a 10,000 USDT position at 10x leverage with a 0.5% maintenance rate is liquidated after a loss of about 950 USDT. Maintenance rates vary by exchange and position-size tier, and cross margin can let one losing position consume collateral supporting other positions.
+RudderStack open-sourced DevBox, an AI-assisted engineering harness it has used internally since April to automate feature development and end-to-end verification. DevBox can run on Kubernetes or locally, integrate with Claude and Codex, and has contributed to more than 1,900 merged pull requests, representing about 35% of RudderStack&\#x27;s total. DevBox turns AI coding agents into a repeatable delivery workflow that can identify affected repositories, modify code, test changes, review its own diff, and open draft pull requests. Its internal adoption suggests potential value for teams seeking to delegate small and medium-sized features while retaining human oversight. DevBox includes an internal CLI that starts dependent services for end-to-end verification, with native integrations for Slack, Linear, and GitHub; the announcement also emphasizes security efforts. Large projects still use Claude and Codex directly, while most small-to-medium features go through DevBox, and setup can begin by pointing Claude or Codex at the GitHub repository.
 
-rss · Dev.to · Nov 3, 01:08
+rss · Hacker News \(best\) · Nov 3, 21:02
 
-**Background**: Initial margin is the collateral committed when opening a position, while maintenance margin is the minimum balance that must remain to keep it open. Exchanges commonly derive a mark price from an index of spot markets so that an isolated wick on one venue does not immediately liquidate positions across the market. A liquidation order is normally a market order, so it consumes available bids and can create a feedback loop as prices move and more thresholds are crossed.
+**Background**: An engineering harness provides the surrounding workflow and execution environment needed for an AI coding agent to carry out multi-step software-development tasks rather than merely suggest code. DevBox extends this idea with repository analysis, change generation, testing, diff review, and draft pull-request creation, while its verification CLI provisions the services required to exercise those changes.
 
-**Tags**: `#crypto`, `#liquidations`, `#margin`, `#mark-price`, `#risk-management`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.rudderstack.com/blog/open-sourcing-devbox/">Open-sourcing DevBox , our autonomous engineering harness</a></li>
+<li><a href="https://claude.com/product/claude-code">Claude Code by Anthropic | AI Coding Agent, Terminal, IDE</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI-assisted-development`, `#developer-tools`, `#Kubernetes`, `#software-engineering`, `#open-source`
+
+---
+
+<a id="item-73"></a>
+## [Mineralized blood-cell-like structures found in 115-million-year-old dinosaur bone](https://www.pnas.org/doi/10.1073/pnas.2614248123) ⭐️ 6.0/10
+
+Researchers reported mineralized blood-cell-like structures preserved in a 115-million-year-old dinosaur bone from Brazil. Chemical analyses detected blood-related molecules, including heme-related signatures, within the microscopic structures. The finding provides unusually direct chemical evidence that blood-derived material can survive in dinosaur fossils. It may help researchers investigate ancient dinosaur physiology and improve methods for identifying preserved biomolecules in fossils. The researchers combined chemical extraction, Raman spectroscopy, and electron microscopy to characterize the cell-like structures and their molecular contents. The evidence supports an interpretation of mineralized red blood cells, but deformation or rupture before preservation and genuine differences in dinosaur blood cells remain possible explanations for their shapes and dimensions.
+
+rss · Hacker News \(best\) · Nov 3, 21:01
+
+**Background**: Taphonomy is the study of how organisms and their remains are transformed and preserved after death, including the effects of burial, mineralization, and environmental conditions. Fossilized soft tissues and blood-cell-like structures can provide information about dinosaur biology that is ordinarily unavailable from bones and teeth alone, but identifying them requires microscopy and chemical evidence because mineral replacement can mimic original structures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims">Traces of ancient blood found in 115 million-year-old dinosaur fossil ...</a></li>
+<li><a href="https://newatlas.com/biology/fossilized-blood-cells-dinosaur-bone/">Incredible discovery of fossilized blood cells inside a dinosaur leg...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mary_Higby_Schweitzer">Mary Higby Schweitzer - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#paleontology`, `#dinosaur fossils`, `#taphonomy`, `#microscopy`, `#PNAS`
+
+---
+
+<a id="item-74"></a>
+## [Reconcile Salesforce Migrations with a Stable External Key](https://dev.to/richardc_ailstudio/how-to-find-missing-and-duplicate-records-after-a-salesforce-migration-match-on-an-external-key-mbf) ⭐️ 6.0/10
+
+The tutorial shows how to compare source and target CSV exports after a Salesforce migration to identify missing, duplicate, blank-key, and unexpected records. It uses case-sensitive spreadsheet formulas to match records through a shared external key such as \`Legacy\_ID\_\_c\`. Matching total record counts can conceal offsetting migration errors, while relying on names or email addresses is unreliable. A shared external key provides a practical way to verify data completeness and uniqueness without changing records. The workflow places each key in column A of \`Source\` and \`Target\` sheets, first testing for blanks and duplicates with \`SUMPRODUCT\` and \`EXACT\`, then checking both directions for missing and extra records. \`EXACT\` is intentionally case-sensitive and does not trim spaces, because differently cased or padded keys are not reliable matches.
+
+rss · Dev.to · Nov 3, 21:13
+
+**Background**: Salesforce assigns a new 15- or 18-character ID when a record is inserted, so legacy IDs cannot be used to align the two exports. An External ID field stores a stable identifier from an external system and can bridge records during migration and subsequent synchronization. Spreadsheet reconciliation is useful for modest datasets, although larger migrations may require scripted comparison methods.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.saasguru.co/external-id-in-salesforce/">External ID in Salesforce : Everything You Need To Know</a></li>
+<li><a href="https://s2-labs.com/admin-tutorials/external-id-record-id-security-token/">External ID in Salesforce : Benefits Features &amp; Use Cases | S2 Labs</a></li>
+<li><a href="https://codetoolboxhub.com/csv-data-reconciliation/">CSV Data Reconciliation Strategies for Accurate Error Detection</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Salesforce`, `#Data Migration`, `#Data Quality`, `#External IDs`, `#CSV Reconciliation`
+
+---
+
+<a id="item-75"></a>
+## [AI Agent Selects and Injects Gene Therapy Into a Mouse Brain](https://dev.to/ashish_624379625242c5d263/an-ai-agent-injected-drugs-into-a-live-mouses-brain-41po) ⭐️ 6.0/10
+
+A biotech startup allowed an AI agent to select a gene therapy and successfully inject it into a live mouse’s brain, with some additional procedural steps required. The author connects the experiment to NexoPeek, a molecular-structure teaching tool that supports pocket prediction and other exploratory analyses but is not a medical device. The experiment demonstrates that AI systems can increasingly influence or execute high-stakes steps in biological research pipelines, making human authorization, review, and independent validation essential. It also highlights the need to distinguish educational visualization software from systems used in regulated wet-laboratory decision-making. NexoPeek searches RCSB PDB, UniProtKB, AlphaFold DB, SWISS-MODEL, and PDBe, supports several molecular file formats, and integrates PrankWeb or P2Rank pocket prediction, Foldseek alignment, and a ligand inspector. The author reports rejecting two AI-ranked pockets after inspecting them in three dimensions, but explicitly describes the tool as an educational and research aid that does not replace a validated pipeline.
+
+rss · Dev.to · Nov 3, 21:11
+
+**Background**: Predicting whether a protein contains a ligand-accessible or “druggable” binding pocket remains a distinct challenge in structure-based drug discovery, even as protein-structure prediction advances. An autonomous biology agent can combine tools and actions across a design-test cycle, but Google Research’s account of autonomous wet labs emphasizes that humans should authorize designed sequences, verify protocols, and supervise robotic runs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/">An AI Agent Injected Drugs Into a Live Mouse’s Brain - WIRED</a></li>
+<li><a href="https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/">Grounding AI agents in biological reality: Building blocks for...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/41774792/">Unified protein-small molecule graph neural networks for binding site...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Agents`, `#Biotechnology`, `#Gene Therapy`, `#Automation`, `#AI Safety`
+
+---
+
+<a id="item-76"></a>
+## [aem-eds-kit Converts Design Frames into AEM EDS Blocks](https://dev.to/piotrgodycki/from-a-figmaframerstitch-frame-to-an-aem-eds-block-in-one-command-2cpi) ⭐️ 6.0/10
+
+The open-source aem-eds-kit CLI introduces an \`eds block from-design &lt;url&gt;\` command that converts Figma, Framer, or Google Stitch frames into AEM Edge Delivery Services blocks. It generates decorated JavaScript, scoped CSS, a Universal Editor model, preview content, and metadata, while also supporting component migration, visual and accessibility checks, and optional local AI models. The tool targets a repetitive design-to-code workflow that normally requires AEM developers to rebuild each design frame manually. By generating a complete block and supporting both cloud-hosted and local AI, it could shorten development cycles while giving teams greater control over client-design data. For Figma, the CLI uses one API call per block, caches the snapshot, and paces requests across parallel runs to accommodate the stated 20-call monthly Starter limit. Framer and Stitch layouts are extracted from rendered HTML with headless Chromium; \`--auth\` supports a manually authenticated Stitch session, and local-model mode restricts file writes to \`blocks/&lt;name&gt;/\`.
+
+rss · Dev.to · Nov 3, 21:08
+
+**Background**: AEM Edge Delivery Services projects commonly implement reusable page sections as blocks containing JavaScript, scoped CSS, and a model that defines authorable fields for the Universal Editor. The AEM CLI provides a local development server through \`aem up\`, allowing local code changes to be previewed and reloaded. This project automates the initial implementation of those blocks from externally hosted design frames.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/piotrgodycki/aem-eds-kit">GitHub - piotrgodycki/aem-eds-kit</a></li>
+<li><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/0-overview">Edge Delivery Services and Universal Editor developer ...</a></li>
+<li><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/edge-functions/developing/edge-delivery-services/develop-block">Develop the Edge Delivery Services block | Adobe Experience ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AEM Edge Delivery Services`, `#Design-to-Code`, `#Developer Tooling`, `#Figma`, `#Open Source`
+
+---
+
+<a id="item-77"></a>
+## [Revolut Cuts AI Coding Costs Tenfold with Self-Hosting](https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345) ⭐️ 6.0/10
+
+British fintech Revolut reportedly reduced its AI-assisted coding costs by 10 times by replacing Claude with a self-hosted model stack. The article presents the deployment as a practical cost-optimization case study. The case suggests that companies with sustained AI-coding workloads can materially lower recurring model expenses by operating suitable open models themselves. It also highlights the growing competitive appeal of self-hosted coding assistants as alternatives to proprietary platforms. The reported savings depend on replacing a hosted assistant with infrastructure that the company controls, rather than simply changing between public API providers. Self-hosting can require GPU capacity, deployment expertise, model selection, and operational maintenance, so the article&\#x27;s 10-fold figure does not establish that the approach is universally cheaper.
+
+rss · Hacker News \(AI/ML\) · Nov 3, 21:23
+
+**Background**: AI coding assistants typically send prompts, repository context, and generated code to a vendor-hosted service, with charges often based on token usage. Self-hosted alternatives run open-source large language models on infrastructure managed by the customer and can expose an OpenAI-compatible API to existing developer tools. The trade-off is lower variable API spending in exchange for hardware, engineering, and maintenance costs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/sagar0x0/Rainference">GitHub - sagar0x0/Rainference: Self - hosted LLM inference stack ...</a></li>
+<li><a href="https://ainative.studio/self-hosted-llm">Self - Hosted LLM — Run AI Models Locally with... | AINative Studio</a></li>
+<li><a href="https://semaphore.io/blog/selfhosted-llm-coding-assistants">A Guide to Self - Hosted LLM Coding Assistants - Semaphore</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI-assisted coding`, `#Self-hosted LLMs`, `#Fintech`, `#Developer productivity`, `#Cost optimization`
+
+---
+
+<a id="item-78"></a>
+## [Uncracked City brings deceptive LLM suspects to mobile detective games](https://uncracked.city/) ⭐️ 6.0/10
+
+Solo founder released Uncracked City, a free Android detective game where players question AI-driven suspects who may lie about fictional crimes set in real-world cities. The iOS release is still awaiting Apple&\#x27;s review, while the game is available in six languages. The project offers a creative application of generative AI in interactive fiction, replacing or augmenting fixed dialogue with suspects that can respond dynamically and deceive players. It also connects gameplay, local discovery, and tourism by grounding fictional investigations in recognizable public places. Each case uses a real city&\#x27;s public places and history, but its crimes and characters are fictional. The founder plans to add weekly cases, private team-building sessions, and an MCP interface that could let game masters create scenarios with ChatGPT or Claude, although these remain future goals rather than demonstrated features.
+
+rss · Hacker News \(AI/ML\) · Nov 3, 21:20
+
+**Background**: In traditional detective games, players commonly gather evidence and question characters constrained by predetermined dialogue branches. LLM-driven NPCs can instead generate open-ended responses, while role-based prompting and consistency checks provide approaches for creating deceptive or misleading behavior in game characters. MCP is an open protocol intended to standardize connections between AI assistants, tools, and external services, which could support user-generated scenarios if the planned integration is implemented.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro">What is the Model Context Protocol (MCP)?</a></li>
+<li><a href="https://arxiv.org/pdf/2504.02254">LLMs as Deceptive Agents: How Role-Based Prompting Induces ...</a></li>
+<li><a href="https://arxiv.org/html/2508.06361v1">Beyond Prompt-Induced Lies: Investigating LLM Deception on ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#AI games`, `#Interactive fiction`, `#Agent simulation`, `#Mobile games`
+
+---
+
+<a id="item-79"></a>
+## [Mallard Brings Git-Like Session Management to AI Coding Agents](https://mallard-ai.com/home) ⭐️ 6.0/10
+
+Mallard is a free, MIT-licensed macOS and Windows application for backing up, sharing, and resuming Claude Code and Codex sessions with their original context. It stores data in Cloudflare R2, Dropbox, or Mallard Cloud and supports one-click connections to the first two services. AI coding-agent sessions often contain the ideas, design decisions, and work history needed to continue a task, but the products discussed here normally keep those sessions local to a machine. Mallard could make agent workflows more portable and collaborative without requiring shared cloud VMs or a Git server. Mallard describes itself as a lightweight Git-like system and replaced the traditional content-addressable storage approach with a protocol requiring only LIST and PUT capabilities. The project says it was developed over three months using 10 accounts on 20-times plans and 100 billion tokens, but the announcement provides little independent validation or implementation detail.
+
+rss · Hacker News \(AI/ML\) · Nov 3, 20:18
+
+**Background**: Claude Code saves conversations as project-associated sessions that can be resumed, branched, or transferred between supported clients. Codex CLI likewise provides a resume command for restoring a prior conversation context. Cloudflare R2 is object storage with S3-compatible APIs, while Mallard aims to use broadly compatible cloud storage for portable agent-session records.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://code.claude.com/docs/en/sessions">Manage sessions - Claude Code Docs</a></li>
+<li><a href="https://code.claude.com/docs/en/agent-sdk/session-storage">Persist sessions to external storage - Claude Code Docs</a></li>
+<li><a href="https://www.cloudflare.com/products/r2/">Cloudflare R 2 - Egress-Free Object Storage</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The Hacker News submission received two comments and two points, indicating very limited community engagement. The supplied material does not include the comment text, so their specific opinions and concerns cannot be summarized.
+
+**Tags**: `#AI agents`, `#developer tools`, `#session management`, `#Claude Code`, `#Codex`
+
+---
+
+<a id="item-80"></a>
+## [AI Predicts Cancer Survival From a Patient’s Selfie](https://www.theguardian.com/technology/2026/oct/19/ai-tool-predict-cancer-survival-patient-selfie) ⭐️ 6.0/10
+
+Researchers reportedly developed FAHR-Face, an AI system that extracts prognostic information from facial photographs to estimate cancer survival. The reported approach could supplement existing clinical assessment, but its clinical usefulness has not yet been established. If validated across sufficiently large and diverse patient populations, accessible facial analysis could offer a low-cost way to support prognosis and clinical decision-making. It also raises questions about whether visible health signals can generalize reliably across cancers, demographic groups, imaging conditions, and clinical settings. Related research has investigated facial phenotypes and portrait-based survival prediction, including a reported pan-cancer C-index of 0.680 using 2D facial images. The available reports emphasize that the new system’s clinical utility remains unproven, and the supplied item provides no study-design, validation, dataset, or performance details.
+
+rss · Hacker News \(AI/ML\) · Nov 3, 19:25
+
+**Background**: Computer-vision models can learn numerical patterns from facial images and use them to estimate health-related outcomes. Survival prediction differs from simple disease classification: it estimates how long a patient is likely to remain alive, often using time-to-event data and metrics such as the C-index to assess how well predicted risk rankings correspond with observed outcomes.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.news-medical.net/news/20261022/A-simple-facial-photograph-may-hold-clues-to-cancer-survival.aspx">A simple facial photograph may hold clues to cancer survival</a></li>
+<li><a href="https://www.zmescience.com/medicine/ai-can-spot-signs-of-impending-death-among-cancer-patients-in-a-single-face-photo/">AI Can Spot Signs of Impending Death Among Cancer Patients in...</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-031-72086-4_19">Deep Learning for Cancer Prognosis Prediction Using Portrait ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI in healthcare`, `#computer vision`, `#cancer prognosis`, `#medical AI`, `#biomedical research`
 
 ---
