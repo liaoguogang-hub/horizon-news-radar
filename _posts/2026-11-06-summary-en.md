@@ -5,689 +5,663 @@ date: 2026-11-06
 lang: en
 ---
 
-> From 227 items, 88 important content pieces were selected
+> From 224 items, 81 important content pieces were selected
 
 ---
 
-1. [PwnEscape Part 2 Demonstrates a Firecracker VM Escape](#item-1) ⭐️ 9.0/10
-2. [Tumaini Trial Includes Pregnant and Lactating Women](#item-2) ⭐️ 9.0/10
-3. [Gait AI Predicts Multisystem Health From 3D Movement](#item-3) ⭐️ 9.0/10
+1. [Gait Foundation Model Predicts Multisystem Health From Skeletal Motion](#item-1) ⭐️ 9.0/10
+2. [Small Judge Routes Identity Cases to Opus at Lower Cost](#item-2) ⭐️ 8.0/10
+3. [AI Is Accelerating AI Research, but the Mechanism Matters](#item-3) ⭐️ 8.0/10
 4. [Tesla Reportedly Winds Down Cybertruck Production](#item-4) ⭐️ 8.0/10
-5. [Google Launches Cheaper Gemini Omni 1.2 Flash Video Model](#item-5) ⭐️ 8.0/10
-6. [Memorilla Adds Latent Semantic Memory to Frozen LLMs](#item-6) ⭐️ 8.0/10
-7. [Replit Rebuilds Sandbox Engine with MicroVMs](#item-7) ⭐️ 8.0/10
-8. [Inside GitHub&\#x27;s New Git Storage Architecture](#item-8) ⭐️ 8.0/10
-9. [Palo Alto Networks Weighs $500M Clutch Acquisition](#item-9) ⭐️ 8.0/10
-10. [Axiom Math Formally Verifies the Stacks Project](#item-10) ⭐️ 8.0/10
-11. [Dropbox Buys Tigris Data for AI Infrastructure](#item-11) ⭐️ 8.0/10
-12. [sshole Flaw Bypasses SSH Password Authentication](#item-12) ⭐️ 8.0/10
-13. [White House Network May Offer Rentable Residential Proxy Access](#item-13) ⭐️ 8.0/10
-14. [Free Chinese AI Models Near OpenAI’s Cyber Capabilities](#item-14) ⭐️ 8.0/10
-15. [Chainalysis Breach Exposes All Users’ Credentials and Tokens](#item-15) ⭐️ 8.0/10
-16. [Long-Term Evidence Challenges Surgery Preference for Left Main Disease](#item-16) ⭐️ 8.0/10
-17. [No QALY Advantage for Dialysis Preparation in Older Kidney Failure Patients](#item-17) ⭐️ 8.0/10
-18. [Two Microbiome Pathways Link Lifestyle to Chronic Disease](#item-18) ⭐️ 8.0/10
-19. [Jev Routes Routine Judgments to Claude Opus for Lower Costs](#item-19) ⭐️ 7.0/10
-20. [FAA to Phase Out Floppy Disks in Air Traffic Control](#item-20) ⭐️ 7.0/10
-21. [First Steps in Bare-Metal UEFI Programming](#item-21) ⭐️ 7.0/10
-22. [BUI Claims Blender-Inspired Rust UI Outperforms GPUI](#item-22) ⭐️ 7.0/10
-23. [Rune Brings GPU-Rendered Rust UI Across Platforms](#item-23) ⭐️ 7.0/10
-24. [Rybrevant Faspro Approved for Advanced HNSCC](#item-24) ⭐️ 7.0/10
-25. [Chomsky and Statistical Learning in Modern AI](#item-25) ⭐️ 7.0/10
-26. [SketchAgentBench Tests LLMs on 3D Spatial Reasoning](#item-26) ⭐️ 7.0/10
-27. [Bridging musl Linux and NVIDIA’s Proprietary Drivers](#item-27) ⭐️ 7.0/10
-28. [SourceHut Registration Bypass Vulnerability Disclosed](#item-28) ⭐️ 7.0/10
-29. [Datadog Validates Formal Specifications Against Production Systems](#item-29) ⭐️ 7.0/10
-30. [Hundreds of Exposed Artex AI Hacking Servers Discovered](#item-30) ⭐️ 7.0/10
-31. [AI Spending Stalls as Anthropic Nears Its IPO](#item-31) ⭐️ 7.0/10
-32. [Airbnb Plans AI Travel Agent Launch for 2027](#item-32) ⭐️ 7.0/10
-33. [Meta Warns Data Center Backlash Could Slow AI Expansion](#item-33) ⭐️ 7.0/10
-34. [OpenAI&\#x27;s Cybersecurity Model Faces Higher Stakes](#item-34) ⭐️ 7.0/10
-35. [OpenAI Says It Could Be IPO-Ready in 2027](#item-35) ⭐️ 7.0/10
-36. [Box Integrates Nvidia Nemotron for Faster Agent Retrieval](#item-36) ⭐️ 7.0/10
-37. [Meta Drops Forced AI-Training Permission for Facebook Pages](#item-37) ⭐️ 7.0/10
-38. [BAAJA Could Reshape U.S. Energy Infrastructure Permitting](#item-38) ⭐️ 7.0/10
-39. [Data Brokers Offer Corporate Files and Emails for AI Training](#item-39) ⭐️ 7.0/10
-40. [Inkling 2 Small Debuts with Multimodal MoE Capabilities](#item-40) ⭐️ 7.0/10
-41. [PS4 Multiboot Adds Gamepad-Controlled Linux Installation and Selection](#item-41) ⭐️ 7.0/10
-42. [Verify CVE-2025-4517 Patches Across Python Containers and Dependencies](#item-42) ⭐️ 7.0/10
-43. [Lancet Seminar Reviews Retinoblastoma](#item-43) ⭐️ 7.0/10
-44. [Mapping Digital Readiness for Cardiovascular Care](#item-44) ⭐️ 7.0/10
-45. [How to Report and Disclose 15,000 Infected Websites](#item-45) ⭐️ 6.0/10
-46. [Deus Ex at 25: Design Lessons and Lasting Influence](#item-46) ⭐️ 6.0/10
-47. [Anthropic IPO Buyers Weigh $1.1 Trillion Valuation](#item-47) ⭐️ 6.0/10
-48. [Unleash Has Served Open-Source Feature Flags for 11 Years](#item-48) ⭐️ 6.0/10
-49. [AI Agents Infer and Animate LEGO Mechanisms](#item-49) ⭐️ 6.0/10
-50. [Waymark Compiles Jobs Into Durable Workflows](#item-50) ⭐️ 6.0/10
-51. [Futhark Examines Nondeterminism in Parallel Computing](#item-51) ⭐️ 6.0/10
-52. [Volunteers Build and Maintain Core Internet Technologies](#item-52) ⭐️ 6.0/10
-53. [Practical Guide to Linux Out-of-Tree Mitigations](#item-53) ⭐️ 6.0/10
-54. [Nilay Patel Challenges the AI Industry’s Cost-Benefit Case](#item-54) ⭐️ 6.0/10
-55. [Data-Center Restrictions Could Slow AI Expansion After Midterms](#item-55) ⭐️ 6.0/10
-56. [Underdog Demonstrates a 32MB Model for Speech and Music](#item-56) ⭐️ 6.0/10
-57. [Physicl Raises $10M for Robot Sim-to-Real Training](#item-57) ⭐️ 6.0/10
-58. [Meta Opens Muse Video Chat Avatars to U.S. Users](#item-58) ⭐️ 6.0/10
-59. [Claude Adds Personal Finance Analysis Through Plaid](#item-59) ⭐️ 6.0/10
-60. [Aina Launches a Smart Ring for AI Agent Control](#item-60) ⭐️ 6.0/10
-61. [Discovered Materials Prizes $1M for AI to Solve Materials Problems](#item-61) ⭐️ 6.0/10
-62. [AST SpaceMobile Develops Blacklift Rocket for BlueBird Launches](#item-62) ⭐️ 6.0/10
-63. [Wisconsin Infant Dies From Measles Amid Elimination Review](#item-63) ⭐️ 6.0/10
-64. [Artemis II, New Glenn Delay, and Rocket Funding Updates](#item-64) ⭐️ 6.0/10
-65. [Blue Origin Claims a Higher-Performance Rocket Engine at Lower Cost](#item-65) ⭐️ 6.0/10
-66. [Google Schools Can Reject Gemini but Not AI Search](#item-66) ⭐️ 6.0/10
-67. [Lawsuit Alleges ChatGPT Helped Plan a Fatal Poisoning](#item-67) ⭐️ 6.0/10
-68. [Software Improves Webb Exoplanet Imaging](#item-68) ⭐️ 6.0/10
-69. [Kalshi Loses Court Battles Over State Gambling Laws](#item-69) ⭐️ 6.0/10
-70. [A Humanoid Robot Cleans My Apartment](#item-70) ⭐️ 6.0/10
-71. [AI Data Center Expansion Fuels Grid and Community Conflicts](#item-71) ⭐️ 6.0/10
-72. [Meta Adds Custom AI Spaces to Muse](#item-72) ⭐️ 6.0/10
-73. [Chatbot Ads Expand as Claude Remains Ad-Free](#item-73) ⭐️ 6.0/10
-74. [Reddit Founder Says Social Media Apps Are No Longer Cool](#item-74) ⭐️ 6.0/10
-75. [2026 OLED MacBook Pro Stuns but Commands a Steep Price](#item-75) ⭐️ 6.0/10
-76. [AI Startup Uses Synthetic Data to Streamline Drug Discovery](#item-76) ⭐️ 6.0/10
-77. [AI Analyzes Dolphin Communication](#item-77) ⭐️ 6.0/10
-78. [Chatbot Critic Evan Ratliff Draws Major AI Labs](#item-78) ⭐️ 6.0/10
-79. [Rare Decay Offers a First Glimpse of the Zeptoverse](#item-79) ⭐️ 6.0/10
-80. [UK Adult-Content Ban Sparks Censorship Concerns](#item-80) ⭐️ 6.0/10
-81. [NVIDIA VFlash Accelerates System-1 Reasoning for Physical AI](#item-81) ⭐️ 6.0/10
-82. [MTG-I2 Delivers Its First Weather-Satellite Images](#item-82) ⭐️ 6.0/10
-83. [Microsoft Consolidates Neocloud Partners Amid AI Buildout Strain](#item-83) ⭐️ 6.0/10
-84. [Direct Browser Uploads for Fintech Media Put Retention First](#item-84) ⭐️ 6.0/10
-85. [PENNY Proves Authorization Beats Prompt Defense](#item-85) ⭐️ 6.0/10
-86. [Meta’s F3 Lightning Compiles Ads Features at Scale](#item-86) ⭐️ 6.0/10
-87. [AI Agents Enable Cross-Stack Product Prototyping](#item-87) ⭐️ 6.0/10
-88. [Delaware Weighs AI-Controlled Businesses](#item-88) ⭐️ 6.0/10
+5. [PwnEscape Demonstrates a Firecracker Guest-to-Host Escape](#item-5) ⭐️ 8.0/10
+6. [Google Launches Gemini Omni 1.2 Flash Video Model](#item-6) ⭐️ 8.0/10
+7. [FDA Accelerates Approval of Rybrevant Faspro for Advanced HNSCC](#item-7) ⭐️ 8.0/10
+8. [Replit Rebuilds Its Sandbox Engine with MicroVMs](#item-8) ⭐️ 8.0/10
+9. [OpenAI Reportedly Adds $11 Billion at $1.25 Trillion Valuation](#item-9) ⭐️ 8.0/10
+10. [Palo Alto Networks Reportedly Eyes $500M Clutch Acquisition](#item-10) ⭐️ 8.0/10
+11. [Axiom Math Verifies the Stacks Project with AI Agents](#item-11) ⭐️ 8.0/10
+12. [Chainalysis Says All Customers’ Credentials and Tokens Were Stolen](#item-12) ⭐️ 8.0/10
+13. [White House IPs Reportedly Available Through Residential Proxies](#item-13) ⭐️ 8.0/10
+14. [Open-Weight Chinese AI Models Near Top in Cyberattacks](#item-14) ⭐️ 8.0/10
+15. [Microbiome Axes Connect Lifestyle to Chronic Disease](#item-15) ⭐️ 8.0/10
+16. [FAA to Phase Out Floppy Disks by 2028](#item-16) ⭐️ 7.0/10
+17. [A Practical Introduction to Bare-Metal UEFI Programming](#item-17) ⭐️ 7.0/10
+18. [Anthropic’s IPO Valuation Faces Investor Scrutiny](#item-18) ⭐️ 7.0/10
+19. [How Should 15,000 Infected Websites Be Reported?](#item-19) ⭐️ 7.0/10
+20. [ChatGPT Connector Routing Raises Data Isolation Concerns](#item-20) ⭐️ 7.0/10
+21. [Google Acquires Crusoe&\#x27;s Wyoming Data Center Site](#item-21) ⭐️ 7.0/10
+22. [Memorilla Adds Latent Semantic Memory to LLMs](#item-22) ⭐️ 7.0/10
+23. [Waymark Compiles Jobs Into Executable Workflows](#item-23) ⭐️ 7.0/10
+24. [Chomsky and Statistical Language Learning, Reexamined](#item-24) ⭐️ 7.0/10
+25. [AI Agents Infer and Animate LEGO Mechanisms](#item-25) ⭐️ 7.0/10
+26. [Bridging musl and NVIDIA’s Proprietary Drivers](#item-26) ⭐️ 7.0/10
+27. [Inside GitHub’s New Git Storage Architecture](#item-27) ⭐️ 7.0/10
+28. [Hundreds of Exposed ARTEX AI Hacking Servers Identified](#item-28) ⭐️ 7.0/10
+29. [AI Spending Plateaus as Anthropic Nears IPO](#item-29) ⭐️ 7.0/10
+30. [Airbnb Plans AI Travel Agent for 2027](#item-30) ⭐️ 7.0/10
+31. [OpenAI President Suggests 2027 IPO Readiness](#item-31) ⭐️ 7.0/10
+32. [Dropbox Buys Tigris Data for $350 Million to Advance AI Storage](#item-32) ⭐️ 7.0/10
+33. [Box Uses Nvidia Nemotron for Faster Agent Content Retrieval](#item-33) ⭐️ 7.0/10
+34. [Wisconsin Reports First Infant Measles Death in 35 Years](#item-34) ⭐️ 7.0/10
+35. [Congress Summons Nvidia CEO Over Alleged Chinese Espionage Ties](#item-35) ⭐️ 7.0/10
+36. [Blue Origin Targets Fourfold Performance at One-Quarter Cost](#item-36) ⭐️ 7.0/10
+37. [“sshole” flaw enables passwordless SSH access on Alpine Linux](#item-37) ⭐️ 7.0/10
+38. [China Reportedly Recruited Executive to Spy on Nvidia&\#x27;s Huang](#item-38) ⭐️ 7.0/10
+39. [SpaceX Pushes Starlink Mobile Toward Major Carrier Status](#item-39) ⭐️ 7.0/10
+40. [Bipartisan US Bill Would Accelerate Energy Project Permitting](#item-40) ⭐️ 7.0/10
+41. [Meta Muse Adds Custom AI-Powered Spaces](#item-41) ⭐️ 7.0/10
+42. [Data Brokers Sell Corporate Files for AI Training](#item-42) ⭐️ 7.0/10
+43. [Rare Decay Offers a First Glimpse of the Zeptoverse](#item-43) ⭐️ 7.0/10
+44. [Ricursive Launches Ripple-65B Preview for Agentic Coding](#item-44) ⭐️ 7.0/10
+45. [Loopscale Discloses Two Genesis Vault Exploit Paths](#item-45) ⭐️ 7.0/10
+46. [Mapping Digital Readiness for High-Burden U.S. Communities](#item-46) ⭐️ 7.0/10
+47. [Deus Ex Retrospective Examines Design, Technology, and Legacy](#item-47) ⭐️ 6.0/10
+48. [Rune Brings GPU-Rendered Rust UI to Four Platforms](#item-48) ⭐️ 6.0/10
+49. [How Octopuses Squeeze Through Tiny Gaps](#item-49) ⭐️ 6.0/10
+50. [Continuously Validating Formal Specifications in Production](#item-50) ⭐️ 6.0/10
+51. [How Volunteers Build and Maintain the Internet](#item-51) ⭐️ 6.0/10
+52. [SourceHut Registration Bypass CVE Disclosed](#item-52) ⭐️ 6.0/10
+53. [Nilay Patel Challenges AI’s Costs and Benefits](#item-53) ⭐️ 6.0/10
+54. [How a Blue Wave Midterm Could Reshape AI Infrastructure](#item-54) ⭐️ 6.0/10
+55. [Underdog Demonstrates a 32MB Speech-and-Music Model](#item-55) ⭐️ 6.0/10
+56. [Physicl Raises $10M for Realistic Robot Training Environments](#item-56) ⭐️ 6.0/10
+57. [Meta Warns Data Center Backlash Could Slow AI Expansion](#item-57) ⭐️ 6.0/10
+58. [OpenAI Unveils GPT-6 Cyber Model](#item-58) ⭐️ 6.0/10
+59. [Claude Adds Personal Finance Spending Analysis](#item-59) ⭐️ 6.0/10
+60. [Aina&\#x27;s Smart Ring Adds Screen and Voice AI Controls](#item-60) ⭐️ 6.0/10
+61. [Mantle Churn May Explain Earth&\#x27;s Great Unconformity](#item-61) ⭐️ 6.0/10
+62. [Meta Abandons Facebook AI-Training Terms Update](#item-62) ⭐️ 6.0/10
+63. [Lawsuit Alleges ChatGPT Helped Plan Wife&\#x27;s Poisoning](#item-63) ⭐️ 6.0/10
+64. [A Humanoid Robot Cleans a San Francisco Apartment](#item-64) ⭐️ 6.0/10
+65. [AI Data Center Boom Strains Communities and Power Grids](#item-65) ⭐️ 6.0/10
+66. [Chatbot Ads Expand as Anthropic Keeps Claude Ad-Free](#item-66) ⭐️ 6.0/10
+67. [AI Deciphering Dolphin Communication](#item-67) ⭐️ 6.0/10
+68. [Chatbot Troll Draws Collaboration Offers From AI Labs](#item-68) ⭐️ 6.0/10
+69. [UK Adult-Content Rules Trigger Censorship Fears](#item-69) ⭐️ 6.0/10
+70. [OpenAI Opens Outbound SIP Calling to All Organizations](#item-70) ⭐️ 6.0/10
+71. [AI Coding Setups Mapped from 750 Hacker News Comments](#item-71) ⭐️ 6.0/10
+72. [Buzzedin Adds Remote MCP Search for NYC Apartments](#item-72) ⭐️ 6.0/10
+73. [Discussing Latency in System Design Interviews](#item-73) ⭐️ 6.0/10
+74. [Codex Exec Hangs on Open Stdin](#item-74) ⭐️ 6.0/10
+75. [AbMaze Tests AI Agents on Antibody Fitness Landscapes](#item-75) ⭐️ 6.0/10
+76. [AJX Tests Where AI Agents Struggle With Products](#item-76) ⭐️ 6.0/10
+77. [Microsoft Reportedly Ends Oracle AI Cloud Rental Deal](#item-77) ⭐️ 6.0/10
+78. [OpenAI Introduces BioBasicsBench for Wet-Lab AI Agents](#item-78) ⭐️ 6.0/10
+79. [AI Models Tested for Introspective Self-Knowledge](#item-79) ⭐️ 6.0/10
+80. [Preparing for Dialysis That May Never Begin](#item-80) ⭐️ 6.0/10
+81. [Eating-Disorder Treatments Face High Medical and Engagement Challenges](#item-81) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [PwnEscape Part 2 Demonstrates a Firecracker VM Escape](https://pwn.ai/blog/firecracker-escape) ⭐️ 9.0/10
+## [Gait Foundation Model Predicts Multisystem Health From Skeletal Motion](https://www.nature.com/articles/s41591-026-04724-9) ⭐️ 9.0/10
 
-PwnEscape Part 2 presents a technical exploit chain for escaping a Firecracker virtual machine. The provided material confirms the research topic and its focus, but does not disclose the specific vulnerability, affected versions, exploitation prerequisites, or patch status. A working Firecracker escape would challenge the microVM&\#x27;s role as a strong isolation boundary for untrusted cloud workloads. If the exploit is broadly applicable, operators may need to update Firecracker, restrict exposure, and reassess tenant-separation assumptions. Firecracker uses hardware-assisted virtualization, process isolation, resource controls, and an intentionally small device model to reduce attack surface; its Jailer also establishes isolation boundaries before the main process starts. The supplied excerpt does not identify the exploited component or explain how the chain bypasses these defenses, so technical impact and remediation cannot be determined from it alone.
+A gait foundation model trained on three-dimensional skeletal motion data from 3,328 adults can predict clinical characteristics and diagnoses across cardiometabolic, mental-health, and frailty domains. The results were published online in Nature Medicine on November 6, 2026. The model could enable scalable, noninvasive assessment of several systemic health domains from observable movement rather than requiring separate tests for every condition. It also illustrates how a general-purpose biomedical foundation model can transfer across distinct clinical prediction tasks. The reported Nature Medicine study used three-dimensional skeletal gait motion from 3,328 adults. A related preprint describes a dual-stream spatiotemporal transformer based on a masked autoencoder and a cohort of 3,414 deeply phenotyped adults recorded with a depth camera during five motor tasks, so the publication and preprint cohort figures should not be treated as interchangeable.
 
-rss · Hacker News \(热门\) · Nov 6, 19:33
+rss · Nature Medicine · Nov 6, 00:00
 
-**Background**: Firecracker is a lightweight virtual-machine technology that combines hardware virtualization isolation with container-like startup speed and flexibility. It is commonly positioned for multi-tenant compute environments, where a VM escape could allow malicious tenant code to cross an isolation boundary and target the host or neighboring workloads. Firecracker exposes only a limited set of emulated devices, including virtio-net, virtio-block, virtio-vsock, a serial console, and a minimal keyboard controller.
+**Background**: Gait analysis measures how a person walks and performs other motor tasks, using systems such as marker-based motion capture, wearable sensors, or cameras to quantify movement. Digital biomarkers derived from gait can capture changes associated with health and function, while established marker-based systems are accurate but can require substantial space and equipment. The gait foundation model converts three-dimensional skeletal sequences into learned representations intended to support prediction of multiple health phenotypes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/firecracker-microvm/firecracker">GitHub - firecracker-microvm/firecracker: Secure and fast ...</a></li>
-<li><a href="https://deepwiki.com/firecracker-microvm/firecracker/6-security">Security | firecracker-microvm/firecracker | DeepWiki</a></li>
-<li><a href="https://github.com/Steck43/isolation-layer">GitHub - Steck43/isolation-layer: Firecracker jailer ...</a></li>
+<li><a href="https://arxiv.org/abs/2603.25283">[2603.25283] A Gait Foundation Model Predicts Multi-System Health...</a></li>
+<li><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1302136/full">Frontiers | Gait analysis using digital biomarkers including smart...</a></li>
+<li><a href="https://wispaper.ai/en/blog/gait-foundation-model-multi-system-health-phenotypes-3d-skeletal-motion-20260329/eng">A Gait Foundation Model Predicts Multi-System Health Phenotypes...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Firecracker`, `#VM Escape`, `#MicroVM Security`, `#Virtualization`, `#Exploit Research`
+**Tags**: `#foundation models`, `#biomedical AI`, `#gait analysis`, `#digital health`, `#clinical prediction`
 
 ---
 
 <a id="item-2"></a>
-## [Tumaini Trial Includes Pregnant and Lactating Women](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902155-0/fulltext?rss=yes) ⭐️ 9.0/10
+## [Small Judge Routes Identity Cases to Opus at Lower Cost](https://hightouch.com/blog/llm-judges-identity-resolution) ⭐️ 8.0/10
 
-The Tumaini Phase 2/3 vaccine efficacy trial, identified as NCT07842107, will include pregnant and lactating women among participants in the Democratic Republic of the Congo. The protocol is being developed by the country’s National Institute of Biomedical Research and international partners to assess vaccines against Bundibugyo virus during the ongoing outbreak. Pregnant women face a substantial risk of severe disease and death from Bundibugyo virus, while their historical exclusion from epidemic vaccine trials has delayed access because pregnancy- and lactation-specific safety evidence was unavailable. Including them helps address both an urgent mortality risk and a long-standing inequity in epidemic research. Tumaini is a randomized, double-blind, active-controlled adaptive platform trial that evaluates candidate vaccines in contacts of confirmed cases, with Ervebo included among the candidates. The trial measures efficacy, safety, and immunogenicity, and currently no vaccine is approved specifically for Bundibugyo virus.
+The experiment uses the compact Jev model as an LLM judge that escalates ambiguous identity-resolution cases to a stronger model such as Opus. Jev reportedly preserves comparable accuracy while reducing inference costs to roughly one-quarter of using Opus for every case. Selective model routing can let teams reserve expensive frontier models for difficult inputs rather than routine decisions. This reflects a broader shift toward cascaded LLM systems in which smaller models perform triage and stronger models supply targeted expertise. The reported result is tied specifically to identity resolution and depends on Jev correctly identifying which cases require escalation. Community participants also noted that changing model prices, available capabilities, and routing prompts can materially alter the optimal architecture, so the fourfold saving should not be treated as a universal benchmark.
 
-rss · The Lancet · 最新文章 · Nov 4, 23:30
+hackernews · Hacker News \(热门\) · Nov 6, 19:48 · [Discussion](https://news.ycombinator.com/item?id=50397429)
 
-**Background**: Bundibugyo virus is an Ebola virus species associated with severe disease and outbreaks in the Democratic Republic of the Congo. The Tumaini trial uses an adaptive platform design to compare multiple vaccine candidates against a control, allowing evidence on safety and efficacy to be generated while the outbreak is ongoing.
+**Background**: LLM-as-a-judge systems use a language model to evaluate outputs or decisions, sometimes according to task-specific criteria. Model routing and cascading instead select or escalate to different models at inference time, combining lower-cost routine handling with stronger models for cases requiring additional capability; such systems must balance accuracy, routing quality, and expected inference cost.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://clinicaltrials.gov/study/NCT07842107?a=1">Study Details | NCT07842107 | Phase 2/3 Trial of Vaccines ...</a></li>
-<li><a href="https://cepi.net/first-participant-vaccinated-pivotal-phase-23-bundibugyo-vaccine-trial-drc">First participant vaccinated in pivotal Phase 2/3 Bundibugyo ...</a></li>
-<li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902155-0/abstract">Inclusion of pregnant and lactating women in the Tumaini ...</a></li>
+<li><a href="https://arxiv.org/abs/2603.04445">[2603.04445] Dynamic Model Routing and Cascading for ...</a></li>
+<li><a href="https://langfuse.com/docs/evaluation/evaluation-methods/llm-as-a-judge">LLM - as - a - Judge - Langfuse</a></li>
+<li><a href="https://kestra.io/resources/ai/llm-cost-optimization">LLM Cost Optimization : Reduce AI Spending | Kestra</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Ebola vaccine`, `#Pregnancy`, `#Clinical trials`, `#Research ethics`, `#Public health`
+**Discussion**: Community feedback was broadly positive and included corroborating experiences with models choosing when to escalate and using Jev for routing among parallel agents. Participants emphasized that the result is task-specific rather than evidence of general capability gains, while also suggesting that model-aware routing and automatic context curation could become important orchestration patterns.
+
+**Tags**: `#LLM orchestration`, `#model routing`, `#cost optimization`, `#AI agents`, `#model evaluation`
 
 ---
 
 <a id="item-3"></a>
-## [Gait AI Predicts Multisystem Health From 3D Movement](https://www.nature.com/articles/s41591-026-04724-9) ⭐️ 9.0/10
+## [AI Is Accelerating AI Research, but the Mechanism Matters](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai) ⭐️ 8.0/10
 
-Researchers developed a gait foundation model using 3D skeletal-motion recordings from 3,328 deeply phenotyped adults. The model predicts clinical phenotypes and diagnoses spanning cardiometabolic, mental-health, frailty, and other health domains. The approach could turn routine movement recordings into a low-burden digital biomarker for assessing health across multiple organ systems. It also suggests that foundation models may capture movement patterns more comprehensively than conventional hand-engineered gait features. The Nature Medicine study recorded movement with a single depth camera during five motor tasks and aimed to predict phenotypes across 18 body systems. A related arXiv version describes a dual-stream spatiotemporal transformer and reports strong predictive performance for age, BMI, and visceral adipose tissue area, but the supplied materials do not provide the full set of validation or clinical-deployment results.
+The article argues that artificial intelligence is substantially speeding up AI research by automating substantial portions of research work. Commenters question whether the improvement primarily reflects smarter models, or instead comes from greater training capital, larger inference budgets, parallel agent searches, and cheaper training. If AI can reliably accelerate AI development, it could create a powerful research feedback loop that expands model capabilities and lowers the cost of experimentation. The distinction raised by commenters matters because large productivity gains for individuals do not necessarily mean equally rapid progress in scientific discovery, especially when hardware, tokens, and capital remain constrained. The discussion identifies four potentially overlapping sources of acceleration: vertical scaling of model intelligence, horizontal scaling through agent swarms, inference-time spending to explore more of the search space, and reduced costs for tasks such as data conversion and tool analysis. It also highlights unresolved bottlenecks, including the time required to train on very large token datasets and the possible emergence of smaller-parameter models that achieve stronger results more efficiently.
 
-rss · Nature Medicine · Nov 6, 00:00
+hackernews · Hacker News \(热门\) · Nov 6, 20:27 · [Discussion](https://news.ycombinator.com/item?id=50397994)
 
-**Background**: A gait foundation model is an AI system designed to learn reusable representations from many examples of movement rather than relying only on a few manually selected measures such as walking speed. These learned representations can be used to predict health-related traits, while digital gait biomarkers are increasingly studied for disease risk, progression, treatment response, and fall prediction.
+**Background**: Automated research agents can now search literature, execute experiments, produce cited reports, and draft manuscripts with limited human supervision. Inference-time compute scaling allows models to spend more computation while answering or exploring, improving reasoning without requiring a full retraining cycle. Separate research-oriented search infrastructure can retrieve and compress web information, helping agents investigate broader spaces in parallel.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s41591-026-04724-9">A gait foundation model for prediction of multisystem health ...</a></li>
-<li><a href="https://arxiv.org/abs/2603.25283">A Gait Foundation Model Predicts Multi-System Health ... A Gait Foundation Model Predicts Multi-System Health ... Improving polygenic prediction from summary data by learning ... Atlas of human brain imaging-derived phenotypes and disease ... A Gait Foundation Model Predicts Multi-System Health ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11928532/">Digital gait biomarkers in Parkinson’s disease ...</a></li>
+<li><a href="https://gptr.dev/">GPT Researcher - Autonomous AI Research Agent</a></li>
+<li><a href="https://parallel.ai/products/search">Search API - The Best Web Search for Your AI | Parallel</a></li>
+<li><a href="https://huggingface.co/papers?q=Autonomous+AI+research+agents">Your daily dose of AI research from AK - Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#biomedical AI`, `#foundation models`, `#gait analysis`, `#digital biomarkers`, `#clinical prediction`
+**Discussion**: Commenters broadly accept that AI makes individual research tasks faster, but question whether this changes the pace of higher-impact work. They attribute much of the uplift to parallel model-driven search and nearly unlimited token spending rather than fundamental improvements in model intelligence, while others argue that training speed, hardware access, and capital constraints may remain the decisive bottlenecks.
+
+**Tags**: `#AI research acceleration`, `#automated AI`, `#scaling`, `#training bottlenecks`, `#AI agents`
 
 ---
 
 <a id="item-4"></a>
 ## [Tesla Reportedly Winds Down Cybertruck Production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817) ⭐️ 8.0/10
 
-Tesla is reportedly winding down Cybertruck production as weak sales and more difficult electric-vehicle market conditions expose weaknesses in the vehicle’s product strategy. The move represents a significant reversal for one of the company’s most distinctive vehicles. Cybertruck production winding down would indicate that even a high-profile model cannot overcome weak consumer demand, questionable utility, or an unfavorable pricing environment. It could also pressure Tesla to refocus its vehicle lineup and strategy amid broader changes in the electric-vehicle market. The supplied report does not specify a shutdown date, production volumes, or whether the vehicle will be discontinued entirely. Community discussion highlights concerns about towing, cargo practicality, and price, while also pointing to Cybertruck’s large battery and its potential use as an emergency power source.
+Tesla is reportedly ending Cybertruck production after weak sales exposed problems with the vehicle’s market positioning and the company’s broader electric-vehicle strategy. The shutdown reflects mounting pressure from softer EV demand, reduced incentives, and shifting consumer preferences. Cybertruck was a high-profile product designed to create a new market for Tesla, so discontinuing it would signal that the company is reassessing its growth strategy amid broader EV-market weakness. It could also affect Tesla’s production planning, pricing power, and efforts to diversify beyond its historically strongest vehicle lines. Community participants identified price, towing performance, limited cargo practicality, ride quality, and the vehicle’s polarizing styling as important factors in its weak appeal. They also praised its large battery and ability to supply household power during outages, while broader concerns included expiring federal EV tax credits, manufacturing costs, and competition from lower-cost Chinese EVs; several quantitative claims in the comments were not independently verified.
 
 hackernews · Hacker News \(热门\) · Nov 6, 12:13 · [Discussion](https://news.ycombinator.com/item?id=50391456)
 
-**Background**: The Cybertruck is Tesla’s battery-electric pickup, distinguished by its angular stainless-steel exterior and large battery pack. Its strong performance in some areas has been offset by criticism that it is less truck-like or practical than conventional pickups, and the community discussion also points to the risk of pricing the vehicle too high when truck prices eventually fall.
+**Background**: The Cybertruck uses stainless-steel body panels and a large battery, with vehicle-to-load capability that can provide power to a home or other equipment. Tesla’s decision to wind it down follows industry pressure from changing EV incentives, inconsistent consumer demand, and intensifying competition. The comments also place the vehicle within a broader debate over whether Tesla can maintain growth while moving away from its most established products.
 
-**Discussion**: Commenters were divided between criticizing the Cybertruck’s practicality, styling, political associations, and price, and recognizing its unusual emergency-power capability during a prolonged outage. Broader concerns focused on Tesla’s weakening electric-vehicle market position, including reduced policy support, high manufacturing costs, and strong competition from Chinese manufacturers, although some claims in the comments were unsupported.
+**Discussion**: Discussion was divided over whether the Cybertruck failed because of its high price, unconventional design, limited trucklike utility, or broader EV-market conditions. Supporters emphasized its emergency power capability and battery capacity, while critics questioned its practicality and Tesla’s wider strategy; some commenters disclosed potential bias, and numerous market statistics were speculative or unsupported.
 
-**Tags**: `#Tesla`, `#Cybertruck`, `#Electric Vehicles`, `#Automotive Strategy`, `#EV Market`
+**Tags**: `#Tesla`, `#Cybertruck`, `#Electric Vehicles`, `#Automotive Industry`, `#Market Analysis`
 
 ---
 
 <a id="item-5"></a>
-## [Google Launches Cheaper Gemini Omni 1.2 Flash Video Model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) ⭐️ 8.0/10
+## [PwnEscape Demonstrates a Firecracker Guest-to-Host Escape](https://pwn.ai/blog/firecracker-escape) ⭐️ 8.0/10
 
-Google introduced Gemini Omni 1.2 Flash, a video-generation model that creates and edits clips up to 15 seconds with improved character consistency, motion, lip synchronization, and more affordable pricing. Access is being distributed unevenly across Google Flow, Vids, and the Gemini app rather than through one unified rollout. The release strengthens Google&\#x27;s position in generative video by improving continuity between reference characters and generated footage while reducing production costs. Its fragmented availability, however, could make it difficult for creators and developers to predict where the model can be used, what limits apply, and how pricing will affect real workflows. Gemini Omni 1.2 Flash supports native video generation and editing for clips of up to 15 seconds, with prices reported to be 30% lower than before. Rollout differs by product: Flow became an early access point, Vids availability appears to use a gradual lottery-style deployment, and the Gemini app serves paid plans with different video-length limits.
+The article demonstrates how to weaponize the previously disclosed PwnEscape vulnerability against Firecracker, allowing a malicious guest to cross the microVM boundary, locate the live VMM, and execute code in a root-run host process. It also examines what becomes possible when Firecracker runs without the jailer’s privilege-dropping and confinement controls. Firecracker is widely used for serverless and sandboxed workloads, so an exploitable guest-to-host escape could undermine the isolation those deployments depend on. The demonstration reinforces that the jailer and production configuration are important parts of Firecracker’s security model rather than optional hardening. The demonstrated chain uses an attacker-controlled virtio-net packet whose metadata can still be rewritten after earlier validation, turning the underlying Linux networking flaw into a guest-to-host code-execution primitive without requiring a separate hypervisor exploit or Firecracker zero-day. The tested configuration had no jailer, so operators must separately assess the privileges and resources available after VMM compromise in properly jailed deployments.
 
-hackernews · Hacker News \(热门\) · Nov 6, 13:35 · [Discussion](https://news.ycombinator.com/item?id=50392118)
+hackernews · Hacker News \(热门\) · Nov 6, 19:33 · [Discussion](https://news.ycombinator.com/item?id=50397219)
 
-**Background**: Character consistency refers to a video model preserving the appearance and identity of a referenced person or object across shots. Google Flow is a creative workspace for producing and refining videos, while Vids is Google&\#x27;s video-creation product, and the Gemini app provides a more general conversational interface with tiered plan limits.
+**Background**: Firecracker is a lightweight KVM-based virtual machine monitor designed to provide strong guest isolation with low memory overhead and rapid startup. Each microVM normally has its own Firecracker VMM process, while the jailer adds containment by dropping privileges and restricting processes through namespaces and seccomp. A VM escape defeats that boundary and may let attacker-controlled code execute in the host environment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Gemini Omni 1 . 2 Flash : 15-second video and lower pricing</a></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-updates/">Introducing Gemini Omni for Google Flow and Flow Music</a></li>
-<li><a href="https://dev.to/alifar/google-expands-gemini-video-creation-across-flow-vids-and-the-gemini-app-5a8e">Google Expands Gemini Video Creation Across Flow, Vids and ...</a></li>
+<li><a href="https://pwn.ai/blog/firecracker-escape">Firecracker VM Escape: PwnEscape Part 2. | PWN.AI Security ...</a></li>
+<li><a href="https://github.com/01luyicheng/CVE-2026-99999">CVE-2026-99999 (PwnEscape) - GitHub</a></li>
+<li><a href="https://www.usenix.org/system/files/nsdi20-paper-agache.pdf">Firecracker : Lightweight Virtualization</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters welcomed the potential improvement in character consistency but questioned the confusing rollout, inconsistent pricing, and access barriers for paying users. They also emphasized that Gemini Omni 1.2 Flash is a separate video model rather than a replacement for Gemini 4, while noting that cultural-content filtering still requires occasional prompt coaching.
+**Discussion**: Participants agreed that the exploit is valuable as a practical demonstration but noted that PwnEscape had already been disclosed, so it is not a newly discovered vulnerability. They debated whether Firecracker’s jailer meaningfully limits post-compromise impact, suggested additional zones or formally verified microkernels as defense layers, and noted that some public services running vulnerable database software could be exposed if their isolation is inadequate.
 
-**Tags**: `#Google Gemini`, `#video generation`, `#generative AI`, `#multimodal models`, `#product rollout`
+**Tags**: `#Firecracker`, `#VM escape`, `#virtualization security`, `#sandboxing`, `#microVMs`
 
 ---
 
 <a id="item-6"></a>
-## [Memorilla Adds Latent Semantic Memory to Frozen LLMs](https://arxiv.org/abs/2610.21375) ⭐️ 8.0/10
+## [Google Launches Gemini Omni 1.2 Flash Video Model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) ⭐️ 8.0/10
 
-Memorilla introduces a latent semantic memory system that injects query-dependent information from large corpora into frozen LLMs as soft memory tokens. The research uses a supervised training objective and reports an experiment with Qwen3. This approach could help LLMs retrieve relevant information over long contexts without updating the model&\#x27;s parameters, potentially improving persistent knowledge, retrieval, and context management. It also offers an alternative to placing entire documents directly in the prompt. The system represents retrieved corpus information as soft memory tokens rather than ordinary text, allowing the frozen model to incorporate query-specific knowledge. The supplied search results do not provide enough detail to independently assess retrieval quality, latency, memory-token overhead, or comparisons with external retrieval systems.
+Google introduced Gemini Omni 1.2 Flash, a video-generation and editing model that can produce native clips up to 15 seconds with stronger reference and character consistency, improved motion and lip-sync, and 30% lower pricing. The model is already available in Google Flow, while availability in the Gemini app and Vids appears to be rolling out through different channels. The model could make short-form generative video more practical for creators by combining longer clips, better continuity, audio-video generation, and lower costs. Its significance also depends on whether Google can make access, pricing, and account eligibility clear enough to prevent user frustration. Gemini Omni 1.2 Flash supports native generation and editing of videos up to 15 seconds, including reference-to-video workflows, realistic motion, improved lip-sync, and conversational video editing. Community reports indicate that Flow access is not limited to paid API users, but Vids and Gemini-app access varies by account and plan, with inconsistent video-length limits and no transparent rollout schedule.
 
-rss · Hacker News \(热门\) · Nov 6, 18:03
+hackernews · Hacker News \(热门\) · Nov 6, 13:35 · [Discussion](https://news.ycombinator.com/item?id=50392118)
 
-**Background**: Latent semantic analysis identifies hidden semantic relationships among terms in a collection of documents and supports concept-based retrieval. In contemporary LLM systems, memory is commonly categorized as parametric knowledge stored in model weights, contextual memory within the active prompt, and external information retrieved at inference time. Memorilla appears to combine external corpus retrieval with a learned latent representation inserted into a frozen model.
+**Background**: Generative video models create or edit moving images from text prompts, uploaded images, or other media. Google Flow is its AI filmmaking environment, designed for producing cinematic clips, scenes, and stories with consistency; it previously used Google’s Veo technology alongside tools such as Imagen. Gemini Omni 1.2 Flash is a specialized video model rather than a replacement for Gemini 4, and its reference-to-video capabilities are intended to help preserve characters, products, and environments across shots.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2610.21375">Memorilla: Latent Semantic Memory for LLMs</a></li>
-<li><a href="https://www.cognee.ai/llm-memory">LLM Memory Explained: Parametric, Contextual, External | Cognee</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Latent_semantic_analysis">Latent semantic analysis - Wikipedia</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">Gemini Omni 1 . 2 Flash : 15-second video and lower pricing</a></li>
+<li><a href="https://wavespeed.ai/models/google/gemini-omni-1.2-flash/reference-to-video">Gemini Omni 1 . 2 Flash Reference-to- Video API | WaveSpeed</a></li>
+<li><a href="https://support.google.com/flow/answer/16353333?hl=en&amp;co=GENIE.Platform=Desktop">Get started with Google Flow</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLMs`, `#semantic memory`, `#AI research`, `#context management`, `#retrieval`
+**Discussion**: Commenters welcomed the potential for stronger character consistency and lower costs but were frustrated by fragmented access, unclear pricing, contradictory support responses, and differing limits across Flow, Vids, and the Gemini app. Some users reported using the model in Flow, while others could not access it despite subscribing to paid plans; a few also raised broader concerns about prompt safety and account restrictions.
+
+**Tags**: `#Google Gemini`, `#video generation`, `#generative AI`, `#Google Flow`, `#model rollout`
 
 ---
 
 <a id="item-7"></a>
-## [Replit Rebuilds Sandbox Engine with MicroVMs](https://frontier.replit.com/sandbox-engine-microvms-part-1/) ⭐️ 8.0/10
+## [FDA Accelerates Approval of Rybrevant Faspro for Advanced HNSCC](http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma) ⭐️ 8.0/10
 
-Replit rebuilt its sandbox execution engine around microVMs to strengthen workload isolation and security while preserving fast startup and interactive-development performance. The redesign supports developer-agent workloads and reportedly spans hundreds of millions of projects. Hardware-backed isolation can reduce the blast radius of compromised code and shared-kernel container escapes, a growing concern as AI agents execute untrusted tasks. Replit’s migration also demonstrates how cloud development platforms can adopt microVM isolation at large scale without abandoning low-latency user experiences. The new engine is designed for strong isolation, bottomless storage, and startup times near 500 milliseconds, with Replit reporting a migration of hundreds of millions of projects without data loss. It replaces a runtime previously based mainly on Docker containers distributed across Google Compute Engine VMs.
+The FDA granted accelerated approval to Rybrevant Faspro \(amivantamab and hyaluronidase-lpuj\) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease progressed during or after platinum-based chemotherapy. The approval establishes a new targeted treatment option for this advanced cancer setting. This is a significant oncology regulatory milestone for patients whose advanced HNSCC has progressed after platinum-based chemotherapy. It also broadens the reach of an EGFR-and-MET bispecific antibody into a tumor type in which effective options remain limited. Rybrevant Faspro combines amivantamab, a bispecific antibody targeting the extracellular domains of EGFR and MET, with hyaluronidase-lpuj, which enables subcutaneous administration. Accelerated approval remains conditional on confirmation of clinical benefit, and the provided announcement excerpt does not report the supporting trial&\#x27;s response rate, survival results, adverse effects, dosing schedule, or confirmatory-trial status.
 
-rss · Hacker News \(热门\) · Nov 6, 19:06
+rss · FDA Press Releases \(国际\) · Nov 5, 22:30
 
-**Background**: A microVM is a lightweight virtual machine that provides a hardware-backed isolation boundary while starting more quickly and consuming fewer resources than a conventional virtual machine. Containers are more efficient because they share the host kernel, but that shared kernel can increase the potential impact of an escape. MicroVMs offer an alternative isolation model for executing untrusted code and agent-generated workloads.
+**Background**: HNSCC is a squamous-cell cancer arising in the head and neck, and recurrent or metastatic disease is generally difficult to treat. Platinum-based chemotherapy is a common first-line systemic treatment, but progression after it creates a need for additional targeted options. Amivantamab binds EGFR and MET, two signaling targets that can promote tumor growth, while the hyaluronidase formulation is designed for administration under the skin.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://frontier.replit.com/sandbox-engine-microvms-part-1/">Inside Replit’s New Sandbox Engine, Part 1: The Path to MicroVMs</a></li>
-<li><a href="https://insight.tmcnet.com/insight/replit-rebuilds-sandbox-engine-around-microvm-isolation-88c151">Replit Rebuilds Sandbox Engine Around MicroVM Isolation</a></li>
-<li><a href="https://runtimewire.com/article/replit-rebuilt-sandbox-engine-microvms-agent-workloads">Replit details microVM sandbox rewrite completed in recent months</a></li>
+<li><a href="https://www.rybrevanthcp.com/mechanism-of-action/">Mechanism of Action | RYBREVANT FASPRO ™ ( amivantamab and...)</a></li>
+<li><a href="https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9e58b045-e352-4f62-99bf-77fae1bebc69">DailyMed - RYBREVANT FASPRO ( amivantamab and...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Replit`, `#microVMs`, `#sandboxing`, `#infrastructure`, `#application isolation`
+**Tags**: `#FDA`, `#drug approval`, `#head and neck cancer`, `#targeted therapy`, `#oncology`
 
 ---
 
 <a id="item-8"></a>
-## [Inside GitHub&\#x27;s New Git Storage Architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) ⭐️ 8.0/10
+## [Replit Rebuilds Its Sandbox Engine with MicroVMs](https://frontier.replit.com/sandbox-engine-microvms-part-1/) ⭐️ 8.0/10
 
-GitHub has introduced a new Git storage architecture designed to improve the scalability and efficiency of its hosted repository infrastructure. The system was built behind the scenes while GitHub remained operational, and GitHub says it will support agentic development involving hundreds of millions of developers. As AI coding agents increase the volume and complexity of repository activity, a more scalable storage layer could improve reliability and operational efficiency for GitHub and its users. The architecture also reflects the broader need for version-control platforms to handle larger repositories and more automated development workflows. GitHub describes the effort as an architectural change beneath its existing service rather than a user-facing product launch. Git’s underlying storage model relies on loose objects and compressed packfiles, so improvements at this layer can affect repository storage, access efficiency, and the platform’s ability to absorb growth.
+Replit describes rebuilding its sandbox execution engine around microVMs to strengthen workload isolation and security while improving operational control. The change shifts the infrastructure underpinning its cloud development and agent-execution environments toward a virtualized isolation model. Stronger isolation is important when developer tools execute unfamiliar or agent-generated code, because it can reduce the risk that one workload affects the host or other tenants. The migration also reflects a broader industry push toward microVM-based sandboxing as coding agents become more capable and autonomous. 微型虚拟机通过硬件虚拟化边界隔离各个沙箱，在保留开发工作负载所需灵活性的同时，比传统容器方案提供更严格的隔离。现有材料未说明 Replit 使用的虚拟化技术、部署规模、性能数据或迁移时间表，因此不应据此推测这些细节。
 
-rss · Lobsters \(技术社区\) · Nov 6, 17:50
+rss · Hacker News \(热门\) · Nov 6, 19:06
 
-**Background**: Git stores repository data as objects, and it can combine many objects into compressed packfiles to reduce disk usage and improve transfer efficiency. At GitHub’s scale, repository management involves substantially more infrastructure than a developer’s local Git installation, including storage, replication, access, and large numbers of concurrent operations. The new architecture is intended to provide a foundation for increasingly agent-driven software development.
+**Background**: A sandbox is an isolated environment in which code can be built, tested, or executed without granting it broad access to the host system. Containers are lightweight and widely used for this purpose, while microVMs add a stronger virtualization boundary; Docker has separately described using a microVM with its own daemon for each agent in Docker Sandboxes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/">Inside GitHub &#x27;s new Git storage architecture - The GitHub Blog</a></li>
-<li><a href="https://git-scm.com/book/en/v2/Git-Internals-Packfiles">Git - Packfiles</a></li>
-<li><a href="https://github.blog/open-source/git/gits-database-internals-i-packed-object-store/">Git&#x27;s database internals I: packed object store - The GitHub Blog</a></li>
+<li><a href="https://www.docker.com/blog/why-microvms-the-architecture-behind-docker-sandboxes/">Why MicroVMs: The Architecture Behind Docker Sandboxes</a></li>
+<li><a href="https://www.toddpigram.com/2026/04/why-microvms-architecture-behind-docker.html">Why MicroVMs: The Architecture Behind Docker Sandboxes</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GitHub`, `#Git`, `#storage-architecture`, `#scalability`, `#version-control`
+**Tags**: `#microVMs`, `#sandboxing`, `#cloud infrastructure`, `#developer tools`, `#security`
 
 ---
 
 <a id="item-9"></a>
-## [Palo Alto Networks Weighs $500M Clutch Acquisition](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) ⭐️ 8.0/10
+## [OpenAI Reportedly Adds $11 Billion at $1.25 Trillion Valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) ⭐️ 8.0/10
 
-Palo Alto Networks is reportedly in advanced talks to acquire Clutch Security, an AI-agent security startup, for $500 million in cash plus possible milestone-based payments. The proposed deal values Clutch at roughly 50 times annual recurring revenue, compared with its previous $85 million valuation. 这笔交易将成为AI智能体安全这一新兴市场的重要整合案例，并显示Palo Alto Networks正把AI智能体安全视为企业网络安全整体布局中的战略重点。它还反映出，随着企业开始部署能够自主调用工具和访问内部系统的智能体，围绕其身份、权限和访问控制的安全需求正在上升。 Clutch specializes in securing AI agents’ access to company systems and is backed by Lightspeed and SignalFire. Reports describe a possible structure of $500 million in cash plus milestone-based payouts, but the acquisition has not been confirmed.
+OpenAI reportedly raised an additional $11 billion in a funding round expected to close in the coming weeks. The financing would value the company at $1.25 trillion, although the round has not closed. A funding round of this size would be a major financing milestone for the AI industry and could provide OpenAI with substantial capital for continued model and infrastructure development. It also signals continued investor appetite for large-scale AI companies despite their high valuations. The reported $11 billion is an additional amount within a round that has not yet closed, so the final terms remain subject to confirmation. Other reporting cited in the search results described the broader round as targeting up to $30 billion and noted that the $1.25 trillion valuation excludes the new capital.
 
-rss · TechCrunch AI · Nov 6, 06:28
+rss · TechCrunch AI · Nov 6, 22:53
 
-**Background**: AI agents can take autonomous actions and connect to enterprise applications, creating security questions beyond conventional user accounts. The emerging category of agent security focuses on controlling agent identities, permissions, and system access as organizations deploy autonomous AI more widely.
+**Background**: A company&\#x27;s valuation during fundraising is generally its assessed market value, while the newly raised capital is not automatically included unless the valuation is explicitly structured as post-money. OpenAI&\#x27;s nonprofit foundation controls OpenAI Group PBC under a structure designed to combine nonprofit governance with a for-profit business.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://securityboulevard.com/2026/11/palo-alto-networks-in-advanced-talks-to-buy-ai-agent-startup-clutch-security-for-500m-report/">Palo Alto Networks in Advanced Talks to Buy AI Agent Startup ...</a></li>
-<li><a href="https://thesiliconreview.com/2026/11/usa/palo-alto-clutch-acquisition-ai-agent-security-non-human-identities">Palo Alto Clutch Acquisition: $500M AI Agent Security Deal</a></li>
-<li><a href="https://www.msn.com/en-us/technology/tech-companies/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/ar-AA2gS9JQ">Palo Alto Networks in talks to buy AI agent security startup ...</a></li>
+<li><a href="https://finance.yahoo.com/technology/article/openai-aiming-for-new-30-billion-funding-round-at-a-125-trillion-valuation-131325168.html">OpenAI aiming for new $30 billion funding round at a $ 1 . 25 trillion ...</a></li>
+<li><a href="https://www.gate.com/news/detail/CRWV/openai-raises-30-billion-at-125-trillion-valuation-led-by-uae-investors-25138670">OpenAI Raises $30 Billion at $ 1 . 25 Trillion Valuation ... | Gate News</a></li>
+<li><a href="https://openai.com/our-structure/">Our Structure | OpenAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI security`, `#AI agents`, `#acquisitions`, `#cybersecurity`, `#Palo Alto Networks`
+**Tags**: `#OpenAI`, `#AI Industry`, `#Fundraising`, `#Venture Capital`
 
 ---
 
 <a id="item-10"></a>
-## [Axiom Math Formally Verifies the Stacks Project](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/) ⭐️ 8.0/10
+## [Palo Alto Networks Reportedly Eyes $500M Clutch Acquisition](https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/) ⭐️ 8.0/10
 
-Axiom Math says its AI-assisted agents formally verified the Stacks Project, a major collection of algebraic geometry results. The project was formalized as a connected codebase, allowing researchers and AI agents to build on verified definitions and theorems. Formal verification could help distinguish rigorous mathematical results from plausible but unchecked AI-generated proofs. A shared, machine-checkable foundation may also improve the reliability of AI-assisted research and reduce duplicated effort across formal mathematics. The important detail is not merely that proofs were checked, but that the Stacks Project was represented as one connected Lean codebase rather than isolated proof scripts. The available reporting provides limited methodological detail, so the agents&\#x27; precise workflow, coverage, and any remaining gaps are not fully specified.
+Palo Alto Networks is reportedly in talks to acquire AI agent security startup Clutch for $500 million. The deal remains unconfirmed. The proposed acquisition would be a major consolidation move in the fast-growing market for securing enterprise AI agents. It would also raise Clutch’s reported valuation from $85 million to $500 million, nearly six times its previous level. Clutch is backed by Lightspeed and SignalFire and positions itself as an identity security platform for AI agents, non-human identities, and secrets. Its Identity Lineage Graph tracks entities, their origins, ownership, storage locations, consumers, and reachable resources, but the reported acquisition talks have not been officially confirmed.
 
-rss · TechCrunch AI · Nov 5, 16:16
+rss · TechCrunch AI · Nov 6, 06:28
 
-**Background**: The Stacks Project is one of mathematics&\#x27; largest collaborative libraries of algebraic geometry material. A proof assistant such as Lean checks formal proofs by verifying each step against defined concepts and rules. AI systems can help create these formal proofs, but the proof assistant remains the mechanism that certifies their correctness.
+**Background**: AI agents can use tools, retain memory, and take actions autonomously, creating identity and access-management challenges as their use expands across enterprises. Clutch addresses these risks by connecting identities, agents, secrets, and system access through an identity security platform. The wider market is already consolidating: Cyera acquired Oasis Security for $1 billion, while Cisco bought Astrix for roughly $400 million.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://axiommath.ai/research/the-stacks-project-formalized/">The Stacks Project , formalized in Lean | Axiom</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Proof_assistant">Proof assistant - Wikipedia</a></li>
-<li><a href="https://www.science.org/doi/10.1126/science.aej2213">Advancing mathematics research with AI-driven formal proof ...</a></li>
+<li><a href="https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/">Palo Alto Networks in talks to buy AI agent security startup Clutch for...</a></li>
+<li><a href="https://www.clutch.security/">Clutch | Secure Every Identity, Agent , and Secret Across Your...</a></li>
+<li><a href="https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.html">AI Agent Security - OWASP Cheat Sheet Series</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI for mathematics`, `#formal verification`, `#proof assistants`, `#mathematical databases`, `#startup research`
+**Tags**: `#AI security`, `#Acquisitions`, `#Palo Alto Networks`, `#Startups`, `#Enterprise Security`
 
 ---
 
 <a id="item-11"></a>
-## [Dropbox Buys Tigris Data for AI Infrastructure](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/) ⭐️ 8.0/10
+## [Axiom Math Verifies the Stacks Project with AI Agents](https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/) ⭐️ 8.0/10
 
-Dropbox acquired Tigris Data for $350 million to strengthen the infrastructure supporting its forthcoming DBX Agent Cloud platform. The acquisition is expected to help Dropbox build storage services for developers creating AI models and agents. The deal represents a major strategic investment in AI-oriented storage as Dropbox expands beyond traditional file synchronization and collaboration. It could improve Dropbox&\#x27;s ability to serve developers with scalable infrastructure for training-data workflows, model development, and agent applications. Tigris Data operates a globally distributed, S3-compatible object-storage platform designed for low-latency AI data access, with built-in vector search. The available information does not specify a launch date, pricing, or technical integration plan for DBX Agent Cloud.
+Axiom Math says its AI agents formally verified the Stacks Project, a major collection of algebraic geometry results, using Lean. The project presents the verified material as a single connected codebase rather than a set of isolated proof scripts. The achievement could make AI-assisted mathematics more reliable by requiring generated proofs to pass machine checking rather than relying on human impressions of plausibility. A shared, formally verified foundation could also help researchers and AI agents build on a dependable chain of definitions and theorems. The work uses Lean, a proof assistant and functional programming language whose kernel can check whether formal proofs are valid. Formalization means translating mathematical definitions and arguments into machine-checkable language; it does not by itself guarantee that every statement in the underlying mathematics is true or that the translation captures every intended nuance.
 
-rss · TechCrunch AI · Nov 5, 15:19
+rss · TechCrunch AI · Nov 5, 16:16
 
-**Background**: AI model and agent developers require reliable access to large datasets, vector-search capabilities, and object storage for retrieval workflows. Tigris Data specializes in multi-cloud, S3-compatible storage optimized for AI workloads and has also introduced a hosted MCP server for integrating with AI workflows and agentic coding.
+**Background**: The Stacks Project is one of mathematics&\#x27; largest libraries, documenting extensive results in algebraic geometry. Lean and its community-developed Mathematical Library provide infrastructure for representing mathematical concepts and checking proofs. This development illustrates a broader effort to combine AI proof generation with formal verification so that fluency in natural-language mathematics is not mistaken for mathematical correctness.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.tigrisdata.com/blog/tags/ai-infrastructure/">Posts tagged &quot; AI Infrastructure &quot; | Tigris Object Storage</a></li>
-<li><a href="https://yespress.io/tigris-data">Tigris Data - Global AI object storage | YesPress</a></li>
-<li><a href="https://aigizmo.net/tools/tigris-data">Tigris Data Review — AI -native object storage with built-in... | AIGizmo</a></li>
+<li><a href="https://axiommath.ai/research/the-stacks-project-formalized/">The Stacks Project , formalized in Lean | Axiom</a></li>
+<li><a href="https://leanprover-community.github.io/">Lean community</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Proof_assistant">Proof assistant - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#Acquisitions`, `#Cloud storage`, `#AI agents`, `#Dropbox`
+**Tags**: `#AI for mathematics`, `#formal verification`, `#proof assistants`, `#AI agents`, `#mathematics`
 
 ---
 
 <a id="item-12"></a>
-## [sshole Flaw Bypasses SSH Password Authentication](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/) ⭐️ 8.0/10
+## [Chainalysis Says All Customers’ Credentials and Tokens Were Stolen](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/) ⭐️ 8.0/10
 
-The sshole vulnerability, tracked as CVE-2026-123158, can bypass password authentication and allow remote attackers to SSH into vulnerable Linux systems without the correct password. Alpine Linux is confirmed to be affected, while other distributions may share the vulnerable configuration. 由于该漏洞可远程绕过认证，暴露在网络中的 SSH 服务可能无需被盗凭据就会被攻破，进而让攻击者控制服务器或其他敏感设备。这一问题还表明，OpenSSH 与 musl C 库之间的交互可能使更多 Linux 系统面临风险，而不只是最初发现该漏洞的发行版。 Researchers describe the flaw as an interaction between OpenSSH and musl, a lightweight C library used by Alpine instead of the libc implementation common on most Linux distributions. According to the cited analysis, exploitation can involve submitting an unusually long password; affected configurations and remediation status should be verified against current vendor advisories.
+Chainalysis reported that a multifront cyberattack stole credentials and authentication tokens belonging to all of its customers. The company said the operation involved AI agents and on-path data theft. Because Chainalysis serves blockchain and cryptocurrency compliance customers, a compromise affecting every customer could expose sensitive accounts and enable downstream fraud across the digital-asset ecosystem. Stolen tokens can also allow attackers to bypass some login protections, making immediate session revocation and credential rotation important. The disclosed attack combined AI agents with on-path data theft rather than relying on a single intrusion technique. The report says credentials and tokens were stolen, but the supplied material does not specify the attack’s duration, affected token types, exploitation method, or whether customer systems were accessed.
 
-rss · Ars Technica · Nov 5, 23:09
+rss · Ars Technica · Nov 6, 20:56
 
-**Background**: SSH is the encrypted remote-access protocol commonly used to administer Linux servers, and OpenSSH is its widely deployed implementation. Alpine Linux differs from many mainstream distributions by using musl rather than glibc, and the reported authentication-bypass behavior emerges from how OpenSSH interacts with that library. OpenSSH also uses privilege separation and sandboxing to reduce the consequences of pre-authentication flaws, although those controls do not prevent this password-authentication bypass.
+**Background**: Credential theft targets information used to authenticate users, while token interception focuses on session or refresh tokens that can represent an already authenticated identity. AI agents can automate reconnaissance, credential harvesting, and other portions of an attack, reducing the amount of manual work required by threat actors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/">Meet * sshole , the vulnerability that lets hackers SSH ... - Ars Technica</a></li>
-<li><a href="https://www.ox.security/blog/openssh-authentication-bypass-cve-2026-123158/">OpenSSH Bypass : CVE -2026-123158 | OX Security</a></li>
-<li><a href="https://github.com/akarkode/alpine-openssh-sshole-auth-bypass">GitHub - akarkode/alpine-openssh- sshole -auth- bypass : Vulnerability ...</a></li>
+<li><a href="https://www.obsidiansecurity.com/blog/refresh-token-security-best-practices">Refresh Token Security: Best Practices for OAuth Token Protection</a></li>
+<li><a href="https://www.cyfirma.com/research/beyond-mfa-identity-abuse-through-token-interception-and-consent-manipulation/">Beyond MFA: Identity Abuse Through Token Interception ... - CYFIRMA</a></li>
+<li><a href="https://www.helpnetsecurity.com/2026/09/08/ai-agents-cyberattacks-automation-google-research/">Threat actors are giving AI agents a bigger role in cyberattacks</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux`, `#SSH`, `#vulnerability`, `#authentication-bypass`, `#cybersecurity`
+**Tags**: `#cybersecurity`, `#credential-theft`, `#supply-chain-attack`, `#AI-agents`, `#Chainalysis`
 
 ---
 
 <a id="item-13"></a>
-## [White House Network May Offer Rentable Residential Proxy Access](https://www.theverge.com/tech/1028835/white-house-residential-proxy) ⭐️ 8.0/10
+## [White House IPs Reportedly Available Through Residential Proxies](https://www.theverge.com/tech/1028835/white-house-residential-proxy) ⭐️ 8.0/10
 
-Security firms Layer3 Intel and Synthient reportedly discovered residential proxy software operating on the White House network, potentially allowing outsiders to rent access to White House IP addresses for a few dollars. Krebs on Security and The Register reported the findings. If the finding is confirmed, White House IP addresses could be used to disguise the origins of online activity, creating risks involving abuse, attribution, and network security. The issue also raises governance questions about monitoring software running on sensitive government infrastructure. Layer3 Intel reported that the White House proxy exit nodes used six internet addresses and appeared on 26 of 30 days, with most activity occurring between 5 p.m. and midnight. The reports indicate that the software could function as a residential proxy, but the supplied material does not establish whether the installation was authorized.
+Security researchers at Layer3 Intel and Synthient found residential proxy activity on the White House network that could allow outsiders to rent access to presidential IP addresses for a few dollars. The discovery was reported by Krebs on Security and The Register. Traffic routed through White House IP addresses could make users appear to originate from the presidential network, potentially helping them evade geographic blocks, online security controls, or attribution efforts. It also raises questions about how proxy software came to operate on a sensitive government network and whether officials detected the activity. Layer3 Intel identified proxy exit nodes at the White House using six internet addresses on 26 of 30 observed days, with most activity occurring from 5 p.m. to midnight. The reports characterize the system as a residential proxy, whose exit nodes use ISP-assigned addresses associated with homes rather than conventional data centers.
 
 rss · The Verge · Nov 6, 17:40
 
-**Background**: A residential proxy routes traffic through IP addresses associated with consumer devices and household internet connections rather than conventional data centers. Proxy operators can sell access to these exit nodes, enabling customers to appear to originate from a particular residential location. Such services are often associated with data collection, automated scraping, and evading online restrictions, although a proxy IP address alone does not necessarily identify the person operating it.
+**Background**: A residential proxy sends a user&\#x27;s internet traffic through an exit node associated with a residential ISP connection, making traffic appear to originate from an ordinary home network. Renters of such proxies commonly use them for web scraping, location-based access, or bypassing restrictions, although the activity can also conceal malicious traffic. Because presidential infrastructure is a high-value target and its addresses may carry trust or reputational significance, proxy activity originating from it warrants careful investigation.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/">Want to Rent an Internet Address at the White House ? – Krebs on...</a></li>
 <li><a href="https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969">The White House is apparently a popular residential proxy exit spot</a></li>
-<li><a href="https://geekflare.com/guides/what-is-residential-proxy/">What Is a Residential Proxy? - Geekflare</a></li>
+<li><a href="https://gizmodo.com/anyone-can-rent-a-white-house-ip-address-for-a-few-dollars-2000835738">Anyone Can Rent a White House IP Address for a Few Dollars</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#residential proxies`, `#White House`, `#network security`, `#internet infrastructure`
+**Tags**: `#cybersecurity`, `#residential proxies`, `#White House`, `#network security`, `#internet privacy`
 
 ---
 
 <a id="item-14"></a>
-## [Free Chinese AI Models Near OpenAI’s Cyber Capabilities](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/) ⭐️ 8.0/10
+## [Open-Weight Chinese AI Models Near Top in Cyberattacks](https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/) ⭐️ 8.0/10
 
-In an experiment requiring AI models to breach simulated networks, DeepSeek and GLM reportedly performed nearly as well as OpenAI’s undisclosed advanced cyber model. The finding suggests that freely accessible models are developing rapidly sophisticated AI-assisted hacking abilities. Strong offensive cybersecurity capabilities in widely available models could lower barriers for malicious users and make model access controls and safeguards more consequential. It could also benefit defenders who use AI for authorized vulnerability discovery and penetration testing. The reported comparison occurred in simulated networks rather than against live operational systems, so it does not directly establish real-world breach performance. The supplied material also omits the tested model versions, benchmark methodology, success metrics, safeguards, and details about OpenAI’s undisclosed model.
+DeepSeek and GLM nearly matched OpenAI’s unreleased advanced cyber model in an experiment that asked AI systems to break into simulated networks. The results suggest that sophisticated AI-assisted hacking skills are rapidly spreading through freely available Chinese models. The findings reduce the cost and access barriers to capable automated vulnerability discovery, exploitation, and penetration testing. They also increase pressure on defenders and model providers to strengthen authorization controls, sandboxing, monitoring, and other safeguards. The comparison was conducted in simulated networks, so the scores do not establish performance against real-world targets or measure unrestricted autonomous operations. OpenAI describes its newer cyber-specialized model as intended for authorized vulnerability discovery, exploit development, web penetration testing, and remediation work.
 
 rss · Wired · Nov 6, 18:43
 
-**Background**: AI-assisted hacking means using models to automate tasks such as identifying vulnerabilities, developing exploits, and navigating compromised systems. Simulated-network benchmarks provide controlled environments for comparing these capabilities without directly exposing live infrastructure. Research on autonomous penetration testing explores how AI agents can analyze attack surfaces and identify vulnerabilities, while specialized cybersecurity models are trained for authorized security work.
+**Background**: Penetration testing simulates attacker behavior to identify weaknesses in systems, networks, and applications. AI models can assist by analyzing reconnaissance data, generating scripts, finding vulnerabilities, and validating exploits, while specialized post-training can reduce unnecessary refusals for legitimate security work. OpenAI’s stated approach emphasizes training cyber-capable models to remain within authorized scopes and strengthen defensive capabilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/index/introducing-gpt-6-cyber/">GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity ...</a></li>
+<li><a href="https://openai.com/index/introducing-gpt-6-cyber/">GPT‑6 Cyber: Advancing the frontier of aligned ... - OpenAI</a></li>
 <li><a href="https://deploymentsafety.openai.com/gpt-6-cyber">GPT-6 Cyber System Card - OpenAI Deployment Safety Hub</a></li>
-<li><a href="https://arxiv.org/html/2509.13021v1">xOffense: An AI-driven autonomous penetration testing ...</a></li>
+<li><a href="https://openai.com/index/trusted-access-for-cyber/">Introducing Trusted Access for Cyber - OpenAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI cybersecurity`, `#Chinese AI models`, `#DeepSeek`, `#GLM`, `#network penetration testing`
+**Tags**: `#AI Security`, `#Cybersecurity`, `#Chinese AI Models`, `#DeepSeek`, `#AI Capabilities`
 
 ---
 
 <a id="item-15"></a>
-## [Chainalysis Breach Exposes All Users’ Credentials and Tokens](https://dev.to/etairos/chainalysis-breach-widens-to-all-users-credentials-and-live-tokens-exposed-in-agentic-attack-2179) ⭐️ 8.0/10
+## [Microbiome Axes Connect Lifestyle to Chronic Disease](https://www.nature.com/articles/s41591-026-04744-5) ⭐️ 8.0/10
 
-On November 6, 2026, Chainalysis disclosed that an agentic cyberattack exposed the names, usernames, password hashes, and live tokens of all users. The company shut down Reactor, Data Solutions, the KYT interface and API, address-screening products, and the login page while requiring password resets and API-key rotation. The incident affects every Chainalysis customer and could interrupt transaction-screening and compliance workflows that depend on KYT and address-screening services. Live-token exposure is particularly serious because attackers may be able to impersonate authenticated users or integrations without cracking password hashes. Chainalysis says it has addressed the on-path attack vector and added monitoring, but service recovery is gated by registration of trusted IP addresses on an allowlist. KYT and Address Screening are being restored in stages after users reset passwords and rotate API keys; Reactor and Data Solutions have no restoration date, and the company reports no evidence that investigation or attribution data was accessed or manipulated.
+A Nature Medicine study analyzed fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort and identified two opposing microbiome-mediated axes linking lifestyle factors with health and 15 chronic diseases. Microbiome-based prediction scores were validated across 13 independent, geographically diverse cohorts. The findings suggest that modifiable lifestyle factors may influence chronic disease through measurable microbiome pathways, potentially supporting microbiome-informed prevention and lifestyle medicine. The large discovery cohort and external validation across 13 cohorts could make the findings relevant to precision health strategies, although causal and clinical applications require further study. The study used fecal shotgun metagenomics to profile microbial DNA rather than relying only on taxonomic surveys, enabling analysis of microbial communities and their functional genetic content. It examined 6,803 Japanese adults, assessed associations with 15 chronic diseases, and validated microbiome-based prediction scores in 13 independent cohorts spanning different geographic settings.
 
-rss · Dev.to · Nov 6, 21:04
+rss · Nature Medicine · Nov 5, 00:00
 
-**Background**: Chainalysis provides blockchain analytics, transaction monitoring, Know Your Transaction tools, and address screening to help institutions investigate crypto activity and identify risky counterparties. Its KYT API supports automated transaction registration and compliance workflows, so taking the service offline can create immediate operational disruption. An on-path attack intercepts traffic between parties, while agentic cyberattacks use autonomous tools to adapt, pursue goals, and change attack paths with limited human steering.
+**Background**: Shotgun metagenomics sequences all DNA in a sample and can estimate microbial taxonomic composition and functional potential, going beyond culture methods and targeted microbial assays. Microbiome-based prediction scores convert sample-level microbial features into quantitative indicators used in association studies. The microbiome-mediated axes reported here describe opposing pathways through which lifestyle-related microbial patterns were linked to health and chronic disease status.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.btcc.com/en-US/news/flash-article/132929">Chainalysis Opens Trusted IP Whitelist Applications ... - BTCC</a></li>
-<li><a href="https://unchainedcrypto.com/chainalysis-starts-reopening-compliance-tools-behind-ip-allowlists-in-sixth-breach-update/">Chainalysis Starts Reopening Compliance Tools Behind IP ...</a></li>
-<li><a href="https://www.congress.gov/crs_external_products/IF/PDF/IF13151/IF13151.3.pdf">Agentic Artificial Intelligence and Cyberattacks - Congress.gov</a></li>
+<li><a href="https://www.nature.com/articles/s41597-022-01302-9">A compilation of fecal microbiome shotgun metagenomics from ... Gut Microbiome Shotgun Metagenomics Guide - CD Genomics Meta2DB: curated shotgun metagenomic feature sets and ... A compilation of fecal microbiome shotgun metagenomics from ... Reixalas/Microbiome-Shotgun-IBD - GitHub Increasing prediction performance of colorectal cancer ... PredCMB: predicting changes in microbial metabolites based on ...</a></li>
+<li><a href="https://www.cd-genomics.com/resourse-shotgun-metagenomic-gut-microbiome-fecal-dna-taxonomic-functional-profiling.html">Gut Microbiome Shotgun Metagenomics Guide - CD Genomics</a></li>
+<li><a href="https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.634511/full">Frontiers | Applications of Machine Learning in Human Microbiome ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#supply-chain-attack`, `#credential-exposure`, `#blockchain-analytics`, `#API-security`
+**Tags**: `#microbiome`, `#metagenomics`, `#chronic disease`, `#lifestyle medicine`, `#cohort validation`
 
 ---
 
 <a id="item-16"></a>
-## [Long-Term Evidence Challenges Surgery Preference for Left Main Disease](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902200-2/fulltext?rss=yes) ⭐️ 8.0/10
+## [FAA to Phase Out Floppy Disks by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) ⭐️ 7.0/10
 
-This comment argues that long-term randomized evidence supports PCI with contemporary drug-eluting stents as a potentially comparable mortality alternative to CABG in left main coronary artery disease. An individual patient-level meta-analysis found no significant difference in five-year all-cause mortality, while PRECOMBAT and SYNTAX Extended Survival found no significant mortality differences at ten years. These findings challenge the guideline preference for CABG and could broaden treatment selection for patients with left main coronary artery disease. They may support greater use of PCI when anatomy and clinical factors favor it, although the evidence concerns mortality and does not establish equivalence for every clinical endpoint or patient profile. The synthesis draws on four randomized controlled trials comparing PCI with CABG, including individual patient-level analysis with five-year follow-up and long-term PRECOMBAT and SYNTAXES results. A key caveat is that the cited ten-year PRECOMBAT and SYNTAX findings involved first-generation drug-eluting stents, so they do not fully capture outcomes with current stent technology; procedural risks and nonfatal outcomes also require consideration.
+The FAA plans to eliminate floppy disks from its air traffic control systems by 2028, replacing legacy storage used to distribute critical weather and flight information. The effort is part of a broader modernization of the agency’s aging infrastructure. Modernizing safety-critical air traffic control systems could reduce maintenance burdens and improve the resilience and security of data distribution. It also highlights how long some government infrastructure can remain operational long after commercial technology cycles have moved on. The reported transition centers on four older display systems that use 1.44 MB, 3.5-inch floppy disks, with E-IDS serving as the replacement platform. Community participants noted that IDS-4 dates from the early 1990s and runs MS-DOS, while also questioning whether emulation or removable solid-state media could have enabled a faster transition.
 
-rss · The Lancet · 最新文章 · Nov 4, 23:30
+hackernews · Hacker News \(热门\) · Nov 6, 04:00 · [Discussion](https://news.ycombinator.com/item?id=50388001)
 
-**Background**: Left main coronary artery disease can compromise blood flow to a large portion of the heart, making revascularization clinically consequential. PCI is a catheter-based approach that uses a stent, whereas CABG is an open-heart operation using bypass grafts, and contemporary guidelines generally favor surgery because of historical trial evidence. The trials discussed here indicate that the relative mortality outcomes of the two approaches may be closer than earlier guideline assumptions suggested.
+**Background**: Floppy disks are magnetic storage media historically used to move data between isolated or legacy computers. Air traffic control modernization often extends beyond replacing media because certified systems must undergo rigorous safety, reliability, and configuration controls, making migration slower than ordinary enterprise software updates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11879461/">Left main stem disease : percutaneous coronary intervention vs ....</a></li>
-<li><a href="https://solaci.org/_files/precombat-10-anos.pdf">Ten-Year Outcomes After Drug - Eluting Stents Versus Coronary ...</a></li>
-<li><a href="https://cdn.amegroups.cn/journals/amepc/files/journals/16/articles/23464/public/23464-PB1-1973-R2.pdf?filename=atm-07-05-85.pdf&amp;t=1733888441">Percutaneous coronary intervention in left main disease : 10-year</a></li>
+<li><a href="https://korben.info/en/faa-retiring-floppy-disks-us-air-traffic-control.html">The FAA is finally getting rid of its floppy disks in US air traffic control</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Next_Generation_Air_Transportation_System">Next Generation Air Transportation System - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cardiology`, `#coronary artery disease`, `#PCI`, `#CABG`, `#clinical evidence`
+**Discussion**: Participants broadly supported modernization but warned that FAA safety processes, an experienced workforce, and institutional caution complicate timelines. Some questioned whether emulation or SD cards offered simpler alternatives, disputed claims that IDS-4 originated in the 1980s, and criticized vague descriptions of the replacement effort as political grandstanding.
+
+**Tags**: `#FAA`, `#Legacy Systems`, `#Infrastructure Modernization`, `#Air Traffic Control`, `#Reliability Engineering`
 
 ---
 
 <a id="item-17"></a>
-## [No QALY Advantage for Dialysis Preparation in Older Kidney Failure Patients](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901818-0/fulltext?rss=yes) ⭐️ 8.0/10
+## [A Practical Introduction to Bare-Metal UEFI Programming](https://kevinboone.me/efitest_index.html) ⭐️ 7.0/10
 
-The phase 3 Prepare for Kidney Care randomised trial found no evidence that preparing for responsive management or renal dialysis was superior for quality-adjusted life years \(QALYs\) over a mean follow-up of 4.5 years. The study included older people with kidney failure who had frailty or multimorbidity. Dialysis can be burdensome and may not improve survival or quality of life for every older person with kidney failure, frailty, or multimorbidity. The findings help clinicians and patients weigh dialysis preparation against a protocolised approach to conservative kidney management rather than assuming one pathway is preferable. Prepare for Kidney Care was a two-arm, superiority, parallel-group, open-label, pragmatic, individually randomised phase 3 trial. Eligible participants were aged 80 years or older regardless of frailty and comorbidity, or aged 65–79 years if they had frailty or multimorbidity; the reported conclusion is based on QALYs over a mean 4.5-year follow-up.
+Kevin Boone published a hands-on guide to writing, linking, and testing bare-metal programs with UEFI. It addresses practical obstacles such as limited C-library support, linker behavior, Windows-like UEFI conventions, and platform-specific quirks. The guide lowers the barrier to experimenting with UEFI applications and bootloaders without first building a full operating system. It also illustrates why systems programmers need to understand firmware interfaces, strict linking requirements, and differences from conventional Linux or user-space development. A notable linker pitfall is that unresolved calls are treated as external symbols rather than immediately rejected, potentially producing a binary that crashes only when the missing function is invoked; \`nm -D --undefined-only\` can check for remaining undefined symbols. Community members also point to \`edk2-libc\` as a C-library option and highlight UEFI’s unusual character-width and development-environment constraints.
 
-rss · The Lancet · 最新文章 · Nov 4, 23:30
+hackernews · Hacker News \(热门\) · Nov 6, 16:50 · [Discussion](https://news.ycombinator.com/item?id=50394855)
 
-**Background**: Responsive management is a protocolised version of conservative kidney management, intended to support people who may not receive or continue dialysis as kidney failure progresses. QALYs combine life expectancy with quality of life, allowing researchers to compare whether an intervention improves both longevity and wellbeing. Because the comparative effectiveness of conservative management and dialysis in frail or multimorbid older adults was previously uncertain, this trial addresses an important evidence gap.
+**Background**: UEFI, or Unified Extensible Firmware Interface, is a firmware specification that lets the system run programs before an operating system loads. A UEFI application can therefore function as a bare-metal program or bootloader and use firmware-provided boot services and interfaces. Compared with typical application development, this environment has a restricted runtime, unusual conventions, and a closer relationship to firmware and early platform initialization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901818-0/fulltext">Preparing for responsive management versus renal dialysis in ...</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/42982076/">Preparing for responsive management versus renal dialysis in ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Quality-adjusted_life_year">Quality-adjusted life year - Wikipedia</a></li>
+<li><a href="https://www.baeldung.com/cs/uefi-bare-metal-program-development">How to Make a Bare - Metal Program With UEFI (No OS Required)</a></li>
+<li><a href="https://natanalt.github.io/uefi-guide/">Introduction - A Comprehensive Guide To UEFI Programming</a></li>
+<li><a href="https://en.wikipedia.org/wiki/UEFI">UEFI - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#clinical-trials`, `#kidney-failure`, `#renal-dialysis`, `#frail-older-adults`, `#health-economics`
+**Discussion**: The discussion was broadly favorable, with the guide described as a strong starting point and a useful reference for a bootloader built with Zig. Participants recommended \`edk2-libc\`, suggested adding undefined-symbol checks to build scripts, and pointed to \`uefi-rs\`, a UEFI IRC client, and a Linux kernel-loading example as additional resources; several cautioned that UEFI has numerous sharp edges compared with Linux development.
+
+**Tags**: `#UEFI`, `#bare-metal programming`, `#bootloaders`, `#embedded systems`, `#systems programming`
 
 ---
 
 <a id="item-18"></a>
-## [Two Microbiome Pathways Link Lifestyle to Chronic Disease](https://www.nature.com/articles/s41591-026-04744-5) ⭐️ 8.0/10
+## [Anthropic’s IPO Valuation Faces Investor Scrutiny](https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout) ⭐️ 7.0/10
 
-A Nature Medicine study analyzed fecal shotgun metagenomics from 6,803 adults in the Japanese 4D cohort and identified two opposing microbiome-mediated pathways linking modifiable lifestyles to health and 15 chronic diseases. The microbiome-based prediction scores were validated across 13 independent, geographically diverse cohorts. The findings suggest that microbiome profiles may help explain how modifiable lifestyle factors influence disease risk and could support more individualized prevention strategies. The large discovery cohort and broad external validation strengthen the potential translational relevance of the results across populations. The study used fecal shotgun metagenomics to profile microbial DNA, enabling inference of taxonomic and functional features associated with lifestyle and disease. Its two opposing axes indicate that lifestyle-linked microbiome signatures are not uniformly harmful or beneficial, although the supplied summary does not describe the axes, prediction-score performance, or causal design in detail.
+Prospective IPO buyers are weighing an Anthropic valuation of as much as $1.1 trillion, while the cited talks also reference a lower range of $1.3 trillion in the linked page title. The debate centers on whether Anthropic’s subscription economics can support such a valuation amid pricing pressure from capable local models, regulatory uncertainty, and large post-IPO share unlocks. A valuation near $1.1 trillion would position Anthropic among the world’s most valuable companies and test whether investors will finance frontier AI companies at scale before their economics are proven. The outcome could also influence Claude pricing, cloud-model competition, AI employment concerns, and the availability of capital for the broader industry. Community reports cited a Claude subscription costing 32 Australian dollars per month, with additional credits providing only 30 minutes of Claude Code for about 15 dollars, while another user said a capable local model sharply reduced their quota consumption. The valuation discussion remains partly speculative and secondary, and the reported S-1 lock-up schedule implies potentially substantial share releases that could coincide with active anti-AI legislation.
 
-rss · Nature Medicine · Nov 5, 00:00
+hackernews · Hacker News \(热门\) · Nov 6, 16:54 · [Discussion](https://news.ycombinator.com/item?id=50394906)
 
-**Background**: Shotgun metagenomics sequences all DNA in a microbial sample rather than targeting only selected marker genes, allowing researchers to examine both microbial diversity and functional potential. The Japanese 4D cohort integrates information on disease, medication use, diet, daily life, and microbiome data. Such work addresses the broader challenge of determining how diet and lifestyle shape the microbiome and whether microbial signatures can predict disease risk.
+**Background**: Claude Code is an agentic coding tool that can read code, plan changes, execute tasks, and adjust its approach using feedback. Frontier cloud models generally remain stronger for advanced coding assistance, but local open-weight models are improving and can handle lightweight, private, or inexpensive workloads on user-controlled hardware. Anthropic’s proposed IPO would expose its revenue model, compute costs, and growth assumptions to public-market scrutiny.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.k.u-tokyo.ac.jp/en/information/category/press/0029175.html">What makes the Japanese gut microbiome unique? Insights from...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4059276/">An introduction to the analysis of shotgun metagenomic data</a></li>
-<li><a href="https://www.biorxiv.org/content/10.1101/2020.11.27.401125v1.full">The Dutch Microbiome Project defines factors that shape the... | bioRxiv</a></li>
+<li><a href="https://code.claude.com/docs/en/how-claude-code-works">How Claude Code works - Claude Code Docs</a></li>
+<li><a href="https://omniforge.online/blog/green-ai-at-the-edge">Local LLMs vs Cloud AI: The Real Sustainability... | OmniForge Blog</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#microbiome`, `#metagenomics`, `#chronic disease`, `#lifestyle`, `#cohort validation`
+**Discussion**: Commenters were divided: some questioned whether Claude subscriptions and extra-credit pricing are financially sustainable, while one said a strong local model had cut his Claude Pro usage so sharply that he would not renew. Others highlighted lock-up-related selling pressure, election-driven regulatory risk, and persistent quality gaps between local models and Claude Code, with one user asking whether more memory could close that gap.
+
+**Tags**: `#Anthropic`, `#AI economics`, `#IPO`, `#Claude Code`, `#local LLMs`
 
 ---
 
 <a id="item-19"></a>
-## [Jev Routes Routine Judgments to Claude Opus for Lower Costs](https://hightouch.com/blog/llm-judges-identity-resolution) ⭐️ 7.0/10
+## [How Should 15,000 Infected Websites Be Reported?](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/) ⭐️ 7.0/10
 
-The article introduces Jev, a hybrid LLM-as-judge system in which a lower-cost model evaluates routine cases and escalates difficult ones to Claude Opus. According to the article, this architecture preserves accuracy at roughly one-quarter of the cost of using Opus for every evaluation. This pattern could make large-scale LLM evaluation more affordable by reserving premium-model reasoning for cases that need it. It also illustrates a broader model-routing strategy that trades some automation complexity for lower inference spending without necessarily reducing quality. The escalation mechanism is central to the design: Jev acts as a “system one” decision layer, while Claude Opus serves as a “system two” fallback for ambiguous or difficult judgments. The article appears promotional, and the provided material does not disclose enough of the benchmark methodology to independently verify the claimed fourfold cost saving or unchanged accuracy.
+The article considers how researchers could identify, notify, and responsibly disclose infections affecting roughly 15,000 websites. The discussion focuses on balancing visitor protection, owner remediation, evidence quality, and the risks of public disclosure. At this scale, notifying site owners individually may be impractical, while premature or inaccurate public reporting could cause reputational and operational harm. Browser and platform blocklists could reduce exposure, but only if the reported infections are confirmed and maintained accurately. Suggested channels include reporting to browser vendors, Google Safe Browsing, and other major platforms, as well as direct outreach to affected owners. Investigators should first verify that a site is genuinely compromised, distinguish active malware from benign artifacts, preserve evidence, and assess whether blocking or publication could obstruct remediation.
 
-hackernews · Hacker News \(热门\) · Nov 6, 19:48 · [Discussion](https://news.ycombinator.com/item?id=50397429)
+hackernews · Hacker News \(热门\) · Nov 6, 18:13 · [Discussion](https://news.ycombinator.com/item?id=50396064)
 
-**Background**: LLM-as-a-judge uses a language model to score or assess outputs from another model, making automated evaluation more scalable than manual review. Model routing classifies requests and sends them to different models based on difficulty, cost, or expected quality; cascade-style routing similarly lets a cheaper model handle straightforward work and escalates harder requests to a stronger model.
+**Background**: Compromised websites can distribute malware, phishing pages, malicious redirects, or other harmful content while appearing legitimate to visitors. Coordinated vulnerability disclosure generally means reporting a confirmed problem to the responsible organization so it can be remediated before wider disclosure, although the appropriate channel may vary with the scale and severity of an incident. At large scale, blocklists operated by browsers and platforms provide a practical enforcement layer, but they require careful validation and ongoing maintenance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2411.15594">A Survey on LLM - as - a - Judge</a></li>
-<li><a href="https://mudassirkhan.me/blog/llm-model-routing">LLM Model Routing : Cut Cost Without Losing Quality</a></li>
-<li><a href="https://mbrenndoerfer.com/writing/model-routing-selection-ab-testing-cascades-strategies">Model Routing: Selection, A/B Testing, Cascades &amp; Strategies</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure">Vulnerability disclosure - Wikipedia</a></li>
+<li><a href="https://www.exploitportal.com/responsible-disclosure">Responsible Disclosure Policy - ExploitPortal</a></li>
+<li><a href="https://blog.sucuri.net/2023/07/how-to-scan-website-for-vulnerabilities.html">How to Scan a Website for Vulnerabilities (6 Tools) - Sucuri Blog</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Practitioners reported similar benefits: one commenter said a finely tuned decision model with a 10% confidence threshold reduced workload by 70% without quality loss, while others described using the pattern for spam and locale detection, tool-call intent judging, and security engineering. Discussion also emphasized calibration, confidence thresholds, and the need to validate results with domain-specific benchmarks.
+**Discussion**: Most commenters favored prompt notification or blocking because infected sites pose immediate harm to visitors, while one commenter warned against delaying action solely to protect operators&\#x27; reputations. Suggested measures included browser-vendor warnings, Google Safe Browsing, public reporting, and direct owner outreach, though the less constructive proposal of creating an aggregate warning site received criticism.
 
-**Tags**: `#LLM-as-a-judge`, `#model-routing`, `#cost-optimization`, `#LLM-orchestration`, `#model-evaluation`
+**Tags**: `#cybersecurity`, `#web-security`, `#responsible-disclosure`, `#malware`, `#security-operations`
 
 ---
 
 <a id="item-20"></a>
-## [FAA to Phase Out Floppy Disks in Air Traffic Control](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/) ⭐️ 7.0/10
+## [ChatGPT Connector Routing Raises Data Isolation Concerns](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053) ⭐️ 7.0/10
 
-The US Federal Aviation Administration plans to eliminate floppy-disk systems from air traffic control by 2028 as part of its long-running modernization program. The agency is replacing four legacy display systems that use 1.44 MB 3.5-inch floppy disks with the unified E-IDS platform. The transition could improve the reliability, maintainability, and upgradeability of safety-critical air traffic control infrastructure. It also illustrates how tightly regulated aviation systems can take years to modernize even when their aging media and hardware appear obsolete. E-IDS旨在将多套旧式空管显示系统整合到统一平台上。由于这些系统处理安全关键信息，FAA正式的安全风险管理、测试、认证和采购流程可能使现代化进程比普通软件项目更慢。FAA的更广泛路线图将此类替换视为国家空域系统长期整合与现代化的一部分。
+A security report alleges that ChatGPT silently routed a tool call through a connector different from the one intended by the user. The report calls for stronger connector identification and greater transparency, but the supplied material does not include enough technical evidence to verify the allegation or estimate its impact. If confirmed, silent cross-connector routing could undermine the separation users expect between connected services and may expose data to an unintended third-party system. It also highlights the need for visible routing indicators, auditable logs, and clear enforcement of connector permissions. The report frames the issue as one of data isolation, routing correctness, and user transparency. However, no reproduction steps, affected versions, affected connectors, exploit conditions, or confirmed data exposure are provided in the supplied content, so the severity remains unestablished.
 
-hackernews · Hacker News \(热门\) · Nov 6, 04:00 · [Discussion](https://news.ycombinator.com/item?id=50388001)
+rss · Hacker News \(热门\) · Nov 6, 22:50
 
-**Background**: E-IDS is intended to consolidate several legacy air traffic control display systems onto a common platform. These systems handle safety-critical information, so the FAA’s formal safety-risk management, testing, certification, and procurement processes can make modernization slower than in ordinary software projects. The broader FAA roadmap treats such replacements as part of the long-term integration and modernization of the National Airspace System.
+**Background**: ChatGPT connectors let the model interact with external services, such as GitHub, to retrieve information or perform actions. Because these services may operate under different permissions and handle different categories of data, tool calls should be routed to the intended connector and disclosed clearly. OpenAI describes ChatGPT as a conversational system that can acknowledge mistakes and clarify uncertain requests, while its API platform supports tool-oriented integrations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.engadget.com/2308330/the-faa-is-finally-phasing-out-floppy-disks-from-air-traffic-control/">The FAA Is Finally Phasing Out Floppy Disks From Air Traffic Control</a></li>
-<li><a href="https://www.faa.gov/about/office_org/headquarters_offices/ang/r2r/roadmaps">NAS Enterprise Architecture Roadmaps | Federal Aviation ...</a></li>
-<li><a href="https://www.faa.gov/about/office_org/headquarters_offices/ang/r2r/roadmaps/nasInfrastructureRoadmapsv19.2.pdf">NAS Enterprise Architecture Infrastructure Roadmaps Version 19</a></li>
+<li><a href="https://openai.com/api/">API Platform | OpenAI</a></li>
+<li><a href="https://openai.com/index/chatgpt/">Introducing ChatGPT | OpenAI</a></li>
+<li><a href="https://github.com/apps/chatgpt-codex-connector">GitHub Apps - ChatGPT Codex Connector · GitHub</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally welcomed the replacement but stressed that safety and regulatory caution, experienced personnel, and disciplined procurement should take priority over speed. Some questioned why emulator-based or solid-state alternatives were not used sooner, while others noted that E-IDS had been in development since at least 2020 and questioned claims that IDS-4 dates directly from the 1980s.
-
-**Tags**: `#aviation`, `#legacy-modernization`, `#air-traffic-control`, `#infrastructure`, `#safety-critical-systems`
+**Tags**: `#ChatGPT`, `#Connectors`, `#Data Privacy`, `#Security Vulnerability`, `#AI Tools`
 
 ---
 
 <a id="item-21"></a>
-## [First Steps in Bare-Metal UEFI Programming](https://kevinboone.me/efitest_index.html) ⭐️ 7.0/10
+## [Google Acquires Crusoe&\#x27;s Wyoming Data Center Site](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update) ⭐️ 7.0/10
 
-This guide presents a practical route for building and testing bare-metal UEFI programs, with particular attention to the absence of a conventional C standard library, UEFI’s Windows-like design, linker behavior, and unusual development constraints. It also explains how developers can detect unresolved external symbols instead of allowing the firmware image to fail later at runtime. UEFI remains a broadly deployed firmware interface, so the resource can help developers and systems programmers understand how executables run directly under firmware rather than under Linux, Windows, or another operating system. Its linker and library guidance also highlights a class of failures that ordinary hosted-language toolchains often detect automatically. UEFI images can be linked even when they call functions that are never supplied; the linker merely records those symbols as external, so checking the result with \`nm -D --undefined-only\` can reveal missing definitions. Developers should also account for the limited C-library environment, the influence of Windows programming conventions, and details such as the EFI environment’s handling of 16-bit characters.
+Google acquired Crusoe&\#x27;s planned data center site in southeast Wyoming, expanding its infrastructure for high-performance computing and artificial intelligence workloads. The reported transaction covers the former Project Jade campus in Cheyenne, although detailed financial terms were not provided. The acquisition gives Google access to a large, power-scaled site that could support increasingly compute-intensive AI services. It also highlights how access to electricity and suitable land is becoming a strategic constraint on the expansion of cloud and AI capacity. The Cheyenne campus was previously developed by Crusoe and Tallgrass as a 1.8-gigawatt AI data center project, with potential plans for expansion to as much as 10 gigawatts. Planning materials described a mix of natural-gas generation and Bloom Energy fuel cells to provide flexible power for dense computing racks, while reports indicate Tallgrass will continue developing the site and Google is expected to be its tenant.
 
-hackernews · Hacker News \(热门\) · Nov 6, 16:50 · [Discussion](https://news.ycombinator.com/item?id=50394855)
+rss · Hacker News \(热门\) · Nov 6, 20:09
 
-**Background**: UEFI is a firmware interface that can load driver and application images and expose boot services and runtime services to them. A bare-metal UEFI program therefore operates without a conventional operating system, using firmware-provided interfaces rather than assuming the normal facilities of hosted C execution. UEFI specifications define the service tables and functions available to such programs, while the broader ecosystem includes libraries such as Tianocore edk2-libc.
+**Background**: AI data centers require substantial electricity, efficient cooling, and high-capacity network connections, making Wyoming&\#x27;s available power and relatively cool climate attractive for large computing facilities. Cheyenne has attracted major operators such as Microsoft and Meta since 2012, while companies rooted in cryptocurrency mining have increasingly repurposed power infrastructure for AI and high-performance computing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://uefi.org/specs/UEFI/2.10_A/02_Overview.html">2. Overview — UEFI Specification 2.10 Errata A documentation</a></li>
+<li><a href="https://digg.com/tech/nwnv2e5a">Google drops Crusoe Energy from a 1.8 GW Wyoming AI data ...</a></li>
+<li><a href="https://www.computeforecast.com/news/crusoe-wyoming-ai-data-center/">Crusoe Data Center Project Wins Approval for Massive Wyoming AI ...</a></li>
+<li><a href="https://arstechnica.com/information-technology/2025/07/ai-in-wyoming-may-soon-use-more-electricity-than-states-human-residents/">AI in Wyoming may soon use more electricity than... - Ars Technica</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised the guide as a strong UEFI starting point and pointed to Tianocore edk2-libc as a solution for the missing C standard library; they also connected EFI’s Windows-like coding style to historical Intel and NT design practices. One commenter used it while building a Zig bootloader but emphasized the sharp edges around 16-bit characters, while another recommended Multiboot2 as an alternative when replacing GRUB is unnecessary. A question about continued UEFI use on Qualcomm Nuvia-based ARM Windows laptops highlights uncertainty about how widely UEFI remains relevant across modern platforms.
-
-**Tags**: `#UEFI`, `#bare-metal-programming`, `#embedded-systems`, `#bootloaders`, `#systems-programming`
+**Tags**: `#AI infrastructure`, `#data centers`, `#Google`, `#Crusoe Energy`, `#cloud computing`
 
 ---
 
 <a id="item-22"></a>
-## [BUI Claims Blender-Inspired Rust UI Outperforms GPUI](https://github.com/ppmpreetham/BUI) ⭐️ 7.0/10
+## [Memorilla Adds Latent Semantic Memory to LLMs](https://arxiv.org/abs/2610.21375) ⭐️ 7.0/10
 
-BUI introduces a Blender-inspired UI and runtime architecture implemented in Rust, aiming to reuse Blender’s GPU-accelerated interface design outside Blender. The project claims substantially better performance than GPUI and other Rust GUI alternatives, although reproducible benchmark data is not yet available. If independently verified, BUI could provide Rust developers with a high-performance, deeply customizable GUI foundation modeled on an interface refined over decades. It also broadens access to Blender’s UI technology through bindings intended for Rust, Python, JavaScript/React, C, C++, and Dear ImGui. BUI decouples Blender’s widget drawing, interaction rules, and visual style into a reusable library, emphasizing GPU-accelerated rendering and a low memory footprint. The headline comparison with GPUI remains a developer claim rather than a validated result, so workload, rendering backend, hardware, and implementation details require scrutiny.
+Memorilla introduces a latent semantic memory system that compresses information from an entire document collection into a fixed number of query-dependent soft memory tokens for a frozen LLM. The system is designed to let the model retrieve relevant corpus knowledge without placing the full collection in its context window. Persistent memory can help LLMs and agents use information beyond their parameters or immediate conversation history, supporting long-horizon tasks over large document collections. If effective, Memorilla could offer a more compact and reusable alternative to repeatedly expanding prompts with retrieved text. Memorilla writes learned memory representations directly into the LLM&\#x27;s input embeddings, requiring open model weights and a separately trained memory module for each model. The fixed-size latent representation may lose fine-grained details, including exact names, and therefore trades precise recall for compactness and scalable access to document-level knowledge.
 
-hackernews · Hacker News \(热门\) · Nov 6, 07:40 · [Discussion](https://news.ycombinator.com/item?id=50389333)
+rss · Hacker News \(热门\) · Nov 6, 18:03
 
-**Background**: GPUI is a GPU-accelerated Rust GUI framework created by the developers of Zed and Delta, using a hybrid immediate-mode and retained-mode architecture. Blender’s interface supports dense, complex workflows through split areas, tabs, and extensive customization, qualities that some users value while others find overly specialized or unconventional.
+**Background**: Conventional retrieval-augmented generation typically adds selected text passages to a model&\#x27;s prompt, while agent-memory systems seek to preserve information across interactions. Memorilla instead uses a learned latent representation: a memory module condenses a corpus into soft tokens that depend on the current query and can be supplied to a frozen LLM. The broader research motivation is to enable foundation-model agents to reason over long horizons, adapt continually, and interact with information that does not fit comfortably in a context window.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/ppmpreetham/BUI">GitHub - ppmpreetham/BUI: Blender&#x27;s GPU Accelerated UI ...</a></li>
-<li><a href="https://elsolitario.org/en/2026/11/06/gpu-accelerated-ui-what-it-is-and-how-bui-compares-to-gpui/">GPU-Accelerated UI: What It Is and How BUI Compares to GPUI</a></li>
-<li><a href="https://gpui.rs/">GPUI</a></li>
+<li><a href="https://arxiv.org/abs/2610.21375">[2610.21375] Memorilla: Latent Semantic Memory for LLMs</a></li>
+<li><a href="https://memory.stanford.edu/">MEMORILLA: Latent Semantic Memory for LLMs</a></li>
+<li><a href="https://arxiv.org/html/2610.21375v3">Memorilla:Latent Semantic Memory for LLMs - arXiv.org</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters praised BUI’s clear README and the appeal of Blender’s customizable interface, with some expressing interest in similar designs for GIMP and Inkscape. Others strongly disliked transplanting Blender’s interaction model beyond Blender, and questioned the benchmark by arguing that GPUI is not exceptionally fast and that alternatives such as Iced, Slint, Dioxus Native, and Freya may perform better.
-
-**Tags**: `#Rust`, `#GUI-framework`, `#Blender`, `#performance-benchmarking`, `#GPUI`
+**Tags**: `#large-language-models`, `#semantic-memory`, `#LLM-agents`, `#representation-learning`, `#arxiv`
 
 ---
 
 <a id="item-23"></a>
-## [Rune Brings GPU-Rendered Rust UI Across Platforms](https://github.com/anomalyco/rune) ⭐️ 7.0/10
+## [Waymark Compiles Jobs Into Executable Workflows](https://github.com/piercefreeman/waymark) ⭐️ 7.0/10
 
-Rune is a pre-release Rust UI framework for macOS, Windows, Linux, and the web, featuring its own GPU renderer, text and layout systems, and animation support. It can run applications headlessly, allowing agents to render PNG output, inspect the element tree, and drive interfaces with scripted input. Rune combines native cross-platform UI development with testability designed for AI agents, potentially improving automated UI testing and inspection. Its agent-mediated contribution model also presents an unusual approach to open-source maintenance, although the project remains early-stage and needs clearer differentiation from established Rust GUI frameworks. Rune targets desktop and web applications with native GPU rendering while providing its own renderer, text handling, layout, and spring-based animation systems. A notable limitation is that its accessibility, screen-reader support, complete keyboard and alternative input handling, internationalization, right-to-left text, and behavior without an available GPU remain unresolved questions.
+Waymark is an open-source workflow engine that compiles job graphs into executable workflows instead of replaying previous executions. The project was presented on Show HN with a focus on a new execution-model design for workflow systems. Compiling job graphs may offer an alternative to replay-based durable execution, potentially reducing the need to rerun workflow history and making execution behavior easier to inspect directly. The approach could be useful to developers building long-running, distributed, and failure-recoverable workflows. The central technical distinction is compilation versus replay: Waymark turns job graphs into executable workflows rather than reconstructing state by replaying prior events or code. The available material is sparse, so implementation guarantees, production maturity, supported languages, and failure-recovery characteristics are not clearly established here.
 
-hackernews · Hacker News \(热门\) · Nov 6, 16:31 · [Discussion](https://news.ycombinator.com/item?id=50394569)
+rss · Hacker News \(热门\) · Nov 5, 14:06
 
-**Background**: GPU-rendered UI frameworks draw interfaces through graphics APIs such as Metal, Vulkan, or DirectX 12, allowing fine control over rendering performance and visual output. Rune also uses headless execution, a mode in which an application produces output and exposes interface state without requiring a visible display, making deterministic scripted interaction possible. The project says it does not accept conventional pull requests and instead asks contributors to have an agent open issues that its agents then process.
+**Background**: A workflow engine coordinates tasks according to a defined flow, assigning work to executors and passing data between participants. Durable execution engines commonly use replay, checkpointing, and compensation so that long-running distributed processes can recover after failures; this model requires workflow logic to remain deterministic when state is reconstructed.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/anomalyco/rune/">GitHub - anomalyco/rune: Rune: Native UI framework · GitHub</a></li>
-<li><a href="https://aicrier.com/post/q1y6c7y82qt4bew3dhmj">Rune Reimagines Cross-Platform Native UI — AICrier</a></li>
-<li><a href="https://salivity.github.io/game-development/article/building-a-custom-ui-framework-on-gpu-ap-is">Building a Custom UI Framework on GPU APIs - game-development</a></li>
+<li><a href="https://workflowengine.io/documentation/">Get Started | Documentation | WorkflowEngine</a></li>
+<li><a href="https://letsbuildsolutions.com/blog/system-design/designing-a-durable-execution-engine-workflow-replay-checkpointing-and-failure-recovery-for-long-running-distributed-processes/">Designing a Durable Execution Engine: Workflow Replay ...</a></li>
+<li><a href="https://www.linkedin.com/pulse/engineering-deep-dives-19-temporal-durable-vs-job-queues-pangeni-nhm9e">Engineering Deep Dives #19: Temporal - Durable Execution vs ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters showed strong interest in Rune&\#x27;s headless rendering and unusual agent-assisted contribution workflow, with one participant hoping similar capabilities would reach native Apple UI frameworks. Others urged prospective users to consider established projects such as egui, Iced, and Slint, and requested comparisons with GPUI and clarification on accessibility, input support, internationalization, and GPU fallback; the large download counts cited for those alternatives were part of the discussion rather than verified metrics in the supplied material.
-
-**Tags**: `#Rust`, `#GUI-framework`, `#GPU-rendering`, `#Cross-platform`, `#LLM-agents`
+**Tags**: `#workflow-engine`, `#job-compilation`, `#developer-tools`, `#open-source`, `#distributed-systems`
 
 ---
 
 <a id="item-24"></a>
-## [Rybrevant Faspro Approved for Advanced HNSCC](http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma) ⭐️ 7.0/10
+## [Chomsky and Statistical Language Learning, Reexamined](https://www.norvig.com/chomsky.html) ⭐️ 7.0/10
 
-The FDA granted accelerated approval to Rybrevant Faspro \(amivantamab and hyaluronidase-lpuj\) for adults with recurrent or metastatic head and neck squamous cell carcinoma whose disease progressed during or after platinum-based chemotherapy. The approval adds a new targeted treatment option for this advanced cancer population. This approval could expand access to a targeted therapy for patients with advanced HNSCC after platinum chemotherapy. It also reflects the FDA’s continued use of accelerated approval to bring promising oncology treatments to patients while confirmatory evidence is developed. Rybrevant Faspro combines amivantamab, an EGFR- and MET-directed bispecific antibody, with hyaluronidase-lpuj, which enables subcutaneous administration. Because this is an accelerated approval, the treatment remains subject to confirmatory trials demonstrating clinical benefit, and the provided news excerpt does not specify efficacy figures, response rates, survival results, or safety findings.
+Peter Norvig&\#x27;s 2011 essay examines Noam Chomsky&\#x27;s objections to statistical approaches to language learning and evaluates which criticisms remain persuasive. It argues that Chomsky&\#x27;s concern is better directed at models with vast numbers of parameters than at statistical learning in general. The exchange clarifies a foundational debate over whether successful prediction is sufficient for understanding language. Its distinction between scientific explanation and engineering performance remains relevant to modern natural-language processing, especially as language models become larger and more capable. Chomsky accepted that statistical language models had limited success in some applications, but criticized their emphasis on matching linguistic data without identifying underlying principles. Norvig emphasizes that both collecting facts and developing explanatory theories contribute to science, while noting that the scale and complexity of a model can affect whether it merely approximates data.
 
-rss · FDA Press Releases \(国际\) · Nov 5, 22:30
+rss · Hacker News \(热门\) · Nov 6, 08:18
 
-**Background**: Head and neck squamous cell carcinoma is a cancer arising from squamous cells in the head and neck, and recurrent or metastatic disease is difficult to treat after progression on platinum-based chemotherapy. Amivantamab is designed to block signaling through both EGFR and MET, two receptors associated with tumor biology. FDA accelerated approval permits a therapy to reach patients based on an appropriate surrogate endpoint, but the sponsor must complete confirmatory trials or the accelerated approval indication may be withdrawn if clinical benefit is not verified.
+**Background**: Chomsky advocates generative linguistics, which seeks systematic principles and constraints underlying human language rather than only observable frequencies. Statistical language models instead estimate regularities in data, a tradition associated with information theory and, in modern natural-language processing, neural networks trained on large text corpora.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.rybrevanthcp.com/mechanism-of-action/">Mechanism of Action | RYBREVANT FASPRO ™ ( amivantamab and...</a></li>
-<li><a href="https://www.fda.gov/about-fda/oncology-center-excellence/project-confirm">Project Confirm | FDA | U.S. Food and Drug Administration</a></li>
+<li><a href="https://www.norvig.com/chomsky.html">On Chomsky and the Two Cultures of Statistical Learning</a></li>
+<li><a href="https://www.academia.edu/98474831/On_Chomsky_and_the_Two_Cultures_of_Statistical_Learning">On Chomsky and the Two Cultures of Statistical Learning “On the goals of linguistic theory”:Revisiting Chomskyan ... On Chomsky and the Two Cultures of Statistical Learning Neural Networks and the Chomsky Hierarchy - arXiv.org On Chomsky and the Two Cultures of Statistical Learning Chomsky on Statistical Learning Critique On Chomsky and the Two Cultures of Statistical Learning</a></li>
+<li><a href="https://arxiv.org/html/2411.10533v1">“On the goals of linguistic theory”:Revisiting Chomskyan ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FDA`, `#drug approval`, `#oncology`, `#HNSCC`, `#Rybrevant Faspro`
+**Tags**: `#Chomsky`, `#Statistical Learning`, `#Natural Language Processing`, `#Language Models`, `#AI`
 
 ---
 
 <a id="item-25"></a>
-## [Chomsky and Statistical Learning in Modern AI](https://www.norvig.com/chomsky.html) ⭐️ 7.0/10
+## [AI Agents Infer and Animate LEGO Mechanisms](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) ⭐️ 7.0/10
 
-Peter Norvig revisits Noam Chomsky’s critique of statistical approaches to language learning and evaluates which parts of the critique remain persuasive. He argues that humans may possess innate language-learning abilities, but that current evidence does not reveal how those abilities operate, while statistical methods remain effective at modeling natural language. The essay clarifies the conceptual divide between Chomsky’s rule-oriented linguistic tradition and the data-driven systems that underpin modern natural-language processing. Its central question—how much human language acquisition depends on innate structure rather than observed patterns—remains relevant to the design and interpretation of contemporary AI models. Norvig defends an algorithmic modeling culture that prioritizes accurate prediction, noting that natural language is probabilistic and contingent rather than categorical and eternal. He also emphasizes that recognizing some innate human learning capacity does not establish that language is governed exclusively by innate universal grammar.
+The open-source ldraw-mecha v0.5.0 project uses an AI agent to infer the mechanics of an LDraw LEGO model from its .mpd source file, plan interactions among components, and generate Python code for Blender. The resulting Blender setup creates rigs and animates the inferred mechanisms. The project demonstrates an agent-driven workflow that connects source-based reverse engineering with procedural modeling and digital animation. It may support faster mechanical prototyping, robotics research, and physical-AI experimentation involving parameterized assemblies. The system operates on LDraw .mpd files rather than ordinary visual images, then expresses inferred motion through Blender-oriented Python rigs. Its output depends on successfully interpreting the model’s components and their mechanical relationships, so correctness and fidelity would require evaluation.
 
-rss · Hacker News \(热门\) · Nov 6, 08:18
+rss · Hacker News \(热门\) · Nov 6, 19:41
 
-**Background**: Chomsky’s critique questions whether statistical models can genuinely acquire language or merely approximate surface frequencies, especially when child learners receive sparse and imperfect input. Statistical language models instead learn distributions from examples and commonly excel at prediction tasks, while grammar-based models can supply explicit constraints and remain useful when training data is limited. Norvig interprets Chomsky’s position charitably and relates it to the statistical learning used in modern AI.
+**Background**: LDraw is a community format and ecosystem for describing LEGO-compatible models in text-based source files, while Blender is an open-source 3D creation suite that supports scripts and animation rigs. The project therefore begins with a structured digital model, reasons about its intended mechanism, and converts that reasoning into animation code rather than merely generating a static LEGO shape.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bpb-us-e1.wpmucdn.com/sites.tufts.edu/dist/d/4865/files/2019/04/Norvig.pdf">On Chomsky and the Two Cultures of Statistical Learning</a></li>
-<li><a href="https://www.norvig.com/chomsky.html">On Chomsky and the Two Cultures of Statistical Learning</a></li>
-<li><a href="https://link.springer.com/content/pdf/10.1007/978-3-540-85287-2_19.pdf">Training Statistical Language Models from Grammar-Generated ...</a></li>
+<li><a href="https://todayforai.com/en/items/art-ddb20791-213">Open-Source Tool Lets AI Agents Infer Lego Mechanisms from ...</a></li>
+<li><a href="https://upstract.com/x/43a7a087d1686642">Show HN: Agents infer Lego mechanisms from sources, then ...</a></li>
+<li><a href="https://github.com/360er0/awesome-lego-machine-learning">GitHub - 360er0/awesome- lego -machine-learning: A curated list of...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#statistical learning`, `#Chomsky`, `#natural language processing`, `#AI theory`, `#linguistics`
+**Tags**: `#AI Agents`, `#Robotics`, `#LEGO`, `#Procedural Modeling`, `#Open Source`
 
 ---
 
 <a id="item-26"></a>
-## [SketchAgentBench Tests LLMs on 3D Spatial Reasoning](https://sketchagent.dev/) ⭐️ 7.0/10
+## [Bridging musl and NVIDIA’s Proprietary Drivers](https://chimera-linux.org/news/2026/11/musl-nvidia.html) ⭐️ 7.0/10
 
-SketchAgentBench is a focused benchmark designed to evaluate large language models on three-dimensional spatial reasoning tasks. The available material identifies the benchmark and its purpose but does not provide its task format, model results, or full methodology. Three-dimensional spatial reasoning remains an underexplored capability, so a targeted benchmark could help developers distinguish models that genuinely understand spatial relationships from those that rely on language patterns alone. Its impact will depend on whether the tasks are rigorous, reproducible, and representative of practical 3D reasoning. The benchmark targets 3D understanding and spatial reasoning, which are closely related to multimodal AI evaluation. However, the supplied page and search results do not specify the dataset size, input modalities, prompting protocol, scoring method, evaluation metrics, or tested language models, so no comparative performance claim can yet be verified.
-
-rss · Hacker News \(热门\) · Nov 6, 20:28
-
-**Background**: Spatial reasoning asks a system to infer relationships involving position, distance, orientation, or object layout. Related work such as SpatialReasoner uses explicit 3D representations across perception, computation, and reasoning, while other evaluations question whether language-only models can match specialized 3D models on existing benchmarks. SketchAgentBench appears to address this need for a more focused evaluation of three-dimensional reasoning.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2504.20024">[2504.20024] SpatialReasoner: Towards Explicit and Generalizable...</a></li>
-<li><a href="https://paperswithcode.co/paper/2603.23523">Do 3 D Large Language Models Really Understand 3 D Spatial ...</a></li>
-<li><a href="https://spatial-reasoner.github.io/">SpatialReasoner</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM-evaluation`, `#spatial-reasoning`, `#3D-understanding`, `#AI-benchmarks`, `#multimodal-AI`
-
----
-
-<a id="item-27"></a>
-## [Bridging musl Linux and NVIDIA’s Proprietary Drivers](https://chimera-linux.org/news/2026/11/musl-nvidia.html) ⭐️ 7.0/10
-
-Chimera Linux published a technical guide explaining how proprietary NVIDIA drivers can be made to work in musl-based Linux environments. The approach addresses the drivers’ reliance on glibc while preserving the use of musl as the system C library. This could make NVIDIA hardware more usable on lightweight, Alpine-like, and container-oriented musl distributions that have historically lacked full support for NVIDIA’s proprietary driver stack. It would also reduce the need to keep a glibc-based host or compatibility environment solely for NVIDIA userspace components. NVIDIA’s out-of-tree kernel driver is largely libc-independent, but its closed-source userspace libraries require compatibility work; related projects use gcompat and patch missing symbols, while other approaches isolate glibc-dependent libraries in Flatpak, chroot, or container environments. The referenced project explicitly warns that its hacks may cause undefined behavior and are not recommended for production use.
+Chimera Linux is pursuing an engineering effort to make NVIDIA’s proprietary Linux drivers function correctly with the musl C library. The published news item provides only a link to an external discussion, so it does not specify the implementation approach, supported driver versions, or project status. NVIDIA’s proprietary driver stack is closely associated with glibc, while musl is common in compact and minimalist Linux distributions. Making the two work together could expand access to proprietary GPU acceleration on systems that do not use glibc. musl is broadly POSIX- and C11-compatible and implements many common Linux, BSD, and glibc interfaces, but it is not a complete binary replacement for glibc. The main technical challenge is therefore likely the proprietary userspace components that link against libc interfaces, rather than the NVIDIA kernel modules themselves, whose builds are generally unaffected by the host distribution’s libc flavor.
 
 rss · Lobsters \(技术社区\) · Nov 6, 13:23
 
-**Background**: Linux distributions commonly use glibc, but others use musl, a compact C library found in Alpine Linux and many container images. NVIDIA differs from most GPU vendors by shipping an out-of-tree kernel module together with proprietary userspace libraries, whereas open-source graphics stacks such as Mesa are generally integrated into the Linux ecosystem. The central compatibility problem therefore lies primarily in NVIDIA’s userspace components rather than its kernel module.
+**Background**: musl is a lightweight C standard library used by minimalist Linux distributions such as Alpine Linux. NVIDIA’s proprietary Linux stack includes userspace libraries and utilities as well as kernel modules, and its userspace components have traditionally targeted glibc. NVIDIA developer forums have previously received requests for a musl-compatible proprietary driver, including the suggestion that rebuilding with different compiler flags might enable support.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://chimera-linux.org/news/2026/11/musl-nvidia.html">Making musl and proprietary NVIDIA drivers work together</a></li>
-<li><a href="https://wiki.musl-libc.org/compatibility.html">Compatibility - musl libc GitHub - git-bruh/nvidia-musl: Hacks to run proprietary ... Musl libc - chimera-linux.org Using musl with proprietary nvidia drivers on optimus intel x ... When will NVIDIA provide drivers for musl? - GitHub Request for Official Nvidia Driver Support on musl-based ...</a></li>
-<li><a href="https://github.com/git-bruh/nvidia-musl">GitHub - git-bruh/nvidia-musl: Hacks to run proprietary ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Musl">musl - Wikipedia</a></li>
+<li><a href="https://wiki.musl-libc.org/compatibility.html">Compatibility - musl libc</a></li>
+<li><a href="https://github.com/apiwo/MuslMan">apiwo/MuslMan: Full NVIDIA driver acceleration ( kernel modules ...)</a></li>
 
 </ul>
 </details>
@@ -696,653 +670,649 @@ rss · Lobsters \(技术社区\) · Nov 6, 13:23
 
 ---
 
+<a id="item-27"></a>
+## [Inside GitHub’s New Git Storage Architecture](https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/) ⭐️ 7.0/10
+
+GitHub has explained the design and architectural changes behind a new Git storage system built to support thousands of agents pushing to one repository concurrently. The system reportedly supports thousands of writes per second and scales read capacity on demand. The redesign targets the growing load created by agentic software development, where automated agents and human developers make millions of commits daily. It could improve scalability and concurrency for GitHub’s version-control infrastructure as large repositories receive more machine-generated changes. GitHub says the new architecture can accommodate thousands of concurrent pushes to a single repository and scale reads on demand. A related account notes that GitHub previously avoided changing the storage architecture and hosting platform simultaneously because doing so under heavy growth carried excessive risk.
+
+rss · Lobsters \(技术社区\) · Nov 6, 17:50
+
+**Background**: Git stores repository history as commits and related Git objects, including trees and blobs. GitHub’s redesign reflects a broader shift toward agentic development, in which many automated agents modify code concurrently alongside developers, requiring higher write throughput and elastic read scaling.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/">Inside GitHub’s new Git storage architecture - The GitHub Blog</a></li>
+<li><a href="https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/">Building Git infrastructure for agent-scale development</a></li>
+<li><a href="https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/">The bridge to agent-scale Git infrastructure - The GitHub Blog</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Git`, `#GitHub`, `#storage-architecture`, `#scalability`, `#version-control`
+
+---
+
 <a id="item-28"></a>
-## [SourceHut Registration Bypass Vulnerability Disclosed](https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/) ⭐️ 7.0/10
+## [Hundreds of Exposed ARTEX AI Hacking Servers Identified](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/) ⭐️ 7.0/10
 
-A post discusses a SourceHut vulnerability identified as CVE-2026-121728 that may allow users to bypass disabled registration. The provided material links to community discussion but does not include enough technical detail to establish affected versions, exploitation conditions, or patch status. A registration bypass could undermine administrative controls intended to prevent new account creation, potentially enabling automated or unauthorized sign-ups. The practical impact depends on the vulnerability&\#x27;s verification requirements, affected deployments, and whether maintainers have released a fix. The issue is tracked as CVE-2026-121728 and concerns SourceHut&\#x27;s registration access controls rather than the separate OpenSSH vulnerability appearing in the search results. No proof of concept, affected versions, severity rating, disclosure timeline, or remediation details are present in the supplied content.
-
-rss · Lobsters \(技术社区\) · Nov 5, 18:34
-
-**Background**: SourceHut is an open-source software development platform that includes identity and access-management features such as two-factor authentication, audit logs, and third-party OAuth access controls. Registration restrictions can be used to limit new accounts, so a bypass concerns the boundary between public registration and authorized access. The available search results confirm the platform&\#x27;s general security features but do not provide verified technical documentation for CVE-2026-121728.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://sourcehut.org/">sourcehut - the hacker&#x27;s forge</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#SourceHut`, `#security`, `#authentication-bypass`, `#CVE-2026-121728`, `#access-control`
-
----
-
-<a id="item-29"></a>
-## [Datadog Validates Formal Specifications Against Production Systems](https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/) ⭐️ 7.0/10
-
-Datadog published an engineering article describing how it continuously validates formal specifications against production systems. The available material does not expose the article’s specific architecture, tools, validation pipeline, or results. Continuous validation can help identify where production behavior diverges from formally specified expectations, supporting software reliability as systems evolve. It also illustrates how formal methods can move beyond one-time proof or review activities and become part of ongoing engineering operations. Formal specifications use mathematically based descriptions to analyze system behavior, while formal methods provide rigorous techniques for specifying, developing, and verifying software and hardware. However, the supplied page contains only a link to comments, so Datadog’s exact validation mechanism, deployment frequency, coverage, scalability, and limitations cannot be confirmed from the provided evidence.
-
-rss · Lobsters \(技术社区\) · Nov 6, 18:00
-
-**Background**: A formal specification mathematically describes a system and its intended behavior, enabling developers to reason about correctness. Formal methods extend this idea into rigorous specification, development, analysis, and verification processes, but industrial adoption has historically faced practical barriers. Continuous validation against production systems suggests a feedback loop in which real observed behavior is checked against formal expectations as software and services change.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Formal_specification">Formal specification - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Formal_methods">Formal methods - Wikipedia</a></li>
-<li><a href="https://scispace.com/papers/challenges-in-the-utilization-of-formal-methods-2stacc3hz3">Challenges in the Utilization of Formal Methods (1998) | John C. Knight</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#formal-methods`, `#production-systems`, `#continuous-validation`, `#software-reliability`, `#Datadog`
-
----
-
-<a id="item-30"></a>
-## [Hundreds of Exposed Artex AI Hacking Servers Discovered](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/) ⭐️ 7.0/10
-
-Security researchers discovered hundreds of internet-facing servers hosting the Artex AI penetration-testing system, with access reportedly available to anyone. The exposed instances could allow unauthorized users to misuse offensive-security capabilities. Publicly exposed offensive-security tools can be repurpose by criminals, expanding the attack surface for organizations that operate them. The disclosure also highlights the broader risk of forgotten, poorly configured, or insufficiently monitored internet-facing assets. Artex is an open-source, multi-agent AI penetration-testing framework designed to manage AI-assisted testing workflows, findings, assets, goals, and tool calls. Its project documentation restricts use to systems that users own or are explicitly authorized to test, so unrestricted access to exposed instances creates a substantial misuse concern.
+Security researchers identified 1,465 internet-exposed hosts running the ARTEX AI penetration-testing framework, far more than the initial report of hundreds. Some exposed instances reportedly contained command-and-control tools, phishing software, and exploit files. Internet access to these instances could let unauthorized users launch automated reconnaissance and exploitation against targeted organizations. The exposure also illustrates the security risks created when powerful offensive-security frameworks are deployed without adequate authentication or network isolation. ARTEX is an open-source, multi-agent AI framework that uses language models to drive vulnerability discovery, exploitation, and penetration-testing workflows. The reported 1,465 exposed hosts represent a large attack surface, but the available reports provide limited information about their ownership, authentication controls, activity logs, and whether attackers actually abused them.
 
 rss · TechCrunch AI · Nov 6, 18:44
 
-**Background**: Internet-exposed services include public IP addresses, remote administration interfaces, web applications, APIs, and other assets that attackers may discover and exploit. Artex is intended to automate parts of penetration testing, but the same offensive capabilities that support authorized testing can increase risk when deployed without authentication, network isolation, or access controls.
+**Background**: ARTEX is designed to manage AI-assisted penetration-testing workflows, track findings, and coordinate tool calls across assets. Agentic platforms of this kind can reduce some manual effort during vulnerability research, but researchers have also observed ARTEX being used in real-world intrusion campaigns. The project’s own documentation restricts use to systems the user owns or is explicitly authorized to test.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://github.com/BaaRai/ARTEX">BaaRai/ ARTEX : ARTEX - AI autonomous penetration testing system...</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/">Chinese hackers use ARTEX AI in automated attacks against 200 orgs</a></li>
-<li><a href="https://nucleussec.com/blog/understand-internet-exposure-vuln-management/">Nucleus Blog | Understand How Internet Exposure Impacts Vuln ...</a></li>
+<li><a href="https://cybersecuritynews.com/artex-ai-hacking-framework/">ARTEX AI Hacking Framework Found on 1,465 Public Servers , Some...</a></li>
+<li><a href="https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/">Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns - Check...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#AI security`, `#penetration testing`, `#exposed servers`, `#vulnerability disclosure`
+**Tags**: `#cybersecurity`, `#AI security`, `#penetration testing`, `#exposed services`, `#Artex`
+
+---
+
+<a id="item-29"></a>
+## [AI Spending Plateaus as Anthropic Nears IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/) ⭐️ 7.0/10
+
+Ramp transaction data indicates that enterprise AI token spending grew only 1.5% across August and September, even as token usage continued to rise. The report attributes the divergence partly to price cuts and more sophisticated cost controls among major AI customers. The widening gap between usage and spending could constrain revenue growth for major model providers such as Anthropic and OpenAI. It may also complicate Anthropic&\#x27;s IPO narrative by challenging assumptions that enterprise AI adoption will translate into sustained hypergrowth. Ramp&\#x27;s AI Index is based on transaction data from businesses using its corporate cards and expense-management tools, rather than surveys or self-reported usage. The findings provide an important signal but do not necessarily represent all enterprise spending, and the brief report offers limited methodological detail.
+
+rss · TechCrunch AI · Nov 6, 15:54
+
+**Background**: Enterprise AI economics increasingly depend on both how much customers use models and how much they pay per unit of usage. Price reductions, model routing, caching, and other inference-cost controls can allow token volumes to rise without producing equivalent revenue growth, affecting how investors evaluate AI companies ahead of public listings.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/">Ramp data shows AI spending stalling just as Anthropic... | TechCrunch</a></li>
+<li><a href="https://www.mindstudio.ai/blog/anthropic-vs-openai-business-adoption-2026-ramp-data-2">Anthropic vs OpenAI Business Adoption in 2026: What the RAMP Data ...</a></li>
+<li><a href="https://ramp.com/blog/what-is-enterprise-spend-management">What is enterprise spend management (ESM)?</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI spending`, `#Enterprise AI`, `#Anthropic`, `#IPO`, `#AI economics`
+
+---
+
+<a id="item-30"></a>
+## [Airbnb Plans AI Travel Agent for 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/) ⭐️ 7.0/10
+
+Airbnb plans to begin rolling out an AI travel agent to guests in the first half of 2027. The agent is intended to help users plan trips, compare options, manage bookings, and receive assistance during their stays. The product could consolidate discovery, itinerary planning, booking management, and in-trip support within Airbnb’s platform. It also signals that travel companies are expanding AI agents from basic chat interfaces into more continuous, task-oriented services. Airbnb disclosed the plan in its third-quarter 2026 shareholder letter, released on November 5, 2026. Available reporting describes dynamic interfaces for real-time planning and booking management, but the announcement provides few implementation details, such as rollout markets, pricing, data handling, or third-party booking coverage.
+
+rss · TechCrunch AI · Nov 5, 22:40
+
+**Background**: An AI travel agent is intended to handle multi-step travel tasks through a conversational interface rather than functioning only as a search or chatbot. In this case, its reported scope spans trip planning, option comparison, booking management, and assistance throughout a guest’s stay. Airbnb already operates a marketplace connecting travelers with hosts and travel experiences, so an integrated agent could provide a single interface across that ecosystem.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.unite.ai/airbnb-plans-ai-travel-agent-for-planning-booking-and-support/">Airbnb Plans AI Travel Agent for Planning, Booking and Support</a></li>
+<li><a href="https://www.androidheadlines.com/2026/11/airbnb-ai-agent-ditch-chatbots-plan-vacation.html">Airbnb Is Building an AI Agent That Will Plan Your Next Vacation</a></li>
+<li><a href="https://www.analyticsinsight.net/news/airbnb-to-launch-ai-travel-agent-in-2027-help-users-plan-entire-trips">Airbnb to Launch AI Travel Agent in 2027, Help Users Plan ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Agents`, `#Travel Technology`, `#Airbnb`, `#AI Applications`, `#Trip Planning`
 
 ---
 
 <a id="item-31"></a>
-## [AI Spending Stalls as Anthropic Nears Its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/) ⭐️ 7.0/10
+## [OpenAI President Suggests 2027 IPO Readiness](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/) ⭐️ 7.0/10
 
-Ramp data indicates that enterprise AI usage continues to rise while spending has plateaued. The report attributes the slowdown partly to price cuts and stronger cost controls among major enterprise buyers, as Anthropic approaches a potential IPO. The divergence between rising usage and flat spending challenges investor assumptions that enterprise AI demand will translate into uninterrupted revenue growth. An Anthropic IPO could make pricing discipline, inference economics, and customer spending trends easier to evaluate. Ramp tracks enterprise spending on AI products and services, so the signal is most relevant to business buyers rather than the entire consumer market. Lower vendor prices and improved cost controls can preserve usage while limiting revenue growth, meaning stable usage does not necessarily imply stable spending.
-
-rss · TechCrunch AI · Nov 6, 15:54
-
-**Background**: Anthropic develops Claude, a family of AI models delivered through subscriptions and API access, and is pursuing a potential public listing. Enterprise AI costs include model inference, compute infrastructure, data pipelines, orchestration, governance, and staff, making purchasing decisions sensitive to both token pricing and broader operational efficiency.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost">Managing AI costs in the enterprise | McKinsey</a></li>
-<li><a href="https://www.techtarget.com/ai/tip/AI-inference-cost-optimization-An-enterprise-guide">AI inference cost optimization: An enterprise guide - TechTarget</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Artificial Intelligence`, `#AI Spending`, `#Anthropic`, `#IPO`, `#Enterprise AI`
-
----
-
-<a id="item-32"></a>
-## [Airbnb Plans AI Travel Agent Launch for 2027](https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/) ⭐️ 7.0/10
-
-Airbnb plans to launch an AI travel agent in the first half of 2027, according to its Q3 2026 earnings shareholder letter. The agent is intended to help travelers plan trips, compare options, manage bookings, and receive assistance during their stays. The planned product could extend AI assistance across the full travel lifecycle, from discovery and planning through booking and an in-trip support. For a major accommodation platform, this signals an effort to combine its marketplace inventory with conversational, task-oriented AI. Reported plans indicate that the agent may organize its experience around a traveler’s question and use maps, photos, comparisons, calendars, and itineraries rather than relying only on a standard chat window. The announcement does not provide launch markets, pricing, technical architecture, accuracy guarantees, or details about how transactions and user data will be handled.
-
-rss · TechCrunch AI · Nov 5, 22:40
-
-**Background**: AI travel agents are designed to support activities such as itinerary planning, option comparison, booking, and real-time travel assistance. Airbnb is a global accommodation marketplace offering vacation rentals and related travel experiences, so an AI agent could connect its existing inventory with automated planning and booking workflows.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings">Airbnb is working on an AI travel agent | The Verge</a></li>
-<li><a href="https://zaviya.pk/ai/airbnb-ai-travel-agent-first-half-2027">Airbnb plans AI travel agent for launch in first half of 2027</a></li>
-<li><a href="https://www.airbnb.com/">Airbnb | Vacation rentals, cabins, beach houses, &amp; more</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#travel technology`, `#Airbnb`, `#booking automation`, `#generative AI`
-
----
-
-<a id="item-33"></a>
-## [Meta Warns Data Center Backlash Could Slow AI Expansion](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/) ⭐️ 7.0/10
-
-Meta warned that growing political and community resistance to large data-center projects could make future AI infrastructure investment more difficult. The company highlighted risks from local opposition as communities push back against the construction of massive infrastructure projects. Data centers are central to the expansion of AI capacity, but their demands for electricity, water, and land can generate local political opposition. If resistance leads to tighter zoning, project delays, cancellations, or grid constraints, it could raise costs and slow deployment for AI companies and other infrastructure operators. Reported opposition is tied to concerns including power and water consumption, noise, and zoning. Search results indicate that $64 billion in data-center projects have been blocked or delayed, although no blanket statewide moratorium has taken effect; Meta’s warning therefore describes a significant deployment risk rather than an industry-wide halt.
-
-rss · TechCrunch AI · Nov 5, 19:12
-
-**Background**: AI infrastructure requires not only processors but also power, cooling, water, land, and grid connections. The scale of new data-center projects has increased scrutiny from communities and lawmakers, while some states are considering legislation that would slow or tighten oversight. S&amp;P Global Ratings projects combined hyperscaler capital expenditure to exceed $1.3 trillion by 2027, making political and community constraints an increasingly material investment risk.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.blsstrategies.com/insights-press/community-opposition-is-reshaping-data-center-strategy">Community Opposition Is Reshaping Data Center Strategy</a></li>
-<li><a href="https://datacenternews.org/community-opposition-to-data-centers/">Community Opposition to Data Centers: What’s Behind It And ...</a></li>
-<li><a href="https://www.datacenterwatch.org/report">$64 billion of data center projects have been blocked or ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#tech policy`, `#community opposition`, `#AI investment`
-
----
-
-<a id="item-34"></a>
-## [OpenAI&\#x27;s Cybersecurity Model Faces Higher Stakes](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) ⭐️ 7.0/10
-
-OpenAI has released a cybersecurity-focused model for use in protecting digital infrastructure. The launch comes as AI labs face growing scrutiny over their responsibility to secure critical systems. A specialized model could help organizations identify vulnerabilities and respond to threats more effectively, particularly when patching critical infrastructure within a narrow time window. However, its broader impact depends on real-world performance, safeguards, and how responsibly it is deployed. OpenAI describes Daybreak as providing advanced cybersecurity capabilities to approved individual and organizational users, with applicants reviewed before access is granted. The available material does not disclose technical architecture, benchmark results, release details, or the model&\#x27;s concrete role in protecting digital infrastructure.
-
-rss · TechCrunch AI · Nov 5, 19:06
-
-**Background**: AI labs are developing models tailored to cybersecurity tasks as governments and other critical operators seek more capable tools for vulnerability discovery and defense. At the same time, scrutiny of AI companies&\#x27; security practices is increasing because the same technologies can also assist attackers. OpenAI&\#x27;s Daybreak project therefore represents both a product-development effort and a response to demands for greater responsibility in protecting digital infrastructure.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://openai.com/daybreak/">Daybreak | OpenAI for cybersecurity | OpenAI</a></li>
-<li><a href="https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/">OpenAI released a new cybersecurity model . | TechCrunch</a></li>
-<li><a href="https://claypier.com/en/google-anthropic-openai-cyber-ai/">Google, Anthropic, and OpenAI Roll Out Cybersecurity - Focused AI...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OpenAI`, `#cybersecurity`, `#AI models`, `#AI safety`, `#digital security`
-
----
-
-<a id="item-35"></a>
-## [OpenAI Says It Could Be IPO-Ready in 2027](https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/) ⭐️ 7.0/10
-
-OpenAI president Greg Brockman said the company could be ready to pursue an initial public offering in 2027. He also highlighted OpenAI&\#x27;s progress in the enterprise market, where Anthropic has already gained traction. A potential IPO timetable would mark a major shift in OpenAI&\#x27;s corporate strategy and could open a new path for funding its expansion. OpenAI&\#x27;s enterprise momentum also matters as competition for business customers intensifies with Anthropic. Brockman made the remarks at a Wall Street Journal technology conference. The report did not provide a formal filing date, IPO structure, valuation, financial disclosures, or other technical details.
+OpenAI President Greg Brockman said the company could be ready for an initial public offering in 2027 while speaking at a Wall Street Journal technology conference. He also emphasized OpenAI&\#x27;s growing presence in the enterprise market amid competition from Anthropic. A potential 2027 IPO timetable could mark a major shift for OpenAI as it seeks greater access to public capital and institutional investors. It also highlights the strategic importance of enterprise adoption in an AI market where Anthropic has already gained traction. The comments were made on Wednesday at a Wall Street Journal technology conference, but the report provides no details about an IPO filing, valuation, share structure, or preparatory work. Brockman&\#x27;s statement therefore indicates possible readiness rather than a confirmed listing plan.
 
 rss · TechCrunch AI · Nov 5, 18:02
 
-**Background**: An initial public offering would allow OpenAI to raise capital through the sale of publicly traded shares. The enterprise AI market involves AI products and services purchased by organizations, and Anthropic has reportedly already made inroads there. Brockman&\#x27;s comments suggest OpenAI is considering public-market financing as corporate competition and expansion intensify.
+**Background**: An initial public offering would allow OpenAI to raise capital from public markets and give investors an opportunity to buy shares in the company. The enterprise market has become a major focus of competition among AI providers, and Brockman specifically identified Anthropic as a rival that has already gained traction.
 
 **Tags**: `#OpenAI`, `#IPO`, `#Enterprise AI`, `#Anthropic`, `#AI Industry`
 
 ---
 
-<a id="item-36"></a>
-## [Box Integrates Nvidia Nemotron for Faster Agent Retrieval](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/) ⭐️ 7.0/10
+<a id="item-32"></a>
+## [Dropbox Buys Tigris Data for $350 Million to Advance AI Storage](https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/) ⭐️ 7.0/10
 
-Box unveiled Box Content Retrieval, a system that integrates Nvidia&\#x27;s Nemotron embedding technology into the core of its content platform. Box claims the system answers queries four times faster while reducing errors by 20% and token usage by 90%. The integration could make enterprise content systems more practical for AI agents that need to retrieve precise information efficiently. Lower latency, fewer errors, and substantially reduced token consumption may also lower operating costs for organizations deploying retrieval-augmented generation and agentic workflows. Box Content Retrieval is described as an agent-first retrieval system that uses Nemotron embeddings to return compact, relevant, machine-ready context rather than traditional human-oriented search results. The reported performance figures come from Box, and the available material provides limited detail about the model configuration, evaluation methodology, workload, and deployment conditions.
+Dropbox announced plans to acquire Tigris Data for approximately $350 million in cash, its largest apparent acquisition to date. The deal will support DBX Agent Cloud, a storage platform for developers building AI models and agents. The acquisition positions Dropbox to expand beyond traditional file storage into infrastructure for enterprise AI workflows and agent development. It could give Dropbox a larger role in the rapidly growing market for persistent, programmable storage used by AI agents. DBX Agent Cloud is designed to give AI models and agents access to relevant files and business context, supporting tasks such as document summarization, content editing, folder organization, and approved workflows. The announcement says related AI capabilities have already rolled out to more than 70,000 teams, although limited details were provided about the acquisition&\#x27;s technical integration and financial impact.
 
-rss · TechCrunch AI · Nov 5, 14:00
+rss · TechCrunch AI · Nov 5, 15:19
 
-**Background**: Nvidia Nemotron is a family of open-weight models designed for specialized AI agents, including tasks involving reasoning and tool use. In an agent-first retrieval architecture, the AI agent is treated as the primary consumer of search results, so the system emphasizes small, precise, machine-ready outputs that agents can process immediately. This approach is closely related to retrieval-augmented generation, which grounds model responses in content retrieved from external knowledge sources.
+**Background**: AI agents need durable storage that can persist across sessions and provide access to organizational data while remaining programmable. DBX Agent Cloud extends Dropbox&\#x27;s traditional file-sharing business toward automated agentic workflows, including operations that connect ChatGPT and Claude with Dropbox content. Tigris Data brings cloud storage technology intended to underpin this expansion.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/">Box taps Nvidia’s Nemotron for new agent-first content ...</a></li>
-<li><a href="https://developer.nvidia.com/topics/ai/nemotron">Nemotron AI Models | NVIDIA Developer</a></li>
-<li><a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Build Agentic AI with Multimodal Foundation Models - NVIDIA</a></li>
+<li><a href="https://investors.dropbox.com/news-releases/news-release-details/dropbox-announces-plans-acquire-tigris-data-inc-and-unveils-dbx">Dropbox Announces Plans to Acquire Tigris Data Inc. and ...</a></li>
+<li><a href="https://thenextweb.com/news/dropbox-tigris-data-350m-acquisition">Dropbox to buy Tigris Data for $350M and launch DBX Agent Cloud</a></li>
+<li><a href="https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/">Dropbox acquires Tigris Data for $350M to bolster its AI ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Enterprise AI`, `#Content Retrieval`, `#Nvidia Nemotron`, `#AI Agents`, `#RAG`
+**Tags**: `#AI infrastructure`, `#Acquisitions`, `#Cloud storage`, `#AI agents`, `#Dropbox`
+
+---
+
+<a id="item-33"></a>
+## [Box Uses Nvidia Nemotron for Faster Agent Content Retrieval](https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/) ⭐️ 7.0/10
+
+Box has adopted Nvidia&\#x27;s Nemotron technology for Box Content Retrieval, an agent-first system that enriches content with embedded metadata to improve retrieval. Box claims the system answers queries four times faster, reduces errors by 20%, and uses 90% fewer tokens. The system could make enterprise AI agents more responsive, accurate, and economical when working with Box-managed documents. It also reflects a broader shift toward architectures in which retrieval systems prepare content and metadata specifically for agents rather than merely returning raw passages for human-facing chatbots. Box says the key mechanism is metadata embedded by Nemotron, which gives agents more useful retrieval context without requiring as many tokens. The reported figures—fourfold faster queries, 20% fewer errors, and 90% less token use—are Box&\#x27;s claims, and the available material does not provide independent validation or detailed benchmarking methodology.
+
+rss · TechCrunch AI · Nov 5, 14:00
+
+**Background**: Nemotron is Nvidia&\#x27;s family of large language and multimodal models designed for reasoning, programming, information retrieval, and agentic AI applications. In retrieval-augmented generation pipelines, token usage matters because retrieved passages become model input and can increase inference cost. An agent-first retrieval layer instead prepares content and citation-ready information for agents that may use it to answer questions or perform subsequent actions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/">Box taps Nvidia’s Nemotron for new agent - first content retrieval ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nemotron">Nemotron - Wikipedia</a></li>
+<li><a href="https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/">Build Agentic AI with Multimodal Foundation Models | NVIDIA Nemotron</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Enterprise AI`, `#Content Retrieval`, `#Nvidia Nemotron`, `#Box`, `#LLM Efficiency`
+
+---
+
+<a id="item-34"></a>
+## [Wisconsin Reports First Infant Measles Death in 35 Years](https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/) ⭐️ 7.0/10
+
+Wisconsin has reported the state&\#x27;s first infant measles death in more than 35 years. Experts will meet next week to determine whether the United States has lost its measles elimination status. The death highlights the severe risks that measles can pose for infants and signals the possible consequences of sustained transmission in under-immunized communities. A loss of elimination status would represent a major setback for US vaccination and public-health efforts. Measles elimination means interrupting continuous endemic transmission of the virus for at least 12 months within a defined geographic area; it does not require that no cases occur. Infant measles can cause serious complications, and a cited hospital-based study found that only 19.51% of the infants studied had received a first measles vaccine dose, with a reported mortality rate of 3%.
+
+rss · Ars Technica · Nov 6, 17:06
+
+**Background**: Measles is a highly contagious viral disease, and infants who have not yet received their first vaccine dose are particularly vulnerable to complications. The World Health Organization and PAO define measles elimination as interrupting continuous endemic transmission for at least 12 months in a defined area, rather than requiring zero cases. CDC notes that US outbreaks in the post-elimination era have mainly affected people who are unvaccinated or whose vaccination status is unknown.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.cdc.gov/surv-manual/php/table-of-contents/chapter-7-measles.html">Chapter 7: Measles | Manual for the Surveillance of... | CDC</a></li>
+<li><a href="https://www.wsws.org/en/articles/2026/02/01/hwts-f01.html">Measles outbreak rips through Dilley child detention center, as...</a></li>
+<li><a href="https://www.canada.ca/en/public-health/services/publications/healthy-living/canadian-immunization-guide-part-4-active-vaccines/page-12-measles-vaccine.html">Measles vaccines: Canadian immunization guide - Canada.ca</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#measles`, `#public health`, `#vaccination`, `#US health policy`
+
+---
+
+<a id="item-35"></a>
+## [Congress Summons Nvidia CEO Over Alleged Chinese Espionage Ties](https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/) ⭐️ 7.0/10
+
+Congress has summoned Nvidia CEO Jensen Huang to answer lawmakers’ concerns about his ties to an alleged Chinese intelligence asset. The available report does not identify the individual, provide Huang’s response, or specify the hearing date. The summons could intensify congressional oversight of Nvidia and U.S. national-security controls on advanced AI chips sold to China. Any findings could affect Nvidia’s leadership scrutiny, export-control policy, and the broader effort to prevent AI hardware from reaching unauthorized Chinese customers. The report centers on Huang’s alleged ties to a Chinese intelligence asset, but the available information does not establish the nature of those ties or the evidence supporting the allegation. Export controls are strategically important because recent cases have shown continued attempts to smuggle Nvidia AI chips into China despite restrictions.
+
+rss · Ars Technica · Nov 6, 14:13
+
+**Background**: Nvidia is a major supplier of AI accelerators, whose advanced models and systems are subject to U.S. export controls intended to limit China’s access to leading chip technology. The China Initiative was launched in 2018 to address alleged economic espionage and intellectual-property theft linked to China. Congressional scrutiny of company leadership is therefore part of a wider policy environment combining technology restrictions, national-security investigations, and enforcement against smuggling.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://apnews.com/article/ai-chips-nvidia-huawei-china-1ae6228c4928ddbb43f984e9b38f49dd">Nvidia loses its AI chip edge in China as US export controls boost...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/China_Initiative">China Initiative - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Nvidia`, `#AI chips`, `#US Congress`, `#Chinese espionage`, `#export controls`
+
+---
+
+<a id="item-36"></a>
+## [Blue Origin Targets Fourfold Performance at One-Quarter Cost](https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/) ⭐️ 7.0/10
+
+Blue Origin says it is developing the Northstar rocket engine, which it believes could deliver four times the performance of its BE-4 while costing only 25% as much to manufacture. The company has begun test-firing the engine and aims eventually to assemble each unit in less than a day. If Blue Origin achieves its targets, Northstar could materially reduce the cost of producing large reusable rockets while increasing their propulsion performance. That would benefit the company’s commercial launch business and broader efforts to lower the price of orbital access. The performance and cost figures are company targets rather than independently validated results, and the available announcement excerpt provides no detailed specifications. Northstar is already in a test-firing campaign, but development, manufacturing readiness, and operational reliability remain to be demonstrated.
+
+rss · Ars Technica · Nov 6, 00:17
+
+**Background**: Blue Origin’s BE-4 is a methalox, booster-class engine used on the New Glenn launch vehicle’s first stage. Reusable rocket engines seek to improve thrust and manufacturing efficiency because engines are major cost and turnaround-time drivers for reusable launch systems. Northstar is intended to build on that propulsion strategy with higher performance and lower production costs.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/">Blue Origin says it is building a higher-performing rocket ...</a></li>
+<li><a href="https://newyorkweeklytimes.com/2026/11/06/blue-origin-says-it-is-building-a-higher-performing-rocket-engine-at-1-4-the-cost/">Blue Origin says it is building a higher-performing rocket ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/New_Glenn">New Glenn - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Spaceflight`, `#Rocket Propulsion`, `#Blue Origin`, `#Reusable Launch Systems`
 
 ---
 
 <a id="item-37"></a>
-## [Meta Drops Forced AI-Training Permission for Facebook Pages](https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/) ⭐️ 7.0/10
+## [“sshole” flaw enables passwordless SSH access on Alpine Linux](https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/) ⭐️ 7.0/10
 
-Meta withdrew a proposed update to its commercial terms that would have required Facebook page owners to permit their linked content to be used for AI training. Facebook page owners will therefore not be forced to grant that permission under the abandoned proposal. The reversal avoids imposing an explicit commercial-terms requirement for creators to share their content with Meta&\#x27;s AI systems. It also highlights continuing tension over consent, data licensing, and whether social-media content should be treated as training material without a clear opt-in. The withdrawn proposal concerned linked content associated with Facebook pages, rather than a general permission to train on every post. Meta&\#x27;s broader use of public Facebook and Instagram material for AI development remains a separate concern, with opt-out options and rights varying by jurisdiction.
+A newly disclosed OpenSSH authentication-bypass vulnerability, CVE-2026-123158 and nicknamed “sshole,” can allow remote attackers to log in to vulnerable Alpine Linux systems without a valid password by supplying an unusually long password. Other distributions using musl may also be affected, depending on their configurations. The flaw could give attackers control of exposed systems that permit password-based SSH login, particularly accounts without passwords such as root. Its CVSS 3.1 score of 8.1 indicates a high-severity risk requiring rapid patching and configuration review. The bypass reportedly affects vulnerable OpenSSH configurations on Alpine Linux and potentially other musl-based systems when attackers have network access to the SSH port. Administrators should update OpenSSH and restart the running sshd daemon, or disable password authentication with “PasswordAuthentication no” until they can patch.
 
-rss · Ars Technica · Nov 6, 17:43
+rss · Ars Technica · Nov 5, 23:09
 
-**Background**: AI model development often relies on large quantities of text, images, and other content, which can include material posted on social platforms. Commercial terms can determine what users or page owners are deemed to have authorized, making proposals involving AI training significant because they may create implied consent without a specific opt-in. Search results indicate that Meta has used public Facebook and Instagram posts, photos, and comments for AI training, while users in the EU can object; however, a consistent opt-out mechanism is not available to all users.
+**Background**: SSH is a protocol used to manage remote systems securely, and sshd is the server daemon that authenticates incoming connections. The “sshole” issue is an authentication-bypass flaw rather than a cryptographically broken SSH implementation, allowing certain password checks to be circumvented under the affected conditions. Alpine Linux’s security advisory notes that upgrading the package is insufficient unless the running daemon is restarted.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.kaspersky.com/blog/meta-uses-personal-data/51548/">Meta AI plans to use the personal data of its users to train generative AI</a></li>
-<li><a href="https://www.cloudwards.net/how-to-turn-off-meta-ai/">How to Turn Off Meta AI Features on Facebook , Instagram or WhatsApp</a></li>
-<li><a href="https://www.ghostvault.live/blog/meta-ai-training-your-photos">Meta Is Training AI on Your Photos, and You Can&#x27;t Opt... | GhostVault</a></li>
+<li><a href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/">Security advisory: openssh-server password authentication ...</a></li>
+<li><a href="https://cycode.com/blog/sshole-cve-2026-123158-openssh-alpine-linux-vulnerability/">sshole (CVE-2026-123158): OpenSSH Auth Bypass on Alpine | Cycode</a></li>
+<li><a href="https://www.ox.security/blog/openssh-authentication-bypass-cve-2026-123158/">OpenSSH Bypass : CVE-2026-123158 | OX Security</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Meta`, `#AI training data`, `#Facebook`, `#creator consent`, `#tech policy`
+**Tags**: `#Linux security`, `#SSH`, `#vulnerability`, `#Alpine Linux`, `#penetration testing`
 
 ---
 
 <a id="item-38"></a>
-## [BAAJA Could Reshape U.S. Energy Infrastructure Permitting](https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/) ⭐️ 7.0/10
+## [China Reportedly Recruited Executive to Spy on Nvidia&\#x27;s Huang](https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy) ⭐️ 7.0/10
 
-The Senate is scheduled to vote on November 9, 2026, on the bipartisan Bipartisan American Affordability and Jobs Act, which would reform federal permitting for energy and other major infrastructure projects. The proposal could accelerate project approvals, potentially bringing new power generation and related facilities online sooner. Faster permitting could help meet rapidly growing electricity demand and reduce development delays that affect utilities, energy companies, workers, and consumers. It could also speed fossil-fuel projects and constrain oversight of data centers, making the bill&\#x27;s trade-offs between deployment speed, environmental review, and public safeguards consequential. Introduced as S. 5653 on September 30, 2026, BAAJA contains seven titles focused on expediting federal environmental reviews and permitting, particularly for energy-related projects. Proposed procedural reforms include narrowing environmental-review obligations, limiting judicial remedies, and restricting state and local authority over projects deemed nationally significant.
+China&\#x27;s Ministry of State Security reportedly recruited Megaspeed executive Alice Huang to gather intelligence on Nvidia CEO Jensen Huang and obtain information about American AI chips. The report says the operation also sought to influence Nvidia into making its most advanced chips available to China. The allegation illustrates how talent recruitment and industrial espionage can complement export controls in efforts to access advanced semiconductor technology. It could intensify scrutiny of Nvidia&\#x27;s executive security, China-linked industry partnerships, and U.S. semiconductor export policy. The reported target was Alice Huang, an executive at Megaspeed, with the stated aims of learning about U.S. AI chips and influencing Nvidia&\#x27;s China policy. The item cites The New York Times, but the provided excerpt does not include evidence, a government response, or Nvidia&\#x27;s response.
 
-rss · MIT Technology Review · Nov 5, 10:00
+rss · The Verge · Nov 6, 23:00
 
-**Background**: Large energy projects in the United States can face lengthy federal, state, and local permitting processes before construction begins. Congress has pursued permitting reform in multiple sessions because delays can impede electricity generation, transmission, and other infrastructure needed to meet growing demand. BAAJA represents a renewed bipartisan effort to streamline that process, though it remains a proposal unless enacted.
+**Background**: China&\#x27;s Ministry of State Security is responsible for intelligence, counterintelligence, and national security operations. Advanced AI chips are strategic technologies whose exports to China have been restricted through U.S. export-control measures. Analysts have identified foreign technology acquisition through industrial espionage and talent recruitment as part of China&\#x27;s broader semiconductor strategy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R49492/R49492.2.pdf">Bipartisan American Affordability and Jobs Act (BAAJA) of ...</a></li>
-<li><a href="https://bipartisanpolicy.org/explainer/explaining-the-senate-permitting-bill-the-bipartisan-american-affordability-and-jobs-act/">Explaining the Senate Permitting Bill, the Bipartisan ...</a></li>
-<li><a href="https://apnews.com/article/permitting-reform-energy-projects-environment-nepa-80d203a503d5843f32c8160dc004646b">Senate reaches bipartisan deal on permitting bill for energy ...</a></li>
+<li><a href="https://www.csis.org/analysis/chinas-new-strategy-waging-microchip-tech-war">China ’s New Strategy for Waging the Microchip Tech War</a></li>
+<li><a href="https://csis-website-prod.s3.amazonaws.com/s3fs-public/2023-05/230503_Allen_Microchip_War.pdf?VersionId=hGO78uxC3Z3yCzdS8R_bqlNgg7RQpHJO">China ’s New Strategy for</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#energy-infrastructure`, `#US-policy`, `#permitting-reform`, `#legislation`, `#infrastructure`
+**Tags**: `#AI chips`, `#Nvidia`, `#China`, `#industrial espionage`, `#semiconductors`
 
 ---
 
 <a id="item-39"></a>
-## [Data Brokers Offer Corporate Files and Emails for AI Training](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/) ⭐️ 7.0/10
+## [SpaceX Pushes Starlink Mobile Toward Major Carrier Status](https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news) ⭐️ 7.0/10
 
-Data brokers are pitching companies on selling internal emails, documents, Slack messages, and support tickets to AI laboratories for model training. Some offers reportedly cite fees of up to $2 million, while employees and privacy advocates are questioning consent, ownership, and workplace safeguards. Such licensing could give AI companies large volumes of proprietary workplace information that may contain confidential business data, personal details, and legally restricted information. It also shifts responsibility for AI data governance toward employers, workers, brokers, and model developers whose interests and legal obligations may not align. The material identified for sale includes emails, documents, Slack conversations, and customer-service tickets, and reported pitches have referenced fees as high as $2 million. Organizations still need to assess provenance, authorization, confidentiality, and applicable privacy restrictions before any workplace data is licensed for AI training.
+SpaceX has said it intends to make Starlink Mobile a major mobile carrier while expanding its direct-to-cell satellite constellation and partnerships. The company has already deployed thousands of satellites, but it still needs to build out terrestrial 5G infrastructure to compete with AT&amp;T, Verizon, and T-Mobile. SpaceX&\#x27;s ambitions could extend satellite connectivity from messaging and limited data into broader 5G service, potentially improving coverage in underserved areas. It also signals a shift from Starlink serving as a satellite partner to competing more directly with established terrestrial carriers. Direct-to-cell technology allows compatible phones to communicate through satellites using spectrum licensed by their terrestrial carrier, and the service is already commercially available for satellite messaging in the United States and New Zealand. Starlink Mobile V2 is intended to provide full 5G connectivity in many environments, but reliable performance still depends on satellite capacity, network integration, and terrestrial infrastructure.
 
-rss · Wired · Nov 6, 16:00
+rss · The Verge · Nov 6, 22:45
 
-**Background**: Data brokers act as intermediaries between organizations holding information and buyers seeking data for commercial or technical uses. Business data licensing is therefore expanding from conventional datasets to operational workplace records, creating a need for documented provenance and lineage. Privacy regimes such as GDPR, HIPAA, and FERPA can restrict certain uses depending on the data and context, while employee expectations and contractual obligations also affect whether information can lawfully and ethically be sold.
+**Background**: Direct-to-cell networks let ordinary smartphones connect directly to satellites, reducing or eliminating the need for a nearby tower dedicated to mobile coverage. Starlink&\#x27;s approach combines space-based capacity with licensed terrestrial carrier spectrum and partnerships, while its planned Mobile V2 service adds terrestrial 5G infrastructure to supplement satellite coverage.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://newsroomamerica.com/a/NKP820e5uwXrhr3AnrbqthPmdmd/wired_s_backchannel_reports_data_brokers_are_pitching_companies_on_selling_internal_files_emails_documents_slack_messages_and_tickets_to_ai_labs_for_model_training_with_pitches_citing_fees_up_to_2_million.html">Media Monitor: WIRED Reports Data Brokers Pitching Corporate ...</a></li>
-<li><a href="https://businessdatabrokers.com/">Business Data Licensing for AI | Business Data Brokers</a></li>
-<li><a href="https://particula.tech/blog/data-privacy-ai-training-restrictions">AI Training Data You Can&#x27;t Legally Use: GDPR, HIPAA, FERPA</a></li>
+<li><a href="https://starlink.com/public-files/DIRECT_TO_CELL_SERVICE_FEB_25.pdf">STARLINK DIRECT TO CELL SERVICE NOW AVAILABLE</a></li>
+<li><a href="https://starlink.com/business/mobile">Starlink Business | Starlink Mobile</a></li>
+<li><a href="https://www.androidauthority.com/space-x-starlink-mobile-3694694/">SpaceX outlines plans for Starlink Mobile network launch in 2027</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI training data`, `#data brokers`, `#workplace privacy`, `#AI ethics`, `#data governance`
+**Tags**: `#Starlink`, `#SpaceX`, `#Direct-to-Cell`, `#5G`, `#Telecommunications`
 
 ---
 
 <a id="item-40"></a>
-## [Inkling 2 Small Debuts with Multimodal MoE Capabilities](https://dev.to/arthur1988/inkling-2-small-fa-bu-68-xiao-shi-zhu-yu-xun-lian-duo-mo-tai-yu-ke-ding-zhi-xing-bing-zhong-2kkl) ⭐️ 7.0/10
+## [Bipartisan US Bill Would Accelerate Energy Project Permitting](https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote) ⭐️ 7.0/10
 
-Thinking Machines released Inkling 2 Small, a 594-billion-parameter MoE model with 17 billion active parameters, native text and image inputs, text output, and a one-million-token context window. Inference and fine-tuning are available through Tinker and Tinker Playground, while weight release under Apache 2.0 remains planned for the following week pending external safety testing. The model combines native multimodality, sparse MoE efficiency, and a strong fine-tuning focus, potentially benefiting developers building specialized vision-language applications. Its planned open-weight release could also expand local deployment and customization options, although that benefit is not yet realized at launch. Main pretraining consumed 8.4 trillion tokens and took 68 hours on GB300 using NVFP4 throughout pretraining, mid-training, and post-training; a separate figure of roughly 12 trillion tokens may include mid-training, so it should not be conflated with the main stage. The model scored 31 on Artificial Analysis Intelligence Index v5.0.1, but detailed fine-tuning comparisons, GPU count, full benchmark coverage, and independent safety-test results were not disclosed.
+The US Senate is scheduled to vote on November 9 on the Bipartisan American Affordability and Jobs Act, a sweeping proposal to streamline federal permitting for major energy and infrastructure projects. The measure could accelerate renewable-energy development while also enabling faster approval of more polluting projects and reducing oversight of new data centers. Permitting timelines and litigation risks can determine whether large energy projects reach construction, affecting electricity availability, utility costs, and the pace of clean-energy deployment. The bill also connects energy policy to the rapidly growing electricity demands of data centers, while raising questions about environmental safeguards and community oversight. BAAJA contains seven titles and reforms federal environmental review and permitting processes to expedite infrastructure. It also directs the Department of Energy to expand a voluntary streamlined permitting and inspection process, including an online platform that state, local, and tribal permitting offices can adopt.
 
-rss · Dev.to · Nov 6, 21:04
+rss · The Verge · Nov 6, 18:42
 
-**Background**: A mixture-of-experts model routes each input to selected expert networks, allowing a model to have a very large total parameter count while activating only a subset for each computation. Tinker is a model fine-tuning service intended to simplify the infrastructure required to adapt language and multimodal models. Under Apache 2.0, model weights can generally be used, modified, and redistributed subject to the license&\#x27;s conditions, including its notice and disclaimer provisions.
+**Background**: Most large US energy and infrastructure projects require some form of federal permit, funding, or approval, so delays under the National Environmental Policy Act and related litigation can postpone construction. Permitting reform is therefore intended to shorten development timelines, but the trade-off involves how environmental review and public oversight are preserved or reduced. Data centers add pressure because their electricity demand may require additional generation and grid infrastructure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://huggingface.co/blog/zh/moe">混合专家模型（MoE）详解 - Hugging Face</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/2577834">AI基础设施新玩家：Tinker如何重新定义LLM微调工作流？-腾讯云开发者...</a></li>
-<li><a href="https://www.apache.org/licenses/LICENSE-2.0.html">Apache License, Version 2.0 | Apache Software Foundation</a></li>
+<li><a href="https://bipartisanpolicy.org/explainer/explaining-the-senate-permitting-bill-the-bipartisan-american-affordability-and-jobs-act/">Explaining the Senate Permitting Bill, the Bipartisan ...</a></li>
+<li><a href="https://bipartisanpolicy.org/explainer/permitting-101-nepa-reform/">Permitting 101: NEPA Reform • Bipartisan Policy Center</a></li>
+<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R49326/R49326.1.pdf">Data Centers and the Electricity Grid: Frequently Asked Questions</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#多模态模型`, `#混合专家模型`, `#模型微调`, `#开放权重`, `#视觉语言模型`
+**Tags**: `#energy-policy`, `#permitting`, `#infrastructure`, `#data-centers`, `#clean-energy`
 
 ---
 
 <a id="item-41"></a>
-## [PS4 Multiboot Adds Gamepad-Controlled Linux Installation and Selection](https://dev.to/blue0x1/building-a-multiboot-linux-menu-for-the-ps4-controlled-from-the-gamepad-1afj) ⭐️ 7.0/10
+## [Meta Muse Adds Custom AI-Powered Spaces](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces) ⭐️ 7.0/10
 
-PS4 Multiboot introduces an on-console menu that lets jailbroken PS4 users install and boot multiple Linux root filesystems using only the gamepad. Its initramfs combines an approximately 900-line BusyBox init script with small C utilities to manage the installation and boot workflow. The project removes much of the need for a PC, USB-based setup, or manual partitioning when adding Linux distributions to a PS4. It also lets users retain several root filesystems and choose among them from the television and controller, improving the practicality of homebrew Linux on the console. Because the PS4 user partition is encrypted and uses the FreeBSD UFS2 file system with experimental Linux write support, it remains mounted read-only except for brief file-creation operations. Each distribution is stored in a large image file whose physical blocks are discovered with FIBMAP and mapped through device mapper; the resulting block device is formatted as ext4 and mounted as root, allowing writes without modifying the underlying UFS2 data.
+Meta is rolling out customizable “spaces” to all Muse users, enabling them to describe and create interactive, app-like experiences such as shopping hubs, school dashboards, music trackers, and trivia games. Users can refine these spaces through further requests and interact with them by checking items, adding notes, and making edits. This expands Muse from a general-purpose AI assistant into a platform for creating persistent, task-specific interfaces without conventional app development. It could broaden AI adoption across shopping, education, entertainment, and personal productivity while intensifying competition among no-code and agentic AI products. Spaces can be added to Muse’s sidebar or main tabs and replaced as preferences change; connected apps may also let them refresh information such as concert dates and prices. Meta is also exploring ways for users to share spaces, but the announcement provides little detail about creation safeguards, underlying model behavior, availability by region, or privacy controls.
 
-rss · Dev.to · Nov 6, 21:02
+rss · The Verge · Nov 6, 18:10
 
-**Background**: Linux support on the PS4 predates PS4 Multiboot, with community kernels and prepared distributions already available. A jailbroken PS4 normally boots through the PS4 Linux Loader, which starts a Linux kernel and initramfs from the console&\#x27;s internal drive. Because that initial environment contains only an initramfs rather than a complete installer or desktop, the multiboot logic and installation tools must operate before the selected distribution is running.
+**Background**: Muse is Meta’s personal AI agent, built to perform tasks across connected services and, when no suitable tool exists, create one on demand. Spaces sit within that broader agentic-app model by turning a user’s description into a persistent interface that can be revisited and modified over time. Meta says Muse operates in a secure virtual environment designed to protect user data while acting across apps.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dev.to/blue0x1/building-a-multiboot-linux-menu-for-the-ps4-controlled-from-the-gamepad-1afj">Building a multiboot Linux menu for the PS4, controlled from ...</a></li>
-<li><a href="https://github.com/admyly/linux-multiboot">GitHub - admyly/ linux - multiboot : Scripts and documentation to aid in...</a></li>
-<li><a href="https://ps4linux.com/forums/d/446-ps4-multiboot-boot-menu-and-installer-for-any-linux-distro-controller-only">PS4 Multiboot: boot menu and installer for any Linux distro ...</a></li>
+<li><a href="https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/">Design the Muse App, Just for You - About Facebook</a></li>
+<li><a href="https://www.theverge.com/tech/1028871/meta-muse-ai-spaces">Meta’s Muse AI can create custom ‘spaces’ for the version of ...</a></li>
+<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse : The World’s First Personal AI Agent Built for...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#PS4`, `#Linux`, `#homebrew`, `#reverse-engineering`, `#multiboot`
+**Tags**: `#Meta`, `#Generative AI`, `#AI Assistants`, `#No-Code Apps`, `#Product Announcement`
 
 ---
 
 <a id="item-42"></a>
-## [Verify CVE-2025-4517 Patches Across Python Containers and Dependencies](https://dev.to/ioneyrezende/patch-verification-for-cve-2025-4517-in-containers-and-dependencies-4h87) ⭐️ 7.0/10
+## [Data Brokers Sell Corporate Files for AI Training](https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails/) ⭐️ 7.0/10
 
-The article explains that CVE-2025-4517 can bypass Python tar extraction path checks, including the \`data\` and \`tar\` filters, and provides an operational process for verifying patched runtimes across base images, sidecars, worker images, and vendored CPython builds. It identifies fixed releases including Python 3.9.23, 3.10.18, 3.11.13, 3.12.11, 3.13.4, and 3.14.0b1. Patching only the host interpreter does not protect workloads when an unpatched Python runtime remains inside a container or application artifact. The issue is significant because extracting attacker-controlled archives could permit arbitrary file writes, so teams must verify the interpreter and code path actually used at runtime. The flaw involves \`os.path.realpath\` returning an incorrect result for a long symlink chain beyond a platform path-length limit, allowing the extraction filter to accept a path outside the destination directory. The fix normalizes link targets and uses strict allow-missing resolution; teams should record image digests, interpreter versions, extraction entry points, and isolated test results, then rebuild derived and vendored artifacts.
+Data brokers are acquiring workplace files, emails, and other internal corporate materials to supply AI developers with training data. The practice is drawing attention over privacy, consent, and corporate-governance risks. As access to public web data becomes harder to secure, proprietary workplace content is becoming a valuable—and potentially sensitive—source for AI training. Organizations need clear controls over what leaves their systems and whether employees and customers have authorized its use. The available reporting describes a market in which data brokers collect corporate communications and files on behalf of AI companies. AI models can also expose personal or confidential information through memorization or data leakage, making transparent data handling, privacy safeguards, and governance frameworks important.
 
-rss · Dev.to · Nov 6, 21:00
+rss · Wired · Nov 6, 16:00
 
-**Background**: Python&\#x27;s \`tarfile\` extraction filters are intended to block unsafe archive members, including absolute paths, parent-directory traversal, and symlinks that escape the extraction directory. CVE-2025-4517 affects extraction of untrusted tar archives through \`TarFile.extract\(\)\` or \`extractall\(\)\` when the \`data\` or \`tar\` filter is used. Containerized and vendored applications may ship separate CPython builds, so host package metadata alone does not establish that the deployed runtime is patched.
+**Background**: Data brokers acquire, aggregate, or license information from multiple sources and then sell access to it. AI developers use such data to train or improve models, while public web data is becoming less readily available and data acquisition and cleaning increasingly significant development costs. Governance frameworks such as the NIST AI Risk Management Framework and ISO/IEC 42001 can help organizations identify and mitigate privacy risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nvd.nist.gov/vuln/detail/cve-2025-4517">NVD-CVE-2025-4517</a></li>
-<li><a href="https://github.com/0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass">GitHub - 0xDTC/CVE-2025-4517-tarfile-PATH_MAX-bypass: Python ...</a></li>
-<li><a href="https://docs.docker.com/dhi/explore/security-concepts/sbom/">Software Bill of Materials ( SBOMs ) | Docker Docs</a></li>
+<li><a href="https://helloentrepreneurs.com/technology/ai/openai-anthropic-and-other-ai-giants-turn-to-corporate-emails-and-chats-as-public-web-data-runs-short-fueling-a-new-race-for-ai-training-data-94290/">OpenAI, Anthropic and Other AI Giants Turn to Corporate Emails and ...</a></li>
+<li><a href="https://www.safeshield.cloud/the-hidden-privacy-risks-inside-ai-data-training">The Hidden Privacy Risks Inside AI Data Training (and how ...</a></li>
+<li><a href="https://www.docker.com/blog/what-is-ai-governance/">What is AI Governance ? | Docker</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#CVE-2025-4517`, `#Python`, `#container-security`, `#tar-extraction`, `#dependency-management`
+**Tags**: `#AI training data`, `#data brokers`, `#privacy`, `#corporate data`, `#AI ethics`
 
 ---
 
 <a id="item-43"></a>
-## [Lancet Seminar Reviews Retinoblastoma](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901382-6/fulltext?rss=yes) ⭐️ 7.0/10
+## [Rare Decay Offers a First Glimpse of the Zeptoverse](https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/) ⭐️ 7.0/10
 
-This Lancet seminar reviews retinoblastoma as the most common primary intraocular malignancy of childhood, highlighting its potential for cure, global inequities, and molecular origins. It emphasizes biallelic RB1 inactivation and MYCN amplification in rare RB1-negative cases. Although retinoblastoma is largely curable, major disparities in disease burden and outcomes highlight a significant global health-equity challenge. The seminar also links these clinical inequalities to the tumor&\#x27;s biology, including the small subset of cases driven by MYCN amplification. Retinoblastoma is thought to originate from cone photoreceptor precursor cells in the developing retina, with biallelic inactivation of the RB1 tumor suppressor gene as the principal driver. Fewer than 2% of cases lack a detectable RB1 pathogenic variant, and approximately half of those cases instead exhibit high-level MYCN oncogene amplification.
+The LHCb collaboration at CERN has found the first evidence of a one-in-ten-billion decay of a beauty particle, using data from a single experiment after a 42-year search. The associated signal may allow physicists to probe interactions on a scale roughly 100 billion times smaller than an atom, a region nicknamed the “zeptoverse.” 这一极其罕见的衰变过程可能为研究远小于原子的距离提供前所未有的实验窗口，并检验粒子在当前实验可及的最小尺度上如何相互作用。它也体现了LHC长期精密实验的科研价值。 LHCb reported evidence rather than a fully established observation, and it was obtained from one experiment rather than a combined result. The headline finding concerns a beauty-particle decay occurring at roughly one in ten billion, while the zeptoverse wording describes the extraordinarily small scale associated with the measurement.
 
-rss · The Lancet · 最新文章 · Nov 4, 23:30
+rss · Wired · Nov 5, 10:30
 
-**Background**: Retinoblastoma is a rare pediatric eye cancer, with about 80% of cases first detected in children younger than three years. Loss of RB1 function is also foundational to cancer biology because dysregulation of the pathway involving this tumor suppressor occurs in many cancers. In retinoblastoma, genetic testing can clarify hereditary susceptibility and inform clinical management.
+**Background**: CERN’s Large Hadron Collider accelerates particles and brings them into collision so that researchers can study matter and its transformations. The LHCb detector is optimized for particles containing bottom quarks, including beauty particles, whose rare decays can reveal effects that are too subtle to detect in more common processes. “Zeptoverse” is an informal nickname for a scale roughly 100 billion times smaller than an atom.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9073582/">Genome maintenance in retinoblastoma: Implications for ...</a></li>
-<li><a href="https://www.jci.org/articles/view/88508">JCI - A mouse model of MYCN -driven retinoblastoma reveals...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Retinoblastoma">Retinoblastoma - Wikipedia</a></li>
+<li><a href="https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/">LHCb finds evidence of one-in-ten-billion particle decay - CERN</a></li>
+<li><a href="https://www.ukri.org/news/scientists-find-evidence-of-rarest-particle-decay-after-42-years/">Scientists find evidence of rarest particle decay after 42 ...</a></li>
+<li><a href="https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo">The zeptoverse : what is it and how will it transform physics ?</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#retinoblastoma`, `#pediatric oncology`, `#RB1`, `#MYCN`, `#global health equity`
+**Tags**: `#particle-physics`, `#rare-decay-events`, `#subatomic-scales`, `#experimental-physics`, `#fundamental-research`
 
 ---
 
 <a id="item-44"></a>
-## [Mapping Digital Readiness for Cardiovascular Care](https://www.nature.com/articles/s41591-026-04800-0) ⭐️ 7.0/10
+## [Ricursive Launches Ripple-65B Preview for Agentic Coding](https://dev.to/delimitter/ricursive-releases-ripple-65b-preview-a-65b-open-weight-model-for-agentic-coding-2962) ⭐️ 7.0/10
 
-A Nature Medicine study linked national data on cardiometabolic burden, cardiology workforce, and digital readiness across 82,999 U.S. census tracts. Presented at the 2026 AHA Scientific Sessions, it identifies communities where digital cardiovascular care could be deployed and where enabling investment may be needed first. The analysis offers a national framework for allocating digital-health investments under cardiology workforce constraints. It could help health systems target remote monitoring, virtual consultation, and other digital cardiovascular services without worsening inequities in high-burden communities. The study combines U.S. Census and other national health data at the census-tract level, jointly assessing disease burden, workforce availability, and readiness for digital-care adoption. Its central distinction is between communities ready for deployment and those requiring infrastructure or adoption support before implementation.
+Ricursive Intelligence released Ripple-65B Preview, an Apache 2.0-licensed dense Transformer with 65 billion parameters for agentic coding. The model supports contexts of up to one million tokens and is available through Hugging Face, Together AI, OpenRouter, Fireworks, and GMI Cloud. The release combines permissive open-weight licensing, a very long context window, and access to multiple inference providers, making it potentially useful to teams seeking customizable coding models. Its 80.52 vendor-reported TerminalBench 2.1 score also strengthens the competitive position of open-weight alternatives in terminal-based software tasks. Ripple-65B is a dense architecture rather than a mixture of experts, was trained on 12 trillion tokens, and reportedly required 1.4 million reinforcement-learning rollouts and about $32 million in total development and training costs. Reported results include 79.1% on SWE-Bench Pro v2.0 Hard and 71.67% on MCP Atlas, but these are vendor-reported figures and benchmark outcomes can vary with the scoring harness.
 
-rss · Nature Medicine · Nov 5, 00:00
+rss · Dev.to · Nov 6, 23:26
 
-**Background**: Cardiovascular care capacity depends not only on the number of cardiologists but also on where clinicians are available relative to patient need. Digital care can extend reach, but its successful adoption depends on factors such as infrastructure, organizational readiness, and support for users. Readiness assessments therefore help distinguish communities that can begin using digital cardiovascular services from those needing foundational investment.
+**Background**: Agentic coding systems go beyond code completion by planning, editing files, invoking tools, and iteratively completing broader development tasks. Open weights mean that trained model parameters are publicly available for inspection, modification, and deployment under the stated license, though an open-weight release is not necessarily fully open source. Dense Transformers process every token through all model parameters, while mixture-of-experts models activate only selected parameter subsets.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s41591-026-04800-0">Digital readiness for cardiovascular care in high-burden US ...</a></li>
-<li><a href="https://www.medrxiv.org/content/10.64898/2026.09.11.26362838v1.full.pdf">Digital readiness for cardiovascular care in high-burden US ...</a></li>
-<li><a href="https://www.medrxiv.org/content/10.64898/2026.09.11.26362838v1">Digital readiness for cardiovascular care in high-burden US ...</a></li>
+<li><a href="https://arxiv.org/html/2508.11126v2">AI Agentic Programming: A Survey of Techniques, Challenges ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Open_weights">Open weights - Wikipedia</a></li>
+<li><a href="https://wandb.ai/zaiinn440/hybridMoe/reports/MoE-vs-Dense-vs-Hybrid-LLM-architectures--Vmlldzo3NzYwNzAw">MoE vs Dense vs Hybrid LLM architectures | hybridMoe – Weights...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#digital health`, `#cardiovascular care`, `#health equity`, `#workforce shortages`, `#public health`
+**Tags**: `#open-weight models`, `#agentic coding`, `#large language models`, `#Transformers`, `#AI coding`
 
 ---
 
 <a id="item-45"></a>
-## [How to Report and Disclose 15,000 Infected Websites](https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/) ⭐️ 6.0/10
+## [Loopscale Discloses Two Genesis Vault Exploit Paths](https://dev.to/pandasecurity/loopscale-pricing-misconfig-and-nav-loan-exploit-1eok) ⭐️ 7.0/10
 
-The article examines a list of roughly 15,000 allegedly compromised websites and discusses how researchers can identify affected sites, notify their owners, and disclose the findings responsibly. Suggested actions include reporting domains to browser vendors, submitting them to blocklists, and providing owners with enough detail to remediate their systems. 大规模网站入侵可能在站长察觉之前向大量访问者传播恶意软件或钓鱼内容。协调一致的报告与披露流程可以减少暴露风险，同时兼顾用户保护、声誉损害、过早披露以及不必要中断等问题。 Browser vendors can apply warning screens or blocklisting, while owners may notice suspicious traffic patterns, user complaints, or declines in visits. Public lists should ideally be supported by verified evidence and clear remediation guidance, since the article describes the sites as allegedly compromised and that status should not be treated as conclusively proven.
+Loopscale paused its Solana lending protocol on November 5, 2026, after more than 30,000 malicious API requests per day targeted its Genesis Vaults. The team disclosed that a SOL vault pricing misconfiguration enabled an approximately $412,000 undercollateralized loan, while an attempted USDC vault NAV inflation was reportedly stopped within 30 seconds before a roughly $521,000 disproportionate redemption. The incident shows how a pricing configuration error and a vault valuation flaw can create materially different lending risks within the same protocol. It also demonstrates that automated transaction controls may stop some attacks quickly, although the absence of public transaction signatures limits independent verification of both exploit paths. The disclosed attacks used multi-step transactions and targeted both publicly inspectable program logic and private transaction-building APIs. Loopscale said affected vaults were made whole, no depositors lost funds, priority lending had resumed by November 6, and vault withdrawals remained restricted, while the cited primary reports did not publish on-chain Solana signatures.
 
-hackernews · Hacker News \(热门\) · Nov 6, 18:13 · [Discussion](https://news.ycombinator.com/item?id=50396064)
+rss · Dev.to · Nov 6, 23:13
 
-**Background**: Google Safe Browsing provides a channel for reporting malicious pages and integrates browser warnings across Google products. Website malware scanners can inspect public-facing files and check blocklist status, but scanning tools may produce incomplete results and cannot by themselves establish how every site was compromised. Responsible disclosure generally favors giving the affected organization a reasonable opportunity to investigate and remediate the issue before wider publication.
+**Background**: Genesis Vaults in DeFi lending hold collateral and account for deposited assets, allowing borrowers to receive loans against them under specified conditions. Overcollateralization depends on reliable asset valuations, so a pricing misconfiguration can make insufficient collateral appear sufficient. A vault&\#x27;s net asset value, or NAV, can also determine the exchange rate between shares and underlying assets, meaning temporary accounting or valuation manipulation may enable disproportionate withdrawals if safeguards fail.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bugcrowd.com/blog/vulnerability-disclosure-policy-what-is-it-why-is-it-important/">Vulnerability Disclosure Policy: What is It &amp; Why is it... | @Bugcrowd</a></li>
-<li><a href="https://sitecheck.sucuri.net/">Website Security Checker | Malware Scan | Sucuri SiteCheck</a></li>
-<li><a href="https://www.google.com/safebrowsing/report_badware/">Report a Page to Google Safe Browsing</a></li>
+<li><a href="https://chainscorelabs.com/protocol/circle-usdc/incidents-and-security-advisories/oracle-misconfiguration-and-flash-loan-cascades-involving-usdc">Oracle Misconfig &amp; Flash Loan Cascades with USDC</a></li>
+<li><a href="https://crypto.training/hacks/2022-12-overnight/">Overnight Finance USD+ Exploit — NAV Inflation via Synapse ...</a></li>
+<li><a href="https://www.cryptohawking.com/blog/erc4626-inflation-attack">ERC-4626 Inflation Attack: How 1 Wei Drains a Vault</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Participants broadly favored reporting compromised domains to browser vendors, adding them to blocklists such as Google Safe Browsing, and contacting owners with specific compromise details. Some questioned whether the researcher was seeking a bounty, while others emphasized that disclosure should minimize overall harm even when public listings could damage affected sites.
-
-**Tags**: `#cybersecurity`, `#malware`, `#responsible-disclosure`, `#web-security`, `#safe-browsing`
+**Tags**: `#DeFi Security`, `#Solana`, `#Exploit Disclosure`, `#Lending Protocol`, `#Oracle Pricing`
 
 ---
 
 <a id="item-46"></a>
-## [Deus Ex at 25: Design Lessons and Lasting Influence](https://www.filfre.net/2026/11/deus-ex/) ⭐️ 6.0/10
+## [Mapping Digital Readiness for High-Burden U.S. Communities](https://www.nature.com/articles/s41591-026-04800-0) ⭐️ 7.0/10
 
-The Digital Antiquarian published a retrospective on Deus Ex, examining its design, narrative, historical context, soundtrack, technical constraints, and cultural legacy. The accompanying Hacker News discussion added firsthand recollections, praise for the music, and references to the game’s extensive modding community. The retrospective revisits a landmark immersive sim at a time when interest in systemic game design and player-driven remixing remains strong. Deus Ex’s combination of intersecting systems, conspiracy-driven narrative, and unconventional presentation continues to influence how games are designed and discussed. Released by Ion Storm in June 2000, Deus Ex uses level structures and interacting systems to support multiple solutions, although its engine imposed limitations on geometry and presentation. The discussion also notes that simplifying some visual omissions to polygon-count constraints is more complicated than the retrospective’s explanation suggests.
+A Nature Medicine study linked national data on cardiometabolic disease burden, cardiology workforce, and digital readiness across 82,999 U.S. census tracts. It identifies communities where digital cardiovascular care could be deployed and others that may need enabling investment first. The analysis could help health systems and policymakers target telehealth and other digital cardiovascular services where specialist shortages are most severe. It also highlights that expanding technology alone will not be sufficient without local infrastructure, devices, affordability, and implementation capacity. The work was presented at the 2026 AHA Scientific Sessions and published online in Nature Medicine on November 5, 2026. Its effectiveness depends on whether communities possess the infrastructure, devices, affordability, and capacity needed to use digital services.
 
-hackernews · Hacker News \(热门\) · Nov 6, 15:44 · [Discussion](https://news.ycombinator.com/item?id=50393758)
+rss · Nature Medicine · Nov 5, 00:00
 
-**Background**: Deus Ex is widely treated as a poster child for the immersive-sim genre, in which interconnected systems allow players to approach objectives in different ways. Set roughly 100 to 150 years in the future, it follows JC Denton, a secret agent working for the anti-terrorism organization UNATCO, and explores themes of conspiracy and social control. Its long-lived community has preserved and expanded the original game through mods such as GMDX, The Nameless Mod, and The Purist Mod.
+**Background**: The study combines three dimensions: the health burden from cardiometabolic disease, the availability of cardiology specialists, and a community&\#x27;s ability to support digital care. Related community-level research has developed a Digital Health Index that summarizes readiness using socioeconomic conditions, access to care, and digital connectivity. Digital cardiovascular care may extend specialist reach, but it requires more than internet access to work at scale.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.gamedeveloper.com/design/a-guide-to-systems-based-game-development">A Guide to Systems -Based Game Development</a></li>
-<li><a href="https://www.moddb.com/mods/deus-ex-community-update">Deus Ex Community Update mod - ModDB</a></li>
-<li><a href="https://www.filfre.net/2026/11/deus-ex/">Deus Ex The Digital Antiquarian</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42818929/">Digital readiness for cardiovascular care in high-burden US ...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42988365/">Digital readiness for cardiovascular care in high-burden US ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13280703/">A Community-Level Digital Health Readiness Index for the US</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters describe Deus Ex as a formative favorite, praising its soundtrack, divergent player outcomes, and influential UNATCO themes. They also recommend major mods and challenge the retrospective’s overly simple explanation of the twin towers’ absence from the skyline.
-
-**Tags**: `#Deus Ex`, `#Game Design`, `#Game Retrospectives`, `#Modding`, `#Games Journalism`
+**Tags**: `#digital health`, `#cardiovascular care`, `#health workforce`, `#health disparities`, `#telehealth`
 
 ---
 
 <a id="item-47"></a>
-## [Anthropic IPO Buyers Weigh $1.1 Trillion Valuation](https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout) ⭐️ 6.0/10
+## [Deus Ex Retrospective Examines Design, Technology, and Legacy](https://www.filfre.net/2026/11/deus-ex/) ⭐️ 6.0/10
 
-Potential buyers reportedly see Anthropic&\#x27;s IPO valuation as low as $1.1 trillion after a sharp decline in AI-sector shares. The figure reflects speculative investor expectations rather than a confirmed offering price or company announcement. A trillion-dollar valuation would make Anthropic one of the world&\#x27;s most highly valued private-to-public AI transitions, but the wide range of buyer expectations signals mounting uncertainty over its growth and risks. Local models that reduce subscription demand, expensive compute requirements, post-IPO share unlocks, and possible U.S. policy changes could all affect how investors price the company. Search results describe a staged insider lockup of roughly 180 to 365 days for an IPO expected in November 2026, with potential early-release provisions tied to dates, earnings, or stock-price milestones. Local models continue to gain ground in privacy, offline use, and cost, although cloud frontier models retain advantages in frontier reasoning, multimodal work, and difficult analysis.
+A new retrospective revisits the 2000 game Deus Ex, examining its design, development history, technical constraints, music, and influence on later games. Rather than announcing a new release or technical breakthrough, the article offers a detailed historical analysis that also generated substantial community discussion. The retrospective illustrates how Deus Ex became a defining example of the immersive-sim genre and how its branching systems, multiple solutions, and transhumanist themes shaped game design. It also demonstrates the value of preserving development history because practical constraints often explain design choices better than simplified technical narratives do. Ion Storm built the original game with the Unreal Engine, customizing its editor and supporting tools for dialogue, content export, and lip synchronization; coding difficulties, non-player-character behavior, and schedule constraints led to scaled-down or removed features. One commenter challenged the article&\#x27;s explanation of the missing Twin Towers, arguing that the cause was more complicated than an engine polygon limit.
 
-hackernews · Hacker News \(热门\) · Nov 6, 16:54 · [Discussion](https://news.ycombinator.com/item?id=50394906)
+hackernews · Hacker News \(热门\) · Nov 6, 15:44 · [Discussion](https://news.ycombinator.com/item?id=50393758)
 
-**Background**: An IPO lockup restricts insiders from selling newly issued shares for a specified period after listing, and large or unusually timed unlocks can create additional supply and volatility. Local LLMs are models run on a user&\#x27;s own computer rather than primarily through cloud services, offering greater data control and lower recurring costs. Political risks include tighter scrutiny of data centers, chip supply and pricing, and legislation affecting AI companies.
+**Background**: Deus Ex was released by Ion Storm in 2000 and is widely regarded as a landmark immersive sim, a genre associated with flexible systems and multiple ways to complete objectives. Its development drew on Looking Glass Studios&\#x27; System Shock and Warren Spector&\#x27;s &quot;problems, not puzzles&quot; design philosophy, while the game adapted Unreal Engine tools for a first-person role-playing game. The original became a commercial success, selling one million copies worldwide, and its approach has continued to influence later games.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://fortrovepartners.com/anthropic-ipo-lockup-period-build-your-plan-before-the-announcement-not-after/">Anthropic IPO Lockup Period: Build Your Plan Before the ...</a></li>
-<li><a href="https://www.inkeybit.com/blog/local-llm-vs-cloud-ai-comparison">Local LLMs vs Cloud AI: The Honest 2026 Comparison | inkeybit</a></li>
-<li><a href="https://www.imperiochaos.com/insights/openai-ai-regulatory-strategy-tbpn-altman-blueprint">AI Regulatory Strategy Just Changed. — Imperio Chaos</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Deus_Ex_%28video_game%29">Deus Ex (video game) - Wikipedia Deus Ex design document Postmortem: Ion Storm&#x27;s Deus Ex - Game Developer » Deus Ex The Digital Antiquarian - filfre.net Classic Tools Retrospective: The tools that built Deus Ex ... Deus Ex - Wikipedia Deus Ex - daily.dev</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Deus_Ex">Deus Ex - Wikipedia</a></li>
+<li><a href="https://deusex.fandom.com/wiki/Deus_Ex_design_document">Deus Ex design document Postmortem: Ion Storm&#x27;s Deus Ex - Game Developer » Deus Ex The Digital Antiquarian - filfre.net Classic Tools Retrospective: The tools that built Deus Ex ... Deus Ex - Wikipedia Deus Ex - daily.dev</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters were divided: one user said Qwen3.8-Flash-Next running locally on a Strix Halo system had sharply reduced Claude Pro usage, while another said local models performed far worse than Claude Code on a 12GB GPU. Skeptics focused on potential share-unlock pressure, election-driven regulation, data-center scrutiny, and higher chip costs, and questioned whether 2026 was the peak of the AI investment cycle.
+**Discussion**: The discussion was strongly nostalgic and enthusiastic, with participants praising the soundtrack&\#x27;s adaptive themes, recommending major mods such as The Purist Mod and GMDX, and describing how the game influenced their careers. Some disputed the retrospective&\#x27;s simplified explanation of the Twin Towers omission and offered a more technical explanation.
 
-**Tags**: `#Anthropic`, `#AI industry`, `#IPO valuation`, `#local LLMs`, `#AI business`
+**Tags**: `#Deus Ex`, `#Game Design`, `#Game Development`, `#Retrospectives`, `#Game History`
 
 ---
 
 <a id="item-48"></a>
-## [Unleash Has Served Open-Source Feature Flags for 11 Years](https://github.com/Unleash/unleash) ⭐️ 6.0/10
+## [Rune Brings GPU-Rendered Rust UI to Four Platforms](https://github.com/anomalyco/rune) ⭐️ 6.0/10
 
-Unleash is being highlighted after 11 years as a mature open-source feature-management platform, with evaluations performed locally in SDKs or at the edge rather than on the central server. Its GitHub project supports 15 official client and server SDKs, more than 15 community SDKs, and self-hosting through Docker. Unleash demonstrates the long-term viability of open-source infrastructure software while also illustrating how a self-hosted core can support a commercial enterprise offering. Its longevity provides useful context for teams comparing durable self-hosted systems with feature-management platforms that bundle experimentation, analytics, and operational controls. Unleash evaluates flags in the SDK or at the edge, enabling decisions with nanosecond latency and no network round trip. The core platform is open source and can be self-hosted with Docker, but the public material emphasizes basic flag evaluation and gradual rollout rather than the multi-variant testing, weighting, attribution, and feedback-loop capabilities described by some users.
+Rune is a native, GPU-rendered UI framework written in Rust for macOS, Windows, Linux, and the web. Its distinguishing features include headless rendering, scripted input for automated agents, and a contribution policy that asks agents to submit issues rather than accepting pull requests directly. Rune connects Rust&\#x27;s cross-platform application development with GPU rendering and agent-driven UI testing, potentially making interfaces easier to inspect and automate. However, its maturity and adoption remain uncertain, particularly because established alternatives already have broader usage and ecosystem support. In headless mode, an application can render to PNG, export its element tree, and receive scripted input, which is useful for automated agents. Open questions include screen-reader accessibility, complete keyboard and alternative input support, internationalization with right-to-left text and diacritics, behavior without a GPU, and reliability implications of agent-managed contributions.
 
-hackernews · Hacker News \(热门\) · Nov 6, 11:40 · [Discussion](https://news.ycombinator.com/item?id=50391145)
+hackernews · Hacker News \(热门\) · Nov 6, 16:31 · [Discussion](https://news.ycombinator.com/item?id=50394569)
 
-**Background**: A feature flag is a configuration mechanism that enables or disables software behavior without requiring a new deployment, allowing controlled releases and gradual rollouts. Feature-management platforms may extend this basic primitive with targeting, percentage-based exposure, A/B testing, analytics, and experimentation workflows. Unleash positions itself as an enterprise-oriented open-source platform whose SDK-based evaluation keeps runtime decisions local.
+**Background**: A native UI framework provides the widgets, layout, event handling, and rendering infrastructure needed to build desktop applications. Rune targets the same broad application-development role in Rust that frameworks such as egui, Iced, Slint, and GPUI pursue, but differentiates itself through headless operation and agent-oriented workflows. GPU rendering can improve graphical performance, although frameworks such as Floem show that a CPU fallback can be an important compatibility feature.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.getunleash.io/">Feature Management Platform / Feature Flags for Large Enterprise</a></li>
-<li><a href="https://github.com/Unleash/unleash">GitHub - Unleash / unleash : Open - source feature management platform</a></li>
-<li><a href="https://dev.to/flaggy/feature-flag-driven-development-f4l">Feature flag driven development - DEV Community</a></li>
+<li><a href="https://github.com/anomalyco/rune/">GitHub - anomalyco/rune: Rune: Native UI framework · GitHub</a></li>
+<li><a href="https://lap.dev/floem/">Floem - Cross - platform GUI framework for Rust</a></li>
+<li><a href="https://lib.rs/crates/uzor-render-vello-gpu">uzor- render -vello- gpu — Rust gfx library // Lib.rs</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment was broadly positive about Unleash&\#x27;s durability and commercial value, with one commenter changing from skepticism after understanding its product to seeing clear reasons organizations would pay for it. Others were impressed that mid-sized and large organizations continue to use such software, while questions remained about advanced experimentation, attribution, feedback loops, and inconsistent terminology around flags, configuration, live operations, control groups, and analytics.
+**Discussion**: Commenters found Rune&\#x27;s headless PNG output, element-tree export, scripted input, and agent-mediated contribution process novel and potentially valuable for AI-driven development. Others urged comparison with established projects such as egui, Iced, Slint, and GPUI, while raising concerns about adoption, accessibility, keyboard and alternative inputs, internationalization, GPU fallback, and whether the project is mature enough beyond proof-of-concept status.
 
-**Tags**: `#feature-flags`, `#open-source`, `#devops`, `#experimentation`, `#software-engineering`
+**Tags**: `#Rust`, `#GUI-framework`, `#GPU-rendering`, `#Cross-platform`, `#AI-agents`
 
 ---
 
 <a id="item-49"></a>
-## [AI Agents Infer and Animate LEGO Mechanisms](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0) ⭐️ 6.0/10
+## [How Octopuses Squeeze Through Tiny Gaps](https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps) ⭐️ 6.0/10
 
-The open-source ldraw-mecha v0.5.0 toolset uses AI agents to parse LDraw LEGO models, infer mechanical structures, and automate rigging and animation in Blender. It can generate fully rigged .blend files directly from specially annotated .mpd sources. The project demonstrates how agents can turn static CAD descriptions into animated mechanical assemblies, potentially reducing manual rigging and animation work. It also connects the established LDraw ecosystem with generative and agentic design workflows. The workflow relies on annotated LDraw .mpd models and submodel analysis, with Blender providing the animation environment and .blend output. The available material presents this as a technical demonstration but does not provide evidence of extensive validation, deep performance analysis, or broad practical impact.
+A peer-reviewed biomechanics study mapped two distinct strategies that octopuses use to pass through openings smaller than their bodies. The research explains how their highly deformable bodies and muscular hydrostats enable this remarkable squeezing ability. The findings provide insight into how animals without rigid skeletons move and deform through confined spaces. They may also offer useful concepts for understanding flexible biological structures and designing soft robotic systems. Octopus bodies function as muscular hydrostats, using muscle to provide support and movement without bones. Their ability to clear a bottleneck is constrained by their hard beak, and the study describes two distinct squeezing strategies that allow them to pass through exceptionally narrow gaps.
 
-rss · Hacker News \(热门\) · Nov 6, 19:41
+rss · Hacker News \(热门\) · Nov 6, 13:57
 
-**Background**: LDraw is an open standard for LEGO CAD programs, supported by a large library of virtual parts and models. An .mpd file describes a model through parts and submodels, while Blender rigs and animates the assembled structure. Inverse kinematics is relevant to mechanism animation because it computes joint configurations needed to place linked rigid bodies in desired positions.
+**Background**: Unlike humans and many other animals, octopuses lack rigid skeletons and have extremely flexible bodies built around muscular hydrostats. A muscular hydrostat is a system of muscles that maintains body shape while allowing movement and substantial deformation. This flexibility enables octopuses to escape tanks and shelter in very small spaces.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.aiho.dev/en/i/0515c5a4-61ed-49f7-8bfe-d5f87ac7fc8f">LDraw Mecha: Inferring LEGO mechanisms from sources for ...</a></li>
-<li><a href="https://ldraw.org/">LDraw.org - LDraw.org Homepage</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Inverse_kinematics">Inverse kinematics - Wikipedia</a></li>
+<li><a href="https://www.nbcnews.com/science/science-news/how-octopuses-squeeze-through-holes-rcna607835">How octopuses squeeze through holes that seem impossibly tiny</a></li>
+<li><a href="https://www.sciencealert.com/octopuses-can-squeeze-their-bodies-through-tiny-holes-and-scientists-are-in-awe">Octopuses Can Squeeze Their Bodies Through Tiny Holes, And ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#LEGO`, `#mechanism inference`, `#animation`, `#GitHub`
+**Tags**: `#biomechanics`, `#octopus`, `#animal locomotion`, `#flexible structures`, `#biology`
 
 ---
 
 <a id="item-50"></a>
-## [Waymark Compiles Jobs Into Durable Workflows](https://github.com/piercefreeman/waymark) ⭐️ 6.0/10
+## [Continuously Validating Formal Specifications in Production](https://www.datadoghq.com/blog/engineering/continuous-formal-spec-validation/) ⭐️ 6.0/10
 
-Waymark is an open-source workflow engine that compiles plain asynchronous Python job definitions into executable, durable programs rather than replaying recorded executions. It runs on Postgres and is designed to survive server restarts, task crashes, and long-running jobs. Compiling workflows up front may improve reproducibility and execution efficiency by validating behavior before production execution and avoiding replay-oriented machinery. The approach could appeal to developers who need durable background orchestration without introducing infrastructure beyond Postgres. Waymark workflows are Python classes decorated with \`@workflow\`; the body of the \`run\(\)\` method is compiled into a durable program. According to its documentation, the engine compiles and verifies workflows up front and then executes them on Postgres without replay.
+Datadog published an engineering article explaining how teams can continuously validate formal specifications against production behavior. The supplied content contains only a link to discussion, so the article’s specific techniques, tooling, and results cannot be verified from the available material. Continuous validation can help detect specification drift as production systems change, making formal methods more practical for ongoing software reliability efforts. It may benefit organizations that need to connect mathematically defined correctness requirements with live deployments, though the article’s concrete impact remains unclear from the supplied excerpt. Formal specifications use mathematical descriptions to constrain the intended behavior of software systems, while model checking algorithmically tests whether a finite-state model satisfies a specified property. The available excerpt does not identify the validation pipeline, production signals used, scaling limits, deployment workflow, or any measured reliability improvements.
 
-rss · Hacker News \(热门\) · Nov 5, 14:06
+rss · Lobsters \(技术社区\) · Nov 6, 18:00
 
-**Background**: A workflow engine coordinates tasks into a durable process, while a job orchestrator manages the execution of background work. Durable execution systems commonly reconstruct state by replaying prior events, whereas Waymark presents compilation as an alternative that produces an executable workflow directly.
+**Background**: Formal specification is a mathematics-based approach for describing system behavior, and formal verification uses software tools to prove properties or show that an implementation satisfies a specification. Model checking is one such technique: it examines whether a finite-state model conforms to properties often expressed in temporal logic. The referenced engineering post appears to focus on extending this assurance work into production through continuous validation rather than relying only on a one-time review.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/piercefreeman/waymark">GitHub - piercefreeman/waymark: Distributed background ...</a></li>
-<li><a href="https://www.waymark.sh/">Waymark · Durable background workflows for Python and ...</a></li>
-<li><a href="https://www.waymark.sh/guides/workflows-and-actions">Workflows &amp; Actions - Waymark Documentation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Formal_specification">Formal specification - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Model_checking">Model checking - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Formal_methods">Formal methods - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#workflow-engine`, `#compilers`, `#job-orchestration`, `#open-source`, `#developer-tools`
+**Tags**: `#formal methods`, `#specification validation`, `#production systems`, `#software reliability`, `#continuous testing`
 
 ---
 
 <a id="item-51"></a>
-## [Futhark Examines Nondeterminism in Parallel Computing](https://futhark-lang.org/blog/2026-11-04-nondeterminism.html) ⭐️ 6.0/10
+## [How Volunteers Build and Maintain the Internet](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/) ⭐️ 6.0/10
 
-A Futhark blog post examines nondeterminism and revisits the language’s claims about deterministic data-parallel programming. The available excerpt mentions work by Michael Haddon as part of the discussion. Nondeterminism affects how confidently developers can test, reproduce, and debug parallel programs, especially after compilation for GPUs or multicore CPUs. Clarifying its sources and limits is relevant to Futhark users designing compute kernels that need predictable results. The supplied page contains only a link to discussion comments, so the post’s specific examples, proposed techniques, and conclusions cannot be verified from the provided content. Search excerpts suggest that the article qualifies a broad promise commonly associated with deterministic data-parallel programming.
+An MIT Press Reader article examines how volunteer communities such as Wikipedia and Linux build and maintain internet infrastructure. It frames these communities as active contributors to the internet rather than passive users. The article highlights the often-overlooked role that volunteer-led projects play in sustaining shared digital infrastructure. Its analysis may help readers understand how decentralized collaboration, governance, and open-source practices shape the internet. The available material provides only a link to a Lobsters discussion and does not expose the article&\#x27;s substantive arguments, examples, or evidence. The supporting search results point to three useful context areas: open-source governance, distributed version control, and volunteer-management tools, but they do not establish specific claims made by the article.
 
-rss · Lobsters \(技术社区\) · Nov 6, 19:16
+rss · Lobsters \(技术社区\) · Nov 6, 17:48
 
-**Background**: Futhark is a statically typed, purely functional, data-parallel array language in the ML family, designed primarily for writing compute kernels rather than complete applications. Its ahead-of-time compiler generates GPU code through CUDA, HIP, or OpenCL, as well as multithreaded CPU code. In this setting, nondeterminism can arise when parallel operations do not consistently produce the same observable results.
+**Background**: Open-source communities organize contributors through governance structures that guide decision-making and project evolution. Distributed version-control systems such as Git enable participants to propose, review, and merge changes across decentralized workflows, while volunteer-management tools can help community organizations coordinate people and responsibilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://futhark-lang.org/blog/2026-11-04-nondeterminism.html">Nondeterminism in Futhark</a></li>
-<li><a href="https://futhark-lang.org/">Why Futhark?</a></li>
-<li><a href="https://futhark-book.readthedocs.io/en/latest/">Parallel Programming in Futhark</a></li>
+<li><a href="https://guidebook.theopensourceway.org/growing-contributors/project-and-community-governance">Project and Community Governance | The Open Source Way</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_version_control">Distributed version control - Wikipedia</a></li>
+<li><a href="https://openvolunteer.net/">OpenVolunteer — Volunteer management, open by design</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Futhark`, `#Nondeterminism`, `#Parallel Programming`, `#GPU Computing`
+**Tags**: `#open-source`, `#volunteer communities`, `#Wikipedia`, `#Linux`, `#internet infrastructure`
 
 ---
 
 <a id="item-52"></a>
-## [Volunteers Build and Maintain Core Internet Technologies](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/) ⭐️ 6.0/10
+## [SourceHut Registration Bypass CVE Disclosed](https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/) ⭐️ 6.0/10
 
-An MIT Press Reader feature examines how volunteer communities collaborate to build and maintain foundational internet technologies, including the Linux kernel and Wikipedia. The supplied content contains only a link to the article and a comments link, so it does not provide the article&\#x27;s specific technical findings. The examples illustrate how decentralized, volunteer-led projects underpin widely used digital infrastructure. Their importance raises practical questions about governance, contribution incentives, quality control, and the long-term sustainability of open-source and volunteer communities. Linux began as Linus Torvalds&\#x27;s 1991 project and became the kernel for GNU and many Linux distributions, although a cited report estimated that unpaid volunteers performed only 11.8% of kernel development in the referenced year. Wikipedia relies on volunteer editors who write and revise articles, while decentralized processes such as administrator review and community deliberation help decide which changes are retained.
+A blog post identified CVE-2026-121728 as an authentication-bypass issue affecting SourceHut&\#x27;s disabled-registration control. However, the supplied article contains only a link to comments and provides no technical analysis or remediation details. A successful bypass could allow unwanted account creation on instances where registration has been deliberately disabled. This is security-relevant, but the current evidence does not establish affected versions, exploitability, severity, or whether SourceHut operators need to take immediate action. The supplied source contains no description of the vulnerable endpoint, registration checks, proof of concept, affected releases, or patch status. Search results include general SourceHut documentation and unrelated 2026 authentication-bypass CVEs, so they do not substantiate the technical specifics of CVE-2026-121728.
 
-rss · Lobsters \(技术社区\) · Nov 6, 17:48
+rss · Lobsters \(技术社区\) · Nov 5, 18:34
 
-**Background**: The Linux kernel is the central component of the GNU/Linux operating-system family, and its development has evolved into a large-scale collaboration involving maintainers, paid employees, and contributors. Wikipedia is maintained through volunteer writing, editing, and governance mechanisms that allow distributed contributors to coordinate without a traditional centralized editorial staff.
+**Background**: SourceHut is a forge for hosting source-code projects and related collaboration services, with documentation describing access to services such as wikis and project pages. Disabling registration is an access-control measure intended to prevent new users from creating accounts automatically; a registration bypass would undermine that intended restriction.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Linux_kernel">Linux kernel - Wikipedia</a></li>
-<li><a href="https://linux.slashdot.org/story/15/02/18/1745246/torvalds-people-who-start-writing-kernel-code-get-hired-really-quickly">Torvalds: &quot;People Who Start Writing Kernel Code Get Hired... - Slashdot</a></li>
-<li><a href="https://www.adl.org/resources/report/editing-hate-how-anti-israel-and-anti-jewish-bias-undermines-wikipedias-neutrality">Editing for Hate: How Anti-Israel and Anti-Jewish Bias... | ADL</a></li>
+<li><a href="http://sourcehut.org/">sourcehut - the hacker&#x27;s forge</a></li>
+<li><a href="https://man.sr.ht/">sourcehut docs - man.sr.ht</a></li>
+<li><a href="https://docs.sourcehut.org/pages.sr.ht/">pages.sr.ht API Documentation - docs.sourcehut.org</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Open Source`, `#Volunteer Communities`, `#Internet Infrastructure`, `#Collaboration`, `#Wikipedia`
+**Tags**: `#SourceHut`, `#security`, `#authentication bypass`, `#CVE-2026-121728`, `#access control`
 
 ---
 
 <a id="item-53"></a>
-## [Practical Guide to Linux Out-of-Tree Mitigations](https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi) ⭐️ 6.0/10
+## [Nilay Patel Challenges AI’s Costs and Benefits](https://simonwillison.net/2026/Nov/6/nilay-patel/) ⭐️ 6.0/10
 
-A technical guide presents practical approaches to implementing security mitigations outside the upstream Linux kernel tree. Its stated focus is mitigating common memory-safety failures, including heap overflows and use-after-free bugs, across reasonably recent Linux kernel versions. Out-of-tree mitigations can let operators deploy targeted hardening without waiting for upstream acceptance or maintaining a complete kernel fork. Such measures may improve the resilience of legacy software against exploitable memory-corruption bugs. The guide says its approach works on every reasonable Linux kernel version and does not require advanced kernel features. It directly targets heap overflows and use-after-free errors, and the author recommends hardened\_malloc as their default choice while noting that other established options exist.
+On The Vergecast, Nilay Patel argued that AI products are not yet good enough to justify their economic and infrastructure costs. He also questioned whether AI agents are real or widely useful and connected industry spending to broader political and corporate concerns. The critique challenges the assumption that rapid AI investment automatically translates into consumer value or sustainable business economics. It highlights the infrastructure burden, unreliable output, and deepfake quality concerns that could shape public acceptance and industry strategy. Patel specifically cited data-center noise, costly AI overviews, deepfake “slop,” companies spending more than they earn, and blood-storage refrigeration being hacked in Europe. His claims are forceful but presented in an incomplete excerpt without detailed financial data or technical analysis.
 
-rss · Lobsters \(技术社区\) · Nov 6, 08:53
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 6, 17:13
 
-**Background**: Linux security mitigations can be implemented inside the mainline kernel or through external patches and runtime mechanisms. Out-of-tree mitigation projects, such as GrSecurity&\#x27;s OpenPaX, broaden the available hardening options, while separate tools such as kpatch support applying fixes to a running kernel without an immediate reboot. These approaches differ in deployment complexity, maintenance burden, and upstream compatibility.
+**Background**: Autonomous AI agents are systems designed to plan tasks, use tools, make decisions, and execute workflows with limited human input. Their promised benefits depend on both technical reliability and sufficient demand to offset infrastructure and operating costs. AI data centers also raise community concerns about electricity, cooling water, and noise, while deepfakes have become easier to create and can support fraud, abuse, and misinformation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://clehaxze.tw/gemlog/2026/11-04-practical-guide-on-out-of-tree-mitigations-on-linux.gmi?source=newscura">Practical guide on out of tree mitigations on Linux</a></li>
-<li><a href="https://www.phoronix.com/linux/Linux+Security">Linux Performance, Benchmarks &amp; Open-Source News - Phoronix</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Kpatch">kpatch - Wikipedia</a></li>
+<li><a href="https://www.microsoft.com/en-us/copilot/ai-knowledge/autonomous-ai-agents">Introduction to Autonomous AI Agents | Microsoft Copilot</a></li>
+<li><a href="https://www.foreignpolicyjournal.com/2026/09/17/house-votes-417-3-to-make-ai-data-centers-cover-their-own-energy-infrastructure-costs/">House Votes 417-3 To Make AI Data Centers Cover Their Own...</a></li>
+<li><a href="https://www.businessinsider.com/reference/what-is-deepfake">What Are Deepfakes ? How to Spot Fake AI Audio... - Business Insider</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux`, `#Security Mitigations`, `#Kernel`, `#Systems Engineering`
+**Tags**: `#AI industry critique`, `#AI infrastructure costs`, `#deepfakes`, `#AI agents`, `#industry analysis`
 
 ---
 
 <a id="item-54"></a>
-## [Nilay Patel Challenges the AI Industry’s Cost-Benefit Case](https://simonwillison.net/2026/Nov/6/nilay-patel/) ⭐️ 6.0/10
+## [How a Blue Wave Midterm Could Reshape AI Infrastructure](https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/) ⭐️ 6.0/10
 
-In a Vergecast appearance, Nilay Patel argued that AI products are not yet good enough to justify their costs, environmental burdens, or the industry’s political influence. He said the sector must demonstrate clearer user benefits and build better products before its current spending and power are defensible. The critique targets a central tension in the AI boom: enormous infrastructure spending and corporate investment continue even as users have not clearly identified corresponding benefits. It also links product quality to public tolerance of data-center expansion, political influence, and industry-wide financial sustainability. Patel specifically criticized noisy data centers, low-quality deepfakes, uncertain real-world usefulness of AI agents, and companies spending more than they earn on these products. His framing is provocative rather than a quantified economic study, and the excerpt does not substantiate its sweeping claims with company-level financial data or other evidence.
+Voters approved 40 of 41 data-center-related ballot measures across 10 states, with most imposing greater restrictions on development. Democrats’ historic midterm victories could also broaden federal scrutiny of AI infrastructure, electricity demand, and environmental impacts. The results could slow or reshape data-center expansion, raising costs and changing where AI infrastructure is built. They may also strengthen national policy efforts to regulate the technology industry’s energy, water use, and environmental footprint. The November 3 votes were the largest recorded wave of local data-center ballot measures, involving 41 measures in 10 states; six additional measures had been decided earlier in the year. Most approved measures imposed tighter development restrictions, indicating that local opposition to data centers is extending beyond communities that directly considered them on the ballot.
 
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 6, 17:13
+rss · TechCrunch AI · Nov 6, 18:00
 
-**Background**: AI infrastructure requires substantial energy, water, and hardware investment, while newer chips and data centers can be more efficient than older generations even as increasing model sizes and query volumes raise overall demand. AI agents are moving from controlled demonstrations toward real-world deployment, but practical limitations often emerge when they must operate in messy workflows. The excerpt also reflects broader investor concern about whether AI investment levels can eventually be supported by durable profitability.
+**Background**: AI systems depend on large data centers that consume substantial electricity and water and can produce significant carbon emissions. Local ballot measures can place restrictions on zoning, utility rates, infrastructure financing, or development approvals, making municipal elections an important venue for technology policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.transformernews.ai/p/ai-energy-water-use-environment-argument-wrong">We’re getting the argument about AI &#x27;s environmental impact all wrong</a></li>
-<li><a href="https://www.linkedin.com/posts/oliver-b-440768a7_computingfeatures-ai-aiagents-activity-7353326467499319296-hhWY">Why AI agents are stuck in the lab | Oliver B. posted on the... | LinkedIn</a></li>
-<li><a href="https://edition.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk">Asian markets follow US rout as AI investment jitters spread</a></li>
+<li><a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026">Data center-related ballot measures, 2026 - Ballotpedia</a></li>
+<li><a href="https://statecapitallobbyist.com/artificial-intelligence-ai/data-centers/data-centers-on-the-ballot-where-things-stand/">Data Centers on the Ballot: Where Things Stand</a></li>
+<li><a href="https://repository.digital.georgetown.edu/downloads/a4833945-9d43-4324-bb77-b5f8a99824d0">Silent Springs and AI Winters: Anisa Bhandari</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI industry`, `#AI economics`, `#data centers`, `#AI agents`, `#political influence`
+**Tags**: `#AI policy`, `#data centers`, `#U.S. elections`, `#AI infrastructure`, `#regulation`
 
 ---
 
 <a id="item-55"></a>
-## [Data-Center Restrictions Could Slow AI Expansion After Midterms](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/) ⭐️ 6.0/10
+## [Underdog Demonstrates a 32MB Speech-and-Music Model](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/) ⭐️ 6.0/10
 
-Voters in 41 U.S. data-center-related ballot measures backed restrictions or rejected pro-development proposals in all but one measure. The results following the 2026 midterm elections could reshape permitting, zoning, and infrastructure policy for the data centers that support AI. AI infrastructure depends on large data centers, which face growing scrutiny over electricity, water, environmental effects, and community impacts. More local restrictions could delay capacity expansion, increase compliance costs, and affect the pace of AI deployment across multiple states. The measures could limit or prohibit development, direct officials to oppose projects, or add requirements affecting data-center construction. Local zoning and permitting authority remains important, and related concerns include grid costs, water consumption, and litigation.
+Underdog demonstrated a model with a 32MB footprint that can generate both speech and music. The brief demo did not disclose implementation details or provide evidence about the model’s output quality. A model that small could fit inside mobile apps or run directly on edge devices without relying on a cloud endpoint. Its unusually compact footprint may broaden access to offline generative-audio features, although practical utility remains unverified. The reported 32MB figure is far below the hundreds of megabytes or several gigabytes commonly associated with production speech and music models. Available reports do not explain the model’s architecture, supported inputs, inference speed, hardware requirements, licensing, or quality benchmarks.
 
-rss · TechCrunch AI · Nov 6, 17:23
+rss · TechCrunch AI · Nov 6, 13:02
 
-**Background**: Data centers house the computing infrastructure used to train and operate AI systems, but their rapid expansion can place substantial demands on electric grids and local water supplies. State and local governments increasingly regulate these facilities through zoning, permits, moratoria, and other land-use rules. The election results therefore matter because they can shape where new AI capacity is built and how quickly projects proceed.
+**Background**: Speech synthesis and music generation are related generative-audio tasks, but the report does not clarify whether Underdog’s model uses a shared architecture or how it distinguishes the two output types. Small-model research has focused on making language and audio systems more suitable for constrained edge hardware. Running inference locally can reduce cloud dependence and enable offline use, though the supplied material does not establish that this demo provides those deployment benefits in practice.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html">Voters rebuff data centers in every ballot measure except one</a></li>
-<li><a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026">Data center-related ballot measures, 2026 - Ballotpedia</a></li>
-<li><a href="https://www.arnoldporter.com/en/perspectives/blogs/environmental-edge/2026/08/fast-tracked-but-not-frictionless-the-expanding-litigation-front-against-the-data-center-boom">Fast-Tracked but Not Frictionless: The Expanding... | Arnold &amp; Porter</a></li>
+<li><a href="https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/">Underdog shows off a 32MB speech model in new demo - TechCrunch</a></li>
+<li><a href="https://zglg.work/en/ai/news/2026-11-06-underdog-demos-a-32mb-speech-model-that-also-generates-music">Underdog demos a 32MB speech model that also generates music</a></li>
+<li><a href="https://www.assemblyai.com/blog/recent-developments-in-generative-ai-for-audio">Recent developments in Generative AI for Audio</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#data centers`, `#U.S. elections`, `#AI regulation`, `#tech policy`
+**Tags**: `#speech-synthesis`, `#generative-audio`, `#small-models`, `#edge-ai`, `#music-generation`
 
 ---
 
 <a id="item-56"></a>
-## [Underdog Demonstrates a 32MB Model for Speech and Music](https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/) ⭐️ 6.0/10
+## [Physicl Raises $10M for Realistic Robot Training Environments](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) ⭐️ 6.0/10
 
-Underdog demonstrated a 32MB model capable of generating both speech and music. The technology was shown in the startup&\#x27;s game called Woof, which uses the voice model. Combining speech and music generation in such a compact model suggests that expressive audio AI may run efficiently on consumer devices or at the edge. Its small footprint could reduce storage, memory, and inference requirements for applications that need interactive voice features. The reported model size is 32MB, and its demonstrated capabilities include speech and music generation. The announcement does not disclose the model&\#x27;s architecture, training data, generation quality, latency, supported platforms, or benchmark results, so comparisons with other audio-generation systems remain difficult.
-
-rss · TechCrunch AI · Nov 6, 13:02
-
-**Background**: Speech synthesis converts text or other controls into generated voice, while music generation produces audio organized around musical structure. Small generative models are especially relevant to on-device inference because lower memory and storage requirements can make interactive audio features easier to deploy without sending all requests to cloud services.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/">Underdog shows off a 32 MB speech model in new demo | TechCrunch</a></li>
-<li><a href="https://arxiv.org/html/2406.04467v1">Small-E: Small Language Model with Linear Attention for ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#speech-synthesis`, `#small-models`, `#edge-AI`, `#music-generation`, `#on-device-inference`
-
----
-
-<a id="item-57"></a>
-## [Physicl Raises $10M for Robot Sim-to-Real Training](https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/) ⭐️ 6.0/10
-
-Physicl raised $10 million to adapt an e-commerce simulation pipeline for robotic training. The company aims to narrow the gap between simulated environments and physical robot behavior. More realistic simulation data could make robot training faster and less dependent on costly real-world experimentation. The funding also signals broader commercial interest in tools that connect synthetic environments with physical AI development. The project applies a pipeline originally developed for online product marketing to sim-to-real transfer, where models trained in simulation must perform reliably in the physical world. The available reporting does not disclose the pipeline&\#x27;s technical architecture, training benchmarks, evaluation results, investors, or deployment plans.
+Physicl raised $10 million to adapt a digital-commerce pipeline for generating more realistic simulated environments for robot training. The company aims to reduce the gap between simulated conditions and real-world robot behavior. The funding highlights efforts to improve robot-training data through higher-fidelity simulation, which could help robots transfer skills from virtual environments to physical deployments. It also signals broader industry interest in applying commerce-derived data and pipeline techniques to robotics. Physicl&\#x27;s approach repurposes a pipeline originally built to market goods online rather than introducing a new simulator from the ground up. The available reporting does not disclose the pipeline&\#x27;s technical methods, simulation benchmarks, training results, investors, or plans for the $10 million.
 
 rss · TechCrunch AI · Nov 6, 13:00
 
-**Background**: The sim-to-real gap is the difference between a robot&\#x27;s behavior in a controlled simulation and its performance on physical hardware. Simulation offers scalable, inexpensive training environments, but visual, physical, and behavioral differences can cause policies to fail outside the simulator. Bridging this gap could accelerate robotic learning, though the provided source does not establish how effectively Physicl&\#x27;s approach does so.
+**Background**: The sim-to-real gap is the performance difference a robot exhibits when a policy trained in simulation is deployed on physical hardware. Simulation can provide scalable training environments and synthetic data, but a policy that succeeds virtually may perform substantially worse in reality. Photorealistic simulation seeks to close this gap through realistic rendering, physics modeling, and synthetic visual data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2510.20808v1">The Reality Gap in Robotics: Challenges, Solutions, and Best ...</a></li>
-<li><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-control-031924-100130">The Reality Gap in Robotics: Challenges, Solutions, and Best ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2212827122007004">Overcoming the Sim-to-Real Gap in Autonomous Robots</a></li>
+<li><a href="https://docs.nvidia.com/learning/physical-ai/sim-to-real-so-101/latest/03-sim-to-real.html">What Is Sim-to-Real? — Train an SO-101 Robot From Sim-to-Real ...</a></li>
+<li><a href="https://docusaurus-project-nu.vercel.app/docs/ai-robot-brain/isaac-sim/photorealistic-sim">Photorealistic Simulation Concepts | Physical AI &amp; Humanoid ...</a></li>
 
 </ul>
 </details>
@@ -1351,671 +1321,548 @@ rss · TechCrunch AI · Nov 6, 13:00
 
 ---
 
-<a id="item-58"></a>
-## [Meta Opens Muse Video Chat Avatars to U.S. Users](https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/) ⭐️ 6.0/10
+<a id="item-57"></a>
+## [Meta Warns Data Center Backlash Could Slow AI Expansion](https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/) ⭐️ 6.0/10
 
-Meta is allowing U.S. users to video chat with Muse, its consumer AI agent, through customizable animated avatars. The feature is available on mobile, web, and Mac, while support for AI glasses and the Muse Charm wearable is planned for 2026. The rollout turns Muse from a text-and-voice assistant into a more expressive, embodied companion. It also positions animated avatars as a bridge between Meta&\#x27;s app ecosystem and its forthcoming dedicated AI wearable. Muse Voice provides real-time animated-avatar interaction with voice chat, and users can customize the avatar&\#x27;s appearance. The available report gives little detail about model architecture, safety controls, latency, pricing, or the precise availability schedule for additional devices.
+Meta warned that growing political and community opposition to large data center projects could make future AI investment more difficult. The company indicated that public resistance to AI infrastructure may become a constraint on expansion. AI infrastructure depends not only on chips and financing but also on access to land, electricity, water, and local government approvals. Rising opposition could therefore affect the pace of AI deployment, raise development costs, and push companies toward more efficient designs or less politically contentious locations. Reported concerns include electricity affordability, water consumption, air pollution, noise, land use, and competition with other development. The available report provides no detailed quantitative evidence, specific project examples, or technical assessment of how opposition would affect Meta&\#x27;s investment plans.
 
-rss · TechCrunch AI · Nov 5, 19:48
+rss · TechCrunch AI · Nov 5, 19:12
 
-**Background**: Muse is Meta&\#x27;s consumer-facing AI agent, designed to converse with users and provide a centralized interface for its broader AI product strategy. Meta has also developed Muse Charm, a lightweight, Tamagotchi-like wearable intended to keep the agent continuously connected to a user&\#x27;s digital life. Comparable dedicated AI companions, including Humane&\#x27;s AI Pin and Rabbit R1, previously struggled commercially, so Meta&\#x27;s new service still faces an uncertain market reception.
+**Background**: Data centers require substantial grid capacity, cooling infrastructure, water, roads, and suitable land. Research cited in the search results describes a sharp increase in local opposition to data centers, while efficiency-focused infrastructure design is becoming increasingly important. Meta&\#x27;s warning highlights that AI expansion is becoming a community and land-use issue as well as a technology and capital-spending challenge.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://tech.yahoo.com/ai/meta-ai/articles/meta-rolls-real-time-video-160805716.html">Meta Rolls Out Real-Time Video Calls With Customizable Muse ...</a></li>
-<li><a href="https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/">Meta says US users can now video chat with their Muse AI avatar</a></li>
-<li><a href="https://www.tomsguide.com/ai/meta-is-making-a-tamagotchi-like-ai-companion-for-the-ai-era-meet-the-muse-charm">Meta is making a Tamagotchi - like AI companion for the... | Tom&#x27;s Guide</a></li>
+<li><a href="https://jdbk.scholars.harvard.edu/sites/g/files/omnuum4201/files/2026-08/Rauh_Reece_Simko_LPEC_2026.pdf">Data Centers, Community Opposition, and Local Policymaking</a></li>
+<li><a href="https://www.sierraclub.org/sites/default/files/2026-01/policies-for-data-centers-2026.pdf">Policies for Data Centers, 2026 - sierraclub.org</a></li>
+<li><a href="https://www.datacenterknowledge.com/ai-data-centers/the-next-generation-of-ai-infrastructure-design-starts-with-efficiency">Next-Gen AI Infrastructure Design Starts with Efficiency</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Meta`, `#AI Agents`, `#Generative AI`, `#Virtual Avatars`, `#Consumer AI`
+**Tags**: `#AI infrastructure`, `#data centers`, `#political backlash`, `#AI investment`, `#energy policy`
+
+---
+
+<a id="item-58"></a>
+## [OpenAI Unveils GPT-6 Cyber Model](https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/) ⭐️ 6.0/10
+
+OpenAI introduced GPT-6 Cyber, a cybersecurity-focused model designed to identify exploitable vulnerabilities and help develop fixes. The release comes as the company is expanding trusted access to frontier cyber capabilities for approved users. The model could improve vulnerability research and defensive remediation, potentially strengthening enterprises&\#x27; cyber defenses. It also highlights a broader tension between deploying capable cyber tools and ensuring they are used only within authorized environments. According to OpenAI, GPT-6 Cyber was trained to remain within authorized scope. OpenAI&\#x27;s Trusted Access for Cyber framework provides additional safeguards against misuse, but the supplied material does not include benchmark results, deployment terms, or independent testing.
+
+rss · TechCrunch AI · Nov 5, 19:06
+
+**Background**: AI cybersecurity models are being developed to automate parts of the vulnerability-discovery and remediation process. Because such systems can potentially assist with attacks as well as defense, access controls and safeguards against misuse are central to their deployment. OpenAI previously introduced Trusted Access for Cyber to expand access to frontier cyber capabilities while strengthening those protections.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/introducing-gpt-6-cyber/">GPT‑6 Cyber: Advancing the frontier of aligned ... - OpenAI</a></li>
+<li><a href="https://openai.com/index/trusted-access-for-cyber/">Introducing Trusted Access for Cyber - OpenAI</a></li>
+<li><a href="https://finance.yahoo.com/technology/ai/articles/openai-debuts-cybersecurity-focused-ai-170100415.html?fr=sycsrp_catchall">OpenAI debuts new cybersecurity-focused AI model amid growing ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OpenAI`, `#cybersecurity`, `#AI safety`, `#security models`, `#AI infrastructure`
 
 ---
 
 <a id="item-59"></a>
-## [Claude Adds Personal Finance Analysis Through Plaid](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/) ⭐️ 6.0/10
+## [Claude Adds Personal Finance Spending Analysis](https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/) ⭐️ 6.0/10
 
-Anthropic introduced Personal Finance in Claude, letting users connect bank and card accounts through Plaid and ask questions about their spending. Users can request insights such as whether they can afford a trip or how much they could save each month. The feature expands Claude from a general-purpose assistant into a consumer finance tool that can interpret users’ connected financial data. It also places Anthropic in a growing market for conversational personal-finance analysis, alongside comparable efforts such as ChatGPT Finances. Personal Finance reviews connected accounts using read-only access through Plaid. The announcement provides limited technical detail about supported institutions, data coverage, model behavior, and the extent of the feature’s broader impact.
+Anthropic introduced Personal Finance in Claude, allowing users to connect bank, credit card, loan, and investment accounts through Plaid. Users can then view balances and spending and ask Claude natural-language questions about their finances. The update brings account aggregation and conversational financial analysis into Claude, expanding consumer AI from general-purpose assistance into access to users&\#x27; personal financial data. It could make spending review and budgeting easier, while raising privacy and accuracy concerns because model-generated answers may contain mistakes. Claude&\#x27;s access to linked financial accounts is read-only, and Anthropic says the tool is intended to help users understand their money rather than provide investment advice. Users should verify important figures and ask which transactions support a reported number because Claude can make mistakes.
 
 rss · TechCrunch AI · Nov 5, 18:00
 
-**Background**: Plaid provides infrastructure for fintech applications to authenticate bank accounts and connect securely to banking data. Anthropic’s launch gives Claude access to those connected accounts, allowing the assistant to analyze spending and answer natural-language financial questions rather than merely provide general guidance.
+**Background**: Plaid Link provides the connection layer for financial services: it validates credentials, supports multifactor authentication, and links a user&\#x27;s bank or card accounts to an application. Claude Personal Finance uses that infrastructure to present balances and spending in one place and make the data queryable through conversation.
 
 <details><summary>References</summary>
 <ul>
+<li><a href="https://support.claude.com/en/articles/18185620-use-personal-finance-in-claude">Use Personal Finance in Claude | Claude Help Center</a></li>
 <li><a href="https://claude.com/resources/articles/introducing-personal-finance-in-claude">Introducing Personal Finance in Claude | Claude by Anthropic</a></li>
-<li><a href="https://www.zdnet.com/innovation/personal-finance-claude-anthropic/">Claude &#x27;s new Personal Finance tool aims to help analyze... - ZDNET</a></li>
-<li><a href="https://plaid.com/products/auth/">Auth: Instant bank verification API | Plaid</a></li>
+<li><a href="https://plaid.com/docs/link/">Link - Overview | Plaid Docs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Claude`, `#Personal Finance`, `#Plaid`, `#Consumer AI`, `#Financial Data`
+**Tags**: `#Claude`, `#Personal Finance`, `#Plaid`, `#Conversational AI`, `#Fintech`
 
 ---
 
 <a id="item-60"></a>
-## [Aina Launches a Smart Ring for AI Agent Control](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/) ⭐️ 6.0/10
+## [Aina&\#x27;s Smart Ring Adds Screen and Voice AI Controls](https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/) ⭐️ 6.0/10
 
-Hardware startup Aina released a $399 smart ring featuring a small display, joystick, microphone, and speaker. It is designed to let users speak with AI agents, control agents with a tap, take calls, and dictate notes to a Mac. The ring positions wearable hardware as a hands-free interface for agentic AI, potentially reducing dependence on phones for managing automated assistants. Its context-aware functions also connect wearable input with phones and computers, reflecting a broader shift toward AI agents that act across devices. The device includes an unusually rich control set for a ring: a joystick for direct interaction, a microphone for voice commands, and a speaker for calls. Aina claims its context-aware cues can predict users’ next steps and act automatically, though the brief report provides limited detail about accuracy, battery life, privacy, and general availability.
+Aina unveiled a $399 smart ring featuring a small display, joystick, microphone, and speaker for interacting with AI agents and everyday apps. It can also handle calls and dictate notes to a Mac, with preorders open and shipping planned for 2027. The device is designed as a phone-free remote control for autonomous AI agents, reflecting a shift from standalone voice assistants toward wearables that mediate agent actions across phones and computers. Its practical significance will depend on comfort, battery life, agent reliability, and whether users accept a relatively chunky ring. Aina says the ring uses contextual cues to interact with a user&\#x27;s phone and PC, control AI agents, and potentially predict next steps and act automatically. The launch information remains sparse on display resolution, processing capabilities, battery specifications, supported agents, privacy protections, and the breadth of Mac integration.
 
 rss · TechCrunch AI · Nov 5, 14:42
 
-**Background**: Smart rings are typically used to collect health and fitness data discreetly, but Aina is adding a visual and voice interface to the category. Its system is intended to interact with AI agents across a user’s phone and PC, while also handling ordinary communication and note-taking tasks. Reports describe the product as a new hardware concept whose real-world usefulness will depend on the quality and responsiveness of its context-aware software.
+**Background**: Smart rings traditionally focus on health and fitness tracking without conventional screens, while AI agents are software systems that can carry out actions on a user&\#x27;s behalf. Aina&\#x27;s product combines these categories by placing controls and voice communication directly on the hand, reducing the need to operate a phone when requesting agent actions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/">Aina &#x27;s smart ring has a screen , a joystick , and a mic ... | TechCrunch</a></li>
 <li><a href="https://www.androidauthority.com/aina-smart-ring-with-display-3732394/">The $400 Aina smart ring comes with a tiny display to manage your AI ...</a></li>
 <li><a href="https://www.wired.com/story/aina-smart-ring/">Exclusive: Aina ’s Smart Ring Wants to Be a Remote Control... | WIRED</a></li>
+<li><a href="https://the-gadgeteer.com/2026/11/06/aina-ai-ring-screen-joystick/">The Chunky Aina AI Ring Has Its Own Screen, Joystick, and ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#smart ring`, `#AI agents`, `#wearables`, `#voice interface`, `#consumer hardware`
+**Tags**: `#smart ring`, `#AI agents`, `#wearables`, `#voice interface`, `#consumer electronics`
 
 ---
 
 <a id="item-61"></a>
-## [Discovered Materials Prizes $1M for AI to Solve Materials Problems](https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/) ⭐️ 6.0/10
+## [Mantle Churn May Explain Earth&\#x27;s Great Unconformity](https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/) ⭐️ 6.0/10
 
-Discovered Materials, a Y Combinator startup using AI to search for substances for advanced chips, announced a $1 million challenge for frontier AI models to solve five unresolved materials-science problems. The five problems were shaped with input from an advisory group of academics. The challenge tests whether frontier AI can move beyond mathematics and life sciences into the difficult physics of advanced materials. Successful approaches could accelerate the discovery of materials for semiconductor manufacturing and other technology sectors. The prize pool is reported as approximately $200,000 per solution. Before the public launch, frontier models were reportedly given several days and internet access to attempt the problems, but the available announcement provides no technical results, validation evidence, or details about how solution quality will be judged.
+Researchers are examining whether churning in Earth&\#x27;s mantle helped create the Great Unconformity, the geological gap beneath Cambrian deposits in places such as the Grand Canyon. The proposed mechanism links mantle-driven erosion with the worldwide missing record of rock layers. If confirmed, the hypothesis could offer a common physical cause for a major gap appearing across widely separated regions. It would also connect deep-mantle behavior to the preservation of Earth&\#x27;s surface record, one of geology&\#x27;s longstanding mysteries. The Great Unconformity separates Cambrian strata from older, sometimes tilted or faulted rocks, indicating missing geological time rather than merely a break in deposition. Mantle-convection modeling is described as reproducing the unconformity&\#x27;s geological footprint, but the supplied material does not specify the study&\#x27;s date, methods, uncertainty, or whether the mechanism applies to every occurrence.
 
-rss · TechCrunch AI · Nov 5, 13:00
+rss · Ars Technica · Nov 6, 20:24
 
-**Background**: AI-assisted materials discovery combines machine learning with computational methods such as quantum-mechanical and molecular-dynamics simulations to explore chemical spaces more systematically. Existing work also uses large-language-model-driven agents to design and execute computational research workflows. Discovered Materials applies this broader AI-for-science concept to the search for new substances used in advanced chips.
+**Background**: An unconformity is a boundary representing a gap in the geological record, and the Great Unconformity is an unusually extensive and stratigraphically significant example found around the world. Its central puzzle is why hundreds of millions of years of rock record are absent in many regions yet only locally or regionally developed elsewhere. Proposed explanations include erosion, uplift, non-deposition, and the breakup or reorganization of continents; mantle-driven erosion adds a deep-Earth process to this set of possibilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/">A YC startup is putting $1M behind five unsolved materials ...</a></li>
-<li><a href="https://explainx.ai/blog/discovered-materials-1-million-five-open-materials-science-problems-ai-prize-2026">Discovered Materials $1M AI Materials Challenge: 5 Problems ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2352940725003981">Advancing materials discovery through artificial intelligence</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Great_Unconformity">Great Unconformity - Wikipedia</a></li>
+<li><a href="https://www.geowyo.com/the-great-unconformity.html">The Great Unconformity - Geology of Wyoming</a></li>
+<li><a href="https://www.sott.net/article/509302-Earths-geological-record-is-missing-hundreds-of-millions-of-years-UOW-scientists-think-they-know-why">Earth&#x27;s geological record is missing hundreds of millions of... — Sott.net</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI for science`, `#materials science`, `#frontier AI`, `#research funding`, `#startups`
+**Tags**: `#geology`, `#Earth&\#x27;s mantle`, `#Great Unconformity`, `#stratigraphy`, `#geoscience`
 
 ---
 
 <a id="item-62"></a>
-## [AST SpaceMobile Develops Blacklift Rocket for BlueBird Launches](https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/) ⭐️ 6.0/10
+## [Meta Abandons Facebook AI-Training Terms Update](https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/) ⭐️ 6.0/10
 
-AST SpaceMobile is developing its own reusable Blacklift rocket to launch BlueBird communications satellites into low Earth orbit. The company plans to use Firefly engines for the first three rockets and expects launches to begin in late 2028. Blacklift would give AST SpaceMobile greater control over launch scheduling, capacity, and pricing, reducing its dependence on external launch providers and supporting a larger BlueBird constellation. If successfully developed and deployed, it could expand the company’s addressable market and narrow a competitive gap with vertically integrated operators such as SpaceX. Blacklift is a custom-built, reusable, roughly 20-ton rocket designed to carry up to five BlueBird satellites per mission, with launches planned from late 2028. Firefly will supply engines for the first three vehicles and provide engineering services over a three-year period, but the announcement does not establish that the rocket has already completed development or that its schedule and performance are assured.
+Meta dropped a planned update to its commercial terms that would have required Facebook page owners to allow their linked content to be used for AI training. The reversal follows criticism that the proposed language gave Meta overly broad rights over publisher and creator content. The decision protects creators and publishers from having to grant broad AI-training permission through a blanket terms update. It also highlights growing pressure on Meta to distinguish ordinary account consent from explicit authorization for using content to develop generative AI. The abandoned proposal targeted Facebook page owners whose pages linked to external websites. Although Meta had previously removed an explicit reference to AI training, critics argued that broader wording still permitted training on scraped publisher content without sufficiently meaningful consent.
 
-rss · Ars Technica · Nov 6, 18:20
+rss · Ars Technica · Nov 6, 17:43
 
-**Background**: AST SpaceMobile’s BlueBird satellites are intended to work with licensed mobile-network-operator spectrum to provide direct-to-device cellular connectivity from low Earth orbit. Launch-market constraints can limit how quickly a satellite operator can deploy and scale its constellation, making access to dedicated launch vehicles strategically important. Blacklift reflects a broader industry trend toward vertical integration, in which satellite companies control more of the value chain instead of relying entirely on outside launch providers.
+**Background**: Meta&\#x27;s commercial terms govern the services offered to businesses and other organizations that manage Facebook pages. Separate from an individual&\#x27;s account settings, these terms had been drafted to allow Meta to use linked content for purposes including providing, developing, and training its products, prompting objections over publisher rights and AI consent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/">You know the launch market is tough when satellite... - Ars Technica</a></li>
-<li><a href="https://www.businesswire.com/news/home/20261106165875/en/AST-SpaceMobile-to-Build-Own-20-Ton-Rocket-to-Deploy-BlueBird-Satellites-in-Low-Earth-Orbit-Using-Miranda-Engines-from-Firefly-Aerospace">AST SpaceMobile to Build Own 20-Ton Rocket to Deploy BlueBird...</a></li>
-<li><a href="https://ast-science.com/spacemobile-network/">Spacemobile Network - AST SpaceMobile</a></li>
+<li><a href="https://www.yahoo.com/news/politics/articles/senator-says-planned-meta-commercial-180959825.html">Senator says planned Meta commercial terms update could harm US...</a></li>
+<li><a href="https://www.theverge.com/meta">Meta | The Verge</a></li>
+<li><a href="https://upstract.com/x/d4cfaa6cd5447786">If You&#x27;re In the UK or EU, Here&#x27;s How to Object to Meta &#x27;s AI Trai...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Space Technology`, `#Launch Vehicles`, `#Satellites`, `#Vertical Integration`
+**Tags**: `#Meta`, `#AI training`, `#Facebook`, `#content policy`, `#creator rights`
 
 ---
 
 <a id="item-63"></a>
-## [Wisconsin Infant Dies From Measles Amid Elimination Review](https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/) ⭐️ 6.0/10
+## [Lawsuit Alleges ChatGPT Helped Plan Wife&\#x27;s Poisoning](https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/) ⭐️ 6.0/10
 
-Wisconsin reported the death of a baby from measles, marking the state&\#x27;s first infant measles death in more than 35 years. Experts are expected next week to decide whether the United States has lost its measles elimination status. The death highlights the severe risks posed by measles, especially for infants who may not yet be eligible for routine vaccination. The pending status review could also signal broader setbacks in US disease-control efforts and affect vaccination policy and public-health planning. The reported death concerns an infant and is described as Wisconsin&\#x27;s first such death in over 35 years. The excerpt does not provide the baby&\#x27;s age, vaccination history, outbreak location, or other clinical details, while the national review will consider outbreak activity and sustained transmission under established criteria.
-
-rss · Ars Technica · Nov 6, 17:06
-
-**Background**: Measles elimination means that endemic transmission has been interrupted, although imported cases can still occur. The United States achieved this public-health milestone before the widespread introduction of the measles vaccine, and loss of status would indicate that measles is again circulating continuously in the country. Infants are particularly vulnerable because the first routine measles vaccine dose is generally administered at 12 through 15 months of age.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.kff.org/other-health/measles-elimination-status-what-it-is-and-how-the-u-s-could-lose-it/">Measles Elimination Status: What It Is and How the U.S ... - KFF</a></li>
-<li><a href="https://www.paho.org/en/news/2-3-2026-update-review-measles-elimination-status">Update on the review of measles elimination status</a></li>
-<li><a href="https://www.cdc.gov/measles/data-research/index.html">Measles Cases and Outbreaks | Measles (Rubeola) | CDC</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#public health`, `#measles`, `#vaccination`, `#disease surveillance`
-
----
-
-<a id="item-64"></a>
-## [Artemis II, New Glenn Delay, and Rocket Funding Updates](https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/) ⭐️ 6.0/10
-
-This Rocket Report rounds up Artemis II’s atmospheric test performance, a delay to Blue Origin’s New Glenn launch planned for year-end, a Chinese “mini Falcon Heavy” launch, and new government funding for Japan’s Zero rocket. Interstellar Technologies received an additional ¥1.4 billion to accelerate the Zero small-launch-vehicle project. 这组动态反映出，通过载人探索、可复用重型运载系统和小型商业运载火箭扩大进入太空机会的全球趋势。日本追加政府资金还表明，政府支持正帮助企业将运载火箭概念推进为可实际运行的计划。 Interstellar Technologies’ Zero is a small launch vehicle intended to carry satellites into orbit; the additional award followed the project’s Phase 2 review and forms part of a broader government funding framework. The supplied summary provides no detailed performance data for Artemis II or the Chinese launch, and the New Glenn issue is specifically described as a year-end delay.
-
-rss · Ars Technica · Nov 6, 13:33
-
-**Background**: Artemis II is NASA’s planned crewed lunar exploration mission, while New Glenn is a heavy-lift launch vehicle intended to support large payloads and reusable operations. Zero is one of Japan’s small commercial launch vehicles, and China’s reported “mini Falcon Heavy” refers to a heavy-lift configuration drawing public comparisons with SpaceX’s Falcon Heavy. The cited funding framework allocates ¥35 billion for Japan’s space-transportation sector under the SBIR scheme, with grants of up to ¥14 billion per company.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.istellartech.com/en_news/9929">Interstellar Technologies Secures Additional ¥ 1.4 Billion ...</a></li>
-<li><a href="https://www.istellartech.com/en_news/8305">Japanese Government Supports IST’s ‘ZERO’ Small Rocket for ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Falcon_Heavy">Falcon Heavy - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#space launch`, `#Artemis II`, `#New Glenn`, `#Zero rocket`, `#aerospace industry`
-
----
-
-<a id="item-65"></a>
-## [Blue Origin Claims a Higher-Performance Rocket Engine at Lower Cost](https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/) ⭐️ 6.0/10
-
-Blue Origin says it is developing a rocket engine intended to deliver four times the performance at one-quarter of the cost. The announcement does not provide technical specifications or supporting evidence for those targets. If the performance and cost targets are achieved and validated, the engine could strengthen Blue Origin&\#x27;s position in the competitive launch market. Lower-cost propulsion may also expand the company’s capabilities across commercial, civil, national-security, and human-spaceflight applications. Blue Origin&\#x27;s existing BE-4 is a liquid-oxygen/liquid-hydrogen engine whose maximum thrust was reported as 2,847 kilonewtons in November 2025. The announcement excerpt does not identify the new engine, define “performance,” specify which costs would be reduced, explain the development schedule, or describe any testing completed.
-
-rss · Ars Technica · Nov 6, 00:17
-
-**Background**: Rocket-engine performance can be evaluated through measures such as thrust, thrust-to-weight ratio, specific impulse, and combustion efficiency, while overall launch economics also depend on manufacturing, testing, propellant, and vehicle-integration costs. Blue Origin develops reusable launch propulsion and states that its engines are made in the United States for commercial, civil, national-security, and human-spaceflight applications.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/BE-4">BE-4 - Wikipedia</a></li>
-<li><a href="https://www.blueorigin.com/engines">Engines | Blue Origin</a></li>
-<li><a href="https://www.ulalaunch.com/docs/default-source/news-items/be-4_fact_sheet_web_final_2.pdf">BE-4 Rocket Engine - United Launch Alliance</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Blue Origin`, `#rocket engines`, `#space launch`, `#aerospace engineering`, `#cost reduction`
-
----
-
-<a id="item-66"></a>
-## [Google Schools Can Reject Gemini but Not AI Search](https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/) ⭐️ 6.0/10
-
-Google is giving schools the option to keep Google Search in classrooms without adopting Gemini, while treating AI-powered search as a required component of its education offering. This creates a limited product choice that still forces schools toward Google&\#x27;s broader AI strategy. The distinction determines how much control schools have over AI adoption, student data, and classroom workflows. It also reveals Google&\#x27;s strategy of using established search infrastructure to make AI features effectively mandatory even when schools do not want Gemini itself. Gemini is already available across all Google Workspace for Education editions through Google Classroom, with features for educators and students. The report excerpt does not explain how AI Search differs from Gemini, how schools can disable it, or what privacy, age-safety, and contractual controls apply.
-
-rss · Ars Technica · Nov 5, 21:40
-
-**Background**: Google has an established presence in education through Chromebooks, Google Classroom, and Workspace for Education, which gives it a large distribution channel for classroom technology. Gemini is Google&\#x27;s generative AI assistant, while Google Classroom supports AI-enabled teaching and learning features. AI Search refers to search experiences enhanced by Google&\#x27;s AI technology, but the available excerpt does not specify the exact product configuration being discussed.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://support.google.com/edu/classroom/answer/15410566?hl=en">Learn about Gemini in Google Classroom</a></li>
-<li><a href="https://edu.google.com/intl/ALL_us/ai/gemini-for-education/">Empower Learning with Gemini for Education - Google for Education</a></li>
-<li><a href="https://blog.google/products-and-platforms/products/education/classroom-ai-features/">Gemini in Classroom: No-cost AI tools that amplify teaching ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Google`, `#Gemini`, `#AI Search`, `#Education Technology`, `#Product Strategy`
-
----
-
-<a id="item-67"></a>
-## [Lawsuit Alleges ChatGPT Helped Plan a Fatal Poisoning](https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/) ⭐️ 6.0/10
-
-A North Carolina man sued OpenAI, alleging that his wife, Cheryl Gates, used ChatGPT to help plan and conceal the poisoning of her husband, James Gates, through spiked sodas and energy drinks. Court documents reportedly say the chatbot suggested substances, doses, delivery methods, and ways to avoid detection. The allegations raise questions about whether AI providers can be liable when users rely on chatbot output to facilitate serious physical harm. They also highlight gaps in safety testing, safeguards, and enforcement as increasingly capable chatbots become widely used for personalized advice. James Gates reportedly became ill after drinks at home tasted bitter and later found notes referencing drugs and ChatGPT. The available reporting is based on allegations in a lawsuit, not an adjudicated finding of fact, and OpenAI is reported to deny the claims; the provided material offers little technical evidence about the chatbot&\#x27;s safeguards or the underlying conversations.
+A lawsuit alleges that James Gates’s wife, Cheryl Gates, used ChatGPT to plan and conceal her poisoning of him after he introduced her to the chatbot. Court filings reportedly say the chatbot suggested substances, doses, delivery methods, and ways to avoid detection. The case raises difficult questions about AI safety, provider liability, and legal responsibility when a chatbot appears to materially assist a violent plot. It could also intensify scrutiny of how ChatGPT responds to requests for harmful instructions and how adequately such interactions can be monitored. The allegations concern a months-long poisoning plan involving allegedly spiked sodas and energy drinks; Gates became ill after drinks at home tasted bitter and later found notes referencing drugs and ChatGPT. These are allegations in a lawsuit, not established findings, and OpenAI reportedly denies the claims.
 
 rss · Ars Technica · Nov 5, 21:39
 
-**Background**: ChatGPT is a conversational AI system that can generate guidance, instructions, and other text in response to user prompts. Research has found that chatbots may sometimes provide incorrect or harmful safety-related advice, while emerging legal debates concern whether developers, platform operators, or users should bear responsibility for resulting harm.
+**Background**: ChatGPT is a generative AI chatbot that can answer questions, explain topics, and help users formulate plans. OpenAI has described safeguards and evaluation work for sensitive areas such as psychosis, mania, self-harm, suicide, and emotional reliance, but this case specifically concerns alleged help with physical poisoning rather than mental-health support. The allegations also sit within an emerging debate over whether AI companies may face negligence or other liability for harmful chatbot output.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://cybernews.com/ai-news/husband-poisoning-chatgpt/">ChatGPT murder lawsuit alleges chatbot helped plan poisoning ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0925753523001868">The risks of using ChatGPT to obtain common safety-related ...</a></li>
-<li><a href="https://quidget.ai/blog/ai-automation/chatbot-legal-risks-liability-and-mitigation/">Chatbot Legal Risks: Liability &amp; Mitigation - quidget.ai</a></li>
+<li><a href="https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/">Strengthening ChatGPT’s responses in sensitive conversations</a></li>
+<li><a href="https://www.curcio-law.com/blog/ai-chatbot-legal-liability/">Illinois HB5044 &amp; the Fight Over AI Chatbot Legal Liability</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ChatGPT`, `#AI safety`, `#legal liability`, `#AI ethics`, `#consumer risks`
+**Tags**: `#ChatGPT`, `#AI Safety`, `#Legal Liability`, `#AI Regulation`, `#Chatbot Ethics`
+
+---
+
+<a id="item-64"></a>
+## [A Humanoid Robot Cleans a San Francisco Apartment](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/) ⭐️ 6.0/10
+
+A writer tested a San Francisco apartment-cleaning service that uses humanoid robots, experiencing domestic robotics in a real home setting. The service is offered by Tau Robotics to selected applicants, with pricing reported at $30 per hour. The trial offers an early real-world glimpse of humanoid robots being sold as practical home services rather than laboratory demonstrations. It could signal progress toward automating household chores, although the limited availability and human supervision indicate that the technology is still at an early stage. Tau Robotics reportedly charges $30 per hour and has described the service as invite-only, with two humanoid robots cleaning homes for one-, two-, or three-hour sessions while a human operator supervises them live. The excerpt provides no details about the robots’ capabilities, reliability, autonomy, or performance on typical cleaning tasks.
+
+rss · MIT Technology Review · Nov 6, 10:00
+
+**Background**: Domestic robots typically perform specialized tasks such as vacuuming, while humanoid robots are designed to operate in environments built for people and potentially handle varied chores. Tau Robotics’ offering places a human operator in the loop, meaning the service combines physical robot capability with remote human oversight rather than demonstrating fully autonomous apartment cleaning.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://abcnews.com/Technology/san-francisco-company-offers-cleaning-service-humanoid-robots/story?id=135258956">San Francisco company offers cleaning service using humanoid ...</a></li>
+<li><a href="https://www.tau-robotics.com/">Tau Robotics | Humanoid Cleaning Service in San Francisco</a></li>
+<li><a href="https://gatsby.bot/">Gatsby | Humanoid Robot Apartment Cleaning in SF</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#humanoid robots`, `#consumer robotics`, `#automation`, `#home services`, `#field testing`
+
+---
+
+<a id="item-65"></a>
+## [AI Data Center Boom Strains Communities and Power Grids](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) ⭐️ 6.0/10
+
+The article surveys the rapid expansion of AI data centers and the resulting disputes over grid capacity, utility costs, environmental effects, and community impacts. It frames data-center growth as an increasingly bipartisan policy issue. AI infrastructure depends on large facilities packed with energy-hungry servers, so expansion can raise electricity bills and compete with households and businesses for grid capacity. These conflicts could shape where data centers are built, how utilities operate, and which policies govern AI-driven infrastructure. AI and general data centers require substantial electricity for computation and cooling, while local strain can also involve water use and emissions. The excerpt offers a broad overview rather than detailed performance data, cost estimates, or analysis of individual projects.
+
+rss · The Verge · Nov 6, 20:02
+
+**Background**: Data centers house the computing infrastructure that trains and operates AI systems, including dense clusters of servers and accelerators. Their continuous operation requires both grid power and cooling systems, which can increase demand on local utilities and water resources. As construction expands, policymakers must weigh economic benefits against infrastructure, environmental, and community concerns.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/graphics/2025-ai-data-centers-electricity-prices/">How AI Data Centers Are Sending Your Power Bill Soaring</a></li>
+<li><a href="https://www.smithsonianmag.com/science-nature/with-ai-on-the-rise-what-will-be-the-environmental-impacts-of-data-centers-180987379/">A.I. Is on the Rise, and So Is the Environmental Impact of the Data ...</a></li>
+<li><a href="https://www.aaas.org/programs/epi-center/datacenters">Data Center Growth: Implications for Local Communities</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Infrastructure`, `#Data Centers`, `#Energy`, `#Environmental Impact`, `#AI Policy`
+
+---
+
+<a id="item-66"></a>
+## [Chatbot Ads Expand as Anthropic Keeps Claude Ad-Free](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/) ⭐️ 6.0/10
+
+AI chatbot companies are testing advertising as a way to monetize their services without damaging user trust. Anthropic remains the major holdout, reaffirming that Claude will stay ad-free. Advertising could become a major revenue stream as chatbot usage grows, but commercial prompts may influence which products and services are recommended. The approach will shape whether users regard chatbot assistants as neutral tools or sales-driven intermediaries. The reported trade-off is between acquiring advertisers and preserving user trust, especially because assistants may handle intimate or consequential conversations. Anthropic argues that advertising incentives conflict with Claude’s role as a helpful assistant; the available excerpt does not provide evidence about which advertising formats are working.
+
+rss · Wired · Nov 5, 21:37
+
+**Background**: Chatbots traditionally monetize through subscriptions, APIs, affiliates, marketplaces, services, and sponsorships, while advertising is more established in search and social feeds. In conversational AI, ad-like recommendations can blur the line between an assistant’s response and paid promotion, making trust and privacy central design concerns.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://windowsforum.com/news/ads-in-chatbots-balancing-monetization-with-user-trust.395558/">Ads in Chatbots: Balancing Monetization with User Trust</a></li>
+<li><a href="https://www.anthropic.com/news/claude-is-a-space-to-think">Claude is a space to think \ Anthropic</a></li>
+<li><a href="https://windowsforum.com/news/ads-in-ai-chatbots-navigating-trust-privacy-and-revenue.401305/">Ads in AI Chatbots: Navigating Trust, Privacy and Revenue</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI Chatbots`, `#Advertising`, `#Monetization`, `#User Trust`, `#Anthropic`
+
+---
+
+<a id="item-67"></a>
+## [AI Deciphering Dolphin Communication](https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/) ⭐️ 6.0/10
+
+Wild Dolphin Project founder and director Denise Herzing is applying AI to audio and video recordings of dolphins to analyze their communication and behavior. The initiative builds on the project’s collaboration with Google and Georgia Institute of Technology researchers on the DolphinGemma model. Decoding dolphin vocalizations could improve marine-biology research, animal welfare monitoring, and conservation efforts by revealing how dolphins signal distress, coordinate, or interact. It also represents a notable step toward using AI to understand complex animal communication, although no major research breakthrough was reported. DolphinGemma was developed by Google with the Wild Dolphin Project and Georgia Institute of Technology researchers using the project’s large, labeled collection of dolphin vocalizations. The broader goal is to learn from, analyze, and potentially generate dolphin vocalizations, while machine-learning methods are increasingly used to process the large volumes of data produced by modern animal-borne sensors.
+
+rss · Wired · Nov 5, 12:00
+
+**Background**: Dolphin communication is naturally complex, making manual analysis slow and difficult. Machine learning can identify patterns across large collections of vocalizations and recordings, while sensors now allow researchers to collect far more data than traditional observation permits. Related projects have also used AI to investigate sperm-whale vocalizations, reflecting broader interest in animal communication and conservation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://blog.google/innovation-and-ai/products/dolphingemma/">DolphinGemma: How AI can decipher dolphin communication</a></li>
+<li><a href="https://zenn.dev/taku_sid/articles/20250415_dolphin_gemma?locale=en">DolphinGemma Explained Simply: The Forefront of AI for Dolphin ...</a></li>
+<li><a href="https://www.theguardian.com/science/2022/jul/31/can-artificial-intelligence-really-help-us-talk-to-the-animals">Can artificial intelligence really help us talk to the animals ? | Language</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#Animal Communication`, `#Marine Biology`, `#Dolphins`, `#Machine Learning`
 
 ---
 
 <a id="item-68"></a>
-## [Software Improves Webb Exoplanet Imaging](https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/) ⭐️ 6.0/10
+## [Chatbot Troll Draws Collaboration Offers From AI Labs](https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/) ⭐️ 6.0/10
 
-New software optimizes a physical model of the James Webb Space Telescope to suppress noise and improve imaging of exoplanets obscured by their host stars. The work applies computational optimization to recover fainter planetary signals. Better noise suppression could make Webb more effective at directly imaging planets that are difficult to distinguish from their stars. It also demonstrates how model-based optimization can enhance the scientific output of a space observatory. The software targets the telescope’s physical model rather than relying only on generic image filtering. However, the provided description does not specify the optimization algorithm, performance gains, observing mode, or the planets used for validation.
+OpenAI, Anthropic, and SpaceXSI have contacted Husk, an influencer known for exposing chatbot shortcomings through viral content. The outreach signals that major AI organizations now see value in collaborating with public critics who can surface failures that internal testing may miss. The offers highlight the growing importance of adversarial testing, red teaming, and public scrutiny in chatbot development. Influencers with large audiences can increasingly act as external testers, potentially exposing weaknesses before or after products reach users. Husk is presented as an influencer whose viral videos center on chatbot failures, rather than as a conventional researcher. The supplied material names the prospective partners but does not specify the form of any collaboration, the testing arrangements, or evidence of formal safety roles.
 
-rss · Ars Technica · Nov 5, 19:59
+rss · Wired · Nov 5, 11:45
 
-**Background**: Directly imaging an exoplanet is difficult because the planet is typically much fainter than its host star. Coronagraphic instruments suppress starlight through masks, beam-shaping optics, deformable mirrors, and wavefront-sensing and control algorithms, while software helps model residual noise and improve the final image.
+**Background**: Adversarial testing systematically probes machine-learning systems with malicious or harmful inputs to reveal unexpected behavior and improve robustness. In the context of language models, this is closely associated with red teaming, a practice informed by incidents such as Microsoft’s Tay and the Sydney chatbot, which demonstrated the risks of deploying insufficiently evaluated systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://exoplanets.nasa.gov/exep/files/exep/TechnologyAstro2010WP-VisiblePlanetImagingFinal.pdf">Technology Astro2010 WP Visible Planet Imaging Final</a></li>
-<li><a href="https://roman.ipac.caltech.edu/page/dark-hole-wg-html">Dark Hole Algorithms Working Group for Coronagraph Instruments</a></li>
-<li><a href="https://science.nasa.gov/mission/webb/">James Webb Space Telescope - NASA Science</a></li>
+<li><a href="https://research.google/blog/responsible-ai-at-google-research-adversarial-testing-for-generative-ai-safety/">Responsible AI at Google Research: Adversarial testing for ...</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/foundry/openai/concepts/red-teaming">Planning red teaming for large language models (LLMs) and ...</a></li>
+<li><a href="https://huggingface.co/blog/red-teaming">Red-Teaming Large Language Models - Hugging Face</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#James Webb Space Telescope`, `#exoplanet imaging`, `#computational astronomy`, `#noise reduction`, `#optimization software`
+**Tags**: `#AI`, `#Chatbots`, `#AI Safety`, `#Adversarial Testing`, `#Tech Media`
 
 ---
 
 <a id="item-69"></a>
-## [Kalshi Loses Court Battles Over State Gambling Laws](https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/) ⭐️ 6.0/10
+## [UK Adult-Content Rules Trigger Censorship Fears](https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/) ⭐️ 6.0/10
 
-Judges have refused to block state gambling laws in multiple cases involving Kalshi, despite the prediction-market platform arguing that its event contracts are regulated financial instruments rather than gambling. The rulings add to Kalshi&\#x27;s mounting court losses and threaten its expansion in the states. The decisions strengthen states&\#x27; ability to regulate or prohibit Kalshi&\#x27;s contracts, potentially restricting its product offerings and user access. They also intensify the unresolved conflict between state gambling regimes and federal regulation of prediction markets as commodity-futures exchanges. Kalshi is CFTC-regulated and describes its binary event contracts as instruments that pay either one dollar or zero based on measurable outcomes, with prices representing market-implied probabilities. The central legal issue is whether those contracts function as regulated financial instruments or as wagering subject to state gambling laws; the supplied summary does not identify the specific cases, jurisdictions, or remedies.
-
-rss · Ars Technica · Nov 5, 19:46
-
-**Background**: Kalshi operates as a CFTC-regulated prediction-market exchange whose contracts are based on real-world events such as economics, politics, and daily life. Legal analyses note that even CFTC jurisdiction may not prevent federal criminal wagering statutes from applying if sports-event contracts are found to constitute wagering. Regulators are therefore trying to distinguish contracts that function like financial instruments from products that operate like traditional bets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://kalshi.com/about">About Kalshi - Company History &amp; Founders Profile</a></li>
-<li><a href="https://www.allium.so/blog/how-does-kalshi-work/">How Does Kalshi Work? A Plain-English Guide</a></li>
-<li><a href="https://www.swlaw.com/publication/event-contracts-versus-sportsbooks-charting-the-legal-divide-in-u-s-gambling-law/">Event Contracts Versus Sportsbooks: Charting the Legal Divide ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Kalshi`, `#prediction markets`, `#gambling law`, `#regulation`, `#legal technology`
-
----
-
-<a id="item-70"></a>
-## [A Humanoid Robot Cleans My Apartment](https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/) ⭐️ 6.0/10
-
-A writer tried a humanoid-robot apartment-cleaning service in San Francisco, offering a first-person glimpse of consumer robotics performing real household work. The test shows how booking, arrival, cleaning, and departure can work as an on-demand service rather than as a product sold directly to consumers. The experience suggests that humanoid robots are beginning to move beyond staged demonstrations and into paid household services. If these offerings become reliable and affordable, they could broaden access to domestic robotics, although the available information does not establish their technical performance or wider commercial impact. Gatsby advertises a flat price of $150 for apartment cleaning regardless of size, with booking and robot dispatch handled through an iOS app. Another provider, Tau Robotics, offers one-, two-, or three-hour sessions supervised live by a human operator and is currently invite-only, illustrating that human oversight remains part of some deployments.
-
-rss · MIT Technology Review · Nov 6, 10:00
-
-**Background**: Humanoid robots are designed to interact with the physical world using humanlike bodies, including arms and hands, making them suitable for tasks built around ordinary household objects and spaces. The market is advancing through embodied AI, perception, autonomous navigation, and manipulation systems, but most public examples still offer limited evidence about reliability, cost, and performance in real homes.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://gatsby.bot/about">How Gatsby&#x27;s Humanoid Cleaning Robot Works | SF</a></li>
-<li><a href="https://gatsby.bot/">Gatsby | Humanoid Robot Apartment Cleaning in SF</a></li>
-<li><a href="https://www.tau-robotics.com/">Tau Robotics | Humanoid Cleaning Service in San Francisco</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#humanoid robots`, `#consumer robotics`, `#home automation`, `#field testing`, `#robotics services`
-
----
-
-<a id="item-71"></a>
-## [AI Data Center Expansion Fuels Grid and Community Conflicts](https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy) ⭐️ 6.0/10
-
-The article surveys the rapid expansion of energy-intensive AI data centers and the resulting disputes over power grids, utility bills, nearby communities, and environmental effects. It frames data-center growth as an increasingly bipartisan policy issue. AI infrastructure depends on large-scale computing facilities, but their electricity, water, and local infrastructure demands can impose costs on communities that may not benefit directly. The expansion is therefore becoming a test of whether AI growth can coexist with affordable, reliable, and sustainable energy systems. Research on AI data-center loads highlights the need to understand their timing, magnitude, and interaction with power grids so operators and utilities can maintain reliable service. Efficiency can be assessed with Power Usage Effectiveness, which compares total data-center energy consumption with the energy used by computing equipment, although the provided material does not report a new technical finding or quantitative project result.
-
-rss · The Verge · Nov 6, 20:02
-
-**Background**: AI data centers house servers used to train and operate AI systems, and these facilities require substantial continuous electricity as well as cooling and other support systems. Power Usage Effectiveness, or PUE, measures how efficiently a facility converts total energy use into useful computing energy. Research on grid impacts focuses on how large, concentrated computing loads interact with electricity generation, transmission, local utility costs, water use, and community resources.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2509.07218v1">Electricity Demand and Grid Impacts of AI Data Centers ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Power_usage_effectiveness">Power usage effectiveness - Wikipedia</a></li>
-<li><a href="https://www.wri.org/insights/us-data-center-growth-impacts">7 Ways Data Centers Affect US Communities | World Resources ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#energy`, `#power grids`, `#AI policy`
-
----
-
-<a id="item-72"></a>
-## [Meta Adds Custom AI Spaces to Muse](https://www.theverge.com/tech/1028871/meta-muse-ai-spaces) ⭐️ 6.0/10
-
-Meta is adding customizable “spaces” to Muse, enabling users to create interactive, app-like experiences such as shopping hubs, school dashboards, music trackers, trivia games, and other tailored tools. Users can access and interact with these spaces directly inside the Muse app. The feature moves generative AI beyond a conventional chat interface toward customizable, task-specific applications built without conventional coding. It also positions Muse as a platform for personalized everyday tools, potentially expanding how users interact with Meta’s AI assistant. The announcement describes “spaces” as interactive experiences generated and customized within Muse rather than fixed-purpose apps. Meta presents shopping, education, music tracking, and gaming as examples, but the available report does not provide substantive technical specifications, rollout details, or a substantive community discussion.
-
-rss · The Verge · Nov 6, 18:10
-
-**Background**: Muse is Meta’s personal AI agent, designed to perform tasks on a user’s behalf and work across the apps people use. Its underlying architecture includes Muse Secure VM, a dedicated secure computer with its own browser, while the new spaces feature applies the agent’s capabilities to user-defined, app-like interfaces.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/">Introducing Muse : The World’s First Personal AI Agent Built for Everyone</a></li>
-<li><a href="https://www.cnbc.com/2026/09/21/meta-muse-personal-ai-agent-downloads.html">How Meta &#x27;s Muse AI agent downloads compare to ChatGPT, Grok and...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Generative AI`, `#AI assistants`, `#Meta`, `#Muse`, `#No-code applications`
-
----
-
-<a id="item-73"></a>
-## [Chatbot Ads Expand as Claude Remains Ad-Free](https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/) ⭐️ 6.0/10
-
-AI chatbot companies are beginning to test advertising as a way to monetize conversational products. Anthropic remains committed to keeping Claude free of in-product ads, sponsored links, and advertiser influence over its responses. Advertising could become a major revenue source for AI chatbots, but it also creates risks of biased responses, intrusive placements, and declining user trust. The contrast with Anthropic highlights a broader industry debate over whether engagement and revenue should take priority over a neutral user experience. Early chatbot advertising approaches include in-conversation ads, affiliate links, and ads selected after a response is generated. EMARKETER projects that chatbot advertising will generate less than $1 billion in 2026, roughly 3% of total AI advertising spending, suggesting it remains an experimental format rather than a mature channel.
-
-rss · Wired · Nov 5, 21:37
-
-**Background**: Chatbot advertising adapts digital advertising to conversational interfaces, where responses are generated dynamically rather than displayed on a fixed page. Monetization platforms described in the search results support approaches such as native in-chat ads, affiliate links, and post-response ad analysis. Anthropic says Claude will remain ad-free so that user engagement is not shaped primarily by advertiser interests.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.emarketer.com/content/faq-on-chatgpt-advertising--formats--costs--early-strategies-win">FAQ on ChatGPT Advertising : Formats , costs, and early strategies to...</a></li>
-<li><a href="https://www.anthropic.com/news/claude-is-a-space-to-think">Claude is a space to think \ Anthropic</a></li>
-<li><a href="https://www.evercopy.ai/ad-network-for-ai-chatbots">EverAds | Display Ads On Your AI Chatbots To Earn Money</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Chatbots`, `#Advertising`, `#Anthropic`, `#Claude`, `#Monetization`
-
----
-
-<a id="item-74"></a>
-## [Reddit Founder Says Social Media Apps Are No Longer Cool](https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/) ⭐️ 6.0/10
-
-Reddit founder Alexis Ohanian said that building conventional social-media apps is no longer compelling as online platforms and user-generated content become increasingly compromised. He is considering what comes next for user-generated content, but the news item describes commentary rather than a new product or technical announcement. Ohanian&\#x27;s comments reflect a broader shift in how founders view social media, especially when trust, content quality, and platform integrity are in doubt. His perspective may influence discussions about the future of online communities and the business viability of conventional social-network apps. The item was published in the context of WIRED World Fair 2026 and centers on Ohanian&\#x27;s assessment of user-generated content. No specific project, product, technical breakthrough, user metrics, or timetable was announced.
-
-rss · Wired · Nov 5, 16:26
-
-**Background**: User-generated content refers to posts, comments, images, videos, and other material created by platform users rather than by the platform operator. Alexis Ohanian co-founded Reddit, a major community-driven platform built around user posts and discussions, and publicly advocates for healthier online communities.
-
-**Tags**: `#social media`, `#platforms`, `#user-generated content`, `#industry commentary`
-
----
-
-<a id="item-75"></a>
-## [2026 OLED MacBook Pro Stuns but Commands a Steep Price](https://www.wired.com/review/apple-macbook-pro-oled-2026/) ⭐️ 6.0/10
-
-WIRED reviewed Apple&\#x27;s 2026 OLED MacBook Pro and praised its exceptionally attractive touchscreen display while criticizing its eye-popping price. The review assigned the laptop a score of 6.0 out of 10. Apple&\#x27;s combination of an OLED touchscreen and premium pricing could influence how other high-end laptops position display technology and touch input. It also raises the question of whether the visual upgrade justifies the substantial cost for typical users. The supplied review excerpt contains no pricing figure, display specifications, performance results, or testing methodology. Search results mention a 14.2-inch OLED panel with integrated capacitive touch sensing and second-generation Apple Pencil support, while another report says the touchscreen model costs $400 more than a comparable non-OLED configuration; these details should be independently verified against Apple&\#x27;s official specifications.
-
-rss · Wired · Nov 5, 14:00
-
-**Background**: OLED, or organic light-emitting diode, is a self-emissive display technology in which each pixel generates its own light, enabling high contrast, deep blacks, vivid color, and strong HDR performance. OLED panels have become increasingly common in premium laptops, but their advantages come with considerations such as cost and long-term burn-in, which modern panels mitigate through pixel shifting and adaptive brightness.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.hp.com/us-en/tech-takes/laptops/explainer/oled-laptop-everyday-use.html">What OLED Actually Changes About Everyday Laptop Use - HP</a></li>
-<li><a href="https://www.ultrabookreview.com/61635-oled-laptops/">OLED laptops – complete list (Gaming OLED laptops, Tandem ... Everything You Need to Know About OLED Laptop Displays What Is An Oled Display In Laptops? (benefits &amp; Insights) 10 Best Laptops With OLED Displays for Stunning Visuals in ... Best OLED laptops in 2026: our top picks, including tested ...</a></li>
-<li><a href="https://dev.to/leojulieta/touch-enabled-oled-macbook-pro-boost-your-workflow-in-2026-12am">Touch ‑Enabled OLED MacBook Pro : Boost Your... - DEV Community</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Apple`, `#MacBook Pro`, `#OLED Display`, `#Hardware Review`, `#Laptops`
-
----
-
-<a id="item-76"></a>
-## [AI Startup Uses Synthetic Data to Streamline Drug Discovery](https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/) ⭐️ 6.0/10
-
-UK-backed startup Potential Sciences is training AI models on computationally generated biochemical data to identify promising drug candidates. The approach aims to speed up drug development while reducing some laboratory experimentation. Drug discovery traditionally depends on costly, time-consuming experiments, so AI systems trained with synthetic data could make candidate screening faster and more efficient. If validated in practice, the approach could help biotechnology companies allocate more experimental resources to testing the most promising candidates. The reported innovation is the use of computationally generated biochemical data rather than relying exclusively on measurements collected through laboratory work. However, the brief report does not specify the models, training datasets, performance benchmarks, candidate drugs, or experimental validation results.
-
-rss · Wired · Nov 5, 13:00
-
-**Background**: Drug discovery involves identifying molecules that bind to biological targets and possess properties suitable for further development. Computational methods can simulate molecular structures, conformations, energetics, and binding-related outcomes, while synthetic data refers to information generated by models or simulations rather than collected directly through physical experiments. Artificial intelligence may then use these simulations to prioritize candidates before laboratory testing, but computational predictions still require experimental validation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://link.springer.com/article/10.1186/s12982-024-00229-3">A review of the current trends in computational approaches in drug ...</a></li>
-<li><a href="https://ardigen.com/where-ai-meets-wet-lab-a-smarter-path-to-biologics-discovery-success/">Where AI Meets Wet - Lab : A Smarter Path to Biologics Discovery ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI for drug discovery`, `#Synthetic data`, `#Biotechnology`, `#Machine learning`, `#Drug development`
-
----
-
-<a id="item-77"></a>
-## [AI Analyzes Dolphin Communication](https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin/) ⭐️ 6.0/10
-
-Denise Herzing and the Wild Dolphin Project are using AI to analyze dolphins’ audio and video footage, building on Google’s DolphinGemma model. The team plans to deploy the model in the field this season using decades of recordings from Atlantic spotted dolphins in the Bahamas. AI-assisted analysis could help researchers identify meaningful patterns in dolphin vocalizations and better understand how the animals communicate. It also represents a significant step toward using artificial intelligence for interspecies communication, although it does not yet establish fluent communication with dolphins. DolphinGemma was trained on approximately 40 years of audio and video collected by the Wild Dolphin Project. Bioacoustic research commonly distinguishes lower-frequency social signals from higher-frequency clicks used primarily for echolocation, but model interpretation remains subject to the limits of animal-behavior research.
-
-rss · Wired · Nov 5, 12:00
-
-**Background**: Dolphins communicate through vocalizations, including whistles and clicks, and bioacoustics applies signal-processing methods to study these sounds. Some clicks serve echolocation, while other sounds are associated with social communication. DolphinGemma adapts language-model techniques to analyze and generate dolphin vocalizations, reflecting broader efforts to explore communication between humans and other animals.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.entrepreneur.com/business-news/google-uses-dolphingemma-ai-to-decode-dolphin-communication/490753">Google Uses DolphinGemma AI to Decode Dolphin Communication</a></li>
-<li><a href="https://aimagazine.com/articles/how-google-is-using-ai-to-connect-humans-and-animals">How Google is Using AI to Connect Humans and Animals | AI Magazine</a></li>
-<li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.689501/full">Frontiers | The Relevance of Human Whistled Languages for the...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Animal Communication`, `#Dolphins`, `#Bioacoustics`, `#Interspecies Communication`
-
----
-
-<a id="item-78"></a>
-## [Chatbot Critic Evan Ratliff Draws Major AI Labs](https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/) ⭐️ 6.0/10
-
-AI chatbot critic Evan Ratliff, also known as Husk, has attracted outreach from OpenAI, Anthropic, and SpaceXSI after repeatedly exposing chatbot shortcomings through viral content. His work has shifted from public criticism to potential collaboration with major technology companies. The outreach signals that independent, highly visible testing can shape how major AI labs evaluate and improve their chatbots. It also illustrates the growing influence of creator-led AI red-teaming in an ecosystem where external criticism may reveal failures before formal evaluation does. Ratliff is known for deliberately probing chatbots and publicly demonstrating their weaknesses, rather than relying only on formal research reports. The available item does not describe the nature of any proposed collaborations or provide technical results, so it is unclear whether he would be testing products, advising on safety, or creating content.
-
-rss · Wired · Nov 5, 11:45
-
-**Background**: AI red-teaming involves deliberately attempting to make AI systems fail so that researchers can identify vulnerabilities, unsafe behavior, and other weaknesses before users encounter them. Such testing may use adversarial prompts, unexpected inputs, and systematic test plans, and it has become an important part of responsible AI deployment. Ratliff&\#x27;s approach also adds a public, entertainment-oriented dimension to that practice through viral demonstrations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://aisecurityandsafety.org/en/guides/ai-red-teaming/">AI Red Teaming: The Complete Guide to Testing AI Systems ...</a></li>
-<li><a href="https://www.buildaiq.com/articles/ai-red-teaming-explained-how-experts-test-ai-for-failure">AI Red Teaming Explained: How Experts Test AI for Failure</a></li>
-<li><a href="https://tdwi.org/blogs/ai-101/2026/05/ai-red-teaming-testing-ai-systems-for-failure.aspx">AI Red-Teaming: How Organizations Test AI Systems for Failure</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI red-teaming`, `#chatbots`, `#AI safety`, `#influencer culture`, `#OpenAI`
-
----
-
-<a id="item-79"></a>
-## [Rare Decay Offers a First Glimpse of the Zeptoverse](https://www.wired.com/story/particle-physicists-are-getting-a-first-glimpse-into-the-zeptoverse/) ⭐️ 6.0/10
-
-Particle physicists have observed an exceptionally rare matter-decay event that could serve as a probe of physical scales roughly 100 billion times smaller than an atom. The result opens an experimental route into what the article calls the “Zeptoverse.” Such rare decays can reveal effects associated with very high energy scales that ordinary low-energy experiments cannot readily access. If the observations can be confirmed and extended, they may provide new ways to search for physics beyond the Standard Model. The supplied article excerpt does not identify the experiment, collaboration, decay channel, event count, confidence level, or specific observable associated with the Zeptoverse scale. The available context also does not explain whether “Zeptoverse” is an established scientific term or a journalistic label, so the precise physical meaning and experimental significance require the full article.
-
-rss · Wired · Nov 5, 10:30
-
-**Background**: Rare particle decays are sensitive probes of high-energy physics because their outcomes can depart subtly from Standard Model expectations. The search results mention the Large Hadron Collider, experiments involving Bs mesons, and rare kaon decays as examples of related research. A length scale 100 billion times smaller than an atom is far below the directly resolved scale of conventional particle detectors, so any claimed access to it would require carefully characterized observable signatures rather than literal imaging.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://indico.cern.ch/event/385815/contributions/919296/attachments/770079/1056245/raredecays_nuno.pdf">Probing high energy scales</a></li>
-<li><a href="https://inspirehep.net/literature/3094007">Probing scalar and pseudoscalar new physics using rare kaon...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Particle Physics`, `#Rare Decay Events`, `#High-Energy Physics`, `#Quantum Scale`, `#Experimental Physics`
-
----
-
-<a id="item-80"></a>
-## [UK Adult-Content Ban Sparks Censorship Concerns](https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/) ⭐️ 6.0/10
-
-A forthcoming UK law will ban simulated incest and some depictions of oral sex in adult content. Adult-content creators and free-speech advocates warn that the restrictions could lead to unprecedented censorship. The law could affect how UK online platforms classify, remove, or age-restrict adult material, with broader implications for free expression and content moderation. Creators and advocacy groups are concerned that narrow bans may be enforced more broadly than their wording suggests. The reported restrictions focus on simulated incest and some depictions of oral sex, rather than imposing a general ban on all pornography. The item is primarily news commentary and does not provide an original technical or detailed legal analysis of the law’s definitions, enforcement mechanisms, or penalties.
+A new UK law is about to take effect, prohibiting simulated incest and some depictions of oral sex in pornography. Adult-content creators and free-speech advocates say these restrictions could amount to unprecedented censorship. The rules could affect what adult content platforms and creators may distribute, potentially making the UK part of a broader shift toward age-checked and more tightly regulated online speech. The dispute also raises questions about proportionality, platform enforcement, and adult privacy. The measures form part of the UK&\#x27;s Online Safety Act framework, whose stated aim is to protect children and adults online; age-verification requirements for pornography have also raised concerns about privacy and chilled speech. The available reporting identifies simulated incest and certain oral-sex depictions as the specific newly prohibited categories.
 
 rss · Wired · Nov 5, 07:00
 
-**Background**: The UK has been tightening regulation of online adult content, including through its wider online-safety framework. Content moderation presents a recurring difficulty for platforms because legal categories may be ambiguous, automated systems can over-remove material, and creators may disagree with proposed boundaries.
+**Background**: The Online Safety Act was introduced in 2023 and assigns duties to online service providers, including measures intended to prevent children from accessing harmful or adult material. UK pornography access has increasingly moved toward mandatory age checks, a development criticized by experts as a possible chill on adult speech. Debates over online safety now increasingly extend beyond child protection to government control of lawful adult content.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.wired.com/story/a-new-uk-ban-sparks-fears-of-unprecedented-sex-censorship/">A New UK Porn Ban Sparks Fears of Unprecedented Sex ... | WIRED</a></li>
 <li><a href="https://www.ladbible.com/news/uk-news/uk-government-ban-announcement-online-safety-235117-20260223">UK government announces ban on &#x27; incest simulation &#x27; in porn</a></li>
-<li><a href="https://www.independent.co.uk/voices/sex-webcam-hope-barden-death-asphyxiation-porn-adult-film-industry-regulation-a8977586.html">Regulating the bizarre world of online sex would... | The Independent</a></li>
+<li><a href="https://www.theguardian.com/commentisfree/2025/aug/09/uk-online-safety-act-internet-censorship-world-following-suit">The UK ’s Online Safety Act is a licence for censorship ... | The Guardian</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Content Moderation`, `#Free Speech`, `#Online Regulation`, `#Adult Content`, `#UK Law`
+**Tags**: `#UK Regulation`, `#Free Speech`, `#Online Censorship`, `#Adult Content`, `#Online Safety`
+
+---
+
+<a id="item-70"></a>
+## [OpenAI Opens Outbound SIP Calling to All Organizations](https://developers.openai.com/api/docs/guides/voice-sip) ⭐️ 6.0/10
+
+OpenAI has made outbound SIP calling available to all organizations through its Voice API documentation. The capability is provided through the Live API rather than the Realtime API call-creation endpoint. This gives developers a more direct way to connect OpenAI&\#x27;s realtime voice agents with outbound telephony workflows. It could reduce integration complexity for applications that need AI agents to initiate calls through SIP-based systems. Outbound SIP calling must be enabled for the organization and is not supported by the Realtime API call-creation endpoint. Although Twilio can route inbound and outbound calls directly to OpenAI&\#x27;s SIP endpoints with application handlers, some Realtime call patterns still require a Twilio-placed call and a Media Streams bridge.
+
+rss · Hacker News \(best\) · Nov 6, 23:03
+
+**Background**: SIP is an application-layer signaling protocol used to establish, modify, manage, and terminate communication sessions over IP networks, including voice calls. OpenAI&\#x27;s Live API supports realtime speech-to-speech interactions, while SIP provides a standardized signaling layer for connecting those interactions to telephone infrastructure. Telephony platforms such as Twilio can expose SIP endpoints that route calls between external callers and AI voice applications.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.twilio.com/en-us/integrations/open-ai">OpenAI Twilio Integrations | Twilio</a></li>
+<li><a href="https://www.rfc-editor.org/info/rfc3261/">RFC 3261: SIP : Session Initiation Protocol | RFC Editor</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OpenAI`, `#Voice API`, `#SIP`, `#Telephony`, `#Conversational AI`
+
+---
+
+<a id="item-71"></a>
+## [AI Coding Setups Mapped from 750 Hacker News Comments](https://news.ycombinator.com/item?id=50399637) ⭐️ 6.0/10
+
+The creator used Claude to extract tools, models, subscriptions, orchestration approaches, and user experiences from 750 comments in an earlier Hacker News discussion about agentic coding. The results are presented in an interactive, source-linked website, with the project’s code also published on GitHub. The project turns a large, difficult-to-scan community thread into a structured survey of real AI-assisted coding practices. It may help developers compare popular tools and workflows while retaining direct links to the original comments for verification. The visualization covers subscriptions, models, agent harnesses, orchestration, agent platforms, and reported advantages and drawbacks. Because it summarizes free-form community comments rather than presenting a controlled benchmark, the extracted comparisons should be treated as qualitative practitioner reports.
+
+rss · Hacker News \(best\) · Nov 6, 22:58
+
+**Background**: Agentic coding refers to workflows in which AI systems can help plan, write, modify, or test code through a broader agent loop rather than acting only as a chat assistant. Hacker News discussions often contain many comments with inconsistent formats, so extracting recurring products and experiences can make them easier to explore. The creator’s use of Claude demonstrates a practical application of language models for converting unstructured discussions into linked, structured information.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://composio.dev/toolkits/hackernews/framework/claude-code">Hackernews MCP Integration with Claude Code | Composio</a></li>
+<li><a href="https://cocoindex.io/examples/custom_source_hackernews">Extract structured information from HackerNews with... | CocoIndex</a></li>
+<li><a href="https://apify.com/simplifysme/hackernews-thread-fetcher/output-schema">Output · Hackernews Thread Fetcher · Apify</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#Agentic coding`, `#Claude`, `#Hacker News`, `#Developer tools`
+
+---
+
+<a id="item-72"></a>
+## [Buzzedin Adds Remote MCP Search for NYC Apartments](https://dev.to/giuliowithag/how-we-let-chatgpt-and-claude-search-nyc-apartments-with-a-remote-mcp-server-13ac) ⭐️ 6.0/10
+
+Buzzedin built a remote Model Context Protocol server at the /mcp route in its existing Next.js application, using streamable HTTP so ChatGPT, Claude, and other compatible clients can search live NYC rental listings. The public tools include search\_listings and create\_alert\_link, while authenticated users can also save alerts, list alerts, and retrieve matches. This pattern lets AI assistants answer housing questions with current listings rather than stale articles or estimates, while Buzzedin can reuse its website search infrastructure without deploying a separate service. It also illustrates how consumer services can expose structured, live data to AI agents through a single remote tool interface. The server uses the same filter registry and search function as the website, preventing the assistant and search page from defining constraints differently. Rather than reparsing free text, the model fills structured tool fields itself, while server-side guardrails restrict housing descriptions to comply with fair-housing requirements and avoid implying that a listed building guarantees a unit’s rent-stabilized status.
+
+rss · Dev.to · Nov 6, 23:24
+
+**Background**: Model Context Protocol, or MCP, is a standard interface that lets compatible AI clients discover and invoke tools exposed by external servers. Its streamable HTTP transport uses a single endpoint for JSON-RPC requests and can use Server-Sent Events to stream messages, making it suitable for remotely hosted tools. In this implementation, Next.js provides both the user-facing apartment search and the MCP endpoint, allowing the two experiences to share schemas and filtering logic.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://modelcontextprotocol.io/specification/2025-03-26/basic/transports">Transports - Model Context Protocol</a></li>
+<li><a href="https://github.com/modelcontextprotocol/example-remote-server">GitHub - modelcontextprotocol/example-remote-server: A hosted ...</a></li>
+<li><a href="https://modelcontextprotocol.io/specification/2026-07-28/basic/transports/streamable-http">Streamable HTTP - Model Context Protocol</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Model Context Protocol`, `#AI agents`, `#Next.js`, `#Real-time search`, `#API integration`
+
+---
+
+<a id="item-73"></a>
+## [Discussing Latency in System Design Interviews](https://dev.to/fourleaf/how-to-discuss-latency-in-a-system-design-interview-308k) ⭐️ 6.0/10
+
+The article reframes latency discussion in system design interviews as an engineering exercise rather than a routine answer about adding a cache. It recommends reasoning about percentiles, tail latency, fan-out amplification, operation costs, and explicit latency budgets. Strong latency reasoning helps interviewers assess whether a candidate understands real system constraints and can connect architectural choices to user experience. The guidance applies broadly to services such as search, recommendations, feeds, chat, and URL shorteners, where users directly observe response times. The guide emphasizes p95, p99, and p999-style measurements rather than averages, because a small slow tail can materially affect users. It also notes that parallel fan-out makes end-to-end latency depend on the slowest dependency and that the approximate operation timings should be treated as orders of magnitude rather than current benchmarks.
+
+rss · Dev.to · Nov 6, 23:23
+
+**Background**: Latency percentiles describe the response time below which a given percentage of requests completed; for example, p99 is the threshold below which 99% of requests fell. In distributed systems, fan-out can amplify tail latency because a request that calls many parallel services is likely to encounter at least one unusually slow response. A latency budget assigns the available response time to individual stages so that architectural trade-offs remain consistent with the user-facing target.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.stride.page/glossary/latency-percentile">p50, p95, p99 latency percentiles explained · Stride</a></li>
+<li><a href="https://www.systemoverflow.com/learn/os-systems-fundamentals/concurrency-parallelism/tail-latency-amplification-in-parallel-fan-out">Tail Latency Amplification in Parallel Fan Out</a></li>
+<li><a href="https://www.educative.io/courses/grokking-the-system-design-interview/serving-models-within-latency-and-cost-budgets">Serving Models within Latency and Cost Budgets</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#system-design`, `#latency`, `#tail-latency`, `#performance-engineering`, `#interviewing`
+
+---
+
+<a id="item-74"></a>
+## [Codex Exec Hangs on Open Stdin](https://dev.to/noptium/works-in-the-terminal-hangs-when-called-by-an-agent-the-codex-exec-stdin-trap-985) ⭐️ 6.0/10
+
+A troubleshooting analysis reproduced a Codex CLI 0.164.0 hang in which \`codex exec\` waited indefinitely for EOF after an agent supplied an open stdin pipe. Redirecting stdin from \`/dev/null\` resolved the issue, with the same consultation task completing in about 13 seconds. This behavior can stall CI jobs, scripts, and AI-agent tool runners even when the prompt is passed correctly as an argument. It also exposes an automation rule that is easy to miss: callers must either provide a finite input stream and close it or explicitly close stdin when no extra context is intended. In non-interactive mode, a piped stdin is treated as additional context when a prompt argument is present, and Codex reads until EOF; the diagnostic \`Reading additional input from stdin...\` appeared during the hang. The observed workaround is \`codex exec &quot;review this&quot; &lt; /dev/null\`, while intentional context can still be supplied with \`git diff \| codex exec &quot;review this diff&quot;\`; however, the EOF-hang diagnosis and workaround are the author&\#x27;s observations, not behavior explicitly documented by OpenAI.
+
+rss · Dev.to · Nov 6, 23:12
+
+**Background**: Codex&\#x27;s \`exec\` mode is its non-interactive interface for scripts and CI jobs, in contrast to the interactive terminal user interface. Standard input is the command&\#x27;s input stream: a pipe can carry intended context, but it remains open until its writer closes it, and programs generally infer the input has ended only upon receiving EOF. \`test -t 0\` can be used in a shell to check whether standard input is connected to a terminal rather than a pipe or file.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://learn.chatgpt.com/docs/non-interactive-mode">Non-interactive mode | ChatGPT Learn</a></li>
+<li><a href="https://codex.danielvaughan.com/2026/03/26/codex-cli-cicd-non-interactive/">Codex CLI for CI/CD: codex exec, Non-Interactive Mode and ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Codex CLI`, `#stdin`, `#non-interactive execution`, `#AI agents`, `#CI troubleshooting`
+
+---
+
+<a id="item-75"></a>
+## [AbMaze Tests AI Agents on Antibody Fitness Landscapes](https://valenlabs.com/blog/abmaze) ⭐️ 6.0/10
+
+Valen Labs introduced AbMaze, a benchmark that evaluates frontier AI agents during antibody optimization campaigns. It uses 65,536 laboratory-scored variants and gives agents a budget of 150 measurements. AbMaze provides a controlled way to compare AI agents on a real protein-engineering task rather than only on static prediction benchmarks. Its results could inform how autonomous agents are evaluated for AI-for-science applications involving costly wet-lab experiments. The benchmark evaluates agents navigating a fully measured antibody fitness landscape under a 150-measurement budget. Search results also report that frontier agents fell short of scripted Bayesian baselines, although the available material does not provide detailed methodology, model-by-model scores, or independent validation.
+
+rss · Hacker News \(AI/ML\) · Nov 6, 22:31
+
+**Background**: Protein engineering searches combinations of mutations for sequences with improved desired properties, often through iterative mutation, functional assays, and selection. Fitness landscapes represent these possibilities and associated measurements, while laboratory capacity is limited relative to the enormous number of possible variants. Bayesian optimization is relevant here because it can guide sequential experimental decisions toward promising regions of such a landscape.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://valenlabs.com/blog/abmaze">AbMaze: Evaluating frontier AI agents on protein fitness ...</a></li>
+<li><a href="https://undercodetesting.com/frontier-ai-agents-fall-short-of-scripted-bayesian-baselines-in-antibody-optimization-benchmark-abmaze-video/">Frontier AI Agents Fall Short of Scripted Bayesian Baselines ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0958166922000465">Machine learning to navigate fitness landscapes for protein ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#protein engineering`, `#AI evaluation`, `#benchmarks`, `#AI for science`
+
+---
+
+<a id="item-76"></a>
+## [AJX Tests Where AI Agents Struggle With Products](https://ajx.dev/) ⭐️ 6.0/10
+
+AJX is a new CLI and agent skill bundle that evaluates products from an AI agent’s perspective by supervising an inner agent loop, then analyzing its behavior after completion. It produces a detailed report and actionable product improvement requests covering retries, token use, elapsed time, mistakes, assumptions, and sources of friction. As products are increasingly selected and operated by AI agents, traditional user-experience testing may miss failures caused by ambiguous documentation, inconvenient interfaces, and machine-unfriendly output. AJX offers product teams a practical way to measure and improve agentic usability, potentially reducing agent cost and failure rates. The outer AJX harness can launch supported inner harnesses such as Claude, Codex, and Kiro CLI in local, Docker, or VM environments, with configurable models, skills, and run counts. It accepts a task prompt, links, and a definition of success, then recommends changes such as adding JSON output, diagnostic commands, clearer help, accurate documentation, and better execution feedback; the project is still new and has limited evidence of broad adoption.
+
+rss · Hacker News \(AI/ML\) · Nov 6, 22:31
+
+**Background**: Agentic usability describes how effectively an AI agent can understand and operate a product, including its CLI, SDK, website, and documentation. A harness wraps and orchestrates an AI coding agent, while inner and outer loops generally refer respectively to task execution and higher-level evaluation, monitoring, or refinement. AJX applies this distinction to product testing, aiming to identify the “asks” an agent would make if the product were designed with machine users in mind.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://aiquinta.ai/insight/inner-harness-and-outer-harness-in-ai-systems/">Inner Harness and Outer Harness: Enterprise AI Architecture</a></li>
+<li><a href="https://www.nutrient.io/blog/agentic-usability-open-source-ai-sdk-testing/">Introducing agentic - usability : Measuring how well AI agents can use...</a></li>
+<li><a href="https://docker.github.io/docker-agent/features/harnesses/">Coding Harnesses – Docker Agent Docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#developer tools`, `#CLI`, `#agentic UX`, `#product testing`
+
+---
+
+<a id="item-77"></a>
+## [Microsoft Reportedly Ends Oracle AI Cloud Rental Deal](https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity) ⭐️ 6.0/10
+
+Microsoft is reportedly winding down an agreement with Oracle to rent AI cloud capacity. The available reporting does not specify the timing, financial terms, or reason for ending the arrangement. The change could affect how Microsoft sources computing capacity for AI workloads and highlight the growing strategic importance of scarce cloud infrastructure. It may also signal a shift in how hyperscalers balance internal data-center capacity with supply from rival providers. Microsoft and Oracle announced the capacity agreement in 2023, when it was described as supporting the AI version of Bing. The report provides little detail on what portion of Oracle&\#x27;s capacity Microsoft used or what replacement strategy, if any, is planned.
+
+rss · Hacker News \(AI/ML\) · Nov 6, 21:51
+
+**Background**: Cloud providers can supplement their own AI infrastructure by renting computing capacity from other operators, allowing them to deploy models more quickly when demand exceeds internal supply. Oracle Cloud Infrastructure offers services that can connect with Microsoft Azure, while Microsoft Azure remains Microsoft’s principal cloud platform for running AI agents and other workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.zerohedge.com/markets/microsoft-pulls-plug-oracle-ai-rental-post-election-data-center-fallout-spreads">Microsoft Pulls The Plug On Oracle AI Rental As... | ZeroHedge</a></li>
+<li><a href="https://www.oracle.com/cloud/">Cloud Infrastructure | Oracle</a></li>
+<li><a href="https://azure.microsoft.com/">Cloud Computing Services | Microsoft Azure</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI infrastructure`, `#Cloud computing`, `#Microsoft`, `#Oracle`, `#AI compute`
+
+---
+
+<a id="item-78"></a>
+## [OpenAI Introduces BioBasicsBench for Wet-Lab AI Agents](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/) ⭐️ 6.0/10
+
+OpenAI introduced BioBasicsBench, a 100-task benchmark that evaluates how AI agents interpret raw experimental data and perform routine wet-lab science tasks. The benchmark focuses on practical laboratory work rather than broad scientific reasoning. The benchmark could help researchers compare agents on a realistic and important scientific workflow, providing a standard for assessing whether they can handle routine experimental data reliably. It may also guide the development of AI systems intended to assist life scientists. BioBasicsBench contains 100 tasks centered on interpreting raw experimental data and handling everyday wet-lab science activities. The available material does not specify the agent models tested, scoring methodology, task examples, or reported performance results.
+
+rss · Hacker News \(AI/ML\) · Nov 6, 21:51
+
+**Background**: Wet-lab science involves conducting physical laboratory experiments, where agents must interpret experimental outputs and carry out practical procedures. Benchmarks such as BioBasicsBench translate that operational setting into standardized tasks, making agent capabilities and limitations easier to compare.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/">Measuring how AI agents handle everyday wet - lab science | OpenAI</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI agents`, `#benchmarks`, `#wet-lab science`, `#AI evaluation`, `#scientific research`
+
+---
+
+<a id="item-79"></a>
+## [AI Models Tested for Introspective Self-Knowledge](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/) ⭐️ 6.0/10
+
+New research examines whether AI models can accurately introspect on their internal reasoning. The work asks whether a model’s statements about its own internal states reflect information genuinely available to it rather than plausible patterns learned during training. Reliable introspection could help researchers audit model reasoning, detect uncertainty or deception, and build more transparent AI systems. If models cannot reliably access their own internal states, however, their self-reports may mislead both users and safety evaluations. The supplied article excerpt does not identify the models, experimental design, metrics, researchers, or findings, so the research’s empirical strength cannot be assessed from the provided material. Relevant interpretability work treats introspection as a model&\#x27;s ability to report on internal states, while noting that internal processing can be represented as neural activations, features, or circuits.
+
+rss · Hacker News \(AI/ML\) · Nov 6, 21:27
+
+**Background**: Language models process inputs through learned internal representations rather than a human-like conscious mind. Introspection here means using those internal states to answer questions about the model itself, including questions whose answers cannot simply be inferred from training data. Mechanistic interpretability seeks to reverse-engineer the features and computational mechanisms behind model behavior, with potential applications in understanding, control, and AI safety.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/">New Research Tests Whether AI Models Know... | Quanta Magazine</a></li>
+<li><a href="https://truthful.ai/papers/looking-inward/">Looking Inward: Language Models Can Learn About... | TruthfulAI</a></li>
+<li><a href="https://arxiv.org/abs/2404.14082">[2404.14082] Mechanistic Interpretability for AI Safety -- A ... Mechanistic Interpretability for AI Safety A Review - arXiv.org Mechanistic Interpretability for AI Safety — A Review Mechanistic Interpretability for AI Safety - A Review | ML ... Mechanistic Interpretability for AI Safety - A Review Mechanistic Interpretability: Reverse-Engineering Neural ... MechanisticInterpretabilityforAISafety AReview</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI`, `#LLMs`, `#AI introspection`, `#Interpretability`, `#AI safety`
+
+---
+
+<a id="item-80"></a>
+## [Preparing for Dialysis That May Never Begin](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902004-0/fulltext?rss=yes) ⭐️ 6.0/10
+
+A Lancet commentary advises clinicians preparing for dialysis in patients aged 80 or older to weigh the burdens of early planning against conservative kidney management. Decisions should be guided by frailty, prognosis, comorbidities, and the patient&\#x27;s quality-of-life goals. Dialysis can extend life for kidney failure, but its burdens may outweigh benefits for some very old, frail, or multimorbid patients. Early advance-care planning can therefore prevent unnecessary procedures and align treatment with what matters most to each patient. Dialysis preparation may include education, appointments, investigations, and surgery to establish vascular access before treatment is clinically required. Conservative kidney management instead actively slows progression where possible, treats symptoms, and protects quality of life without planning for dialysis.
+
+rss · The Lancet · 最新文章 · Nov 6, 23:30
+
+**Background**: Conservative kidney management is a non-dialysis approach for advanced kidney disease that is suitable for some older adults. Dialysis access, commonly created as an arteriovenous fistula or graft, is often arranged in advance because surgery and recovery take time; shared decision-making between nephrologists, primary-care clinicians, patients, and families is central to choosing a goal-concordant pathway.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10061438/">A review of supportive care for older people with advanced chronic...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13064947/">Supporting Shared Decision-Making in Life-Altering Kidney ...</a></li>
+<li><a href="https://academic.oup.com/ndt/article/39/5/742/7281724">Shared decision making in elderly patients with kidney ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#kidney failure`, `#dialysis planning`, `#conservative kidney management`, `#geriatric care`, `#shared decision-making`
 
 ---
 
 <a id="item-81"></a>
-## [NVIDIA VFlash Accelerates System-1 Reasoning for Physical AI](https://research.nvidia.com/labs/lpr/vflash/) ⭐️ 6.0/10
+## [Eating-Disorder Treatments Face High Medical and Engagement Challenges](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901326-7/fulltext?rss=yes) ⭐️ 6.0/10
 
-NVIDIA presented VFlash, a method designed to enable fast, system-1 vision-language reasoning for physical-AI applications such as robotics. According to secondary reporting, the method generates complete robot trajectories and other spatial predictions in a single pass instead of producing coordinates one at a time. Faster and more accurate spatial output could reduce the inference latency of vision-language models used for robotic planning and manipulation. This matters for physical AI because real-world control systems need timely decisions, while better trajectory accuracy could directly affect task success. Secondary reporting says VFlash reduced robot-decoding speed time by roughly 12 times, lowered overall inference latency by about 80% in manipulation tests, and reduced errors by 61%. The supplied excerpt does not document the model architecture, training procedure, hardware configuration, baselines, or limitations, so these figures should not be treated as fully independently validated.
+A Lancet seminar synthesizes the clinical burden and treatment landscape for eating and feeding disorders. It emphasizes the acute medical risk of anorexia nervosa, patient ambivalence toward treatment, the primarily psychological first-line approach, and the slow emergence of biological and technology-based interventions. Eating disorders carry substantial medical, psychosocial, and societal burdens, while treatment engagement and treatment effectiveness remain major barriers to recovery. Better biological and technology-based interventions could expand options for patients who struggle with conventional psychological care, although they are not yet routine treatments. First-line care is mainly psychological; medications have an adjunctive rather than central role. Existing psychological approaches include cognitive-behavioral therapy, exposure and response prevention, acceptance-based therapies, supportive psychotherapy, and family-based treatment, while emerging options under investigation include neuromodulation, deep brain stimulation, virtual reality, psychedelics, and metreleptin.
 
-rss · Hacker News \(best\) · Nov 6, 21:04
+rss · The Lancet · 最新文章 · Nov 5, 23:30
 
-**Background**: System-1 reasoning is commonly used to describe fast, intuitive, automatic processing, whereas system-2 reasoning is slower and more deliberate. In robotics, vision-language models can connect visual information and language instructions to spatial predictions or executable actions. Physical AI therefore depends not only on multimodal understanding, but also on generating accurate outputs quickly enough for closed-loop interaction with the environment.
+**Background**: Eating and feeding disorders are serious psychiatric conditions involving both mental and physical health. In anorexia nervosa, severe medical instability can coexist with reluctance or ambivalence about treatment, making engagement especially difficult. Family-based treatment is particularly relevant for children and adolescents, whereas adults may receive behavioral and other evidence-based psychological therapies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://interestingengineering.com/ai-robotics/nvidia-vflash-robot-planning-speed-trajectory-accuracy">NVIDIA &#x27;s VFlash speeds robot decoding 12x and cuts errors by 61%</a></li>
-<li><a href="https://arxiv.org/abs/2502.17419">From System 1 to System 2: A Survey of Reasoning Large ... How AI Reasoning Works: System 1 vs System 2 Thinking From System 1 to System 2: A Survey of Reasoning Large ... Endowing Vision-Language Models with System 2 Thinking for ... System 1 vs System 2 Reasoning | zzli2022/Awesome-System2 ... System 1 and System 2 Thinking - emergentmind.com LongPerceptualThoughts: Distilling System-2 Reasoning for ...</a></li>
-<li><a href="https://deepmind.google/blog/gemini-robotics-brings-ai-into-the-physical-world/">Introducing Gemini Robotics and Gemini Robotics -ER, AI models ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8221037/">Current Therapeutic Approaches to Anorexia Nervosa: State of ...</a></li>
+<li><a href="https://mghcme.org/courses/evidence-based-psychological-treatments-for-eating-disorders-children-adolescents-and-adults-2/">Evidence-Based Psychological Treatments for Eating Disorders ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S1471491424000340">Established and emerging treatments for eating disorders</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NVIDIA`, `#Vision-Language Models`, `#Physical AI`, `#Model Acceleration`, `#Robotics`
-
----
-
-<a id="item-82"></a>
-## [MTG-I2 Delivers Its First Weather-Satellite Images](https://www.esa.int/articles/about-us/directorates/earth-observation-programmes/meteorological-missions/meteosat-third-generation/mtg-i2-weather-satellite-delivers-first-images) ⭐️ 6.0/10
-
-ESA&\#x27;s Meteosat Third Generation Imager 2 satellite, MTG-I2, has delivered its first images after launch aboard Ariane 6. The images mark an early operational milestone for Europe&\#x27;s next-generation geostationary weather-observation system. MTG-I2 is designed to provide rapid, high-quality observations for forecasting and the early detection of fast-developing severe storms. Its data could improve weather services across Europe and northern Africa while supporting climate monitoring. MTG-I2&\#x27;s Fast Imaging Radiometer can capture images at up to 1,000 per second, with an approximately 10 km spatial resolution in a narrow band centered at 777 nm. It covers Europe, Africa, the Middle East, and part of South America, representing about 84% of Earth&\#x27;s disk.
-
-rss · Hacker News \(best\) · Nov 6, 20:59
-
-**Background**: Meteosat Third Generation is a geostationary satellite system that observes Earth from an orbital altitude of about 36,000 km. Its imaging satellites provide frequent views of Europe, Africa, and surrounding regions, while sounding satellites gather atmospheric information. MTG-I2 is the second imaging satellite in the first MTG family, alongside Meteosat-12, formerly MTG-I1, and the MTG-S sounding satellite.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.eumetsat.int/meteosat-third-generation-imager-2-mtg-i2">Meteosat Third Generation Imager 2 (MTG-I2) | EUMETSAT</a></li>
-<li><a href="https://www.ariane.group/en/news/arianespace-successfully-launches-weather-satellite-mtg-i2-on-ariane-6s-first-mission-to-geostationary-orbit/">Ariane 6 successfully launches weather satellite MTG - I 2</a></li>
-<li><a href="https://www.eoportal.org/satellite-missions/meteosat-third-generation">MTG ( Meteosat Third Generation ) - eoPortal</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#weather-satellite`, `#Earth-observation`, `#meteorology`, `#ESA`, `#forecasting`
-
----
-
-<a id="item-83"></a>
-## [Microsoft Consolidates Neocloud Partners Amid AI Buildout Strain](https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html) ⭐️ 6.0/10
-
-Microsoft is reducing the number of neocloud partners it works with and concentrating on a smaller group of key suppliers. The company is also expanding its own data-center capacity as constraints emerge across the AI infrastructure buildout. The consolidation suggests that Microsoft may be responding to capacity, cost, power, permitting, or reliability challenges affecting AI infrastructure. It could also concentrate purchasing power and longer-term contracts among selected neocloud providers while increasing the strategic importance of Microsoft&\#x27;s own data centers. The report is based on people familiar with the matter and does not identify the affected providers or quantify the reduction in Microsoft&\#x27;s partner roster. Separate reporting points to possible power and permitting hurdles, while broader analysis says consolidation could give retained suppliers larger, more stable contracts but leave excluded providers exposed.
-
-rss · Hacker News \(best\) · Nov 6, 20:57
-
-**Background**: Neoclouds are specialized, GPU-centric cloud providers built primarily to run AI workloads such as model training and inference rather than general-purpose computing. They emerged as an alternative for meeting surging AI compute demand, but their economics often depend on large customers making long-term commitments. Microsoft is simultaneously building its own data centers to secure capacity for its expanding AI operations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html">Microsoft moves to consolidate its relationships with ... - CNBC</a></li>
-<li><a href="https://www.weforum.org/stories/artificial-intelligence/what-are-neoclouds-reshape-architecture-economics-ai">The growth of neoclouds, a new type of AI infrastructure ...</a></li>
-<li><a href="https://www.businessinsider.com/microsoft-ai-buildout-delays-satellite-images-2026-11">Satellite Images Show What May Be Behind Microsoft AI ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Microsoft`, `#AI infrastructure`, `#Neoclouds`, `#Data centers`, `#Cloud computing`
-
----
-
-<a id="item-84"></a>
-## [Direct Browser Uploads for Fintech Media Put Retention First](https://dev.to/suttonhawkins6723/direct-to-storage-browser-uploads-for-fintech-media-retention-before-convenience-3i4f) ⭐️ 6.0/10
-
-The article presents a presigned-URL architecture in which a browser uploads files directly to object storage while the application handles authorization and workflow state. It emphasizes that expiration, overwrite recovery, deletion auditing, and cleanup of incomplete multipart uploads are first-class design requirements rather than secondary operational details. This pattern removes application servers from the byte-transfer path and avoids exposing bucket-wide credentials to browsers, making it practical for most SaaS applications accepting user content. For fintech media, however, a missing statement or evidence file can create compliance, audit, and customer-workflow risks that outweigh upload-throughput gains. The upload contract should include an owner, a generated object key, an expiry, and a completion state; retries should reuse the same upload intent and key. Instrumentation should separately record upload intent, presigning, browser completion, and later storage verification, while incomplete multipart uploads require explicit cleanup because their fragments can consume storage without appearing as complete objects.
-
-rss · Dev.to · Nov 6, 21:00
-
-**Background**: A presigned URL is a time-limited credential that authorizes a browser to upload to or download from private object storage without exposing permanent storage credentials. Object versioning or soft deletion can preserve overwritten and deleted objects for a configured recovery period, but such recovery controls are not automatically suitable for documents subject to legal retention requirements. Multipart uploads divide large files into fragments, and interrupted transfers may leave billable fragments that ordinary object listings do not expose.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html">Download and upload objects with presigned URLs - Amazon ...</a></li>
-<li><a href="https://aws.amazon.com/blogs/aws-cloud-financial-management/discovering-and-deleting-incomplete-multipart-uploads-to-lower-amazon-s3-costs/">Discovering and Deleting Incomplete Multipart Uploads to Lower...</a></li>
-<li><a href="https://docs.cloud.google.com/storage/docs/object-versioning">Object Versioning | Cloud Storage | Google Cloud Documentation</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#presigned-urls`, `#object-storage`, `#file-uploads`, `#data-retention`, `#fintech`
-
----
-
-<a id="item-85"></a>
-## [PENNY Proves Authorization Beats Prompt Defense](https://dev.to/connabyss/i-built-an-hr-bot-that-falls-for-every-trick-it-still-cant-leak-the-ceos-salary-247l) ⭐️ 6.0/10
-
-The author built PENNY, a fictional HR retrieval-augmented chatbot for MLH Global Hack Week, whose search index contains internal documents including executive compensation. Although PENNY is deliberately vulnerable to social engineering and prompt injection, it protects sensitive files by checking Auth0 FGA permissions before sending any document to the Llama 3.1 model. The demonstration shows that sensitive-data protection should not depend on a chatbot resisting adversarial instructions. Enforcing authorization before retrieval gives the model only data the user may access, reducing exposure to prompt injection and fitting the broader least-privilege approach to AI applications. PENNY uses a permission check of the form check\(user, can\_view, document\), models folders and inherited viewer relationships, and treats authorization-service errors as denial by default. Its game-like progression writes real FGA tuples to unlock higher levels, but the CEO compensation folder remains restricted to user:ceo; the article is an approachable fictional challenge with limited discussion of broader deployment risks.
-
-rss · Dev.to · Nov 6, 21:00
-
-**Background**: Retrieval-augmented generation lets an LLM answer questions using documents supplied from a search or retrieval system. Prompt injection attempts to alter an application&\#x27;s instructions through untrusted content, but a system prompt alone is not a reliable security boundary. Fine-grained authorization models relationships between users and resources, allowing the application to exclude unauthorized documents before they reach the model.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://dev.to/connabyss/i-built-an-hr-bot-that-falls-for-every-trick-it-still-cant-leak-the-ceos-salary-247l">I built an HR bot that falls for every trick. It still can&#x27;t ...</a></li>
-<li><a href="https://genai.owasp.org/llmrisk/llm022025-sensitive-information-disclosure/">OWASP LLM02: 2025 Sensitive Information Disclosure</a></li>
-<li><a href="https://medium.com/@aramlmanukyan/prompt-injection-the-social-engineering-of-ai-and-how-to-defend-against-it-7bcf256eac59">Prompt Injection: The Social Engineering of AI — and How to ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Security`, `#Access Control`, `#LLM Security`, `#Chatbots`, `#Prompt Injection`
-
----
-
-<a id="item-86"></a>
-## [Meta’s F3 Lightning Compiles Ads Features at Scale](https://dev.to/pklavc/metas-f3-lightning-accelerates-ads-ml-features-to-production-at-scale-51c3) ⭐️ 6.0/10
-
-Meta introduced F3 Lightning as an advancement to its Facebook Feature Framework for authoring, compiling, and serving ads-ranking features in production. It further reduces execution computation and speeds iteration across the more than 20,000 features that a single ads-ranking request may require. 降低单次请求的特征计算成本，可以为服务延迟保留更多余量，同时支持 Meta 运营和扩展规模庞大的广告排序特征集。更快的迭代速度也能让团队更快地试验和部署新的实时排序特征。 Both F3 and F3 Lightning compile features into one merged graph, allowing unified execution rather than thousands of independent feature operations. Meta disclosed no benchmarks, latency gains, compiler backend, intermediate representation, optimization passes, APIs, or external availability, so the size of the improvement remains unknown.
-
-rss · Dev.to · Nov 6, 21:00
-
-**Background**: Ads-ranking models depend on many real-time features describing users, ads, and their contexts. Meta says one ranking request can require more than 20,000 features, making feature authoring, compilation, and serving major infrastructure concerns. Graph compilation can optimize a collection of operations by fusing work, planning memory, scheduling tasks, and sharing intermediate results.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://quadric.ai/ai-graph-compiler">What is an AI Graph Compiler? ML Compilers Explained | Quadric</a></li>
-<li><a href="https://github.com/intel/graph-compiler">GitHub - intel/graph-compiler: MLIR-based toolkit targeting ...</a></li>
-<li><a href="https://arxiv.org/html/2504.20198v1">Leveraging Neural Graph Compilers in Machine Learning ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#feature engineering`, `#machine learning infrastructure`, `#ads ranking`, `#graph compilation`, `#Meta`
-
----
-
-<a id="item-87"></a>
-## [AI Agents Enable Cross-Stack Product Prototyping](https://dev.to/imacto/the-agnostic-builder-4n76) ⭐️ 6.0/10
-
-The essay argues that AI agents can help designers, engineers, and product managers validate ideas across interfaces, APIs, and tests by reading codebases, modifying applications, running tests, and exercising results in a browser. It presents the &quot;agnostic builder&quot; as a cross-disciplinary collaborator rather than a replacement for professional expertise or human oversight. Direct access to working software may reduce handoff delays and let teams test whether an idea is technically feasible before committing engineering resources. However, the results still require human judgment about business rules, security boundaries, usability, and whether a prototype is ready to ship. The agent&\#x27;s usefulness depends on being given tools and feedback from the surrounding environment, including code, application logs, metrics, tests, and browser access. OpenAI&\#x27;s internal product-team example, cited in the essay, found that agents produced code, tests, documentation, and tooling, while emphasizing that task assignment alone does not provide a reliable way to judge success.
-
-rss · Dev.to · Nov 6, 21:00
-
-**Background**: Traditional software organizations divide work among design, engineering, and product management, with requirements passed through specifications, tickets, and implementation handoffs. The &quot;agnostic builder&quot; is someone who can operate across those boundaries by applying knowledge of user experience, APIs, business constraints, and implementation. Research on human-AI collaboration similarly frames effective use as depending on integration with team practices, trust, and appropriate agent capabilities rather than unrestricted automation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/humanai-collaboration-by-design/45BC30ADFF2FE3B204D4A29DD67F6353">Human-AI collaboration by design | Proceedings of the Design ...</a></li>
-<li><a href="https://www.practicalengineering.management/p/prototyping-with-ai-agents-pt2">Prototyping with AI Agents (pt.2) - by Mirek Stanek</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Agents`, `#Design Engineering`, `#Human-AI Collaboration`, `#Prototyping`, `#Software Development`
-
----
-
-<a id="item-88"></a>
-## [Delaware Weighs AI-Controlled Businesses](https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/) ⭐️ 6.0/10
-
-A reported Delaware proposal would create a regulatory sandbox in which AI agents could operate entire companies with minimal or no human oversight, potentially including liability protections for their owners. A congressional committee is examining the plan, while Representative Comer has suggested federal legislation could limit states’ authority over AI regulation. The proposal could turn autonomous AI from a tool used inside companies into a legally recognized operator of companies themselves, raising difficult questions about liability, control, accountability, and shareholder rights. Because Delaware is a major corporate-law jurisdiction, the initiative could influence how other states and the federal government approach AI-run businesses. The draft is a proposed testing framework rather than an operating rule, and its supporters describe it as a way to gather evidence for future regulation. Reported interpretations say an AI agent could run a company while its owner receives a liability shield, but the proposal’s precise legal structure and safeguards still require examination.
-
-rss · Hacker News \(AI/ML\) · Nov 6, 18:55
-
-**Background**: Delaware is influential in corporate law because many companies incorporate there, making its legal experiments potentially significant beyond the state. The reported sandbox would test how autonomous AI businesses handle operations and transactions under minimal human intervention. Such a framework would also raise the distinction between legal personhood for a company and the question of which party remains legally accountable for an AI agent’s actions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://spotlightdelaware.org/2026/06/30/delaware-committee-drafts-plan-to-test-companies-run-by-ai/">Delaware committee drafts plan to test companies run by AI</a></li>
-<li><a href="https://www.llms.blog/posts/delaware-ai-run-company-plan-explained-the-house-probe">Delaware AI-Run Company Plan Explained: The House Probe</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/">&quot;No human at the helm&quot;: Delaware plan would let AI agents run entire.....</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#AI regulation`, `#corporate law`, `#Delaware`, `#automation`
+**Tags**: `#eating disorders`, `#psychiatry`, `#clinical treatment`, `#anorexia nervosa`, `#medical research`
 
 ---
