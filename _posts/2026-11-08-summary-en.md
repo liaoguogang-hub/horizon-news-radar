@@ -5,1359 +5,1384 @@ date: 2026-11-08
 lang: en
 ---
 
-> From 172 items, 59 important content pieces were selected
+> From 167 items, 60 important content pieces were selected
 
 ---
 
 1. [Prehospital ECLS Tested for Refractory Out-of-Hospital Cardiac Arrest](#item-1) ⭐️ 9.0/10
-2. [Statin Discontinuation Shows Noninferior Cardiovascular Outcomes in Older Adults](#item-2) ⭐️ 9.0/10
-3. [Pelacarsen and Cardiovascular Outcomes in High Lp\(a\) Patients](#item-3) ⭐️ 9.0/10
-4. [Ziltivekimab Tests IL-6 Inhibition for Cardiovascular Risk Reduction](#item-4) ⭐️ 9.0/10
-5. [Optimal Blood Pressure Targets in Type 2 Diabetes](#item-5) ⭐️ 9.0/10
-6. [Intensive Blood Pressure Control After Ischemic Stroke](#item-6) ⭐️ 9.0/10
+2. [Pelacarsen Tested Against High Lp\(a\) Cardiovascular Risk](#item-2) ⭐️ 9.0/10
+3. [ZEUS Trial Tests Ziltivekimab for Atherosclerotic Disease](#item-3) ⭐️ 9.0/10
+4. [OPTIMAL-DIABETES Trial Tests Intensive Blood-Pressure Control](#item-4) ⭐️ 9.0/10
+5. [Cangrelor Outperforms Crushed Ticagrelor Pharmacologically in Shock](#item-5) ⭐️ 9.0/10
+6. [Semaglutide improves exercise hemodynamics in obese HFpEF](#item-6) ⭐️ 9.0/10
 7. [Goldman Sachs Restricts Claude Code for Bankers and Traders](#item-7) ⭐️ 8.0/10
-8. [Why One Developer Switched From Claude to Pi](#item-8) ⭐️ 8.0/10
-9. [Running a $10 OpenStick Homelab](#item-9) ⭐️ 8.0/10
-10. [Claude Code Approval Settings Leak Credentials to GitHub](#item-10) ⭐️ 8.0/10
-11. [Discord’s Native Shift Challenges Electron’s Windows Trade-Offs](#item-11) ⭐️ 8.0/10
-12. [App Advertising Data Gives Police a Tracking Tool](#item-12) ⭐️ 8.0/10
-13. [Chainalysis Says Attackers Stole All Customers’ Credentials and Tokens](#item-13) ⭐️ 8.0/10
-14. [Extended Aldosterone Synthase Inhibition Linked to Hyperaldosteronism Remission](#item-14) ⭐️ 8.0/10
-15. [Cangrelor Outperforms Crushed Ticagrelor on Platelet Inhibition](#item-15) ⭐️ 8.0/10
-16. [Semaglutide improves cardiac remodeling in obese HFpEF](#item-16) ⭐️ 8.0/10
-17. [Llama-modchip Runs a 284B DeepSeek Model on 64GB RAM](#item-17) ⭐️ 7.0/10
-18. [Writing as a Tool for Thinking](#item-18) ⭐️ 7.0/10
-19. [Outlook.com Reportedly Rejects Email Without DMARC](#item-19) ⭐️ 7.0/10
-20. [Accidental Ad-Hoc Logs Reveal Developer Mental Models](#item-20) ⭐️ 7.0/10
-21. [Libghostty 1.0 Stabilizes Its Terminal Emulation C API](#item-21) ⭐️ 7.0/10
-22. [Megaspeed Executive Allegedly Recruited to Spy on Nvidia CEO](#item-22) ⭐️ 7.0/10
-23. [Google Acquires Crusoe’s Troubled Wyoming Data Center Project](#item-23) ⭐️ 7.0/10
-24. [OpenAI Reportedly Adds $11 Billion at $1.25 Trillion Valuation](#item-24) ⭐️ 7.0/10
-25. [Electrical Noise Reveals Electron Pairing in Superconductors](#item-25) ⭐️ 7.0/10
-26. [Ships Loiter Near Cables as Iran Warns Trump](#item-26) ⭐️ 7.0/10
-27. [Apple Pushes Siri Toward an Agentic Future](#item-27) ⭐️ 7.0/10
-28. [Elvis and Eminem Rights Holders Sue Suno](#item-28) ⭐️ 7.0/10
-29. [Nvidia H200 Approval Raises China Export-Control Concerns](#item-29) ⭐️ 7.0/10
-30. [Young Mathematicians Solve a 55-Year-Old Conjecture](#item-30) ⭐️ 7.0/10
-31. [Refrigerator Hacks Expose IoT Security Failures](#item-31) ⭐️ 7.0/10
-32. [Payment Timeouts Require Idempotent Retries](#item-32) ⭐️ 7.0/10
-33. [Ripple 65B, Inkling 2 Small, and File-Based Agent Memory](#item-33) ⭐️ 7.0/10
-34. [AI Mass Surveillance Emerges as a Health Determinant](#item-34) ⭐️ 7.0/10
-35. [Planning Ahead When Dialysis May Never Begin](#item-35) ⭐️ 7.0/10
-36. [AI Agent Memory Needs an Interoperability Standard](#item-36) ⭐️ 6.0/10
-37. [When Competent Employees Become Ineffective Managers](#item-37) ⭐️ 6.0/10
-38. [JIT Bitmap Text Rendering for Microcontrollers](#item-38) ⭐️ 6.0/10
-39. [A Field Guide to CAPTCHA Types and Failure Modes](#item-39) ⭐️ 6.0/10
-40. [Nspawn 3.0 Adds Docker-Compatible API for systemd-nspawn](#item-40) ⭐️ 6.0/10
-41. [Meridian Debuts as an Experimental Servo-Based Browser](#item-41) ⭐️ 6.0/10
-42. [PHP2Shell Exploit Mechanisms Examined](#item-42) ⭐️ 6.0/10
-43. [Scientists Trace the Bantu Expansion Through Genes and Archaeology](#item-43) ⭐️ 6.0/10
-44. [Churning Mantle May Explain the Great Unconformity](#item-44) ⭐️ 6.0/10
-45. [World Models Bring AI Into the Physical World](#item-45) ⭐️ 6.0/10
-46. [AI Enhances Caregiver Apps but Leaves Well-Being Challenges Unresolved](#item-46) ⭐️ 6.0/10
-47. [Will Lawrence Takes Data Center Moratorium to Congress](#item-47) ⭐️ 6.0/10
-48. [Climate Change Makes Homeownership a Financial Trap](#item-48) ⭐️ 6.0/10
-49. [Cybertruck’s Decline Could Benefit Smaller EVs](#item-49) ⭐️ 6.0/10
-50. [A Rigorous Framework for Correct Automatic Differentiation](#item-50) ⭐️ 6.0/10
-51. [Validate Migrations with Shadow Traffic Before Cancellation](#item-51) ⭐️ 6.0/10
-52. [Designing Deterministic Schema Interfaces with Zod for Agent Pipelines](#item-52) ⭐️ 6.0/10
-53. [Google Fi Data Fixed on Pixel 3a](#item-53) ⭐️ 6.0/10
-54. [Audit Every Endpoint Your Retry Chain Can Reach](#item-54) ⭐️ 6.0/10
-55. [Price Retries, Not Requests, for Reliable Output](#item-55) ⭐️ 6.0/10
-56. [Token-Weighted Queues Better Reflect Inference Budgets](#item-56) ⭐️ 6.0/10
-57. [AI’s Water Infrastructure and Hydrosocial Dispossession](#item-57) ⭐️ 6.0/10
-58. [Expanding Rapid Reperfusion After Out-of-Hospital Cardiac Arrest](#item-58) ⭐️ 6.0/10
+8. [Nvidia Probes Reported Foreign Intelligence Targeting Huang](#item-8) ⭐️ 8.0/10
+9. [Why a Coding Agent Harness Can Matter More Than the Model](#item-9) ⭐️ 8.0/10
+10. [Claude Code Approval Settings Exposed Secrets in Public Repositories](#item-10) ⭐️ 8.0/10
+11. [C++26 Governance Faces Disagreement After DIS Ballot](#item-11) ⭐️ 8.0/10
+12. [OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation](#item-12) ⭐️ 8.0/10
+13. [Young Mathematicians Solve a 55-Year-Old Conjecture](#item-13) ⭐️ 8.0/10
+14. [STREAM Trial Tests Statin Discontinuation in Older Adults](#item-14) ⭐️ 8.0/10
+15. [OPTIMAL-STROKE Tests Intensive Blood-Pressure Control After Ischemic Stroke](#item-15) ⭐️ 8.0/10
+16. [Prolonged Aldosterone Synthase Inhibition Achieves Hyperaldosteronism Remission](#item-16) ⭐️ 8.0/10
+17. [Dux Brings a Polished Wayland Shell to Niri](#item-17) ⭐️ 7.0/10
+18. [Outlook.com Reportedly Rejects Email Without DMARC Records](#item-18) ⭐️ 7.0/10
+19. [Llama-modchip Claims 284B DeepSeek Inference in 64GB RAM](#item-19) ⭐️ 7.0/10
+20. [Writing as a Tool for Thinking](#item-20) ⭐️ 7.0/10
+21. [The Peter Principle and the Cost of Mismanaged Promotions](#item-21) ⭐️ 7.0/10
+22. [Proving Equations with E-Graphs](#item-22) ⭐️ 7.0/10
+23. [Ad Tech Gives Police a Cross-App Tracking Tool](#item-23) ⭐️ 7.0/10
+24. [systemd Explores Rust Adoption for Safer Systems Programming](#item-24) ⭐️ 7.0/10
+25. [Libghostty 1.0 Stabilizes Its C Terminal Emulation Library](#item-25) ⭐️ 7.0/10
+26. [Google Buys Crusoe’s Troubled Wyoming AI Data Center Site](#item-26) ⭐️ 7.0/10
+27. [Electrical Noise Probes Electron Pairing in Superconductors](#item-27) ⭐️ 7.0/10
+28. [Apple Accelerates Push for an Agentic Siri](#item-28) ⭐️ 7.0/10
+29. [Elvis and Eminem Rights Holders Sue Suno](#item-29) ⭐️ 7.0/10
+30. [Hacked Refrigeration Devices Expose Critical IoT Risks](#item-30) ⭐️ 7.0/10
+31. [Epi-PHR Maps Epigenetic Marks in 3D Single Cells](#item-31) ⭐️ 7.0/10
+32. [How Windows 3.0 Relocated GDI&\#x27;s Data Segment](#item-32) ⭐️ 7.0/10
+33. [Could AI Mass Surveillance Become a Health Determinant?](#item-33) ⭐️ 7.0/10
+34. [Should Dialysis Preparation Begin When It May Never Be Needed?](#item-34) ⭐️ 7.0/10
+35. [Managing Cognitive Fatigue Across Parallel AI Coding Sessions](#item-35) ⭐️ 6.0/10
+36. [AI Agent Memory Needs an OpenTelemetry Moment](#item-36) ⭐️ 6.0/10
+37. [A 2024 Critique of Deno&\#x27;s Security Model](#item-37) ⭐️ 6.0/10
+38. [A Field Guide to CAPTCHA Types and Failure Modes](#item-38) ⭐️ 6.0/10
+39. [JIT Bitmap Text Rendering for Resource-Constrained Microcontrollers](#item-39) ⭐️ 6.0/10
+40. [Starship Flight 15 Plans Dual Vehicle Catches](#item-40) ⭐️ 6.0/10
+41. [Practical Local AI on a 48GB M5 Pro Mac mini](#item-41) ⭐️ 6.0/10
+42. [Nspawn 3.0 Adds Docker-Compatible Engine API](#item-42) ⭐️ 6.0/10
+43. [Redox Expands Virtualization Support Beyond Virtio-FS](#item-43) ⭐️ 6.0/10
+44. [Accidental Logs Reveal Developers’ Code Comprehension](#item-44) ⭐️ 6.0/10
+45. [Meridian Explores a Rust-Based Alternative Browser Path](#item-45) ⭐️ 6.0/10
+46. [Datasette Stops Firefox Prefetching of Next-Page HTML](#item-46) ⭐️ 6.0/10
+47. [Scientists Trace Africa’s Bantu Expansion Through Genes and Archaeology](#item-47) ⭐️ 6.0/10
+48. [Ships Loiter Near Subsea Cables Amid Iranian Threats](#item-48) ⭐️ 6.0/10
+49. [World Models Bring AI Into the Physical World](#item-49) ⭐️ 6.0/10
+50. [AI Enhances Caregiver Apps but Not Their Well-Being](#item-50) ⭐️ 6.0/10
+51. [Anti-Data-Center Candidate Heads to Congress](#item-51) ⭐️ 6.0/10
+52. [Climate Change Undermines the American Homeownership Dream](#item-52) ⭐️ 6.0/10
+53. [PDFops v0.11 Adds Ten Operations Across All Clients](#item-53) ⭐️ 6.0/10
+54. [Tooloraa Offers 114+ Private Browser-Based Developer Tools](#item-54) ⭐️ 6.0/10
+55. [Consistent Design Systems Do Not Ensure Intuitive Navigation](#item-55) ⭐️ 6.0/10
+56. [LedgerSMB Extends Security Review Beyond the Login Page](#item-56) ⭐️ 6.0/10
+57. [Nine Production Problems in RAG Systems](#item-57) ⭐️ 6.0/10
+58. [Drugmaker CEOs Challenge Silicon Valley’s AI-Cure Promises](#item-58) ⭐️ 6.0/10
 59. [Technology Offers a Path to Equity in Maternal–Fetal Medicine](#item-59) ⭐️ 6.0/10
+60. [Recurrent Vertigo and Brain Lesions Find a Skin Clue](#item-60) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [Prehospital ECLS Tested for Refractory Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/NEJMoa2602919?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
 
-A New England Journal of Medicine study evaluates whether initiating extracorporeal life support before hospital arrival improves outcomes in patients with refractory out-of-hospital cardiac arrest. The excerpt identifies the article as ahead of print but does not provide the trial’s methods or numerical results. Prehospital extracorporeal cardiopulmonary resuscitation could restore circulation during prolonged cardiac arrest when conventional resuscitation is failing. Its effectiveness and safety could influence emergency-care protocols, specialized transport systems, and the allocation of intensive resuscitation resources. Extracorporeal life support is commonly described as ECMO, while its use during active resuscitation is termed extracorporeal cardiopulmonary resuscitation. Prior literature identifies it as a rescue option for selected patients with refractory out-of-hospital cardiac arrest, although evidence on survival and neurological outcomes has been conflicting; the provided excerpt reports no new effect estimates or limitations.
+A prospective study published ahead of print in the New England Journal of Medicine evaluates the feasibility and clinical outcomes of initiating extracorporeal life support before hospital arrival for refractory out-of-hospital cardiac arrest. The supplied article text does not report the study population, procedure details, or numerical outcomes. Prehospital extracorporeal cardiopulmonary resuscitation could provide more sustained circulation and oxygenation than conventional chest compressions alone, potentially improving survival and neurological outcomes in carefully selected patients. Its role in emergency systems could also reshape advanced cardiac-rescue protocols, provided the benefits outweigh logistical and resource demands. The intervention is commonly termed extracorporeal cardiopulmonary resuscitation and uses a portable extracorporeal membrane oxygenation system as an adjunct to standard CPR, with catheters placed into the femoral vein and artery. Although ECPR is an emerging rescue option for refractory OHCA, the available material does not establish this study’s efficacy, safety, eligibility criteria, or effect size.
 
 rss · NEJM · 最新文章 · Nov 7, 04:45
 
-**Background**: Out-of-hospital cardiac arrest is a medical emergency in which the heart and breathing stop before emergency personnel reach the patient. Refractory arrest refers to cases in which conventional resuscitation does not promptly restore spontaneous circulation. Extracorporeal life support temporarily oxygenates blood and removes carbon dioxide through an external circuit, potentially supporting circulation and oxygen delivery during transport and hospital care.
+**Background**: Out-of-hospital cardiac arrest is a medical emergency in which the heart stops before reaching a hospital, and refractory cases continue despite standard resuscitation measures. Extracorporeal life support temporarily oxygenates blood outside the body and circulates it back to the patient, aiming to restore organ perfusion while the cause of arrest is treated. Related literature describes ECPR as feasible but generally applicable to highly selected patients.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://jsomonline.org/product/prehospital-medicine-and-the-future-will-ecmo-ever-play-a-role/">Prehospital Medicine and the Future Will ECMO Ever Play a Role?</a></li>
-<li><a href="https://novaresearch.unl.pt/en/publications/extracorporeal-cardiopulmonary-resuscitation-for-refractory-out-o/">Extracorporeal cardiopulmonary resuscitation for refractory ...</a></li>
-<li><a href="https://resus.me/prehospital-ecls-its-happening/">Prehospital ECLS – it&#x27;s happening | resusme</a></li>
+<li><a href="https://link.springer.com/article/10.1186/s13054-026-05958-2">Prehospital initiation of extracorporeal life support for refractory...</a></li>
+<li><a href="https://link.springer.com/article/10.1186/s13054-026-06421-y">Extracorporeal cardiopulmonary resuscitation strategies for refractory ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10766048/">Successful Prehospital Extracorporeal Cardiopulmonary...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#extracorporeal life support`, `#out-of-hospital cardiac arrest`, `#prehospital emergency care`, `#randomized clinical trial`, `#cardiac resuscitation`
+**Tags**: `#Extracorporeal Life Support`, `#Out-of-Hospital Cardiac Arrest`, `#Emergency Medicine`, `#Prehospital Care`, `#Clinical Research`
 
 ---
 
 <a id="item-2"></a>
-## [Statin Discontinuation Shows Noninferior Cardiovascular Outcomes in Older Adults](https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
+## [Pelacarsen Tested Against High Lp\(a\) Cardiovascular Risk](https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
 
-The STREAM randomized trial found that discontinuing statins was noninferior to continuing them for major cardiovascular outcomes among adults aged 70 years or older who had at least two chronic conditions but no known cardiovascular disease. The results were presented as preliminary, late-breaking science by the American Heart Association. The findings could help clinicians reconsider routine statin use for primary cardiovascular prevention in older adults with multimorbidity, a group whose treatment benefit has long been uncertain. They may support individualized decisions that weigh cardiovascular risk, medication burdens, adverse effects, and patient preferences. STREAM was designed as a large trial focused on multimorbid adults aged 70 years or older, who are often excluded from major randomized controlled trials. Beyond cardiovascular endpoints, the study assesses patient-centered outcomes such as quality of life and muscle pain, although the supplied search results do not provide the complete numerical effect estimates.
+The Lp\(a\)HORIZON trial is evaluating whether pelacarsen can reduce cardiovascular events in patients with elevated lipoprotein\(a\). The study was reported ahead of print in the New England Journal of Medicine, although the provided content does not include detailed results. High lipoprotein\(a\) is an inherited risk factor for atherosclerotic cardiovascular disease, including heart disease and stroke, and it may remain elevated despite standard cholesterol-lowering care. If pelacarsen lowers lipoprotein\(a\) and improves outcomes, it could establish an additional therapeutic option for this residual cardiovascular risk. Pelacarsen is an antisense oligonucleotide that targets the LPA gene and suppresses production of apolipoprotein\(a\), a key component of lipoprotein\(a\). The supplied excerpt identifies the trial as Lp\(a\)HORIZON but provides no sample size, follow-up duration, effect estimates, safety findings, or limitations, so the clinical findings cannot be assessed from this material alone.
 
-rss · NEJM · 最新文章 · Nov 7, 09:15
+rss · NEJM · 最新文章 · Nov 7, 02:50
 
-**Background**: Statins lower cholesterol and are widely prescribed to prevent heart attacks and strokes. Their cardiovascular benefits are well established in middle-aged adults and in people with established cardiovascular disease, but primary-prevention benefits in older adults without known cardiovascular disease remain uncertain, particularly among those with multimorbidity. The STREAM trial was designed to address this evidence gap.
+**Background**: Lipoprotein\(a\) is a cholesterol-carrying lipoprotein whose concentration is largely inherited. Elevated levels are associated with increased risks of heart disease and stroke. Pelacarsen was developed by Ionis Pharmaceuticals and Novartis and is designed to reduce lipoprotein\(a\) by targeting the LPA gene in the liver.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2606634">Discontinuing Statins in Older Adults without Cardiovascular ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12104904/">Rationale and design of ‘discontinuing statins in multimorbid ...</a></li>
-<li><a href="https://newsroom.heart.org/news/discontinuing-statins-generally-safe-for-older-adults-without-heart-disease">Discontinuing Statins Generally Safe for Older Adults Without ...</a></li>
+<li><a href="https://www.heart.org/en/health-topics/cholesterol/genetic-conditions/lipoprotein-a">Lipoprotein (a) - American Heart Association</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pelacarsen">Pelacarsen - Wikipedia</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11836235/">Lipoprotein (a) as a Causal Risk Factor for Cardiovascular ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#clinical-trials`, `#statins`, `#cardiovascular-prevention`, `#older-adults`, `#evidence-based-medicine`
+**Tags**: `#lipoprotein\(a\)`, `#pelacarsen`, `#cardiovascular outcomes`, `#clinical trial`, `#cardiovascular risk`
 
 ---
 
 <a id="item-3"></a>
-## [Pelacarsen and Cardiovascular Outcomes in High Lp\(a\) Patients](https://www.nejm.org/doi/full/10.1056/NEJMoa2610159?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
+## [ZEUS Trial Tests Ziltivekimab for Atherosclerotic Disease](https://www.nejm.org/doi/full/10.1056/NEJMoa2612126?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
 
-The Lp\(a\)HORIZON trial evaluated pelacarsen, an antisense oligonucleotide designed to lower lipoprotein\(a\), for cardiovascular outcomes in patients with elevated Lp\(a\). The trial was reported ahead of print in the New England Journal of Medicine. Lp\(a\) is an independent cardiovascular risk factor, and Lp\(a\)HORIZON is described as the first cardiovascular outcomes study focused on lowering it. The findings could determine whether targeted Lp\(a\) reduction improves clinical outcomes and establish a new treatment option for patients with high cardiovascular risk. Pelacarsen targets the LPA gene that encodes apolipoprotein\(a\), a key component of Lp\(a\), and is being developed by Ionis Pharmaceuticals and Novartis. Existing lipid-lowering therapies, including PCSK9 inhibitors, generally produce only modest Lp\(a\) reductions, making the trial important for assessing a more targeted approach.
+The New England Journal of Medicine published the ZEUS trial evaluating whether ziltivekimab, a monoclonal antibody targeting interleukin-6, reduces cardiovascular and kidney outcomes in patients with atherosclerotic cardiovascular disease and chronic kidney disease. Available top-line reporting indicates that ziltivekimab did not reduce major adverse cardiovascular events beyond placebo. The trial directly tests whether suppressing residual inflammation can prevent cardiovascular events and kidney-function decline beyond standard care in high-risk patients. Its reported lack of cardiovascular benefit challenges IL-6 inhibition as a strategy for atherosclerotic disease and could influence development of inflammation-targeted cardiovascular therapies. Ziltivekimab is a fully human monoclonal antibody directed against the IL-6 ligand, and ZEUS was designed to assess cardiovascular and kidney outcomes in high-risk patients with atherosclerotic cardiovascular disease, chronic kidney disease, and inflammation. The trial did not reduce major adverse cardiovascular events compared with placebo, although the provided material does not specify complete numerical results or whether secondary kidney outcomes improved.
 
-rss · NEJM · 最新文章 · Nov 7, 02:50
+rss · NEJM · 最新文章 · Nov 7, 02:35
 
-**Background**: Lipoprotein\(a\) is a genetically influenced, proatherogenic and prothrombotic particle associated with cardiovascular disease and aortic valve stenosis. Pelacarsen is a second-generation antisense oligonucleotide that reduces production of apolipoprotein\(a\), thereby lowering Lp\(a\); Lp\(a\)HORIZON is a Phase III cardiovascular outcomes trial in patients with cardiovascular disease and elevated Lp\(a\).
+**Background**: Interleukin-6 is an inflammatory cytokine involved in immune regulation and cardiovascular inflammation; chronic IL-6 signaling is mediated largely through the STAT3 pathway. Anti-inflammatory therapy is being studied as a possible approach to residual cardiovascular risk after addressing conventional factors such as blood pressure, lipids, and thrombosis. The ZEUS trial extends earlier biomarker-focused research on ziltivekimab by examining clinical cardiovascular and kidney outcomes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S1933287425003228">Pelacarsen: Mechanism of action and Lp(a)-lowering effect</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Pelacarsen">Pelacarsen - Wikipedia</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5471681/">Lipoprotein ( a ), an independent cardiovascular risk marker - PMC</a></li>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2612126">Interleukin-6 Inhibition with Ziltivekimab for ...</a></li>
+<li><a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/2842746">Rationale and Baseline Characteristics of the ZEUS Trial</a></li>
+<li><a href="https://www.tctmd.com/news/zeus-trial-ziltivekimab-fails-reduce-mace-ascvd-patients">ZEUS Trial: Ziltivekimab Fails to Reduce MACE in ASCVD ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#lipoprotein\(a\)`, `#pelacarsen`, `#cardiovascular outcomes`, `#clinical trial`, `#lipid-lowering therapy`
+**Tags**: `#IL-6 inhibition`, `#ziltivekimab`, `#atherosclerosis`, `#cardiovascular events`, `#randomized clinical trial`
 
 ---
 
 <a id="item-4"></a>
-## [Ziltivekimab Tests IL-6 Inhibition for Cardiovascular Risk Reduction](https://www.nejm.org/doi/full/10.1056/NEJMoa2612126?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
+## [OPTIMAL-DIABETES Trial Tests Intensive Blood-Pressure Control](https://www.nejm.org/doi/full/10.1056/NEJMoa2612922?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
 
-The ZEUS trial is evaluating whether ziltivekimab, an investigational fully human monoclonal antibody targeting interleukin-6, reduces major adverse cardiovascular events in patients with atherosclerotic disease. The cardiovascular-outcome study was reported by the ZEUS Investigators in the New England Journal of Medicine. 如果泽替维单抗能够降低心血管事件，该试验可能为现有的降脂、降压和抗血小板治疗之外炎症靶向预防提供证据。它还可能为IL-6直接阻断在动脉粥样硬化疾病中的新作用奠定基础。 Ziltivekimab is developed by Novo Nordisk and is designed to neutralize IL-6, a signaling protein implicated in systemic inflammation and cardiovascular risk. The ZEUS trial&\#x27;s proposed primary endpoint is standard major adverse cardiovascular events, with secondary outcomes related to kidney-function decline and renal endpoints; efficacy, safety, dosing, and detailed results are not established in the supplied material.
+The New England Journal of Medicine has published the OPTIMAL-DIABETES trial examining intensive blood-pressure lowering in patients with type 2 diabetes. The available item identifies the trial and its clinical question but provides no numerical findings. Blood-pressure management is an important component of cardiovascular risk reduction for people with type 2 diabetes. The trial could clarify whether more intensive treatment provides meaningful clinical benefits or poses additional risks. The OPTIMAL-DIABETES trial is a peer-reviewed clinical study in patients with type 2 diabetes and appears in the New England Journal of Medicine. Because no abstract-level data were supplied, the blood-pressure target, sample size, duration, and outcomes cannot be reported reliably.
 
-rss · NEJM · 最新文章 · Nov 7, 02:35
+rss · NEJM · 最新文章 · Nov 7, 09:30
 
-**Background**: Atherosclerotic disease is characterized by plaque buildup in arteries and remains a major cause of heart attack, stroke, and other cardiovascular events. Inflammation contributes to this process, and IL-6 is one of the signaling proteins associated with inflammatory pathways and elevated cardiovascular risk. Directly targeting IL-6 is therefore being studied as a possible strategy to reduce clinically important cardiovascular outcomes.
+**Background**: Type 2 diabetes commonly coexists with hypertension, and both conditions can increase cardiovascular risk. Intensive blood-pressure control means using a lower-than-usual treatment target with closer clinical monitoring, balancing potential benefits against treatment burden and adverse effects.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Ziltivekimab">Ziltivekimab - Wikipedia</a></li>
-<li><a href="https://adis.springer.com/drugs/800045660?error=cookies_not_supported&amp;code=e4aa920e-9be3-4194-9bde-2fd95574e6da">Ziltivekimab - Novo Nordisk - AdisInsight</a></li>
-<li><a href="https://www.hcplive.com/view/preview-ziltevekimab-zeus-clinical-trial">A Preview of the Ziltevekimab ZEUS Clinical Trial | HCPLive</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Clinical Trial`, `#Cardiovascular Disease`, `#Atherosclerosis`, `#Interleukin-6`, `#Inflammation`
+**Tags**: `#clinical-trial`, `#hypertension`, `#type-2-diabetes`, `#cardiovascular-risk`, `#blood-pressure-management`
 
 ---
 
 <a id="item-5"></a>
-## [Optimal Blood Pressure Targets in Type 2 Diabetes](https://www.nejm.org/doi/full/10.1056/NEJMoa2612922?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
+## [Cangrelor Outperforms Crushed Ticagrelor Pharmacologically in Shock](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2900976-1/fulltext?rss=yes) ⭐️ 9.0/10
 
-The OPTIMAL-DIABETES trial is a multicenter, randomized study comparing intensive systolic blood-pressure control with a target below 120 mmHg against standard control with a target below 140 mmHg in patients with type 2 diabetes, elevated blood pressure, and high cardiovascular risk. The trial is designed to determine whether the lower target reduces major cardiovascular events. The optimal blood-pressure target for people with type 2 diabetes has remained uncertain because lower targets may reduce cardiovascular risk but can also increase adverse effects. The trial could influence antihypertensive-treatment practice and future clinical guidelines for cardiovascular-risk management in this population. The trial has two randomized arms and compares systolic blood-pressure targets of below 120 mmHg versus below 140 mmHg. Its stated population includes patients with type 2 diabetes, elevated blood pressure, and high cardiovascular risk; the available search results describe the design and objectives but do not provide outcome results.
+The double-blind DAPT-SHOCK-AMI trial directly compared cangrelor with crushed ticagrelor after primary PCI in patients with acute myocardial infarction complicated by cardiogenic shock. Cangrelor more frequently achieved effective platelet inhibition at the end of PCI, but its non-inferiority for the primary 30-day clinical endpoint was not established. This is the first randomized comparison of these P2Y12 inhibitor strategies specifically in AMI with cardiogenic shock, a population in which rapid and reliable platelet inhibition is critical but comparative evidence has been limited. The separation between stronger platelet inhibition and demonstrated clinical non-inferiority highlights the need for larger trials and careful interpretation of pharmacodynamic findings as clinical outcomes. Cangrelor is a potent, reversible intravenous P2Y12 inhibitor with rapid onset and a short duration of action, whereas crushed ticagrelor is an orally administered formulation used when rapid oral P2Y12 inhibition is needed. The trial&\#x27;s pharmacodynamic advantage did not establish non-inferiority for the primary 30-day clinical endpoint, so the findings should not be interpreted as proof of superior clinical outcomes.
 
-rss · NEJM · 最新文章 · Nov 7, 09:30
+rss · The Lancet · 最新文章 · Nov 7, 19:50
 
-**Background**: Blood-pressure treatment in type 2 diabetes aims to reduce cardiovascular complications such as heart attacks and strokes, which are major causes of illness and death in this population. Intensive control means pursuing a lower systolic blood-pressure target than standard care, potentially improving outcomes while increasing treatment burden or adverse effects. OPTIMAL-DIABETES was designed specifically to address the remaining uncertainty about these targets in a diverse, high-risk diabetic population.
+**Background**: P2Y12 inhibitors reduce platelet activation and aggregation and are a cornerstone of dual antiplatelet therapy in acute coronary syndromes and PCI. In cardiogenic shock, impaired drug absorption and altered metabolism can delay or reduce the effect of oral P2Y12 inhibitors, while intravenous cangrelor acts rapidly and reversibly. Crushed or chewed oral loading is an alternative when rapid platelet inhibition is required and swallowing is not feasible.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ctv.veeva.com/study/optimal-blood-pressure-for-the-prevention-of-major-vascular-events-in-patients-with-diabetes-mellitu">Optimal Blood Pressure for the prevenTIon of Major vAscuLar Events...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12517694/">Is the next STEP on the BPROAD to intensive blood pressure ...</a></li>
-<li><a href="https://www.semanticscholar.org/paper/Rationale-and-design-for-the-Blood-Pressure-Control-Fon-Ning/0588c697bb933d1dd514b9da613c8109a11af61a">Rationale and design for the Blood Pressure Control Target in...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12450600/">The role of cangrelor in acute and high-risk PCI settings - PMC</a></li>
+<li><a href="https://www.drugs.com/pro/cangrelor.html">Cangrelor : Package Insert / Prescribing Information / MOA</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11800629/">Potent P2Y12 inhibitors in patients with acute myocardial ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#type 2 diabetes`, `#hypertension`, `#blood-pressure targets`, `#cardiovascular risk`, `#randomized clinical trial`
+**Tags**: `#acute myocardial infarction`, `#cardiogenic shock`, `#randomised clinical trial`, `#antiplatelet therapy`, `#primary PCI`
 
 ---
 
 <a id="item-6"></a>
-## [Intensive Blood Pressure Control After Ischemic Stroke](https://www.nejm.org/doi/full/10.1056/NEJMoa2612924?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 9.0/10
+## [Semaglutide improves exercise hemodynamics in obese HFpEF](https://www.nature.com/articles/s41591-026-04762-3) ⭐️ 9.0/10
 
-The multicenter, open-label, randomized OPTIMAL-STROKE trial evaluated intensive versus standard blood-pressure control in patients with a previous ischemic stroke. The study addresses whether more intensive treatment can reduce cardiovascular risk after cerebrovascular events. Blood-pressure management is a central component of secondary stroke prevention, but the safest and most effective treatment target remains uncertain. The trial’s findings could directly influence post-stroke care and cardiovascular-risk management. OPTIMAL-STROKE was conducted at 30 sites in Brazil and used an open-label randomized design. Its central question was whether intensive blood-pressure control lowers cardiovascular risk more effectively than standard control after ischemic stroke.
+A placebo-controlled randomized clinical trial presented at the 2026 American Heart Association Scientific Sessions found that semaglutide significantly improved pulmonary artery wedge pressure and other hemodynamic measures during low-intensity exercise in patients with obesity and heart failure with preserved ejection fraction \(HFpEF\). The findings were published online in Nature Medicine on November 8, 2026. The trial provides mechanistic evidence for how semaglutide may reduce HFpEF-related cardiac pressure and exercise intolerance, complementing evidence that it improves symptoms in this population. If confirmed in larger outcome trials, the findings could strengthen the rationale for using GLP-1 receptor agonists as phenotype-targeted therapy for obese patients with HFpEF. The intervention was evaluated during low-intensity exercise, when abnormalities in filling pressures and exercise hemodynamics may be more apparent than at rest. The supplied report does not state the sample size, treatment duration, semaglutide dose, effect sizes, adverse events, or clinical-outcome findings, so those details cannot be assessed from the available material.
 
-rss · NEJM · 最新文章 · Nov 7, 08:15
+rss · Nature Medicine · Nov 8, 00:00
 
-**Background**: A previous ischemic stroke indicates a high risk of another stroke and other cardiovascular events. Intensive control means pursuing a lower blood-pressure target than standard care, which may reduce vascular risk but can also cause complications if pressure is lowered excessively.
+**Background**: HFpEF is heart failure in which the left ventricle pumps at a preserved ejection fraction, but the heart cannot relax and fill normally. Exercise hemodynamic testing can reveal elevated filling pressures that may not be evident at rest. Semaglutide is a GLP-1 receptor agonist, and earlier randomized evidence showed that 2.4 mg once weekly improved HFpEF-related symptoms in patients with obesity, although the precise mechanism was unclear.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2612924">Intensive Blood-Pressure Control after Stroke</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6664380/">Effect of Standard vs Intensive Blood Pressure Control on the ...</a></li>
-<li><a href="https://neurotrials.ai/trials/stroke/optimal-bp/">OPTIMAL -BP Stroke Trial | NeuroTrials.ai</a></li>
+<li><a href="https://www.nature.com/articles/s41591-026-04762-3">Hemodynamic effects of semaglutide in individuals with heart ...</a></li>
+<li><a href="https://www.ahajournals.org/doi/full/10.1161/CIRCHEARTFAILURE.125.013279">Mechanisms of GLP-1 Receptor Agonists in HFpEF: Exploring ...</a></li>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2306963">Semaglutide in Patients with Heart Failure with Preserved ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#clinical-trials`, `#stroke`, `#blood-pressure`, `#cardiovascular-care`, `#NEJM`
+**Tags**: `#semaglutide`, `#HFpEF`, `#obesity`, `#hemodynamics`, `#randomized clinical trial`
 
 ---
 
 <a id="item-7"></a>
 ## [Goldman Sachs Restricts Claude Code for Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers) ⭐️ 8.0/10
 
-Goldman Sachs is reportedly withdrawing Claude Code from bankers and traders because of security, regulatory, and cost-control concerns. The restriction targets third-party agents that can write and execute code, while Goldman Sachs’ internally developed assistant remains available across the firm. The change highlights the difficulty of deploying semi-autonomous coding agents on workstations that can reach sensitive financial data, email, and internal networks. It also raises broader enterprise questions about auditable access, consumption-based pricing, vendor governance, and how banks should introduce AI tools. Unlike an earlier location- and contract-based restriction, the new policy is based on users’ roles. Community participants also cited recurring billing overages as a reason their own organization reduced Claude access, noting that predictable pricing and throttling made alternatives more attractive.
+Goldman Sachs is withdrawing Claude Code from some bankers and traders as security risks, compliance constraints, and unpredictable AI costs complicate deployment. The restriction highlights the difficulty of operating coding agents on sensitive financial workstations. The move could slow enterprise adoption of agentic coding tools in financial services, where employees may have access to client, trading, proprietary, and internal network information. It also illustrates that governance, cost controls, and auditability can outweigh productivity gains for powerful AI agents. Claude Code can access files, execute shell commands, and connect to external services, creating substantial exposure when used on primary finance workstations with internet and internal-network access. Anthropic recommends cost management through token tracking, team spending limits, context management, model selection, extended thinking settings, and preprocessing hooks, but commenters report that consumption-based overages remain difficult to forecast and control.
 
 hackernews · Hacker News \(热门\) · Nov 8, 18:16 · [Discussion](https://news.ycombinator.com/item?id=50415628)
 
-**Background**: Claude Code is an AI coding agent capable of working with code and executing commands rather than merely suggesting snippets. Enterprise deployments require controls such as single sign-on, sandboxing, audit logging, data protection, and governance of integrations including MCP. Banks face especially strict requirements around client information, entitlements, approval chains, privacy, and regulatory accountability.
+**Background**: Claude Code is Anthropic&\#x27;s agentic coding tool, and unlike a conventional chat interface it can act on a user&\#x27;s environment through file, shell, and external-service access. In banking, that capability intersects with data privacy, entitlement, licensing, approval-chain, audit, and regulatory requirements. Enterprise safeguards and spending limits can reduce risk, but they do not eliminate the fundamental challenge of granting autonomous agents broad access to valuable systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://academy.claude.com/tutorials/claude-enterprise-administrator-guide">Claude Enterprise Administrator Guide · Claude Academy</a></li>
-<li><a href="https://www.truefoundry.com/blog/claude-code-security-best-practices">Claude Code Security Best Practices for Enterprise Teams: SSO ...</a></li>
-<li><a href="https://www.atilab.io/blog/ai-agents-sensitive-data-deployment-routes">AI Agents on Sensitive Data: Where They Can Run | ATI Lab</a></li>
+<li><a href="https://code.claude.com/docs/en/security">Security - Claude Code Docs</a></li>
+<li><a href="https://code.claude.com/docs/en/costs">Manage costs effectively - Claude Code Docs</a></li>
+<li><a href="https://claude.com/solutions/financial-services">Financial services | Claude by Anthropic</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Participants broadly agreed that allowing semi-unattended agents to operate from finance professionals’ primary machines creates severe security exposure, particularly when those machines combine sensitive data with internet and internal-network access. Other concerns included uncontrolled usage costs, weak technical governance, legal and reputational risks, and the strategic significance of Goldman Sachs’ timing given its reported Anthropic IPO relationship.
+**Discussion**: Commenters broadly agreed that semi-unattended agents on networked financial workstations create severe security and permission-control risks. They also highlighted chronic billing overages and tighter enterprise budgets, while speculating that Goldman Sachs&\#x27;s proximity to Anthropic&\#x27;s IPO may have influenced the timing; one commenter instead suggested that a specific operational loss may have prompted the restriction.
 
-**Tags**: `#AI agents`, `#enterprise security`, `#financial services`, `#Claude Code`, `#AI governance`
+**Tags**: `#Claude Code`, `#Financial AI`, `#AI Security`, `#Enterprise Adoption`, `#AI Governance`
 
 ---
 
 <a id="item-8"></a>
-## [Why One Developer Switched From Claude to Pi](https://caleb.software/posts/claude-to-pi.html) ⭐️ 8.0/10
+## [Nvidia Probes Reported Foreign Intelligence Targeting Huang](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors) ⭐️ 8.0/10
 
-The article recounts a developer’s decision to replace Claude with the Pi coding-agent harness, arguing that the surrounding tooling architecture—not just the underlying model—shapes an AI agent’s real-world effectiveness. It frames Pi as a more controllable alternative for organizing long-running, multi-project coding-agent workflows. The shift highlights a broader change in AI coding tools: model quality alone no longer determines an agent’s usefulness, because harnesses control context, tool execution, permissions, and intervention patterns. Developers and teams may increasingly evaluate coding agents as an integrated model-and-runtime system rather than as standalone chatbots. Pi is a minimal, terminal-based agent harness that supports steering a running agent, including messages that interrupt pending tools and follow-ups that wait for the current operation to finish. Community participants also caution that third-party harnesses may not reproduce model-provider-specific headers, hidden flags, undocumented API behavior, or compact context management, and may affect subscription terms.
+Nvidia’s board announced an independent investigation into reports that founder and CEO Jensen Huang was targeted by a foreign intelligence effort. The investigation concerns alleged espionage or compromise involving Huang, although the specific operation and supporting evidence have not been publicly established. Huang leads a company central to the global AI-chip market, making reports of foreign influence over its founder and CEO significant for corporate governance, national security, and semiconductor export controls. The case could also affect investor confidence and intensify scrutiny of Nvidia’s leadership and China-related activities. Reports cited in the search results say the inquiry followed claims that Huang had an intimate relationship with a woman linked to alleged Chinese intelligence. The available information does not explain what information was sought, whether Huang was compromised, or whether misconduct by him or Nvidia occurred.
 
-hackernews · Hacker News \(热门\) · Nov 8, 03:11 · [Discussion](https://news.ycombinator.com/item?id=50410107)
+hackernews · Hacker News \(热门\) · Nov 8, 20:26 · [Discussion](https://news.ycombinator.com/item?id=50416801)
 
-**Background**: An agent harness is the deterministic runtime surrounding an LLM, responsible for assembling context, parsing tool calls, executing tools, recording results, and enforcing stop conditions. In coding agents, system prompts, compaction, model-specific protocol support, and interruption behavior can materially change efficiency and reliability. Pi is presented as a minimal, open-ended harness that lets developers control those layers rather than relying on a provider’s proprietary agent environment.
+**Background**: Foreign intelligence concerns generally involve attempts to recruit, deceive, or influence people to obtain sensitive information. Nvidia is strategically important in AI semiconductors, and its access to China is shaped by U.S. export controls that restrict sales of advanced chips, making the security of its leadership especially sensitive.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pi.dev/">A terminal-based coding agent</a></li>
-<li><a href="https://handbook.modular.com/model-interaction/agent-harnesses/">Agent harnesses | LLM Inference Handbook</a></li>
-<li><a href="https://gist.github.com/thehexbot/8fed6986e7315c1c6358fbd9109622d1">Agent Harness Architecture — Deep Analysis (March 2026) · GitHub</a></li>
+<li><a href="https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang">Nvidia launches investigation into CEO Jensen Huang over ...</a></li>
+<li><a href="https://thehill.com/policy/technology/6206971-nvidia-investigates-jensen-huang/">Nvidia board initiates probe into Jensen Huang over alleged ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html">Nvidia CEO Jensen Huang faces bipartisan congressional ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters strongly favor Pi for its control, flexibility, and improved ability to steer agents without excessive prompting. Some nevertheless prefer desktop or IDE workflows, while others warn that alternative harnesses can waste tokens and may not work correctly with Anthropic subscriptions or model-specific communication features.
+**Discussion**: Commenters strongly objected to the original headline as misleading because Nvidia is investigating the alleged targeting of Huang, not necessarily Huang himself. Discussion focused on possible motives, including coercion, humiliation, leadership displacement, and leverage over Nvidia, while participants stressed that many allegations remain unproven and questioned the significance of Huang’s publicly pro-China positions.
 
-**Tags**: `#AI coding agents`, `#LLM harnesses`, `#Claude`, `#Developer tools`, `#Model behavior`
+**Tags**: `#Nvidia`, `#Jensen Huang`, `#corporate governance`, `#espionage`, `#AI industry`
 
 ---
 
 <a id="item-9"></a>
-## [Running a $10 OpenStick Homelab](https://blog.bosscher.ch/posts/openstick/) ⭐️ 8.0/10
+## [Why a Coding Agent Harness Can Matter More Than the Model](https://caleb.software/posts/claude-to-pi.html) ⭐️ 8.0/10
 
-The post documents a lightweight homelab built on a $10 OpenStick, showing how inexpensive Linux hardware can host meaningful self-hosted services. It highlights software choices including Miniflux, picoflux, and Fusion, while community readers compare the device with Raspberry Pi Zero-class systems and older servers. The demonstration makes self-hosting more accessible by showing that a compact, inexpensive Linux stick can perform useful work without the cost or footprint of a conventional server. It also reflects the broader homelab trend toward privacy, learning, experimentation, and personal control over hosted services. Community members describe the OpenStick as comparable to a Raspberry Pi Zero 2 and suggest potential USB networking, Wi-Fi access-point, serial-console, and USB peripheral uses. A frequent improvement request is Ethernet connectivity with PoE, while picoflux is presented as a lighter Miniflux alternative; the article is a practical software showcase rather than a major research breakthrough.
+The article argues that the choice of AI coding-agent harness materially changes model behavior, developer productivity, and token efficiency, leading the author away from Claude Code toward a more customizable Pi-based workflow. Commenters support the broader claim that harness design is increasingly as important as the underlying model. Coding-agent comparisons that test only the same model in different interfaces can miss large practical differences caused by tools, prompts, context management, permissions, and execution loops. This matters for developers choosing between native and alternative harnesses, especially when subscription access, API compatibility, cost, and customization differ. Pi is described as a minimal, open-source terminal harness with only a few default tools, leaving much of the behavior configurable through extensions, skills, system prompts, and custom workflows. Caveats include Anthropic subscription terms, undocumented model-specific headers and flags, and the risk that a model may burn through more tokens or behave less reliably outside its native harness.
 
-hackernews · Hacker News \(热门\) · Nov 7, 18:12 · [Discussion](https://news.ycombinator.com/item?id=50406670)
+hackernews · Hacker News \(热门\) · Nov 8, 03:11 · [Discussion](https://news.ycombinator.com/item?id=50410107)
 
-**Background**: A homelab is a personal collection of self-hosted services used for learning, privacy, and control rather than primarily for convenience. OpenStick here refers to a compact Linux-capable computing stick priced at about $10, while Miniflux, picoflux, and Fusion are feed-reading options discussed as part of the self-hosted stack. The search results also note that typical homelab services can include media, photos, files, automation, and monitoring.
+**Background**: An agent harness is the layer around a language model that supplies tools, context management, permissions, and an execution environment, turning a model into an operational coding agent. Claude Code is Anthropic&\#x27;s native harness for Claude, while Pi takes a more extensible approach in which the developer can assemble much of the workflow. As these layers gain richer prompts, hooks, multi-agent workflows, and orchestration, they become an important source of performance differences and developer control.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://contabo.com/blog/how-to-build-a-homelab-on-a-vps/">Private Homelab on a VPS: Planning Guide (2026)</a></li>
-<li><a href="https://github.com/Denrox/lightweight-homelab">GitHub - Denrox/ lightweight - homelab : This project creates for you...</a></li>
-<li><a href="https://wiki-power.com/en/%E6%90%AD%E5%BB%BA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84HomeLab/">Building Your Own HomeLab - Power&#x27;s Wiki</a></li>
+<li><a href="https://code.claude.com/docs/en/how-claude-code-works">How Claude Code works - Claude Code Docs</a></li>
+<li><a href="https://www.glukhov.org/ai-devtools/pi/pi-coding-agent-review/">Pi Coding Agent Review: Minimal, Hackable AI Coding CLI</a></li>
+<li><a href="https://pi.dev/packages/pi-agent-extensions">pi-agent-extensions · Packages · Pi</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion is broadly enthusiastic, with commenters emphasizing that careful software selection can make inexpensive hardware surprisingly capable. Participants draw comparisons to Raspberry Pi Zero systems and much older dual-Pentium-II servers, suggest networking and console use cases, and request Ethernet PoE support; one maintainer describes picoflux as a lighter Miniflux fork while praising Fusion&\#x27;s interface.
+**Discussion**: Commenters largely agree that harness design can dominate model efficiency, with one user calling Pi the best harness because its control enables agent orchestration rather than merely driving agents. Others emphasize practical limits: Anthropic subscriptions may not be appropriate for alternative harnesses, proprietary API behaviors can be missing, and some users prefer graphical or IDE-centered workflows for easier history review and code review.
 
-**Tags**: `#homelab`, `#self-hosting`, `#OpenStick`, `#Linux`, `#edge-computing`
+**Tags**: `#AI coding agents`, `#developer tools`, `#LLM harnesses`, `#Claude Code`, `#agent architecture`
 
 ---
 
 <a id="item-10"></a>
-## [Claude Code Approval Settings Leak Credentials to GitHub](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) ⭐️ 8.0/10
+## [Claude Code Approval Settings Exposed Secrets in Public Repositories](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) ⭐️ 8.0/10
 
-Researchers found 1,122 public GitHub files containing credentials associated with Claude Code’s persistent local approval settings. The issue occurs when users select “Yes, and don’t ask again” for a command containing a secret and then manually commit the local settings file. The findings show that coding-agent convenience features can create a credential-disclosure path when local approval records enter version control. Broader use of persistent agents therefore requires stronger secret-scrubbing defaults, safer approval storage, repository push protection, and isolated execution environments. Claude Code can permanently save an approved Bash command or WebFetch domain to \`.claude/settings.local.json\`; if that command embeds a token or password, the secret may remain in plaintext. The file is intended to remain local and is normally automatically added to \`.gitignore\` when Claude Code creates it, so the reported exposure involved manually created or manually committed settings rather than the approval button alone.
+A scan identified 1,122 public GitHub files containing secrets exposed through committed Claude Code local approval settings. The finding has renewed scrutiny of coding-agent permissions, secret-scrubbing safeguards, and isolated execution practices. Persistent approval rules can inadvertently place credentials in source control, making them visible to anyone with repository access and potentially enabling unauthorized use of affected accounts or services. The incident highlights a broader need to separate convenience settings, sensitive data, and agent execution privileges. The direct trigger was not the “Don’t Ask Again” button alone: users manually created or committed \`.claude/settings.local.json\` files containing approved commands with embedded secrets, then published those repositories. Claude Code normally keeps this local settings file out of version control, and the team said it was considering additional ways to prevent secret exposure, although it historically has not performed secret scrubbing.
 
 hackernews · Hacker News \(热门\) · Nov 7, 20:45 · [Discussion](https://news.ycombinator.com/item?id=50407882)
 
-**Background**: Claude Code’s persistent permission rules allow users to avoid approving recurring commands or domains during later sessions. These rules can include complete command strings, so credentials inserted directly into an approved command may be copied into the local settings file. GitHub separately provides push protection and secret scanning to block or detect supported credentials before or after they reach a repository, but such controls do not replace careful local configuration and agent isolation.
+**Background**: Claude Code normally asks for approval before running most shell commands, and choosing “Yes, and don’t ask again” saves an allow rule in the project’s \`.claude/settings.local.json\` file. This file is intended to remain local and is automatically ignored by Git when Claude Code creates it. If developers nevertheless commit a manually populated settings file, any credentials embedded in those approved commands become part of repository history and may be exposed when the repository is made public.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://code.claude.com/docs/en/permissions">Configure permissions - Claude Code Docs</a></li>
-<li><a href="https://docs.github.com/code-security/secret-scanning/push-protection-for-repositories-and-organizations">Push protection - GitHub Docs</a></li>
-<li><a href="https://joho-todai.com/en/claude-code-settings-local-json-credentials-plaintext-exposure/">Claude Code&#x27;s settings.local.json Can Store Plaintext ...</a></li>
+<li><a href="https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html">Claude Code &#x27;s “ Don &#x27; t Ask Again ” File Exposes Passwords and Keys...</a></li>
+<li><a href="https://agentpedia.codes/blog/github-secret-scanning-ai-coding-agents">GitHub Secret Scanning for AI Coding Agents: MCP and Push ...</a></li>
+<li><a href="https://agentic-pulse.dev/blog/2026-09-07-cursor-cloud-agents-cloudflare-sandboxes/">Cursor Cloud Agents with Cloudflare Sandboxes: How to Secure...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Participants emphasized that “Don’t Ask Again” does not independently expose secrets; the risky sequence requires manually approved commands containing credentials, local settings committed to a repository, and publication of that repository. The Claude Code team said historical secret scrubbing had been left to specialized tools but is now under consideration, while commenters recommended passing tokens through environment variables, globally ignoring \`.claude/\`, using ephemeral isolated VMs, and restricting external-service access through an API proxy.
+**Discussion**: Commenters emphasized that the headline overstated the mechanism: clicking “Don’t Ask Again” does not itself publish passwords, while manually committing local settings containing secret-bearing commands does. Participants proposed stronger secret scanning, editable-output review, isolated ephemeral VMs, restricted API proxies, and private development repositories with whitelist-based public releases; Claude Code’s team also said it was exploring preventive safeguards.
 
-**Tags**: `#Claude Code`, `#secret-leakage`, `#GitHub`, `#AI-agent-security`, `#credential-management`
+**Tags**: `#Claude Code`, `#secret leakage`, `#AI agents`, `#GitHub security`, `#coding-agent permissions`
 
 ---
 
 <a id="item-11"></a>
-## [Discord’s Native Shift Challenges Electron’s Windows Trade-Offs](https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/) ⭐️ 8.0/10
+## [C++26 Governance Faces Disagreement After DIS Ballot](https://isocpp.org/files/papers/P4454R0.pdf) ⭐️ 8.0/10
 
-Discord’s newer native Windows implementation reportedly reaches its startup screen more quickly and uses roughly 70% less memory, even with two accounts signed in, according to the article. The case study is presented as evidence that Windows applications can avoid substantial Electron overhead without giving up native responsiveness. Discord has an unusually large user base, so its move could influence expectations for resource-heavy chat clients and other desktop apps. It also highlights a broader tension between Electron’s efficient cross-platform development and native clients’ lower memory use and tighter operating-system integration. Electron packages Chromium and Node.js into each application, allowing largely shared web-technology codebases across Windows, macOS, and Linux, but adding runtime weight. Discord’s desktop and mobile clients use React and React Native respectively, and the reported native Discord results remain a platform-specific case study rather than proof that every Electron application can be replaced cost-effectively.
+Paper P4454R0 analyzes the C++26 post-DIS process, historical disputes over language stewardship, and possible mechanisms for resolving disagreement between C++ creators and maintainers. It evaluates how the failed international adoption vote may affect the standard and proposes paths forward. The outcome tests whether the ISO C++ committee can preserve consensus while allowing legitimate technical disagreement, especially over Contracts. Governance outcomes could influence the schedule and feature set of C++26 and future revisions. A DIS is the Draft International Standard submitted to ISO member bodies for final international voting; comments may lead to rejection or revision before a revised draft can proceed. The reported dispute over Contracts illustrates how technical merit and committee consensus can diverge, and the paper frames this within broader stewardship history.
 
-hackernews · Hacker News \(热门\) · Nov 7, 11:11 · [Discussion](https://news.ycombinator.com/item?id=50403507)
+rss · Lobsters \(技术社区\) · Nov 8, 21:59
 
-**Background**: Electron lets developers build desktop applications with web technologies by combining the Chromium browser engine with the Node.js runtime. That model reduces the need for separate platform-specific teams, which Discord supporters describe as a major commercial advantage. Native implementations can integrate more directly with Windows and reduce bundled browser overhead, but they generally require additional engineering effort and platform-specific maintenance.
+**Background**: WG21 is the ISO committee responsible for the C++ standard, composed of accredited experts from member nations. Before international publication, a draft must pass the DIS ballot, historically a routine stage since 1998, whereas the C++26 ballot became notable because the adoption vote failed amid opposition to Contracts. C++ revisions otherwise follow an approximately three-year publication cycle.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Electron_%28software_framework%29">Electron (software framework ) - Wikipedia</a></li>
-<li><a href="https://discord.com/blog/supercharging-discord-mobile-our-journey-to-a-faster-app">Supercharging Discord Mobile: Our Journey to a Faster App</a></li>
-<li><a href="https://github.com/ViceVerse-cz/Serein">GitHub - ViceVerse-cz/Serein: Tiny, Performant &amp; 100% Native client ...</a></li>
+<li><a href="https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/">C+ + 26 DIS failed, how does C++ survive? - Andreas Fertig&#x27;s Blog</a></li>
+<li><a href="https://www.theregister.com/software/2026/03/31/contracts-are-in-c26-despite-disagreement-over-their-value/5229065">Contracts are in C++26 despite disagreement over their value</a></li>
+<li><a href="https://isocpp.org/std/the-committee">The Committee : Standard C++</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Critics of Electron argue that its bundled runtime burdens users with slow startup, high memory consumption, and outdated performance, while supporters emphasize its long-standing value for small teams shipping reliable cross-platform products. Some commenters propose full browser engines as a middle ground, combining shared web skills with centralized permissions and security management, while others contend that the article overlooks Electron’s developer-productivity benefits.
-
-**Tags**: `#Electron`, `#Windows 11`, `#Discord`, `#Cross-platform development`, `#Application performance`
+**Tags**: `#C++26`, `#C++ standards`, `#language governance`, `#post-DIS`, `#ISO committee`
 
 ---
 
 <a id="item-12"></a>
-## [App Advertising Data Gives Police a Tracking Tool](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/) ⭐️ 8.0/10
+## [OpenAI Reportedly Raises $11 Billion at $1.25 Trillion Valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) ⭐️ 8.0/10
 
-A Bloomberg investigation examines how police can use location-tracking capabilities embedded in popular apps’ advertising systems to monitor users. The report highlights the privacy and civil-liberties implications of turning commercial advertising data into a surveillance resource. Advertising-related location data can extend police surveillance beyond the devices and services that users directly choose to share with law enforcement. Its use raises questions about consent, warrants, data brokers, and whether ordinary mobile applications can become instruments of state surveillance. Cross-app tracking typically relies on device-associated advertising identifiers, while fingerprinting can combine characteristics such as battery level, volume, and IP address to identify a device. Separately, law-enforcement purchases of precise geolocation datasets from third-party brokers have been criticized as a way to bypass warrants.
+OpenAI reportedly secured commitments for an additional $11 billion at a valuation of $1.25 trillion. The round has not closed and is expected to complete in the coming weeks. The financing would represent an exceptionally large capital raise for an AI company and could accelerate investment in model development and computing infrastructure. It also signals continued investor appetite for OpenAI despite the reported price being below its initial $1.4 trillion target. The $11 billion is described as a first close within a larger financing round, with SoftBank and MGX reported as participants. The $1.25 trillion valuation is below the reported $1.4 trillion OpenAI initially sought, and the final terms remain unconfirmed because the round has not closed.
 
-rss · Hacker News \(热门\) · Nov 8, 17:32
+rss · TechCrunch AI · Nov 6, 22:53
 
-**Background**: Mobile applications often use advertising and measurement systems to attribute installs, analyze engagement, and target advertising across apps. Law enforcement has also increasingly obtained geolocation histories from commercial data brokers, creating concerns that precise location records may be acquired without the warrant process used for information held directly by a service provider. Cross-app identifiers and device fingerprinting make it possible to connect activity across applications even when users have not installed a particular tracking application.
+**Background**: A venture-capital funding round can close in stages, with early closings providing a company with capital before the full round is finalized. In such transactions, valuation determines how much equity investors receive, while the company&\#x27;s post-money valuation generally equals the pre-money valuation plus the new investment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bbbprograms.org/media/newsroom/press/bbb-national-programs-privacy-watchdog-issues-compliance-warning-for-fingerprinting-cross-app-dat">Privacy Watchdog Issues Compliance Warning for &#x27; Fingerprinting &#x27;</a></li>
-<li><a href="https://yalelawandpolicy.org/end-running-warrants-purchasing-data-under-fourth-amendment-and-state-action-problem">End-Running Warrants : Purchasing Data Under the Fourth...</a></li>
-<li><a href="https://stateofsurveillance.org/articles/corporate/location-data-brokers/">Location Data Brokers : The $278B Industry... - State of Surveillance</a></li>
+<li><a href="https://www.compsmag.com/news/openai-secures-11-billion-in-funding-at-reported-1-25-trillion-valuation/">OpenAI Secures $11 Billion in Funding at Reported $ 1 . 25 Trillion ...</a></li>
+<li><a href="https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/">OpenAI Just Raised $11 Billion at a $ 1 . 25 Trillion Valuation , Below...</a></li>
+<li><a href="https://etonvs.com/valuation/venture-capital-valuation/">Venture Capital Valuation: 6 VC Valuation Methods</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#privacy`, `#surveillance`, `#mobile-advertising`, `#law-enforcement`, `#data-tracking`
+**Tags**: `#OpenAI`, `#AI funding`, `#venture capital`, `#valuation`, `#artificial intelligence`
 
 ---
 
 <a id="item-13"></a>
-## [Chainalysis Says Attackers Stole All Customers’ Credentials and Tokens](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/) ⭐️ 8.0/10
+## [Young Mathematicians Solve a 55-Year-Old Conjecture](https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/) ⭐️ 8.0/10
 
-Chainalysis reported that a multifront cyberattack compromised credentials and authentication tokens belonging to every customer. The company said the incident involved AI agents and on-path data theft. The breach potentially exposes every Chainalysis customer to account takeover, fraud, and unauthorized access to blockchain-analytics data. It also highlights the growing supply-chain risk posed by reusable tokens and AI-assisted credential theft. Stolen tokens can allow attackers to reuse authenticated access and potentially bypass password and multi-factor authentication checks. The available report does not specify how the credentials and tokens were captured, which AI agents were involved, whether customer data was accessed, or whether the tokens have been revoked.
+A group of young mathematicians resolved a conjecture that had remained unanswered for 55 years. Their work drew inspiration from juggling, randomness, friendship, and collaboration. Resolving a long-standing conjecture is a significant mathematical research achievement because it can open new approaches to related questions and demonstrate the value of unconventional thinking. The result also illustrates how human collaboration and ideas from outside traditional mathematics can contribute to breakthroughs. The solution reportedly emerged through the use of randomness and techniques inspired by juggling, rather than through a single conventional breakthrough. The available reports describe the mathematicians as young and emphasize friendship and collaboration, but do not provide the conjecture’s full statement or the technical details of the proof.
 
-rss · Ars Technica · Nov 6, 20:56
+rss · Wired · Nov 8, 10:30
 
-**Background**: An on-path attacker positions themselves between communicating devices to intercept or alter traffic, making login credentials and tokens valuable targets. Token theft is especially serious because a stolen token may grant access until it expires or is revoked, potentially allowing attackers to bypass multi-factor authentication. The reported use of AI agents also reflects a broader trend toward automating credential-theft campaigns.
+**Background**: A mathematical conjecture is a proposed statement that appears plausible but has not yet been rigorously proved or disproved. Such problems can remain open for decades, and new approaches—including ideas borrowed from fields such as probability, physics, or combinatorics—may help researchers make progress.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cloudflare.com/learning/security/threats/on-path-attack/">What is an on-path attacker? - Cloudflare What Is an On-Path Attack? How It Works and How to Prevent It What is an On-path Attacker? - Akamai What is the On-Path Attacks: Tools and Mechanisms What Is an On-Path Attack? - doxx.net</a></li>
-<li><a href="https://www.obsidiansecurity.com/blog/token-based-attacks-how-attackers-bypass-mfa">Token-Based Attacks: How Attackers Bypass MFA</a></li>
-<li><a href="https://www.biometricupdate.com/202609/google-warns-ai-agents-are-automating-credential-theft-at-unprecedented-scale">Google warns AI agents are automating credential theft at ...</a></li>
+<li><a href="https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/">Mathematicians Harness Randomness To Crack a 55-Year-Old ...</a></li>
+<li><a href="https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/">A 55-Year-Old Math Problem Was Solved—This Time by Humans</a></li>
+<li><a href="https://e.vnexpress.net/news/news/education/vietnamese-professor-cracks-55-year-old-math-puzzle-inspired-by-juggling-5127532.html">Vietnamese professor cracks 55-year-old math puzzle, inspired ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cybersecurity`, `#credential-theft`, `#token-theft`, `#supply-chain-attack`, `#AI-agents`
+**Tags**: `#mathematics`, `#research-breakthrough`, `#open-problems`, `#collaboration`, `#problem-solving`
 
 ---
 
 <a id="item-14"></a>
-## [Extended Aldosterone Synthase Inhibition Linked to Hyperaldosteronism Remission](https://www.nejm.org/doi/full/10.1056/NEJMc2611265?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 8.0/10
+## [STREAM Trial Tests Statin Discontinuation in Older Adults](https://www.nejm.org/doi/full/10.1056/NEJMoa2606634?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 8.0/10
 
-An NEJM case report describes remission of hyperaldosteronism after prolonged treatment with an aldosterone synthase inhibitor. In a patient with hypertension due to primary aldosteronism, lower blood pressure and a reduced aldosterone-to-renin ratio persisted for two years after the extended course ended. The case suggests that prolonged aldosterone synthase inhibition may produce durable biochemical and cardiovascular benefits in selected patients with primary aldosteronism. It could influence treatment sequencing and the decision to defer or avoid surgery, although a single case cannot establish efficacy generally. The reported benefits persisted for two years after completion of the extended inhibitor course, including reduced blood pressure and a lower aldosterone-to-renin ratio. Because this is a case report with limited available discussion, its broader generalizability remains uncertain.
+The STREAM Investigators reported in The New England Journal of Medicine that discontinuing statin therapy for primary prevention was generally safe in adults aged 70 and older without cardiovascular disease, although cardiovascular events increased slightly over time. The findings support shared decision-making rather than routine discontinuation. 老年人常同时服用多种药物，并面临多种竞争性死亡风险，因此需要辨明哪些预防治疗仍有实际获益、哪些可以安全停止。该试验可能影响多病共存老年患者的处方、减药实践以及心血管预防指南。 The reported population had at least two chronic conditions but no known cardiovascular disease, and the analysis focused on primary prevention and time to a first cardiovascular event. Although discontinuation was generally safe, the slight rise in cardiovascular events argues against assuming that stopping statins has no consequences.
 
-rss · NEJM · 最新文章 · Nov 7, 02:35
+rss · NEJM · 最新文章 · Nov 7, 09:15
 
-**Background**: Primary aldosteronism is a cause of hypertension in which excessive aldosterone promotes sodium retention and potassium loss, and it is often evaluated through the aldosterone-to-renin ratio. Aldosterone synthase inhibitors reduce aldosterone production and are emerging as a pharmacologic option, particularly for patients with resistant or uncontrolled hypertension; a phase 2a study of baxdrostat also reported reduced hypertension severity or resolution in a small group with primary aldosteronism.
+**Background**: Statins lower blood cholesterol and are widely used to prevent cardiovascular disease. In older adults without a prior cardiovascular event, however, the absolute benefit may be smaller because of other health risks, while adverse effects and medication burden become more relevant. The STREAM trial is designed to address the limited representation of multimorbid older adults in major randomized cardiovascular trials.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2611265">Hyperaldosteronism Remission after Extended Aldosterone ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13001030/">Emerging Medical Therapies for Primary Aldosteronism - PMC</a></li>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMc2508629">Phase 2a Study of Baxdrostat in Primary Aldosteronism</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12104904/">Rationale and design of ‘discontinuing statins in multimorbid older ...</a></li>
+<li><a href="https://newsroom.heart.org/news/discontinuing-statins-generally-safe-for-older-adults-without-heart-disease">Discontinuing Statins Generally Safe for Older Adults Without ...</a></li>
+<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2606634">Discontinuing Statins in Older Adults without Cardiovascular ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#hyperaldosteronism`, `#aldosterone synthase inhibition`, `#endocrinology`, `#hypertension`, `#case report`
+**Tags**: `#statins`, `#cardiovascular-prevention`, `#older-adults`, `#medication-safety`, `#clinical-research`
 
 ---
 
 <a id="item-15"></a>
-## [Cangrelor Outperforms Crushed Ticagrelor on Platelet Inhibition](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2900976-1/fulltext?rss=yes) ⭐️ 8.0/10
+## [OPTIMAL-STROKE Tests Intensive Blood-Pressure Control After Ischemic Stroke](https://www.nejm.org/doi/full/10.1056/NEJMoa2612924?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 8.0/10
 
-The DAPT-SHOCK-AMI randomised, double-blind trial found that intravenous cangrelor produced effective platelet inhibition more often than crushed oral ticagrelor at the end of primary PCI in patients with acute myocardial infarction complicated by cardiogenic shock. However, the trial did not establish non-inferiority for the primary clinical endpoint within 30 days. Cardiogenic shock can impair oral drug absorption and increase mortality and ischaemic risks, making rapid, reliable antiplatelet treatment particularly important during PCI. The pharmacodynamic advantage of cangrelor supports its use when oral P2Y12 inhibition may be delayed or unreliable, but improved platelet inhibition alone did not translate into demonstrated non-inferior clinical outcomes. Cangrelor is an intravenous, direct, reversible P2Y12 inhibitor with rapid onset, whereas ticagrelor is an oral P2Y12 inhibitor; crushing tablets was intended to accelerate ticagrelor absorption in critically ill patients. The finding is specific to platelet inhibition at the end of primary PCI and does not establish superiority or non-inferiority for the 30-day clinical endpoint.
+The OPTIMAL-STROKE randomized clinical trial compares intensive blood-pressure control with standard control in patients who have previously experienced an ischemic stroke. The supplied article excerpt does not report the trial’s results, so it is not yet possible to determine whether intensive treatment reduced recurrent stroke or other cardiovascular events. Blood-pressure management is a central component of secondary prevention after ischemic stroke, and the trial could clarify how aggressively clinicians should lower blood pressure without introducing unacceptable harms. Its findings may influence cardiovascular risk management for patients with prior ischemic stroke. This is a randomized clinical trial published ahead of print in the New England Journal of Medicine, with the DOI 10.1056/NEJMoa2612924. The available content identifies the intervention and comparison as intensive versus standard blood-pressure control, but provides no target blood-pressure values, enrollment figures, follow-up duration, effect estimates, adverse events, or numerical outcomes.
 
-rss · The Lancet · 最新文章 · Nov 7, 19:50
+rss · NEJM · 最新文章 · Nov 7, 08:15
 
-**Background**: Acute myocardial infarction with cardiogenic shock can compromise the absorption of oral medicines and is associated with substantial ischaemic and mortality risks. P2Y12 inhibitors suppress ADP-mediated platelet activation and are commonly paired with aspirin as dual antiplatelet therapy, especially after coronary stenting. Cangrelor acts directly and reversibly on the P2Y12 receptor, while ticagrelor is an oral drug whose absorption may be unreliable in critically ill patients.
+**Background**: An ischemic stroke occurs when blood flow to part of the brain is blocked, most commonly by a clot. After an ischemic stroke, controlling blood pressure helps reduce the risk of another stroke and other cardiovascular events, but the appropriate treatment intensity must balance cardiovascular benefit against safety. Randomized clinical trials are designed to compare such strategies under controlled conditions and are a standard basis for evidence-based treatment recommendations.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medlineplus.gov/ency/patientinstructions/000100.htm">Antiplatelet medicines - P 2 Y 12 inhibitors : MedlinePlus Medical...</a></li>
-<li><a href="https://www.drugs.com/pro/cangrelor.html">Cangrelor : Package Insert / Prescribing Information / MOA</a></li>
-<li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2900976-1/fulltext">Cangrelor versus crushed ticagrelor in acute myocardial ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#randomised-controlled-trial`, `#acute-myocardial-infarction`, `#cardiogenic-shock`, `#antiplatelet-therapy`, `#percutaneous-coronary-intervention`
+**Tags**: `#stroke prevention`, `#blood pressure`, `#randomized clinical trial`, `#cardiovascular medicine`, `#secondary prevention`
 
 ---
 
 <a id="item-16"></a>
-## [Semaglutide improves cardiac remodeling in obese HFpEF](https://www.nature.com/articles/s41591-026-04787-8) ⭐️ 8.0/10
+## [Prolonged Aldosterone Synthase Inhibition Achieves Hyperaldosteronism Remission](https://www.nejm.org/doi/full/10.1056/NEJMc2611265?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 8.0/10
 
-A prespecified cardiac magnetic resonance substudy of the CAMEO-SEMA trial found that semaglutide significantly improved cardiac structure and function in patients with obesity and heart failure with preserved ejection fraction. Improvements included left atrial reservoir strain and left ventricular filling dynamics. The findings provide new evidence that semaglutide may improve diastolic cardiac remodeling in a difficult-to-treat HFpEF population defined by obesity. This could expand the therapeutic rationale for metabolic therapies beyond weight reduction alone, although longer-term clinical-outcome data are needed. The substudy was prespecified, strengthening the interpretability of its findings within CAMEO-SEMA. Cardiac MRI measurements suggest benefits to left atrial reservoir strain and ventricular filling dynamics, but the reported content does not provide effect sizes, sample size, follow-up duration, adverse events, or evidence of reduced heart-failure hospitalization and mortality.
+A New England Journal of Medicine report describes remission of hyperaldosteronism after extended treatment with an aldosterone synthase inhibitor. The available bibliographic material does not identify the patient, drug, treatment duration, or outcome measures. Remission with prolonged aldosterone synthase inhibition could point to a disease-modifying approach for selected patients with hyperaldosteronism, particularly those with resistant hypertension. Because the report is a case report, it must not be interpreted as proof of population-wide efficacy without supporting clinical details. Aldosterone synthase inhibitors target CYP11B2, the enzyme responsible for aldosterone production in the adrenal zona glomerulosa. The report&\#x27;s key limitations are that the supplied content contains only citation information, preventing assessment of the diagnosis, inhibitor used, duration, biochemical remission criteria, adverse effects, and durability of benefit.
 
-rss · Nature Medicine · Nov 8, 00:00
+rss · NEJM · 最新文章 · Nov 7, 02:35
 
-**Background**: HFpEF means the heart pumps at a preserved ejection fraction but cannot relax and fill normally, often because the ventricles are stiff; obesity can worsen both HFpEF and filling pressures. Left atrial reservoir strain, measured by cardiac MRI, reflects the left atrium&\#x27;s ability to expand and collect blood during ventricular filling, while ventricular filling dynamics describe how blood enters the heart. Separate placebo-controlled CAMEO-SEMA results presented at the same meeting found that semaglutide improved pulmonary artery wedge pressure and other hemodynamic parameters during low-intensity exercise.
+**Background**: Hyperaldosteronism is excess aldosterone production, which can contribute to hypertension and low blood potassium and may increase cardiovascular risk. Aldosterone synthase is also known as CYP11B2 or steroid 18-hydroxylase and participates in aldosterone biosynthesis. Inhibiting this enzyme can lower aldosterone and blood pressure, but the report&\#x27;s clinical significance depends on details not included in the available material.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9213357/">The emerging role of atrial strain assessed by cardiac MRI in ...</a></li>
-<li><a href="https://www.frontiersin.org/journals/cardiovascular-medicine/articles/10.3389/fcvm.2021.704762/full">Frontiers | The Central Role of Left Atrium in Heart Failure</a></li>
-<li><a href="https://www.ahajournals.org/doi/full/10.1161/CIRCHEARTFAILURE.120.007555">Current Limitations of Invasive Exercise Hemodynamics for the ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Aldosterone_synthase">Aldosterone synthase - Wikipedia</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10016316/">Aldosterone Synthase Inhibitors and Dietary Interventions...</a></li>
+<li><a href="https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1664810/full">Frontiers | Efficacy and safety of aldosterone synthase inhibitors for...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semaglutide`, `#HFpEF`, `#obesity`, `#cardiac MRI`, `#diastolic dysfunction`
+**Tags**: `#hyperaldosteronism`, `#aldosterone synthase inhibition`, `#resistant hypertension`, `#endocrinology`, `#clinical case report`
 
 ---
 
 <a id="item-17"></a>
-## [Llama-modchip Runs a 284B DeepSeek Model on 64GB RAM](https://github.com/synchopate/llama-modchip) ⭐️ 7.0/10
+## [Dux Brings a Polished Wayland Shell to Niri](https://duxlabs.dev/) ⭐️ 7.0/10
 
-Llama-modchip proposes a GPU-less method for running the 284-billion-parameter DeepSeek-V4-Flash model on a system with 64GB RAM by combining CPU inference with aggressive quantization. The project reports memory use below 59GiB and prefill throughput of 44.36 tokens per second. The approach could make an extremely large model accessible to users who lack a GPU or dedicated AI workstation, pushing the boundaries of local CPU inference. It also highlights the growing importance of quantization and memory-efficient deployment as hardware costs remain high. Community testing suggests the implementation can be usable, with one Ryzen 7 5700U and 64GB DDR4 system sustaining 12–14 tokens per second at a reported 15W power draw. However, commenters question whether it materially outperforms ordinary llama.cpp, and aggressive quantization may trade substantial answer quality for lower memory use and faster execution.
+Dux is a free, open-source Wayland desktop shell with integrated file management, theming, and support for compositors such as Niri. The project was recently rebranded from Dank Material Shell, and version 2.0 added official support for atomic Linux distributions such as Bazzite. Dux gives Wayland users, especially Niri users, an integrated and visually polished shell rather than requiring them to assemble individual utilities themselves. Its broader distribution support may reduce adoption barriers for users of immutable or atomic Linux systems. Dux supports Niri and other Wayland compositors, with file management and theming integrated into the shell experience. Community reports describe near-year-long daily use and highlight the addition of official Bazzite support, while the project remains an incremental desktop-environment release rather than a fundamental Wayland innovation.
 
-hackernews · Hacker News \(热门\) · Nov 8, 10:22 · [Discussion](https://news.ycombinator.com/item?id=50411961)
+hackernews · Hacker News \(热门\) · Nov 8, 19:08 · [Discussion](https://news.ycombinator.com/item?id=50416053)
 
-**Background**: llama.cpp is a widely used framework for running large language models locally, including on CPUs and consumer hardware. GGUF stores model weights in quantized forms, reducing memory requirements; the usable RAM depends heavily on the number of parameters, quantization level, and whether only some parameters are active for each token. DeepSeek models use Mixture-of-Experts architectures in which a large total parameter count can coexist with a smaller activated subset per token, although storage and memory requirements still remain substantial.
+**Background**: Wayland is a display-server protocol in which a compositor handles window composition and input delivery to applications. A desktop shell adds familiar interface components—such as panels, launchers, file management, and theme controls—on top of a compositor such as Niri, which arranges windows on an infinite horizontal, scrollable desktop.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://daily.dev/posts/llama-modchip-284b-deepseek-on-64gb-ram-no-gpu-wd0eeu1zf">Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU - daily.dev</a></li>
-<li><a href="https://www.linkedin.com/pulse/understanding-llamacpp-gguf-local-cpu-inference-anurag-mohan-4hv1e">Understanding llama . cpp , GGUF , and Local CPU Inference</a></li>
-<li><a href="https://github.com/deepseek-ai/DeepSeek-V3">GitHub - deepseek -ai/ DeepSeek -V3 · GitHub</a></li>
+<li><a href="https://wayland.freedesktop.org/docs/book/Architecture.html">Wayland Architecture - Wayland</a></li>
+<li><a href="https://github.com/niri-wm/niri">GitHub - niri -wm/ niri : A scrollable-tiling Wayland compositor . · GitHub</a></li>
+<li><a href="https://wiki.archlinux.org/title/Niri">Niri - ArchWiki</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users reported concrete results, including 12–14 tokens per second on a Ryzen 7 5700U at 15W and roughly 300 tokens per second for prefill in one larger unified-memory setup, while another commenter observed performance close to plain llama.cpp except for faster prefill. Discussion centered on whether the added complexity is justified, how results compare with llama.cpp, and the quality and efficiency tradeoffs of quantization below common 4-bit and 8-bit levels.
+**Discussion**: Long-time users describe Dux as exceptionally polished and sufficiently mature to help Niri reach mainstream users, while noting that its expanding scope may become too all-encompassing for some. Others prefer more customizable or minimal Linux setups and question whether a unified, polished shell suits workflows focused on displaying only specific information; the rebrand from DMS to Dux briefly caused confusion.
 
-**Tags**: `#local-llm`, `#llama.cpp`, `#model-quantization`, `#cpu-inference`, `#DeepSeek`
+**Tags**: `#Wayland`, `#Linux desktop`, `#Niri`, `#open-source software`, `#file manager`
 
 ---
 
 <a id="item-18"></a>
-## [Writing as a Tool for Thinking](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) ⭐️ 7.0/10
+## [Outlook.com Reportedly Rejects Email Without DMARC Records](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) ⭐️ 7.0/10
 
-The essay presents writing not merely as a way to record finished ideas, but as an active method for discovering, organizing, and refining them. It connects this practice to research, design, and programming. Treating writing as part of the thinking process can improve clarity, expose unresolved assumptions, and help teams communicate before implementation begins. The idea also offers a useful counterpoint to workflows that treat writing only as final documentation. The central mechanism is an external representation of ideas that makes relationships, gaps, and uncertainties visible, allowing repeated revision to improve the thinking itself. The discussion extends the principle from academic papers to UX design, system diagrams, and manual programming.
+Outlook.com is reportedly permanently rejecting email from domains that do not publish a DMARC record. The change creates immediate delivery and implementation consequences for mail operators, although the report is based on a single vendor blog. DMARC is implemented through DNS and tells receiving servers how to handle messages that fail SPF or DKIM authentication checks. Domains can begin with a monitoring policy such as p=none, inspect aggregate reports, and then progress toward stronger enforcement; the reported Outlook.com cutoff applies to the absence of a DMARC record rather than merely a failed DMARC evaluation.
 
-hackernews · Hacker News \(热门\) · Nov 8, 10:41 · [Discussion](https://news.ycombinator.com/item?id=50412067)
+hackernews · Hacker News \(热门\) · Nov 8, 19:20 · [Discussion](https://news.ycombinator.com/item?id=50416158)
 
-**Background**: Research and software work often separate the exploratory phase from the final written artifact, such as a paper, specification, or source-code commit. Writing can instead serve throughout that process as a working interface for reasoning, drafting, and feedback, including informal diagrams and notes.
+**Background**: SPF authorizes designated servers to send mail for a domain, while DKIM cryptographically signs messages to establish integrity and origin. DMARC combines these mechanisms with domain alignment and publishes a policy for receivers to apply when authentication fails. Operators generally deploy SPF and DKIM first, publish a DMARC record initially set to p=none, review reporting data, and only then strengthen enforcement.
 
-**Discussion**: Commenters broadly agreed that writing, sketching, and coding each support thought rather than merely document its outcome. They described drafting academic papers, assembling UX designs, drawing system diagrams, and writing code as ways to clarify requirements and become ready to proceed.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.hostinger.com/tutorials/spf-dkim-dmarc-guide/">SPF, DKIM, and DMARC explained: How email authentication works</a></li>
 
-**Tags**: `#writing`, `#critical-thinking`, `#research-workflow`, `#design-thinking`, `#programming`
+</ul>
+</details>
+
+**Discussion**: Commenters generally welcomed rejection of domains without DMARC, noting that compliant senders should have configured it long ago, but criticized the silent rollout and Microsoft’s broader approach to email filtering. They also questioned whether abruptly rejecting mail is the best way to encourage better authentication practices.
+
+**Tags**: `#email`, `#DMARC`, `#email-deliverability`, `#Microsoft-Outlook`, `#email-security`
 
 ---
 
 <a id="item-19"></a>
-## [Outlook.com Reportedly Rejects Email Without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) ⭐️ 7.0/10
+## [Llama-modchip Claims 284B DeepSeek Inference in 64GB RAM](https://github.com/synchopate/llama-modchip) ⭐️ 7.0/10
 
-Outlook.com is reportedly rejecting email from domains that do not publish DMARC records. The change could sharply affect the deliverability of messages from domains that rely on SPF or DKIM without adopting a DMARC policy. DMARC is becoming an operational requirement rather than merely an optional anti-spoofing control, potentially forcing senders to publish and correctly enforce a domain-level policy. Organizations that send bulk or transactional email through Outlook.com should review their DNS configuration and authentication results. DMARC is published in DNS and tells receiving mail servers how to handle messages that fail authentication. It works alongside SPF and DKIM, and effective use generally requires SPF or DKIM to be aligned with the visible From domain; the available report does not specify Outlook.com&\#x27;s exact rejection criteria, rollout schedule, or treatment of quarantine and monitoring policies.
+The llama-modchip project presents a CPU-only method for running a heavily quantized 284-billion-parameter DeepSeek model within 64GB of RAM, without a discrete GPU. Its documentation discusses an implementation called modchip, but community testing reported that the default setup installed Nemotron rather than DeepSeek and that some documented DeepSeek runs failed. The approach relies on extreme quantization, trading weight precision for memory capacity; the available discussion notes that quality can fall nonlinearly below 4-bit and that quantization-aware training is outside the project&\#x27;s stated scope. Reported comparisons on a Ryzen 7945HX system found performance roughly similar to standard llama.cpp CPU execution, apart from apparently faster prefill, while a separate user reported roughly 300 tokens per second for prefill in a 128GB unified-memory setup.
 
-rss · Hacker News \(热门\) · Nov 8, 19:20
+hackernews · Hacker News \(热门\) · Nov 8, 10:22 · [Discussion](https://news.ycombinator.com/item?id=50411961)
 
-**Background**: DMARC stands for Domain-based Message Authentication, Reporting, and Conformance. A receiving server checks the sending domain&\#x27;s DMARC policy and evaluates whether the message passes aligned SPF or DKIM authentication, allowing the domain owner to monitor, quarantine, or reject failures. SPF authorizes sending servers by IP address, while DKIM cryptographically signs message content and headers.
+**Background**: Running a language model locally generally requires its weights to fit in accelerator memory, which is why GPU-free inference usually favors smaller, quantized models. DeepSeek&\#x27;s 284B family uses a mixture-of-experts design in which only a subset of parameters is activated per token, so its active computation is smaller than its total parameter count suggests. Llama-modchip appears to extend this memory-saving concept to CPU-only inference, although the search results do not establish a completed, reproducible 284B benchmark.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.valimail.com/dmarc/">What is DMARC email authentication ?</a></li>
-<li><a href="https://learn.microsoft.com/en-us/defender-office-365/email-authentication-dmarc-configure">Set up DMARC to validate email in Microsoft 365 - Microsoft ...</a></li>
-<li><a href="https://mailtester.com/blog/align-spf-dkim-dmarc-mobile-email-rendering-success/">Align SPF , DKIM , DMARC for Mobile Email Success | MailTester</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50411961">Llama-modchip: 284 B DeepSeek on 64 GB RAM , no GPU | Hacker News</a></li>
+<li><a href="https://daniliants.com/insights/how-deepseek-runs-a-284b-llm-on-a-laptop-run-ai-locally/">How DeepSeek Runs a 284 B LLM on a Laptop (Run AI Locally)</a></li>
+<li><a href="https://eastkode.in/articles/how-deepseek-runs-a-284b-llm-on-a-laptop-run-ai-locally-golshifteh-farahani-f77u/">How to Run a 284 B DeepSeek Model Locally: What... - EastKode</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#email-authentication`, `#DMARC`, `#Outlook`, `#email-deliverability`, `#spam-filtering`
+**Discussion**: Commenters were interested in the lower hardware barrier but questioned whether the repository&\#x27;s implementation is original, functional, or clearly documented, noting that its dense presentation obscures the importance of quantization. One tester found behavior similar to plain llama.cpp and could not find a DeepSeek-specific setup, while another highlighted promising prefill speed and argued that even sub-4-bit quantization can be useful on unified-memory systems. The discussion also warned that aggressive quantization can impose substantial quality losses and that the project does not address quantization-aware training.
+
+**Tags**: `#LLM inference`, `#quantization`, `#local AI`, `#CPU inference`, `#DeepSeek`
 
 ---
 
 <a id="item-20"></a>
-## [Accidental Ad-Hoc Logs Reveal Developer Mental Models](https://link.springer.com/article/10.1007/s10664-026-10988-z) ⭐️ 7.0/10
+## [Writing as a Tool for Thinking](http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html) ⭐️ 7.0/10
 
-The study examines how ad-hoc logs accidentally committed to source code can reveal developers’ understanding of software systems and code behavior. It treats these leftover debugging artifacts as empirical evidence of programmers’ mental models. Accidentally committed logs may offer a way to study code comprehension that does not depend on interviews, surveys, or controlled laboratory tasks. The findings could improve research into debugging, maintenance, onboarding, and identification of misunderstandings in software systems. The central artifact is the ad-hoc log left behind during informal debugging rather than a deliberately designed research instrument. Because the available article content is limited, the study’s sample size, methodology, analyzed projects, and specific technical findings cannot be verified from the supplied material.
+The essay argues that writing is not merely the final documentation of finished work, but an iterative cognitive tool for discovering, clarifying, and refining ideas. It applies this perspective across scientific research, UX design, and programming. Treating writing as part of the thinking process can improve how researchers, designers, and programmers turn vague requirements into coherent concepts and usable systems. It also connects knowledge work with a broader trend toward externalizing intermediate reasoning rather than treating artifacts only as end products. The central mechanism is iterative drafting: writing exposes unclear assumptions and allows ideas to be reorganized before implementation. In UX design, the discussion emphasizes the tight feedback loop between thought and creation, while in programming, manual code writing is presented as a way to examine requirements and system behavior.
 
-rss · Lobsters \(技术社区\) · Nov 8, 13:21
+hackernews · Hacker News \(热门\) · Nov 8, 10:41 · [Discussion](https://news.ycombinator.com/item?id=50412067)
 
-**Background**: Developer mental models are internal representations of how developers believe a system, language, framework, or process works. Such models shape code comprehension, debugging, modification, and collaboration, while research has explored them through controlled experiments and other structured methods. The article under discussion presents accidentally committed ad-hoc logs as another source of evidence for these models.
+**Background**: Writing is commonly understood as a way to record conclusions, but it can also function as an external representation of unfinished thought. Drafting, outlining, diagramming, and revising make implicit ideas visible, testable, and easier to refine. The essay extends this idea to scientific research, UX design, and programming, where writing and making often reinforce each other.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.emergentmind.com/topics/developer-mental-models">Developer Mental Models - emergentmind.com</a></li>
-<li><a href="https://arxiv.org/html/2212.07763v1">Synthesizing Research on Programmers’ Mental Models of ...</a></li>
-<li><a href="https://www.se.cs.uni-saarland.de/publications/docs/wyrich202340.pdf">40 Years of Designing Code Comprehension Experiments...</a></li>
+**Discussion**: Community participants largely agree that writing becomes most valuable before and during the creation process. A PhD researcher described drafting as central to scientific discovery, a designer tied the craft of assembling components to novel UX insights, and programmers noted that writing code clarifies real requirements. Several commenters also use paper notes and system diagrams to externalize early ideas before coding begins.
 
-</ul>
-</details>
-
-**Tags**: `#software-engineering`, `#code-comprehension`, `#logging`, `#developer-mental-models`, `#empirical-research`
+**Tags**: `#writing`, `#critical-thinking`, `#software-design`, `#research-workflow`, `#productivity`
 
 ---
 
 <a id="item-21"></a>
-## [Libghostty 1.0 Stabilizes Its Terminal Emulation C API](https://mitchellh.com/writing/libghostty-1-0) ⭐️ 7.0/10
+## [The Peter Principle and the Cost of Mismanaged Promotions](https://aworkinglibrary.com/writing/petered) ⭐️ 7.0/10
 
-Libghostty-vt 1.0 is now available, establishing the first stable release of the library and its C application binary interface. The library was extracted directly from the core of the Ghostty terminal emulator. A stable C ABI and semantic versioning make libghostty-vt more practical for applications that need to embed high-performance terminal emulation. It can already power terminal integrations such as those in JetBrains products, while broader bindings expand its accessibility across languages. Libghostty-vt is a portable, high-performance C library designed for terminal emulation and uses semantic versioning under its 1.x release line. Programs built against the stable interface should retain compatibility with later 1.x releases.
-
-rss · Lobsters \(技术社区\) · Nov 6, 23:48
-
-**Background**: Ghostty separates terminal emulation from its graphical interface so that it can remain native and focus on speed and functionality. Libghostty packages the terminal-emulation portion as a reusable C library, allowing other applications to embed Ghostty&\#x27;s engine without adopting its entire GUI.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://mitchellh.com/writing/libghostty-1-0">Libghostty 1.0 – Mitchell Hashimoto</a></li>
-<li><a href="https://ghostty.org/docs/about">About Ghostty</a></li>
-<li><a href="https://codingislove.com/libghostty-1-0/">Libghostty 1.0 released with a stable C ABI for terminal ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Ghostty`, `#terminal emulator`, `#library release`, `#open source`
-
----
-
-<a id="item-22"></a>
-## [Megaspeed Executive Allegedly Recruited to Spy on Nvidia CEO](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) ⭐️ 7.0/10
-
-A U.S. intelligence memo reportedly alleged that China’s Ministry of State Security recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang. The memo was reportedly circulated among senior policymakers earlier this year. The allegation points to a potential expansion of state-sponsored espionage from cyber and academic operations into the recruitment of corporate executives. If substantiated, it could heighten scrutiny of China-linked business ties and increase geopolitical risk for Nvidia and the semiconductor industry. The reported target is Megaspeed executive Alice Huang, while the alleged handler was China’s Ministry of State Security. The available reports cite a circulated intelligence memo and do not provide the memo itself, detailed evidence of Huang’s activities, or a response from Chinese authorities; Nvidia reportedly denied wrongdoing.
-
-rss · TechCrunch AI · Nov 7, 21:17
-
-**Background**: China’s Ministry of State Security is responsible for foreign intelligence and counterintelligence activities, including work conducted overseas. The broader espionage landscape includes cyber operations, recruitment of technical specialists, academic and business intelligence, and other methods of gaining information through access to strategically important industries. Nvidia is a major semiconductor and artificial-intelligence computing company, making its chief executive a potentially valuable intelligence target.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy">China reportedly recruited AI exec to spy on Jensen Huang | The Verge</a></li>
-<li><a href="https://startupfortune.com/us-intelligence-memo-says-china-recruited-a-megaspeed-executive-to-spy-on-nvidias-jensen-huang/">US intelligence memo says China recruited a Megaspeed ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chinese_intelligence_activity_abroad">Chinese intelligence activity abroad - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#China`, `#intelligence`, `#corporate espionage`, `#geopolitics`
-
----
-
-<a id="item-23"></a>
-## [Google Acquires Crusoe’s Troubled Wyoming Data Center Project](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) ⭐️ 7.0/10
-
-Google acquired Crusoe’s unfinished 1.8-gigawatt AI data-center campus in southeastern Wyoming, the companies confirmed on Friday. The sale follows the project’s announcement by Crusoe and Tallgrass in July 2025 and highlights the difficulty of delivering hyperscale AI infrastructure. The transaction shows that even well-funded AI infrastructure developers may need to transfer projects when power, financing, or construction challenges become too severe. Google’s acquisition could give the project a path to completion while raising questions about the economics and execution risks of gigawatt-scale data centers. Crusoe and Tallgrass announced the Wyoming campus in July 2025 as a 1.8-gigawatt project located southeast of Cheyenne, near the Colorado border; some descriptions envisioned expansion as large as 10 gigawatts. It remained unfinished when Google acquired it, so the reported material did not disclose the purchase price, completion schedule, or cause of the project’s troubles.
-
-rss · TechCrunch AI · Nov 7, 01:40
-
-**Background**: AI data centers require large amounts of electricity, specialized computing equipment, cooling systems, and long-term infrastructure financing. The Wyoming campus was initially developed through a partnership between Crusoe and Tallgrass, with Crusoe describing itself as an energy-first, vertically integrated AI infrastructure provider.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.crusoe.ai/resources/newsroom/crusoe-and-tallgrass-announce-ai-data-center-in-wyoming">Crusoe and Tallgrass announce AI data center in Wyoming</a></li>
-<li><a href="https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/">Crusoe sells troubled Wyoming data center project to... | TechCrunch</a></li>
-<li><a href="https://baxtel.com/data-center/crusoe-wyoming-campus">Crusoe : Wyoming Campus Data Center</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#data centers`, `#Google`, `#Crusoe`, `#Wyoming`
-
----
-
-<a id="item-24"></a>
-## [OpenAI Reportedly Adds $11 Billion at $1.25 Trillion Valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) ⭐️ 7.0/10
-
-OpenAI reportedly raised an additional $11 billion in a funding round expected to close in the coming weeks. The financing values the company at $1.25 trillion. The reported round would be a major financing event for OpenAI and underscore the scale of capital flowing into the generative AI industry. The valuation could also strengthen OpenAI&\#x27;s ability to attract investors, recruit talent, and fund large-scale computing and product development. The round has not yet closed and is expected to close soon, so the amount and valuation remain subject to final completion. The brief report does not identify investors, provide sourcing, or disclose the terms of the financing.
-
-rss · TechCrunch AI · Nov 6, 22:53
-
-**Background**: Funding rounds provide companies with capital for operations, research, computing infrastructure, and product development, while establishing an implied value for the business. For AI companies, valuations often reflect expectations about future revenue growth, model capabilities, and the substantial computing resources required to develop and operate their systems.
-
-**Tags**: `#OpenAI`, `#AI Funding`, `#Venture Capital`, `#Generative AI`, `#Industry News`
-
----
-
-<a id="item-25"></a>
-## [Electrical Noise Reveals Electron Pairing in Superconductors](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/) ⭐️ 7.0/10
-
-Physicists used measurements of electronic noise to determine whether electrons form pairs inside superconductors. The reported results suggest that distinctive noise characteristics can serve as a direct indicator of the material&\#x27;s quantum state. Electron pairing is a defining feature of conventional superconductivity, so a reliable noise-based diagnostic could simplify the study of superconducting materials. It may also help researchers investigate unconventional superconductors, where the pairing mechanism remains uncertain. The approach analyzes electronic noise rather than relying only on bulk measurements of electrical conduction. The supplied material identifies shot-noise and charge-correlation measurements as related experimental techniques, but it does not specify the sample material, frequency range, analysis method, or quantitative uncertainty.
-
-rss · Ars Technica · Nov 8, 12:15
-
-**Background**: In a superconductor, electrons can enter a coherent quantum state in which they pair and move without electrical resistance. Measuring this state is important for understanding how superconductivity arises, especially in materials that do not behave like conventional superconductors. Shot-noise measurements study fluctuations in electric current and can provide information about how charge is transferred through a device.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/">Physicists listened to electrical noise to crack a ...</a></li>
-<li><a href="https://nanoelectronics.unibas.ch/research/noise/">Charge Correlations by Shot Noise Measurements – Quantum- and...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#superconductivity`, `#condensed-matter physics`, `#electron pairing`, `#electrical noise`, `#quantum materials`
-
----
-
-<a id="item-26"></a>
-## [Ships Loiter Near Cables as Iran Warns Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) ⭐️ 7.0/10
-
-Iran threatened to attack subsea communications cables if the United States escalates military strikes again. The report also noted unusual ship activity near underwater cables, but it provided little evidence about the vessels&\#x27; identities, intentions, or proximity to specific cable routes. Subsea cables carry nearly all global internet traffic, so threats against them could disrupt international communications, data services, and critical digital infrastructure. The warning also raises the risk of escalation between military conflict and civilian technology infrastructure, potentially affecting operators, governments, businesses, and users worldwide. Subsea cables are fiber-optic or electrical systems laid on the seabed to transmit data and sometimes power. Although ships near cables may create a physical security concern, the brief report did not establish that any vessel was preparing to cut a cable or that a cable had been damaged.
-
-rss · Ars Technica · Nov 6, 22:41
-
-**Background**: Subsea telecommunications cables form the backbone of global data and communications networks. According to search results citing the International Telecommunication Union, such cables carry around 99% of the world&\#x27;s internet traffic when intercontinental traffic is considered. Their concentration on a limited number of routes makes them strategically important and physically vulnerable to disruption.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://unidir.org/publication/achieving-depth-subsea-telecommunications-cables-as-critical-infrastructure/">Achieving Depth: Subsea Telecommunications Cables as Critical ...</a></li>
-<li><a href="https://www.usnews.com/news/world/articles/2026-04-28/explainer-the-hormuz-digital-chokepoint-how-does-the-iran-war-threaten-subsea-cables">Explainer-The Hormuz Digital Chokepoint: How Does the Iran War...</a></li>
-<li><a href="https://features.csis.org/safeguarding-subsea-cables/">Safeguarding Subsea Cables for a Secure Global Network</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#subsea cables`, `#geopolitics`, `#infrastructure security`, `#Iran`, `#United States`
-
----
-
-<a id="item-27"></a>
-## [Apple Pushes Siri Toward an Agentic Future](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) ⭐️ 7.0/10
-
-Apple CEO John Ternus is pressuring AI chief Craig Federighi to accelerate the Siri roadmap and develop a more capable agent that can compete with OpenAI&\#x27;s Dots and Meta&\#x27;s Muse. The company is reportedly exploring a background-agent model for Siri AI as part of a broader iOS 28 shake-up. The effort would mark a strategic shift for Apple from a request-and-response assistant toward an agent that can act across connected apps and continue working in the background. It also intensifies competition with OpenAI and Meta in a market where persistent context, app integration, and background execution are becoming central capabilities. The report says a functional version of Siri AI has already been produced on an unusually short development timeline, but the available information gives few technical specifics and does not explain how it would handle approvals, privacy, or app actions. Some secondary reporting also claims that the iOS 28 initiative allocates 50% more coding time, though that figure is not detailed in the cited headline report.
-
-rss · The Verge · Nov 8, 19:18
-
-**Background**: An agentic AI assistant differs from a conventional chatbot by planning, using connected tools, and completing multi-step tasks, potentially while running in the background. OpenAI&\#x27;s Dots and Meta&\#x27;s Muse are described in search results as persistent agents featuring connected apps, ongoing context, background work, and approval controls. Apple says its next-generation Siri AI already provides more conversational behavior, personal context understanding, broad world knowledge, and onscreen awareness.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">Apple Explores Turning Siri AI Into ChatGPT Dots-Like Agent ...</a></li>
-<li><a href="https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/">Siri AI, a profoundly more capable and personal ... - Apple</a></li>
-<li><a href="https://promptessor.com/blog/openai-dots-vs-meta-muse">OpenAI Dots vs Meta Muse : Features, Pricing &amp; Use Cases</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The supplied material links to a Hacker News discussion with 52 comments and 31 points, but it does not include the comments themselves, so no community sentiment can be reliably summarized.
-
-**Tags**: `#Apple`, `#Siri`, `#AI Agents`, `#Artificial Intelligence`, `#Product Strategy`
-
----
-
-<a id="item-28"></a>
-## [Elvis and Eminem Rights Holders Sue Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) ⭐️ 7.0/10
-
-Elvis Presley music-rights holders and the publisher of several major Eminem recordings sued generative AI music company Suno. The plaintiffs allege that Suno unlawfully generates music and lyrics that imitate the two artists. The lawsuits mark another escalation in copyright and likeness disputes over AI-generated music that reproduces artists&\#x27; styles or identities. Their outcome could affect how music generators are trained, how they respond to artist-based prompts, and who bears liability for infringing output. The Presley plaintiffs invoke Tennessee law, while the Eminem case concerns a publisher with rights in some of the rapper&\#x27;s best-known recordings. Available legal analysis also distinguishes direct lyric copying, which can implicate musical-composition copyright, from voice imitation alone, which may instead fall outside federal protection for sound recordings and raise state publicity-right concerns.
-
-rss · The Verge · Nov 8, 17:23
-
-**Background**: Suno is a generative AI platform that creates complete songs with vocals and instrumentation. In music-rights disputes, plaintiffs may allege both unauthorized copying of protected lyrics or recordings and unauthorized imitation of an artist&\#x27;s voice, persona, or distinctive style. Tennessee&\#x27;s right-of-publicity framework is particularly relevant to claims concerning AI-generated voice and likeness.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Suno_%28platform%29">Suno (platform) - Wikipedia</a></li>
-<li><a href="https://entertainmentlawreview.lls.edu/aiin-music/">AI in Music: Legal Implications, Copyright Law &amp; Safeguards</a></li>
-<li><a href="https://www.clarkhill.com/news-events/news/rop-on-the-rise-right-of-publicity-claims-will-rise-as-states-address-ai-generated-deepfakes-and-voice-cloning/">ROP on the Rise: Right of Publicity Claims Will Rise... | Clark Hill PLC</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#generative AI`, `#copyright law`, `#AI music`, `#Suno`, `#legal disputes`
-
----
-
-<a id="item-29"></a>
-## [Nvidia H200 Approval Raises China Export-Control Concerns](https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government) ⭐️ 7.0/10
-
-The New York Times reported that New Matrix, a Chinese company listed as approved to receive or handle Nvidia H200 AI chips, has an empty office at its listed Beijing address. The findings raise concerns that the U.S. Commerce Department and Nvidia may not have adequately verified whether approved Chinese firms actually exist or are eligible recipients. Advanced AI-chip exports to China can affect U.S. national security, semiconductor policy, and the global AI race. If end users are approved without effective verification, export licenses may fail to prevent chips from reaching prohibited or otherwise ineligible recipients. H200 chips require export controls when shipped to China, and U.S. rules rely on end-use and end-user verification. Reports also cited empty offices at two licensed firms and links involving blacklisted Chinese companies and suppliers to the Chinese military, although the provided excerpt focuses primarily on New Matrix.
-
-rss · The Verge · Nov 7, 15:43
-
-**Background**: Export controls for advanced semiconductors are designed to limit access to sensitive technologies by tying licenses to the intended end use and eligible end user. Before controlled items can be exported, exporters must conduct due diligence and obtain any required licenses, making verification of the recipient a central part of enforcement.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cfr.org/articles/consequences-exporting-nvidias-h200-chips-china">The Consequences of Exporting Nvidia’s H200 Chips to China</a></li>
-<li><a href="https://www.csis.org/analysis/managing-semiconductor-exports-china">Managing Semiconductor Exports to China</a></li>
-<li><a href="https://cset.georgetown.edu/wp-content/uploads/U.S.-Semiconductor-Exports-to-China-Current-Policies-and-Trends.pdf">10_20_U.S. Semiconductor Exports to China Final Version</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#AI chips`, `#export controls`, `#China`, `#semiconductor policy`
-
----
-
-<a id="item-30"></a>
-## [Young Mathematicians Solve a 55-Year-Old Conjecture](https://www.wired.com/story/a-55-year-old-math-problem-was-solved-this-time-by-humans/) ⭐️ 7.0/10
-
-A group of young mathematicians resolved a conjecture proposed by Ronald Graham in 1971 about rearranging integers in modular arithmetic so that all partial sums are distinct. Their proof spans four papers, culminating in a final paper published in February 2026. The result settles a major combinatorial question that remained open for 55 years and demonstrates the potential of probabilistic methods in pure mathematics. It also highlights how informal ideas, experimentation, and collaboration can contribute to research breakthroughs. The work relies on randomness, probabilistic reasoning, and anti-concentration techniques, with juggling patterns providing an initial inspiration. Because the achievement was communicated through four papers rather than one consolidated proof, the available summary does not describe the full argument or its technical limitations.
-
-rss · Wired · Nov 8, 10:30
-
-**Background**: Graham&\#x27;s conjecture concerns sequences formed by arranging integers in modular arithmetic so that every partial sum is distinct, a condition related to combinatorial discrepancy and rearrangements. Juggling also has a rigorous mathematical structure: state graphs can encode juggling patterns using the future landing times of the balls, which may explain the problem&\#x27;s apparent connection to juggling.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://thegoodnewsbrief.com/stories/mathematicians-prove-55-year-old-graham-conjecture-using-randomness-and--1ergi94">Mathematicians Prove 55-Year-Old Graham Conjecture Using ...</a></li>
-<li><a href="https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928/">Mathematicians Harness Randomness To Crack a 55-Year-Old ...</a></li>
-<li><a href="https://arxiv.org/pdf/2603.17284v1">Enumerating Prime Patterns in Juggling Variations - arXiv.org</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#mathematics`, `#research-breakthrough`, `#problem-solving`, `#collaboration`, `#conjecture`
-
----
-
-<a id="item-31"></a>
-## [Refrigerator Hacks Expose IoT Security Failures](https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/) ⭐️ 7.0/10
-
-Recent cyberattacks on internet-connected refrigeration systems affecting blood laboratories and grocery stores demonstrate how ordinary security failures can disrupt physical and operational services. The incidents show that attackers can exploit weaknesses in connected operational technology rather than requiring sophisticated attacks against core information systems. Connected refrigeration and monitoring devices increasingly support laboratories, food supply chains, retail operations, and cold-chain infrastructure. Weak defaults, neglected updates, poor network segmentation, and inadequate monitoring can therefore create cyber-physical risks extending far beyond the individual device. The reported incidents illustrate the convergence of operational technology and critical infrastructure: compromising a refrigeration controller or its surrounding network may affect monitoring, temperature regulation, stock, or laboratory workflows. Penetration testing can assess remote compromise, lateral movement, local configuration storage, and the security of surrounding infrastructure, while network-level controls and continuous monitoring remain necessary for legacy systems.
-
-rss · Wired · Nov 7, 13:00
-
-**Background**: Operational technology consists of embedded devices and systems that monitor or control physical processes, including refrigeration and cold-chain equipment. Because many such devices have long service lives, limited processing capacity, legacy software, and remote connectivity, weaknesses that appear minor at the device level can become serious when the device is linked to business or infrastructure networks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.hstoday.us/subject-matter-areas/cybersecurity/federal-agencies-warn-of-cyberattacks-targeting-refrigeration-and-cold-chain-systems-across-critical-infrastructure/">Federal Agencies Warn of Cyberattacks Targeting Refrigeration ...</a></li>
-<li><a href="https://iotbusinessnews.com/2026/11/03/european-supermarket-cyberattacks-expose-security-risks-in-connected-refrigeration-systems/">European Supermarket Cyberattacks Expose Security Risks in ...</a></li>
-<li><a href="https://www.blazeinfosec.com/post/iot-penetration-testing-guide">IoT Penetration Testing Guide - blazeinfosec.com</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Internet of Things`, `#IoT Security`, `#Critical Infrastructure`, `#Device Hacking`, `#Embedded Systems`
-
----
-
-<a id="item-32"></a>
-## [Payment Timeouts Require Idempotent Retries](https://dev.to/waire/a-timeout-is-not-a-failed-payment-3le) ⭐️ 7.0/10
-
-The article explains that a wallet-transfer timeout leaves the payment outcome unknown rather than proving that the debit failed. It recommends assigning one stable transaction ID to each logical transfer, reusing it across retries, and having the account service deduplicate repeated requests and return the original result. Treating every timeout as either failure or success can cause duplicate debits or falsely tell customers that money moved. Idempotent retries help payment systems tolerate network uncertainty while preserving accurate transaction status and preventing financial harm. A transaction ID alone is insufficient: the service performing the debit must record processed IDs and return or expose the existing result when it sees a duplicate. The duplicate check, debit, and transaction record must also be coordinated within the same transaction so a failure between them cannot allow another debit.
-
-rss · Dev.to · Nov 8, 19:54
-
-**Background**: In a distributed payment system, a timeout only says that the caller stopped waiting; the server may never have received the request, may still be processing it, or may have completed it while the response was lost. Idempotency provides a way to retry delivery without repeating the financial effect by identifying each logical operation with a stable key. The protection must be enforced where the debit is recorded, rather than only at an API gateway or in the request payload.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://tradeofflore.com/blog/idempotency-keys-payments/">Idempotency Keys in Payments: Safe Retries - tradeofflore.com</a></li>
-<li><a href="https://www.swarchitect.net/en/courses/distributed/01-timeout-ambiguity/">01. Does a timeout prove rejection? · SW Architect</a></li>
-<li><a href="https://seniorloop.dev/study/idempotency-exactly-once">Idempotency &amp; Exactly-Once Effects in Payments · Senior Loop</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#distributed-systems`, `#payment-reliability`, `#idempotency`, `#error-handling`, `#backend`
-
----
-
-<a id="item-33"></a>
-## [Ripple 65B, Inkling 2 Small, and File-Based Agent Memory](https://dev.to/githubopensource/dense-models-mixture-of-experts-and-agent-memory-architectures-353a) ⭐️ 7.0/10
-
-Ricursive released the dense Ripple 65B Preview, trained from scratch on 12 trillion tokens with a native 1M-token context window, while Thinking Machines launched Inkling 2 Small, a 594B-parameter MoE model with 17B active parameters. Anthropic also presented file-based agent memory with explicit consolidation phases, reporting a rise in task-criteria success from 13% to 48% over 128 sessions. These releases reflect two parallel efforts to improve AI systems: increasing the usable capacity of dense models while reducing MoE inference costs through sparse activation, and giving agents persistent state that survives across long-running tasks. Together, they could affect local-model deployment, production serving economics, and the reliability of autonomous workflows. Ripple 65B Preview scored 80.52 on TerminalBench 2.1, but the practical mechanics of its million-token context handling and local-inference performance remain unclear. Inkling 2 Small scored 72.1% on DeepSWE v1.1 and offers adjustable effort settings; Anthropic&\#x27;s memory design is transparent and version-controllable, but the reported results came from internal Stainless documents rather than an independently described public benchmark.
-
-rss · Dev.to · Nov 8, 19:53
-
-**Background**: A dense model activates all of its parameters for each token, whereas a Mixture-of-Experts model uses a router to activate only selected experts. Sparse activation can give an MoE model a very large total parameter count without requiring all parameters to run for every token, although throughput still depends on routing, memory bandwidth, and serving implementation. Long context windows expand how much information a model can process in one request, but they can increase latency and KV-cache demands substantially. File-based agent memory stores persistent notes and state in readable files that can be summarized or consolidated over time, offering an inspectable alternative to opaque vector retrieval.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://deepwiki.com/InterviewReady/ai-engineering-resources/4.1-mixture-of-experts-%28moe%29">Mixture of Experts (MoE) | DeepWiki</a></li>
-<li><a href="https://www.micron.com/about/blog/company/insights/1-million-token-context-the-good-the-bad-and-the-ugly">1 million token context: The good, the bad and the ugly</a></li>
-<li><a href="https://www.zenml.io/llmops-database/autonomous-multi-phase-software-architecture-execution-with-llm-agents">Cara: Autonomous Multi-Phase Software Architecture Execution with...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Large Language Models`, `#Mixture-of-Experts`, `#Agent Memory`, `#Long Context`, `#Inference Optimization`
-
----
-
-<a id="item-34"></a>
-## [AI Mass Surveillance Emerges as a Health Determinant](https://www.nejm.org/doi/full/10.1056/NEJMp2611224?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 7.0/10
-
-A New England Journal of Medicine perspective examines whether artificial intelligence–driven mass surveillance is becoming a significant determinant of population health. The article focuses on how surveillance technologies may influence health outcomes through behavioral, social, and institutional effects. If surveillance shapes where people move, how they are treated, and which risks are detected, it may affect health beyond its role in epidemic monitoring. Its implications include privacy, algorithmic bias, health inequities, and the balance between public protection and individual autonomy. The available article text contains only publication metadata, so the specific argument, methods, and recommendations cannot be assessed from the supplied excerpt. Relevant research highlights challenges including limited training data, difficulty establishing baselines, data sparsity, privacy-preserving analysis, and possible disparities in AI-based public health systems.
-
-rss · NEJM · 最新文章 · Nov 7, 12:30
-
-**Background**: Public health surveillance is the collection, analysis, and use of data to target disease prevention and other public-health action. AI can support this process through outbreak detection, trend prediction, response modeling, digital signals, facial recognition, and contact-tracing tools. As these systems expand beyond infectious-disease monitoring, they may become social determinants of health by influencing behavior, access to services, policing, and exposure to surveillance.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://publichealthaihandbook.com/applications/surveillance.html">AI in Disease Surveillance and Outbreak Detection</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0160791X22002780">AI-powered public surveillance systems: why we (might) need ...</a></li>
-<li><a href="https://www.cdc.gov/ophdst/data-research/index.html">Surveillance Resource Center | OPHDST | CDC</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#Public Health`, `#Mass Surveillance`, `#Population Health`, `#Ethics`
-
----
-
-<a id="item-35"></a>
-## [Planning Ahead When Dialysis May Never Begin](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902004-0/fulltext?rss=yes) ⭐️ 7.0/10
-
-A Lancet commentary recommends that frail older adults with kidney failure discuss dialysis preparation and conservative kidney management early. The pathway should reflect prognosis, personal preferences, and quality-of-life goals rather than presume dialysis will eventually be required. Dialysis preparation can impose burdens through repeated appointments, investigations, and sometimes vascular-access surgery before treatment becomes necessary. Early shared decision-making may prevent unwanted treatment and align kidney care with what matters most to very frail patients. The commentary focuses particularly on people aged 80 years or older who have frailty or multimorbidity. Dialysis preparation includes education, appointments, investigations, and possible access surgery, whereas conservative kidney management actively treats symptoms, slows progression where possible, and prioritizes comfort and quality of life without dialysis planning.
-
-rss · The Lancet · 最新文章 · Nov 6, 23:30
-
-**Background**: Kidney failure can require renal replacement therapy, but dialysis is not the only possible care pathway. Conservative kidney management is an active form of care designed to manage symptoms, slow disease progression, and preserve quality of life without dialysis. Shared decision-making is a collaborative process in which patients, families, and clinicians weigh treatment options using evidence, prognosis, and the patient&\#x27;s goals.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.kidneyfund.org/treatments/kidney-failure-care-options-conservative-kidney-management">Kidney failure care options: Conservative kidney management</a></li>
-<li><a href="https://kidney.ca/kidney-health/treatment-options/conservative-kidney-management">Conservative Kidney Management</a></li>
-<li><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2840562">Supporting Shared Decision-Making in Life-Altering Kidney ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#kidney-failure`, `#dialysis`, `#conservative-kidney-management`, `#shared-decision-making`, `#geriatric-care`
-
----
-
-<a id="item-36"></a>
-## [AI Agent Memory Needs an Interoperability Standard](https://www.lorekit.io/blog/open-agent-memory-format) ⭐️ 6.0/10
-
-The article proposes an OpenTelemetry-inspired, interoperable and observable format for AI-agent memory. It frames memory as an emerging infrastructure layer that needs common conventions, while acknowledging that this remains a conceptual proposal rather than a demonstrated standard. A shared memory representation could make information easier to inspect, transfer, and reuse across agent frameworks and vendors. However, premature standardization could lock the industry into the wrong abstraction while storage, retrieval, privacy, and context-management practices are still changing rapidly. OpenTelemetry’s GenAI work focuses on semantic conventions for agent observability, but the search results indicate that these conventions are still under development rather than stable. Agent-memory interoperability also requires decisions about schemas, provenance, consistency, permissions, retention, and whether memories should remain isolated to a user or repository.
-
-hackernews · Hacker News \(热门\) · Nov 8, 08:40 · [Discussion](https://news.ycombinator.com/item?id=50411467)
-
-**Background**: AI-agent memory stores information across interactions so an agent can retain context, learned preferences, task state, or reusable knowledge. OpenTelemetry is an existing framework for instrumenting software with standardized traces, metrics, and logs, making it a plausible model for making agent-memory behavior observable. Memory systems remain fragmented across projects with different storage models, while the technical foundation for context and memory design is still evolving.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://opentelemetry.io/blog/2025/ai-agent-observability/">AI Agent Observability - Evolving Standards and... | OpenTelemetry</a></li>
-<li><a href="https://mnemoverse.com/docs/library/agent-memory-interop-gap">The Missing Layer: No Protocol Says What Agents Know</a></li>
-<li><a href="https://www.w3.org/community/ai-agent-memory-interop/2026/07/16/version-1-0-charter-adopted-ai-agent-memory-interoperability-community-group/">Version 1.0 Charter Adopted: AI Agent Memory Interoperability ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters supported the general need for better agent interoperability but questioned whether the field is ready for a formal standard. They highlighted trade-offs among speed, accuracy, and cost, argued that natural-language or repository-specific structures may be sufficient, and warned that a premature abstraction could become another obsolete standard like SOAP or SGML; privacy and user isolation were additional concerns.
-
-**Tags**: `#AI agent memory`, `#OpenTelemetry`, `#LLM context management`, `#interoperability`, `#observability`
-
----
-
-<a id="item-37"></a>
-## [When Competent Employees Become Ineffective Managers](https://aworkinglibrary.com/writing/petered) ⭐️ 6.0/10
-
-The essay revisits the Peter Principle, arguing that capable employees can become ineffective after being promoted because managerial success does not necessarily follow from performance in an earlier role. It frames the resulting failures as a problem involving hierarchy, role transitions, and organizational dysfunction rather than individual incompetence alone. The discussion highlights a widespread problem in promotions: organizations may reward past performance without testing whether a person can perform a fundamentally different job. Employees affected by poorly designed hierarchies can face unclear accountability, careerist promotion, and workplaces where relationships matter more than merit. A central distinction is that engineering and management are different jobs, so a strong engineer is not automatically a strong manager, and the reverse need not be true either. The commentary also suggests that senior leaders may see the promoter as competent even when subordinates directly observe that manager&\#x27;s incompetence.
+An essay and reader discussion revisit Laurence J. Peter’s Peter Principle: employees may be promoted for prior success until they reach a role in which they are incompetent. The discussion argues that such promotions can produce managerial dysfunction, damaged workplace culture, and distorted hiring based on relationships rather than merit. The topic matters because promotions are often treated as evidence that an employee will excel in a more senior and substantially different role. The discussion highlights how organizational hierarchies can conceal weak management, reward loyalty, and create poor experiences for employees below ineffective leaders. The principle does not claim that every promoted employee becomes incompetent, nor does it deny that people can improve; commenters emphasize both the hierarchy’s role and the possibility of learning after promotion. A recurring observation is that subordinates can directly observe an incompetent manager, while higher-level leaders may see only that manager’s prior performance, allowing dysfunction to persist.
 
 hackernews · Hacker News \(热门\) · Nov 8, 10:56 · [Discussion](https://news.ycombinator.com/item?id=50412152)
 
-**Background**: The Peter Principle was developed by management theorist Laurence J. Peter and states that members of a hierarchy tend to rise to a position in which they are incompetent. It draws attention to the mismatch between skills demonstrated in one role and the demands of the next, especially when promotions are based on prior success rather than role-specific ability.
+**Background**: The Peter Principle was developed by Canadian educator and management theorist Laurence J. Peter and is associated with his book The Peter Principle: Why Things Always Go Wrong. It describes a tendency for people in hierarchies to rise to a level of respective incompetence because success in one position does not necessarily transfer to another. The concept is commonly used to critique promotion systems and management hierarchies, although it is an analytical heuristic rather than an established technical breakthrough.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Peter_principle">Peter principle - Wikipedia</a></li>
-<li><a href="https://www.investopedia.com/terms/p/peter-principle.asp">Understanding the Peter Principle in Workplace Promotions</a></li>
 <li><a href="https://www.educba.com/peter-principle/">Peter Principle | Meaning, Examples, Criticism &amp; Strategies</a></li>
+<li><a href="https://www.wallstreetprep.com/knowledge/peter-principle/">Peter Principle | Definition + Examples - Wall Street Prep</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly accepted the Peter Principle&\#x27;s warning while challenging its focus on individual promotion, arguing that hierarchy itself and the separation between engineering and management are more important causes. They described promotions driven by loyalty, relationships, and political advantage, and several shared personal examples of capable or respected employees becoming hated or ineffective managers.
+**Discussion**: Commenters largely accept the principle’s practical warning but argue that it overlooks the hierarchy itself, since management and engineering require different skills and ranking one above the other can create avoidable dysfunction. Some also challenge its assumption that people cannot improve, while others stress that internal promotions often mix merit with favoritism and career-building relationships; one commenter described avoiding management because working conditions seemed insufficiently stable.
 
-**Tags**: `#management`, `#organizational-behavior`, `#career-development`, `#leadership`, `#Peter-Principle`
+**Tags**: `#management`, `#organizational-behavior`, `#career-development`, `#hiring`, `#leadership`
+
+---
+
+<a id="item-22"></a>
+## [Proving Equations with E-Graphs](https://www.epatters.org/post/e-graphs-1/) ⭐️ 7.0/10
+
+This tutorial explains how e-graphs can construct and verify proofs of mathematical equations. It presents diagram-based e-graph reasoning as a formal method for symbolic manipulation and proof checking. E-graphs offer a systematic way to explore many equivalent forms of an expression while preserving equality information. This makes them relevant to automated theorem proving, program synthesis, and rewrite-driven compiler optimization. An e-graph represents an equivalence class of expressions using nodes and congruence relationships, allowing rewrite rules to add equivalent forms until saturation or another stopping condition is reached. The article’s supplied content includes only a link to the discussion, so its specific examples, proof steps, and implementation details are not available in the provided material.
+
+rss · Hacker News \(热门\) · Nov 8, 12:51
+
+**Background**: E-graphs originated as a representation for automated theorem provers in the late 1970s. They were later repurposed for equality saturation, a technique that applies rewrite rules and e-matching until the graph reaches a stopping condition. The egg library helped make equality saturation fast and extensible.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/E-graph">E-graph - Wikipedia</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3434304">egg: Fast and extensible equality saturation | Proceedings of ...</a></li>
+<li><a href="https://arxiv.org/pdf/2004.03082">egg: Fast and Extensible Equality Saturation - arXiv.org</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#e-graphs`, `#automated theorem proving`, `#symbolic reasoning`, `#formal methods`, `#mathematics`
+
+---
+
+<a id="item-23"></a>
+## [Ad Tech Gives Police a Cross-App Tracking Tool](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/) ⭐️ 7.0/10
+
+A Bloomberg investigation examines how mobile advertising data collected through popular apps can be exploited by police to track and identify people. The reporting highlights Penlink’s Webloc platform, which reportedly draws on “billions of location data points” to reconstruct users’ movements in near real time. This raises significant privacy and civil-liberties concerns because ordinary advertising activity can become a location trail used in investigations, potentially without the individual’s knowledge or a traditional individualized warrant. It also highlights the persistence of cross-app advertising identifiers even as users attempt to limit tracking. Webloc repurposes location information harvested through mobile apps and digital advertising rather than relying solely on direct cooperation from phone operators. Search results report that the system can track hundreds of millions of devices and that Webloc and other ad-tech tools are used by law-enforcement agencies; however, the supplied news item contains only a headline and discussion link, so the investigation’s full methodology and legal findings are unavailable here.
+
+rss · Hacker News \(热门\) · Nov 8, 17:32
+
+**Background**: Mobile advertising identifiers, such as Apple’s IDFA, can associate activity across apps and websites owned by different companies, historically enabling deterministic user-level tracking. Apple introduced App Tracking Transparency to require permission for cross-app tracking, while newer attribution systems such as AdAttributionKit seek to avoid persistent device-specific identifiers. The reporting shows how commercially collected location data can nevertheless remain accessible to government investigators through advertising-technology vendors.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/">Privacy Concerns Over Ad Tech Giving Police Greater Power to ...</a></li>
+<li><a href="https://cyberinsider.com/webloc-surveillance-system-tracks-millions-using-mobile-ad-data/">Webloc surveillance system tracks millions using mobile ad data</a></li>
+<li><a href="https://www.opoinstall.com/blog/apple-att-uk-antitrust-privacy-preserving-attribution">Apple Faces UK Antitrust Suit Over ATT? The Future of... - Opoinstall</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#privacy`, `#surveillance`, `#mobile-security`, `#advertising-technology`, `#civil-liberties`
+
+---
+
+<a id="item-24"></a>
+## [systemd Explores Rust Adoption for Safer Systems Programming](https://amutable.com/blog/systemd-loves-rust) ⭐️ 7.0/10
+
+A blog post discusses systemd&\#x27;s growing use of Rust, focusing on the motivations, benefits, and challenges of introducing the language into the codebase. The supplied excerpt contains only a link to comments, so the article&\#x27;s precise claims and implementation details cannot be verified. systemd is widely used to manage services and system initialization on modern Linux systems, so adding Rust could affect a large and important software ecosystem. The adoption also reflects a broader industry effort to use memory-safe languages in low-level infrastructure without unnecessarily rewriting mature components. Rust can help prevent certain memory-safety defects, but changing languages does not automatically eliminate security risks such as unsafe filesystem-path handling. Available coverage indicates that Rust support is intended to remain optional and that established systemd components will not be rewritten merely to replace C.
+
+rss · Lobsters \(技术社区\) · Nov 8, 12:55
+
+**Background**: systemd is a system and service manager used by many modern Linux operating systems. Rust is a systems programming language designed with memory-safety guarantees, while the Linux kernel itself began accepting Rust code in 2022. Projects such as curl and sudo have also introduced Rust components as the broader Linux ecosystem explores safer low-level development.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://linuxiac.com/systemd-embraces-rust-but-draws-the-line-at-core-libraries/">systemd Embraces Rust but Draws the Line at Core Libraries</a></li>
+<li><a href="https://www.privacyguides.org/news/2026/10/27/systemd-adds-rust-program-support/">systemd Adds Rust Program Support - privacyguides.org</a></li>
+<li><a href="https://arxiv.org/html/2407.18431">Rusty Linux : Advances in Rust for Linux Kernel Development</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Rust`, `#systemd`, `#systems programming`, `#Linux`, `#memory safety`
+
+---
+
+<a id="item-25"></a>
+## [Libghostty 1.0 Stabilizes Its C Terminal Emulation Library](https://mitchellh.com/writing/libghostty-1-0) ⭐️ 7.0/10
+
+Libghostty 1.0 has been released, marking the first stable major version of the portable, high-performance C library extracted from Ghostty’s core. Both the library and its C application binary interface are now declared stable. The stable library and C ABI give developers a more dependable foundation for building terminal emulators or embedding terminal functionality into other applications. This release also reduces Ghostty’s dependence on its original terminal-emulator application by making its core capabilities reusable. Libghostty is a cross-platform, zero-dependency C and Zig library for terminal emulation and related capabilities such as style parsing. The 1.0 milestone specifically signals API stability, although the release announcement provides no detailed compatibility, migration, or performance figures.
+
+rss · Lobsters \(技术社区\) · Nov 6, 23:48
+
+**Background**: Ghostty is an open-source terminal emulator designed to combine speed, broad features, and a native graphical interface. Libghostty was extracted directly from Ghostty’s core so that other developers can reuse its terminal-emulation engine or embed a terminal within their own software.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mitchellh.com/writing/libghostty-1-0">Libghostty 1 . 0 – Mitchell Hashimoto</a></li>
+<li><a href="https://github.com/ghostty-org/ghostty">GitHub - ghostty-org/ghostty: Ghostty is a fast, feature-rich, and...</a></li>
+<li><a href="https://openapps.pro/apps/ghostty">Ghostty Terminal Emulator - Fast, Native, GPU-Accelerated</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Ghostty`, `#Terminal Emulator`, `#Software Release`, `#Open Source`, `#Systems`
+
+---
+
+<a id="item-26"></a>
+## [Google Buys Crusoe’s Troubled Wyoming AI Data Center Site](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/) ⭐️ 7.0/10
+
+Google acquired Crusoe’s data center site in southeast Wyoming after Crusoe completed pre-development work covering site selection, government approvals, and a hybrid power strategy developed with Tallgrass Energy. The transaction changes the ownership of the project, although the supplied material does not disclose the sale price or the reasons it was considered troubled. 这笔交易凸显了开发超大规模人工智能数据中心的难度，因为供电、审批、融资和部署必须在建设前有效衔接。谷歌由此获得了一个已完成前期开发、并具备既定供电方案的项目用地，而克鲁索则可以重新调配资源和资本。 Crusoe and Tallgrass originally announced the project in July 2025 as a 1.8-gigawatt AI data center campus in southeast Wyoming, designed to scale up to 10 gigawatts. Google’s acquisition covers the site and Crusoe’s completed pre-development work, but the available information does not state the purchase price, construction schedule, or current infrastructure status.
+
+rss · TechCrunch AI · Nov 7, 01:40
+
+**Background**: AI data centers require dense computing infrastructure plus unusually large and reliable power supplies, advanced cooling, and high-capacity network connections. The Wyoming campus was initially developed by Crusoe and Tallgrass as a large-scale AI facility, and Google’s purchase transfers the site after the planning and approval stages rather than indicating a completed operating campus.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update">Google Acquires Crusoe’s Wyoming Data Center Site</a></li>
+<li><a href="https://tallgrass.com/newsroom/press-releases/Crusoe">Crusoe and Tallgrass Announce AI Data Center in Wyoming</a></li>
+<li><a href="https://www.ibm.com/think/topics/ai-data-center">What Is an AI Data Center ? | IBM</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI infrastructure`, `#data centers`, `#Google`, `#Crusoe`, `#hyperscale computing`
+
+---
+
+<a id="item-27"></a>
+## [Electrical Noise Probes Electron Pairing in Superconductors](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/) ⭐️ 7.0/10
+
+Physicists used electronic noise measurements to determine whether electrons form pairs in superconductors. The experiment provides a new way to investigate electron pairing and unconventional superconductivity. Electron pairing is central to the superconducting state, but unconventional superconductors may pair electrons through mechanisms other than the conventional electron–phonon interaction. A noise-based diagnostic could help distinguish competing pairing states and clarify the quantum behavior of advanced materials. The key observable is electronic noise, whose statistical properties can reveal whether charge carriers behave as paired entities. The supplied source contains no details about the specific material, measurement setup, frequency range, or analysis method, so the experiment&\#x27;s quantitative performance and broader applicability remain unspecified.
+
+rss · Ars Technica · Nov 8, 12:15
+
+**Background**: In conventional superconductors, electrons form Cooper pairs and collectively occupy a common quantum state, producing effects such as zero electrical resistance. Unconventional superconductors can exhibit different pairing symmetries or pairing mechanisms, making direct evidence for paired electrons especially valuable. Earlier shot-noise work on copper-oxide junctions reported evidence of pairing that persisted beyond the apparent superconducting gap into the pseudogap state.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Unconventional_superconductor">Unconventional superconductor - Wikipedia</a></li>
+<li><a href="https://www.academia.edu/115551180/Electron_pairing_in_the_pseudogap_state_revealed_by_shot_noise_in_copper_oxide_junctions">(PDF) Electron pairing in the pseudogap state revealed by shot noise ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Cooper_pair">Cooper pair - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#superconductivity`, `#quantum physics`, `#electrical noise`, `#electron pairing`, `#condensed matter`
+
+---
+
+<a id="item-28"></a>
+## [Apple Accelerates Push for an Agentic Siri](https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic) ⭐️ 7.0/10
+
+Bloomberg reporter Mark Gurman says Apple CEO John Ternus is pressuring AI chief Craig Federighi to accelerate the Siri roadmap. The goal is to deliver a powerful AI agent that can compete with OpenAI&\#x27;s Dots and Meta&\#x27;s Muse. Apple&\#x27;s revised strategy reflects a shift from conventional voice assistants toward proactive systems that can complete multi-step tasks on users&\#x27; behalf. It also raises the competitive stakes in the rapidly expanding market for personal AI agents. Future Siri AI versions are reportedly expected to control third-party apps and perform more complex tasks, with an agentic update targeted as soon as next year. The report also says Federighi has already delivered a functional version of Siri AI on an exceptionally short development timeline.
+
+rss · The Verge · Nov 8, 19:18
+
+**Background**: An AI agent differs from a chatbot because it can pursue a goal across multiple steps, work proactively, and use connected applications rather than merely answer one question at a time. OpenAI describes Dots as a proactive assistant for complex projects and everyday tasks, while Meta presents Muse as a personal agent capable of handling long-running tasks; both use dedicated execution environments to support those operations.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic">Apple is racing to make Siri more agentic - The Verge</a></li>
+<li><a href="https://openai.com/index/introducing-dots/">Introducing dots - OpenAI</a></li>
+<li><a href="https://ai.meta.com/muse/">Muse: Meta&#x27;s personal AI agent, features &amp; capabilities</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The available commentary welcomes a more agentic Siri, particularly for practical tasks such as scheduling appointments and making informational calls. Some observers question the speculative names and capabilities of competing assistants, while the report&\#x27;s reliance on insider information means no formal Apple announcement is cited.
+
+**Tags**: `#Apple`, `#Siri`, `#AI Agents`, `#OpenAI`, `#Meta`
+
+---
+
+<a id="item-29"></a>
+## [Elvis and Eminem Rights Holders Sue Suno](https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit) ⭐️ 7.0/10
+
+Elvis Presley’s music rights holders and the publisher of several Eminem hits are suing AI music company Suno. The plaintiffs allege that Suno unlawfully generates music and lyrics that imitate the two artists. The cases could strengthen artists’ control over AI systems that replicate their voices, styles, and songwriting characteristics. They also add to the growing legal pressure over how generative music companies train their models and commercialize artist imitations. The Presley lawsuit invokes Tennessee’s legal protections for performers, while the Eminem case concerns an established music publisher rather than the artist himself. The reported allegations focus on outputs that imitate the artists, although the supplied report does not describe the evidence, specific claims, or Suno’s defenses.
+
+rss · The Verge · Nov 8, 17:23
+
+**Background**: Tennessee’s 2024 ELVIS Act extends right-of-publicity protection to a performer’s voice in addition to their name, photograph, and likeness. Separately, U.S. courts have not settled whether copyrighted recordings and lyrics can be used to train generative AI, because fair-use analysis is conducted case by case.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://chatgptiseatingtheworld.com/2024/03/22/elvis-act-text-pdf-tennessee-passes-law-to-stop-ai-deepfakes-of-voice-in-addition-to-name-photograph-likeness/">ELVIS Act text (PDF). Tennessee passes law to stop AI deepfakes of...</a></li>
+<li><a href="https://www.npr.org/2024/04/25/1246928162/generative-ai-music-law-technology">Generative AI in music : 4 big questions, answered : NPR</a></li>
+<li><a href="https://aimultiple.com/generative-ai-copyright">Generative AI Copyright : Law &amp; Litigation</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#generative AI`, `#AI music`, `#copyright litigation`, `#Suno`, `#artist rights`
+
+---
+
+<a id="item-30"></a>
+## [Hacked Refrigeration Devices Expose Critical IoT Risks](https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/) ⭐️ 7.0/10
+
+Recent attacks on internet-connected refrigeration systems have affected blood laboratories and grocery stores. The incidents show how attackers can exploit weak IoT security to interfere with temperature-sensitive operations and critical services. Refrigeration is essential for preserving blood samples and maintaining food safety, so compromised devices can create immediate operational, safety, and financial consequences. The incidents highlight that weak credentials and other basic security failures in IoT equipment can threaten critical infrastructure beyond conventional enterprise networks. Reported refrigerator compromises involve remotely overriding cooling controls, including switching units into defrost mode or raising temperatures to 50°C or higher, which can spoil food and, in some cases, trigger fires. The broader mechanism is often simple exposure of an internet-reachable device with default credentials, but the resulting impact depends on the device&\#x27;s operational role.
+
+rss · Wired · Nov 7, 13:00
+
+**Background**: Internet of Medical Things refers to connected devices that transmit data and integrate clinical equipment with healthcare networks. Internet-connected refrigeration controllers can expose cooling systems to remote manipulation, illustrating how compromised operational technology can affect physical processes rather than only digital data.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.allmedicaljournal.com/article/403/iot-device-security-in-modern-healthcare-addressing-cyber-threats-to-connected-medical-equipment">IoT Device Security in Modern Healthcare: Addressing Cyber Threats...</a></li>
+<li><a href="https://www.keyfactor.com/education-center/iot-device-security/">IoT Device Security : Risks, Best Practices, and Protection... | Keyfactor</a></li>
+<li><a href="https://expose-news.com/2026/11/05/what-should-we-learn-from-the-hacking-of-fridges/">What should we learn from the hacking of supermarket smart fridges in...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Internet of Things`, `#IoT Security`, `#Critical Infrastructure`, `#Device Hacking`, `#Cybersecurity`
+
+---
+
+<a id="item-31"></a>
+## [Epi-PHR Maps Epigenetic Marks in 3D Single Cells](https://www.nature.com/articles/s41592-026-03253-0) ⭐️ 7.0/10
+
+Researchers introduced Epi-PHR, a nondisruptive imaging method that jointly profiles combinations of epigenetic marks at hundreds of gene targets within individual cells. It preserves the three-dimensional organization of the genome while retaining in situ, single-cell information. Epi-PHR enables researchers to examine how chromatin folding and histone modifications are associated within the same cell, rather than inferring these relationships from separate assays. This could improve understanding of how genome organization contributes to gene regulation and cellular identity. The method achieves single-gene or finer resolution, detects combinations of epigenetic marks in situ, and preserves 3D chromatin architecture. Earlier work had demonstrated simultaneous profiling of 3D genome structure and DNA methylation in single human cells, while broader single-cell epigenomic methods vary in how many modalities they can measure together.
+
+rss · Hacker News \(best\) · Nov 8, 22:02
+
+**Background**: Epigenetic marks are molecular signals that help determine whether genes are active, silent, or otherwise regulated. Chromatin is the DNA-and-protein material packaged inside the nucleus, and its three-dimensional folding can influence which genomic regions interact. Conventional profiling often disrupts cells or measures only selected marks, making joint spatial measurements difficult.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.nature.com/articles/s41592-026-03253-0">Nondisruptive 3D profiling of combinations of epigenetic ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12262473/">Non-disruptive 3D profiling of combinations of epigenetic ...</a></li>
+<li><a href="https://www.frontiersin.org/journals/cell-and-developmental-biology/articles/10.3389/fcell.2021.714687/full">Frontiers | A Comparative Overview of Epigenomic Profiling Methods</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#single-cell profiling`, `#epigenetics`, `#3D imaging`, `#chromatin`, `#Nature Methods`
+
+---
+
+<a id="item-32"></a>
+## [How Windows 3.0 Relocated GDI&\#x27;s Data Segment](https://dev.to/randomchaos/the-64kb-segment-that-moved-out-from-under-your-pointer-m5m) ⭐️ 7.0/10
+
+The article reconstructs how the 16-bit Windows loader converted a no-op function prologue into an instruction that loaded GDI&\#x27;s default data segment, 9105h. It also explains how Windows later re-patched exported functions whenever that relocatable 64KB segment moved. This mechanism illustrates how Windows 3.0 implemented relocation on processors without paging and within severe memory constraints. It shows how an apparently harmless prologue could encode a critical runtime dependency on a movable segment. Windows 3.x used movable handles rather than stable physical addresses, so programs had to call GlobalLock before using memory and invalidate the resulting pointer after GlobalUnlock. The loader also inspected far-call stack frames, used NODATA to exempt some stubs from patching, and required DLLs to account for separate stack and data segments through the /Aw and /Gw build options.
+
+rss · Dev.to · Nov 8, 22:25
+
+**Background**: The 8086 and 80286 provided segmented memory but no practical paging support for mainstream Windows 3.0 systems, with each segment limited to 64KB. Windows therefore acted partly as an overlay manager, loading active modules into memory and discarding or reloading them as needed. Relocation adjusted position-dependent code and data because far pointers contained segment:offset pairs whose absolute segment addresses changed with the load layout.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Relocation_%28computing%29">Relocation (computing) - Wikipedia</a></li>
+<li><a href="https://github.com/moralrecordings/win16-debug">GitHub - moralrecordings/win16-debug: Win16 reverse ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/X86_memory_segmentation">x86 memory segmentation - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#16-bit Windows`, `#GDI`, `#x86 assembly`, `#memory relocation`, `#systems programming`
+
+---
+
+<a id="item-33"></a>
+## [Could AI Mass Surveillance Become a Health Determinant?](https://www.nejm.org/doi/full/10.1056/NEJMp2611224?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 7.0/10
+
+A New England Journal of Medicine perspective examines how artificial-intelligence-driven mass surveillance may affect population health and emerge as a new social determinant of health. The article is listed as ahead of print. Mass surveillance can influence health through surveillance itself, institutional decisions, resource allocation, and the distribution of risks and benefits. If AI surveillance shapes everyday conditions and access to care, its design and governance may become matters of public-health policy rather than merely technology regulation. The supplied material provides only a title, summary, and publication status, so it does not specify the article’s argument, evidence, surveillance methods, jurisdictions, or policy recommendations. Existing research highlights ethical concerns in applying artificial intelligence to population health, while public-health ethics includes the ethics of surveillance itself.
+
+rss · NEJM · 最新文章 · Nov 7, 12:30
+
+**Background**: Social determinants of health are the conditions in which people are born, grow, live, work, and age that shape health and access to care. Population-health surveillance uses data to understand health patterns at the group level, while AI can help analyze those data at scale. AI-enabled mass surveillance extends beyond traditional public-health monitoring because it can affect privacy, autonomy, institutional behavior, and unequal exposure to surveillance.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.kff.org/racial-equity-and-health-policy/beyond-health-care-the-role-of-social-determinants-in-promoting-health-and-health-equity/">Beyond Health Care: The Role of Social Determinants in... | KFF</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10176139/">Ethical Implications of Artificial Intelligence in Population Health and...</a></li>
+<li><a href="https://www.who.int/health-topics/ethics-and-health">Ethics</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI surveillance`, `#public health`, `#social determinants`, `#health policy`, `#technology ethics`
+
+---
+
+<a id="item-34"></a>
+## [Should Dialysis Preparation Begin When It May Never Be Needed?](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902004-0/fulltext?rss=yes) ⭐️ 7.0/10
+
+The Lancet commentary argues that adults aged 80 or older with kidney failure, frailty, or multiple conditions should carefully weigh early dialysis preparation against active conservative kidney management. Decisions should be guided by prognosis, frailty, multimorbidity, and quality-of-life goals. Early dialysis preparation can impose educational, clinical, procedural, and surgical burdens even when dialysis ultimately never starts. For very old and frail patients, individualized planning may avoid burdensome interventions while preserving symptom control, dignity, and quality of life. Dialysis preparation may include education, appointments, investigations, and, for some patients, surgery to create vascular access, which can require months before hemodialysis begins. Conservative kidney management instead focuses on slowing progression where possible, managing symptoms, and maintaining quality of life without planning for dialysis.
+
+rss · The Lancet · 最新文章 · Nov 6, 23:30
+
+**Background**: Kidney failure can require replacement therapy such as dialysis, but dialysis is not suitable or desirable for every older adult. Active conservative kidney management is an alternative pathway involving medical treatment, symptom management, and psychosocial support without routine preparation for dialysis. Advance care planning helps patients clarify their prognosis, preferences, and goals before urgent decisions arise.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.kidneyfund.org/treatments/kidney-failure-care-options-conservative-kidney-management">Kidney failure care options: Conservative kidney management</a></li>
+<li><a href="https://my.clevelandclinic.org/health/procedures/dialysis-fistula">Dialysis Fistula : Purpose, Procedure, Risks &amp; Results | Cleveland Clinic</a></li>
+<li><a href="https://www.kidney.org/news-stories/end-life-planning-kidney-disease-advance-directives-and-wills">Kidney Failure: A Guide to Advance Directives and Wills ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Kidney Failure`, `#Dialysis`, `#Conservative Kidney Management`, `#Advance Care Planning`, `#Geriatric Medicine`
+
+---
+
+<a id="item-35"></a>
+## [Managing Cognitive Fatigue Across Parallel AI Coding Sessions](https://sergeykuhne.com/blog/fighting-ai-brain-fry) ⭐️ 6.0/10
+
+The article presents a practical, experience-based workflow for using multiple AI coding sessions without losing focus, diluting context, or degrading code-review quality. Its central concern is that AI can increase development throughput while shifting the bottleneck toward human attention and review. Parallel AI sessions can accelerate implementation, but they also multiply switching costs and generate large change sets that developers must understand and review. Limiting concurrent work may therefore improve reliability and sustainable productivity even when it means producing fewer changes at once. The proposed practices emphasize deliberately constraining the number of active sessions, preserving rich task context, and accounting for the review burden created by AI-generated changes. The article is a personal workflow rather than a controlled technical advance, so its effectiveness may depend on team practices, codebase size, and the quality of the underlying models.
+
+hackernews · Hacker News \(热门\) · Nov 8, 19:37 · [Discussion](https://news.ycombinator.com/item?id=50416363)
+
+**Background**: AI coding agents can maintain separate conversational histories, giving developers the appearance of handling several workstreams simultaneously. However, every additional session consumes attention, and long-running chats may lose useful context or become harder to navigate. Related context-management guides recommend task scoping, token efficiency, and compacting or restarting sessions when coding-agent performance declines.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://codewinger.com/en/articles/context-window-management-ai-coding/">Context Window Management for AI Coding | CodeWinger</a></li>
+<li><a href="https://sfailabs.com/guides/how-to-manage-context-when-developing-with-ai">Context Is the New Bottleneck: How to Manage AI Conversations ...</a></li>
+<li><a href="https://uygarduzgun.com/blog/tech/multi-agent-code-review-workflow">Multi-Agent Code Review Workflow: Two Reviewers, One Final Writer</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters broadly favored limiting parallelism: one suggested working on two or three tasks with breaks, while another argued that human thinking capacity has not changed and sequential execution may produce better results. Reviewers warned that parallel agents can create oversized change sets, brittle solutions, and overfitting, and that context dilution can undermine human understanding; others noted that richer HTML artifacts or dedicated agent interfaces can compensate, but may introduce synchronization problems and higher token overhead.
+
+**Tags**: `#AI-assisted-development`, `#developer-productivity`, `#context-management`, `#code-review`, `#human-factors`
+
+---
+
+<a id="item-36"></a>
+## [AI Agent Memory Needs an OpenTelemetry Moment](https://www.lorekit.io/blog/open-agent-memory-format) ⭐️ 6.0/10
+
+The post proposes an OpenTelemetry-like standard for AI agent memory, aiming to make persistent context storage, retrieval, and sharing interoperable across agent systems. It presents the idea as a design proposal rather than a demonstrated technical breakthrough. As agents accumulate memory across sessions and frameworks, incompatible storage and retrieval approaches could create fragmentation and make behavior difficult to inspect or reproduce. A shared format could improve portability and observability, but premature standardization could also lock the ecosystem into immature concepts. The analogy concerns observability conventions that normalize telemetry across implementations, not OpenTelemetry itself as a ready-made memory protocol. Important unresolved questions include semantic representation, memory lifetime, retention, security boundaries between users, and whether natural-language instructions can already provide enough structure.
+
+hackernews · Hacker News \(热门\) · Nov 8, 08:40 · [Discussion](https://news.ycombinator.com/item?id=50411467)
+
+**Background**: Persistent agent memory stores facts, preferences, decisions, and lessons across sessions so an agent does not begin each interaction without prior context. Unlike a context window or conventional retrieval from static documents, it is intended to accumulate experience. OpenTelemetry provides a useful analogy because its conventions standardize telemetry from varied systems, while OpenTelemetry is also developing semantic conventions for generative-AI observability.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://opentelemetry.io/blog/2025/ai-agent-observability/">AI Agent Observability - Evolving Standards and Best ...</a></li>
+<li><a href="https://opentelemetry.io/blog/2026/genai-observability/">Inside the LLM Call: GenAI Observability with OpenTelemetry</a></li>
+<li><a href="https://omegamax.co/guides/persistent-memory-for-ai-agents">Persistent Memory for AI Agents: Complete Guide</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters showed substantial interest but no consensus. Some supported the broader goal while arguing that memory semantics, retention, storage, and representation remain too immature for a fixed protocol; others favored a flexible meta-protocol, questioned whether a format is needed at all, and raised concerns about sharing memory across users. One commenter dismissed the post itself as LLM-generated.
+
+**Tags**: `#AI agents`, `#agent memory`, `#OpenTelemetry`, `#observability`, `#LLM protocols`
+
+---
+
+<a id="item-37"></a>
+## [A 2024 Critique of Deno&\#x27;s Security Model](https://goldstein.lol/posts/deno-security/) ⭐️ 6.0/10
+
+The article argues that the author is unconvinced by Deno&\#x27;s permission-based security model and asks whether its isolation guarantees justify the complexity it introduces. The supplied copy contains only links to discussions, so the article&\#x27;s detailed reasoning and evidence are not available here. Deno&\#x27;s security model affects how applications limit file-system, network, environment-variable, subprocess, and other runtime capabilities. Reassessing whether those controls provide dependable isolation is relevant to developers running untrusted code and to the broader security of the language-tooling ecosystem. Deno is secure by default: capabilities are denied unless explicitly granted through permission flags such as \`--allow-read\`, \`--allow-net\`, and \`--allow-run\`, with corresponding \`--deny\` controls also available. A permission sandbox is not by itself a complete defense against malicious code, so the missing article text prevents assessment of the critique&\#x27;s specific technical claims.
+
+rss · Lobsters \(技术社区\) · Nov 7, 23:19
+
+**Background**: Deno contrasts with conventional runtimes by withholding access to sensitive operating-system capabilities until the user grants permissions. Its documented model covers permission prompting and sandboxing for actions such as reading files, making network requests, reading environment variables, and starting subprocesses, and it also discusses executing untrusted code through a permission broker.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://docs.deno.com/runtime/fundamentals/security/">Security and permissions | Deno Docs</a></li>
+<li><a href="https://docs.deno.com/runtime/reference/permissions/">Permissions | Deno Docs</a></li>
+<li><a href="https://minhvo.is-a.dev/blogs/deno-security-model-permissions-and-sandboxing">Deno Security Model: Permissions and Sandboxing | MinhVo</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Deno`, `#Security`, `#Programming Languages`, `#Runtime Permissions`, `#Sandboxing`
 
 ---
 
 <a id="item-38"></a>
-## [JIT Bitmap Text Rendering for Microcontrollers](https://linebender.org/blog/jit-bitmap-text/) ⭐️ 6.0/10
+## [A Field Guide to CAPTCHA Types and Failure Modes](https://github.com/vsmutok/FuckCaptcha) ⭐️ 6.0/10
 
-A technical guide explains how to implement just-in-time bitmap text rendering efficiently on resource-constrained microcontrollers. The approach focuses on generating and displaying text in embedded graphics systems without requiring heavyweight rendering infrastructure. Efficient text rendering is important for embedded displays that have limited processing power and memory. The technique could help developers add readable interfaces to microcontroller-based devices while controlling resource usage. The implementation uses bitmap fonts, which represent characters as pixel data rather than rendering scalable outlines through a full graphics stack. JIT in this context refers to producing the needed text pixels on demand, rather than pre-rendering every character or string.
+The open-source FuckCaptcha repository catalogs multiple CAPTCHA mechanisms and examines practical techniques for breaking them. It serves as a hands-on reference rather than a major research breakthrough. By comparing CAPTCHA variants with their known weaknesses, the repository helps defenders identify brittle implementations and anticipate automated abuse. It also highlights the broader security challenge of distinguishing human users from bots without imposing excessive friction. Relevant CAPTCHA families include text, image, audio, and video challenges, while modern anti-bot systems may supplement puzzles with behavioral signals such as cursor movement, click timing, scrolling, and keyboard dynamics. The repository&\#x27;s practical focus means operators should treat its bypass methods as threat intelligence, while the provided material offers no validation through substantive community comments.
 
-rss · Hacker News \(热门\) · Nov 8, 10:42
+rss · Hacker News \(热门\) · Nov 8, 17:09
 
-**Background**: Microcontrollers often drive small displays but have far fewer resources than desktop computers or mobile devices. Bitmap fonts are a traditional way to render text in such environments because characters can be stored as compact pixel patterns. JIT rendering adapts that approach by generating only the pixels needed at display time.
+**Background**: CAPTCHA is a challenge intended to block automated traffic by requiring a task that people can generally complete more easily than machines. Common implementations use distorted text, image matching, audio transcription, or video-based interaction, while contemporary defenses can also analyze user and browser behavior. Research comparing modern CAPTCHA approaches has evaluated factors such as solving time and user preference, showing that stronger security does not necessarily mean a better user experience.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/RonikKapadia/embedded-cat-mouse">RonikKapadia/ embedded -cat-mouse: An embedded systems game...</a></li>
-<li><a href="https://stackoverflow.com/questions/2156572/c-header-file-with-bitmapped-fonts">C header file with bitmapped fonts - Stack Overflow</a></li>
+<li><a href="https://arxiv.org/pdf/2307.12108">An Empirical Study &amp; Evaluation of Modern CAPTCHAs</a></li>
+<li><a href="https://ijrti.org/papers/IJRTI2502067.pdf">A Deep Dive into CAPTCHA Mechanisms and</a></li>
+<li><a href="https://github.com/xHossein/PyPasser">GitHub - xHossein/PyPasser: Free, open-source CAPTCHA solver ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#embedded-systems`, `#microcontrollers`, `#graphics-rendering`, `#text-rendering`, `#JIT`
+**Tags**: `#CAPTCHA`, `#security`, `#anti-bot systems`, `#authentication`, `#open source`
 
 ---
 
 <a id="item-39"></a>
-## [A Field Guide to CAPTCHA Types and Failure Modes](https://github.com/vsmutok/FuckCaptcha) ⭐️ 6.0/10
+## [JIT Bitmap Text Rendering for Resource-Constrained Microcontrollers](https://linebender.org/blog/jit-bitmap-text/) ⭐️ 6.0/10
 
-The FuckCaptcha repository presents a field guide to CAPTCHA mechanisms and techniques for breaking or defeating them. The supplied item includes only a link to a Hacker News discussion, so it provides no substantive excerpts or measurable findings from the guide itself. Understanding how CAPTCHA variants fail can help security researchers assess defensive weaknesses and help developers choose stronger anti-bot controls. It also carries clear misuse potential because the same techniques can facilitate unauthorized scraping, credential attacks, and other automated abuse. CAPTCHA systems are challenge-response tests intended to distinguish people from automated programs, and modern defenses may also use fingerprinting and HTTP-header validation. Traditional image challenges can be targeted by pattern recognition and machine-learning methods, while newer designs generally rely on more complex interactions; however, the supplied content does not identify which specific CAPTCHA products or versions the repository covers.
+Raph Levien presented a just-in-time compilation technique that generates optimized ARM assembly on the fly to render proportional bitmap text on microcontrollers such as the RP2350. The implementation is used in the vic-2350 home computer project and can also target a conventional framebuffer. Generating machine code at runtime can reduce the overhead associated with general-purpose text-rendering code on small embedded devices. This could improve display responsiveness and simplify the rendering path for projects with limited memory and processing power. The reported implementation runs at about 23 cycles per glyph for the JIT-generated rendering code, plus roughly 3 cycles per scanline per glyph for bitmap generation. The article describes a renderer that bypasses a conventional full framebuffer for its primary use case, although the technique can also write into a framebuffer.
 
-rss · Hacker News \(热门\) · Nov 8, 17:09
+rss · Hacker News \(热门\) · Nov 8, 10:42
 
-**Background**: CAPTCHA abbreviates “Completely Automated Public Turing test to tell Computers and Humans Apart.” Anti-bot systems use challenges to protect sensitive flows such as login, password recovery, and registration, while also limiting fake submissions, content theft, and aggressive scraping. Because automated solvers and bypass techniques continue to improve, CAPTCHA is often treated as one layer in a broader bot-detection strategy rather than a complete solution.
+**Background**: Bitmap fonts store glyphs as pixel data, which is useful for small screens because it can provide readable text with limited graphics capability. A just-in-time compiler normally translates source code into native instructions during execution; here, specialized ARM instructions are generated at runtime for a particular string-rendering task.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.imperva.com/learn/application-security/what-is-captcha/">What Does CAPTCHA Mean? | CAPTCHA Types &amp; Examples | Imperva</a></li>
-<li><a href="https://www.zenrows.com/blog/anti-bot">Anti - bot : What Is It and How to Get Around · Zenrows</a></li>
-<li><a href="https://github.com/Web3-Serializer/AntiBots-and-Captchas-Bypass-Guide">GitHub - Web3-Serializer/AntiBots-and-Captchas-Bypass-Guide ...</a></li>
+<li><a href="https://linebender.org/blog/jit-bitmap-text/">JIT bitmap text rendering for microcontrollers - Linebender</a></li>
+<li><a href="https://techbytes.app/posts/jit-bitmap-text-rendering-for-microcontrollers/">JIT bitmap text rendering for microcontrollers | Tech Bytes</a></li>
+<li><a href="https://daily.dev/posts/jit-bitmap-text-rendering-for-microcontrollers-ec3mbcxix">JIT bitmap text rendering for microcontrollers - daily.dev</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#CAPTCHA`, `#cybersecurity`, `#security-research`, `#anti-bot-systems`, `#GitHub`
+**Tags**: `#microcontrollers`, `#bitmap rendering`, `#text rendering`, `#embedded systems`, `#performance optimization`
 
 ---
 
 <a id="item-40"></a>
-## [Nspawn 3.0 Adds Docker-Compatible API for systemd-nspawn](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/) ⭐️ 6.0/10
+## [Starship Flight 15 Plans Dual Vehicle Catches](https://www.spacex.com/launches/starship-flight-15) ⭐️ 6.0/10
 
-Nspawn 3.0 introduces a Docker-compatible Engine API that lets Docker API clients manage systemd-nspawn machines through a host socket. Later 3.1 and 3.2 releases added device rules and more consistent image naming. 这一互操作特性可能使现有容器管理工具和 Docker 客户端无需单独实现集成，就能操作 systemd-nspawn。它有望扩大轻量级 Linux 容器工具的支持范围，但实际采用率和影响仍不明确。 The API is exposed through a host socket and targets Docker Engine API clients. The reported implementation still lacks image-build support and several other Docker features, so compatibility is not complete.
+SpaceX plans to attempt catching both the Super Heavy booster and the Starship spacecraft during Flight 15 on November 13. The mission would combine two tower-catch maneuvers in one test flight. Recovering both vehicles without conventional landing legs could accelerate Starship&\#x27;s operational reusability cycle and reduce turnaround time. It would also represent a major advance in SpaceX&\#x27;s effort to make the entire launch system rapidly reusable. Starship&\#x27;s tower-catch system uses the launch tower&\#x27;s chopstick-like arms to support a returning vehicle. Flight 15 reportedly involves Ship 42, a Block 3 spacecraft that underwent catch-related testing at Orbital Launch Pad 2 on September 11 and 12, although the supplied announcement provides limited technical detail.
 
-rss · Lobsters \(技术社区\) · Nov 8, 08:41
+rss · Hacker News \(热门\) · Nov 8, 19:49
 
-**Background**: systemd-nspawn is a lightweight Linux container runtime that isolates file systems, process trees, IPC subsystems, and host and domain names. Docker&\#x27;s Engine API provides a standard interface for interacting with a container daemon, with SDKs available for languages such as Go and Python. A Docker-compatible interface can make it easier to reuse tools designed around that API, but does not imply full feature parity with Docker.
+**Background**: Starship is SpaceX&\#x27;s fully reusable two-stage launch system, comprising the Super Heavy booster and the Starship spacecraft. Earlier Starship flights established booster tower-catch procedures, while Ship 42&\#x27;s ground tests focused on preparing the spacecraft for a comparable catch. Catching both stages on the same flight would test whether these recovery methods can operate together at mission scale.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nspawn.org/docs/overview/">Overview | nspawn</a></li>
-<li><a href="https://docs.docker.com/reference/api/engine/">Docker Engine API | Docker Docs</a></li>
-<li><a href="https://news.lavx.hu/article/nspawn-3-0-adds-a-docker-compatible-api-for-systemd-nspawn-containers">Nspawn 3.0 adds a Docker-compatible API for systemd-nspawn ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Starship_flight_15">Starship flight 15 - Wikipedia</a></li>
+<li><a href="https://www.spacex.com/launches/starship-flight-15">Starship Flight 15 - SpaceX</a></li>
+<li><a href="https://starbase-simulator.com/catch">How the Chopstick Tower Catch Works — Starbase Simulator</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The provided item contains only a link to comments and includes no substantive community comments to summarize.
-
-**Tags**: `#systemd-nspawn`, `#Docker API`, `#containerization`, `#Linux`, `#DevOps`
+**Tags**: `#SpaceX`, `#Starship`, `#Spaceflight`, `#Rocket Reusability`
 
 ---
 
 <a id="item-41"></a>
-## [Meridian Debuts as an Experimental Servo-Based Browser](https://op.tngl.io/meridian/) ⭐️ 6.0/10
+## [Practical Local AI on a 48GB M5 Pro Mac mini](https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai) ⭐️ 6.0/10
 
-Meridian is an experimental web browser built on the Servo browser engine and the Rust-based GPUI user-interface framework. The available announcement provides only a brief introduction and links to community comments, without details about features, release status, or benchmarks. The project offers a new test bed for combining Servo’s Rust-based rendering engine with GPUI’s GPU-accelerated interface framework. If it advances beyond an experiment, it could contribute to alternative approaches for building browsers and other Rust-based applications. Servo is an experimental Rust-based browser engine with WebGL and WebGPU support, while GPUI is a hybrid immediate-mode and retained-mode, GPU-accelerated UI framework created by the makers of Zed and Delta. The supplied material does not identify Meridian’s supported platforms, compatibility level, availability, or technical benchmarks.
+The author is seeking realistic guidance for using a 48GB M5 Pro Mac mini for local coding assistants, image generation, transcription, and RAG over personal notes. The discussion focuses on suitable models, quantizations, runtimes, measured throughput, and workflows that remain practical outside benchmark conditions. Unified memory can accommodate substantial local models, but fitting a model into RAM does not guarantee responsive or useful performance. Practical comparisons of Apple-native and cross-platform runtimes can help users decide when local inference adds value and when cloud APIs remain the better choice. The machine uses a base M5 Pro configuration with 48GB of unified memory, and the runtime candidates include MLX, llama.cpp, Ollama, LM Studio, and ComfyUI. The author specifically requests real tokens-per-second figures and negative experiences, because model fit and quantization must be judged through sustained workloads rather than the fact that a model merely loads.
 
-rss · Lobsters \(技术社区\) · Nov 7, 09:21
+rss · Lobsters \(技术社区\) · Nov 8, 17:07
 
-**Background**: Servo is a prototype browser engine developed in Rust to explore the language’s memory-safety and concurrency capabilities. GPUI is a Rust framework for GPU-accelerated user interfaces that blends immediate-mode and retained-mode design. Meridian places these two projects within a single experimental browser, though the limited source material does not explain how deeply it integrates them.
+**Background**: Apple Silicon systems share memory between the CPU and GPU, allowing larger language models and image models to remain resident locally. MLX is designed for Apple Silicon and uses formats such as MLX quantization, while llama.cpp commonly uses GGUF models through the GGML ecosystem; tools such as Ollama and LM Studio can simplify model management and serving. ComfyUI provides a node-based interface for local image and video generation, and RAG systems combine a language model with a retrieval system over external documents.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/servo/servo">GitHub - servo / servo : Servo aims to empower developers with...</a></li>
-<li><a href="https://servo.org/">Servo aims to empower developers with a lightweight...</a></li>
+<li><a href="https://lilting.ch/en/articles/ollama-mlx-apple-silicon-preview">Ollama Moves to MLX Backend, Dramatically Speeds Up Local ...</a></li>
+<li><a href="https://www.local-llm.net/compare/llama-cpp-vs-mlx/">llama.cpp vs MLX : Apple Silicon Inference in 2026 | local - llm .net</a></li>
+<li><a href="https://www.jocheojeda.com/2026/06/02/local-ai-studio-part-1-installing-comfyui-on-apple-silicon/">Local AI Studio — Part 1: Installing ComfyUI on Apple Silicon</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#local-ai`, `#Apple-Silicon`, `#LLM-inference`, `#MLX`, `#Mac-mini`
+
+---
+
+<a id="item-42"></a>
+## [Nspawn 3.0 Adds Docker-Compatible Engine API](https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/) ⭐️ 6.0/10
+
+Nspawn 3.0 introduces a Docker-compatible Engine API for managing systemd-nspawn containers. The release aims to let Docker-oriented clients and tooling interact with systemd-nspawn through a familiar HTTP interface. This compatibility layer could reduce the effort required to integrate systemd-nspawn with existing container-management workflows and DevOps tooling. It may also broaden the practical usability of systemd-nspawn for teams that already depend on Docker Engine API conventions. Docker Engine API is an HTTP interface served by Docker Engine, and most Docker client commands correspond to API endpoints; creating a container is an exception that involves several calls. The supplied announcement contains only a title and a comments link, so implementation details, supported API versions, feature coverage, and limitations cannot be confirmed from the provided material.
+
+rss · Lobsters \(技术社区\) · Nov 8, 08:41
+
+**Background**: systemd-nspawn is a lightweight container system that virtualizes the filesystem hierarchy, process tree, IPC subsystems, and host and domain names. Running containers are registered with systemd-machined, which tracks them and exposes programming interfaces for interaction. Docker Engine API is the HTTP API used by Docker clients to communicate with Docker Engine, and clients and servers negotiate a mutually supported API version.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.freedesktop.org/software/systemd/man/latest/systemd-nspawn.html">systemd-nspawn - freedesktop.org</a></li>
+<li><a href="https://docs.docker.com/reference/api/engine/">Docker Engine API</a></li>
+<li><a href="https://docs.docker.com/reference/api/engine/version/v1.43/">Docker Engine API v1.43 reference | Docker Docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#systemd-nspawn`, `#Docker API`, `#containerization`, `#DevOps`
+
+---
+
+<a id="item-43"></a>
+## [Redox Expands Virtualization Support Beyond Virtio-FS](https://www.redox-os.org/news/virtualized-redox/) ⭐️ 6.0/10
+
+Redox OS outlined progress in virtualized environments, including integration with Virtio-FS and Cloud Hypervisor. The update signals a move from basic shared-filesystem support toward broader virtual-machine monitor compatibility. Broader virtualization support could make Redox OS easier to test, deploy, and integrate with cloud-oriented infrastructure. It also positions Redox as a more practical guest operating system for developers working with modern virtual machine monitors. Virtio-FS allows virtual machines to access a host directory tree with local filesystem semantics and performance by sharing filesystem metadata through shared memory. Cloud Hypervisor is an open-source virtual machine monitor written in Rust that runs on KVM and Microsoft Hypervisor; the source material does not provide implementation details, benchmarks, or specific release status for Redox integration.
+
+rss · Lobsters \(技术社区\) · Nov 8, 21:06
+
+**Background**: A virtual machine monitor manages guest virtual machines and mediates their access to host resources. Virtio-FS is a shared-filesystem mechanism designed to avoid costly communication between virtual machines, while Cloud Hypervisor provides a lightweight Rust-based VMM layer over KVM and Microsoft Hypervisor for cloud-oriented workloads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://virtio-fs.gitlab.io/">virtiofs - shared file system for virtual machines</a></li>
+<li><a href="https://libvirt.org/kbase/virtiofs.html">libvirt: Sharing files with Virtiofs</a></li>
+<li><a href="https://github.com/cloud-hypervisor/cloud-hypervisor">cloud - hypervisor / cloud - hypervisor : A Virtual Machine Monitor for...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Redox OS`, `#virtualization`, `#Cloud Hypervisor`, `#Virtio-FS`, `#operating systems`
+
+---
+
+<a id="item-44"></a>
+## [Accidental Logs Reveal Developers’ Code Comprehension](https://link.springer.com/article/10.1007/s10664-026-10988-z) ⭐️ 6.0/10
+
+An empirical software-engineering study examines accidentally committed ad-hoc logs as evidence of developers’ runtime understanding of code. Related research described in the study used accidental commits that removed such logs to analyze developers’ logging practices and comprehension behavior. Temporary debug statements left in version-control history may expose practical signals about where developers misunderstand code and what information they need while debugging. The findings could inform better debugging, logging, code-review, and research tooling. The broader underlying work mined GitHub Archive repositories and reported a dataset containing 548,880 ad-hoc logs removed from JavaScript projects, using commit messages such as “remove console.log” to identify accidental logging. The supplied excerpt does not specify the final article’s sample, methods, or findings beyond its focus on runtime comprehension.
+
+rss · Lobsters \(技术社区\) · Nov 8, 13:21
+
+**Background**: Ad-hoc logs are temporary debugging statements, such as console output, that developers often add while investigating behavior and later remove. Version-control systems retain the history of these additions and deletions, allowing researchers to study debugging practices at scale and infer developers’ runtime comprehension from the code and logs they produced.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arxiv.org/html/2501.09892">Learning from Mistakes: Understanding Ad - hoc Logs through...</a></li>
+<li><a href="https://2025.msrconf.org/details/msr-2025-technical-papers/7/Learning-from-Mistakes-Understanding-Ad-hoc-Logs-through-Analyzing-Accidental-Commit">Learning from Mistakes: Understanding Ad - hoc Logs through...</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s10664-026-10988-z">Following breadcrumbs in code | Empirical Software ... - Springer</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#software engineering`, `#debugging`, `#logging`, `#code comprehension`, `#empirical research`
+
+---
+
+<a id="item-45"></a>
+## [Meridian Explores a Rust-Based Alternative Browser Path](https://op.tngl.io/meridian/) ⭐️ 6.0/10
+
+Meridian is an experimental macOS web browser built with Servo for rendering web content and GPUI for its native interface. The project is described as already useful for sites that rely less heavily on JavaScript and complex layout features. 与主要封装 Chromium 或 WebKit 的浏览器相比，Meridian 提供了一条更可定制、强调内存安全的技术路线，可能对替代浏览器引擎和原生界面开发具有参考价值。不过，由于现有资料缺少基准测试、技术深入解析和生产可用性证据，其实际影响仍不确定。 The browser targets macOS and is reportedly written in Rust, with Servo handling web content and GPUI providing the user interface. It supports configuration of fonts, keyboard shortcuts, colors, and tabs, but compatibility with JavaScript-heavy sites has not been quantified.
+
+rss · Lobsters \(技术社区\) · Nov 7, 09:21
+
+**Background**: Servo is an experimental browser engine written in Rust, designed to use the language’s memory-safety and concurrency properties while avoiding classes of bugs associated with incorrect memory management and data races. GPUI is a Rust-based interface toolkit for constructing native applications. Together, they let Meridian combine a modular web engine with a separately designed native shell rather than embedding an established engine such as Chromium or WebKit.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://op.tngl.io/meridian/">Meridian - op.tngl.io</a></li>
+<li><a href="https://book.servo.org/design-documentation/architecture.html">Architecture - The Servo Book</a></li>
 <li><a href="https://gpui.rs/">GPUI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#web-browser`, `#Servo`, `#GPUI`, `#experimental-software`, `#Rust`
+**Tags**: `#web browser`, `#Servo`, `#GPUI`, `#browser engines`, `#experimental software`
 
 ---
 
-<a id="item-42"></a>
-## [PHP2Shell Exploit Mechanisms Examined](https://djad04.github.io/php2shell-deep-dive/) ⭐️ 6.0/10
+<a id="item-46"></a>
+## [Datasette Stops Firefox Prefetching of Next-Page HTML](https://simonwillison.net/2026/Nov/7/link-rel-next/) ⭐️ 6.0/10
 
-A technical deep dive examines PHP2Shell, a pair of critical PHP vulnerabilities that can enable unauthenticated remote code execution. Search results identify the flaws as CVE-2026-109618 and CVE-2026-109619, with public exploit code focusing on session upload progress handling and memory corruption. PHP is widely used in internet-facing web applications, so exploitation could affect a broad range of servers and products that depend on the PHP runtime. The disclosed flaws were rated CVSS v4.0 9.2, making rapid patching and exposure assessment important. The two vulnerabilities concern memory-safety issues affecting PHP versions 5.4 through 8.5. Public proof-of-concept material describes a heap use-after-free in the session upload progress mechanism, an out-of-memory corruption chain, stale global state, ASLR bypass, and heap-address leaks.
+Datasette will no longer send the HTTP Link header with rel=&quot;next&quot; for HTML page requests from Firefox, following issue \#3046. The change prevents Firefox from automatically prefetching the next page of table rows. Because most visitors never follow the pagination link, automatic prefetching consumes bandwidth and forces the server to render pages that are immediately discarded. The fix improves the efficiency of Datasette deployments while retaining pagination behavior for clients that explicitly request the next page. The affected header points to a pagination URL such as &quot;?\_next=a%2Cd%2Cv&quot; and declares it as rel=&quot;next&quot;. The change targets Firefox requests for HTML pages; Datasette&\#x27;s JSON API uses opaque &quot;next&quot; values and the &quot;?\_next=&quot; parameter, whose internal structure is not part of the public API.
 
-rss · Lobsters \(技术社区\) · Nov 8, 05:51
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 7, 23:57
 
-**Background**: PHP2Shell is the name associated with CVE-2026-109618 and CVE-2026-109619, two critical vulnerabilities disclosed publicly ahead of coordinated disclosure on October 20, 2026. Both may allow unauthenticated remote code execution with the privileges of the web-server account. The principal demonstrated attack path involves PHP&\#x27;s session upload progress functionality, which can interact with attacker-controlled multipart uploads.
+**Background**: HTTP Link headers can advertise relationships between resources, including rel=&quot;next&quot; for a following page. Firefox interprets this pagination metadata as a reason to prefetch the linked document, even though many users may never request it; Mozilla&\#x27;s related prefetching behavior has been discussed in an issue open for 24 years. Datasette exposes paginated table and query results through HTML pages and a JSON API, making unnecessary server rendering particularly relevant to its typical data-exploration workloads.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sophos.com/en-us/security-advisories/sophos-sa-20261021-php2shell">Advisory: PHP2Shell Vulnerabilities (CVE-2026-109618, CVE ...</a></li>
-<li><a href="https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC">php2shell-CVE-2026-109618-CVE-2026-109619-PoC - GitHub</a></li>
-<li><a href="https://github.com/NCSC-NL/php2shell">php2shell vulnerabilities (CVE-2026-109618, CVE-2026-109619)</a></li>
+<li><a href="https://simonwillison.net/2026/Nov/7/link-rel-next/">datasette #3046: Don&#x27;t serve link: rel=next HTTP headers to ...</a></li>
+<li><a href="https://mdn2.netlify.app/en-us/docs/web/http/link_prefetching_faq/">Link prefetching FAQ - HTTP | MDN</a></li>
+<li><a href="https://docs.datasette.io/en/latest/json_api.html?highlight=pagination">JSON API - Datasette documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#PHP`, `#security`, `#vulnerability`, `#exploitation`, `#deep-dive`
+**Tags**: `#Datasette`, `#Firefox`, `#HTTP prefetching`, `#Web performance`, `#Browser interoperability`
 
 ---
 
-<a id="item-43"></a>
-## [Scientists Trace the Bantu Expansion Through Genes and Archaeology](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) ⭐️ 6.0/10
+<a id="item-47"></a>
+## [Scientists Trace Africa’s Bantu Expansion Through Genes and Archaeology](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) ⭐️ 6.0/10
 
-The article synthesizes genomic and archaeological evidence to explain how Bantu-speaking populations spread across much of Africa. It focuses on established research rather than announcing a new discovery. The Bantu expansion was a major population movement that reshaped Africa’s linguistic, cultural, and biological landscapes. Combining genetics with archaeology helps researchers test migration routes, timing, and interactions with local populations. A major genomic study analyzed data from 1,763 living people across 147 populations in 14 African countries, along with 12 individuals from the Late Iron Age. The evidence supports a significant migration but also indicates later admixture and long-distance interactions that made the expansion more complex than a simple, uniform spread.
+Genetic and archaeological evidence is helping researchers reconstruct how Bantu-speaking populations migrated across much of Africa over roughly 6,000 years. A major genomic study analyzed data from 1,763 people in 147 populations across 14 African countries, alongside 12 individuals from the Late Iron Age. The Bantu expansion profoundly reshaped Africa’s languages, cultures, population distribution, and agricultural practices. Combining multiple evidence types helps distinguish the movement of people from the spread of languages and technologies alone. The cited study traces the expansion of Bantu-speaking peoples over approximately 6,000 years, and Bantu-speaking populations now account for about 30% of Africa’s population. Archaeology also shows that herding reached far southern Africa several centuries before Bantu-speaking migrants, indicating that cultural practices and population movements did not always proceed together.
 
 rss · Ars Technica · Nov 7, 12:15
 
-**Background**: The Bantu expansion was a series of prehistoric migrations originating in West-Central Africa and extending through Central, Eastern, and Southern Africa. Archaeological, linguistic, genetic, and environmental evidence all identify it as a significant historical migration. Herding reached parts of southern Africa several centuries before Bantu-speaking migrants arrived, showing that technological change and population movement were not identical processes.
+**Background**: The Bantu expansion was a major migration associated with the spread of Bantu languages across sub-Saharan Africa. Linguistic, archaeological, environmental, and genetic evidence together support substantial population movement rather than language diffusion alone. “Bantu” is a comparative-linguistic term, not an ethnicity, nationality, or race.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s41586-023-06770-6">The genetic legacy of the expansion of Bantu ... - Nature</a></li>
 <li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10794141/">The genetic legacy of the expansion of Bantu-speaking peoples ...</a></li>
+<li><a href="https://www.nature.com/articles/s41586-023-06770-6">The genetic legacy of the expansion of Bantu-speaking peoples ...</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Bantu_expansion">Bantu expansion - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Bantu expansion`, `#human migration`, `#genomics`, `#archaeology`, `#African history`
-
----
-
-<a id="item-44"></a>
-## [Churning Mantle May Explain the Great Unconformity](https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/) ⭐️ 6.0/10
-
-A new study proposes that mantle convection drove the formation and preservation of the Great Unconformity. The hypothesis links global erosion and sediment hiatuses near the onset of the Cambrian period to deep-Earth tectonic processes. If confirmed, the hypothesis would connect a major gap in Earth&\#x27;s rock record to mantle-driven changes in surface elevation and erosion. It could also reshape explanations for the environmental and tectonic transitions preceding the Cambrian Explosion. The Great Unconformity is a widespread erosional surface where much younger sediments, often deposited around 500 million years ago, overlie substantially older sedimentary or crystalline rocks. Proposed causes include glacial erosion, sea-level change, rifting, mantle plumes, and dynamic topography, so the mantle-convection explanation must be evaluated against several competing mechanisms.
-
-rss · Ars Technica · Nov 6, 20:24
-
-**Background**: An unconformity represents missing geological time caused by erosion or a period of non-deposition. The Great Unconformity is visible on multiple continents and can encompass hundreds of millions to more than a billion years of missing history. Its formation is closely associated with major environmental changes before the Cambrian Explosion, although no single mechanism has yet explained all of its features.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nature.com/articles/s41586-026-11156-5">The deep Earth origin of the Great Unconformity - Nature</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Great_Unconformity">Great Unconformity - Wikipedia</a></li>
-<li><a href="https://www.newsminimalist.com/articles/mantle-convection-drove-the-great-unconformitys-formation-and-preservation-2b27e522">Mantle convection drove the Great Unconformity&#x27;s formation ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#geoscience`, `#Earth mantle`, `#Great Unconformity`, `#tectonics`, `#Cambrian`
-
----
-
-<a id="item-45"></a>
-## [World Models Bring AI Into the Physical World](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/) ⭐️ 6.0/10
-
-The article presents world models as AI systems that simulate real-world physics in 3D, allowing robots and autonomous vehicles to learn navigation before operating in physical environments. It frames these models as an increasingly important layer in the shift from text-based AI toward embodied intelligence. World models could reduce the cost and risk of training machines through real-world trials by providing scalable virtual environments for learning. They also signal a broader convergence among robotics, autonomous driving, simulation, and generative AI. A world model learns how an environment changes over time and how actions affect future states, rather than merely mapping observations directly to controls. Recent research cited in the search results reports that physics-aware models can reach peak performance twice as fast while using up to 60 percent less data than leading models, though the article itself offers limited technical depth.
-
-rss · Wired · Nov 8, 10:00
-
-**Background**: World models are learned internal representations that let intelligent systems predict and simulate how the world will evolve in response to actions. In robotics and autonomous driving, they can support prediction, reasoning, decision-making, navigation, and policy learning. Their central advantage is to create simulated training experiences that help systems transfer what they learn to real-world conditions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.csail.mit.edu/news/feel-physics-ai-models-simulate-wider-range-real-world-scenarios">With a feel for physics, AI models simulate a wider range of ...</a></li>
-<li><a href="https://arxiv.org/html/2605.00080v1">World Model for Robot Learning: A Comprehensive Survey</a></li>
-<li><a href="https://arxiv.org/pdf/2606.12783">A Tutorial on World Models and Physical AI - arXiv.org</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#world-models`, `#AI`, `#robotics`, `#autonomous-driving`, `#simulation`
-
----
-
-<a id="item-46"></a>
-## [AI Enhances Caregiver Apps but Leaves Well-Being Challenges Unresolved](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/) ⭐️ 6.0/10
-
-AI is adding capabilities to apps and platforms that help family caregivers organize tasks, coordinate care, and support loved ones. However, these tools still do not adequately address caregivers’ broader emotional, social, and overall well-being needs. Caregiver apps can reduce practical burdens such as medication tracking, shared scheduling, communication, and emergency alerts. Because caregiving also creates stress and isolation, technical improvements alone cannot replace social support, respite care, and broader health services. The available caregiver apps commonly offer shared calendars, medication reminders, task management, family updates, health tracking, and emergency alerts, while emerging AI tools add guidance and care coordination. The central limitation is that stronger task-management features do not by themselves resolve caregiver burnout, emotional distress, or insufficient access to formal support.
-
-rss · Wired · Nov 7, 11:00
-
-**Background**: Family caregivers help relatives with everyday needs, health monitoring, appointments, medication, and care coordination, often while managing their own work and family obligations. Caregiver apps are digital health and consumer-health tools designed to organize those responsibilities and keep relatives connected. AI features may provide guidance or assistance, but practical efficiency and mental well-being are distinct problems requiring different solutions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.neelacares.com/blog/family-caregiver-app-tools-examples-and-how-to-choose-the-right-one">11 Best Family Caregiver Apps, Compared (2026) | Neela</a></li>
-<li><a href="https://www.asklaine.com/">Laine - AI Caregiver Assistant | Family Caregiver Support App</a></li>
-<li><a href="https://caringvillage.com/blog/caregiver-tech/elderly-care-apps-for-families/">11 Best Elderly Care Apps for Families (2026 Review)</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI in healthcare`, `#caregiving technology`, `#digital health`, `#well-being`, `#consumer health apps`
-
----
-
-<a id="item-47"></a>
-## [Will Lawrence Takes Data Center Moratorium to Congress](https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/) ⭐️ 6.0/10
-
-Michigan’s 7th District representative-elect Will Lawrence plans to seek a federal moratorium on data center construction after defeating better-funded opponents. His campaign emphasized opposition to the environmental and energy effects of new data centers. A federal moratorium could substantially slow data center expansion and intensify the political conflict over the infrastructure supporting AI. The proposal also raises questions about federal authority, local control, and whether national restrictions are justified by grid, water, and environmental pressures. Data centers can strain regional power grids, raise electricity costs, consume substantial water for cooling, and create carbon emissions. The news item does not provide the draft legislation’s scope, exemptions, timeline, or evidentiary support, so the feasibility and design of Lawrence’s proposed moratorium remain unclear.
-
-rss · Wired · Nov 7, 11:00
-
-**Background**: A moratorium temporarily halts new or expanded projects until legislators establish broader rules, and proposals for a federal version have focused particularly on data centers associated with AI. Existing moratorium campaigns often argue for preserving state and local authority, while concerns about data centers include electricity demand, grid reliability, water consumption, and emissions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.aaas.org/sites/default/files/2025-09/Data+Centers+Fact+Sheet+2+-+Data+Centers+and+Environmental+Considerations.pdf">Data Centers and Environmental Considerations</a></li>
-<li><a href="https://www.electricchoice.com/datacenters/moratoriums/">Data Center Moratoriums and Restrictions</a></li>
-<li><a href="https://datacenters.ainowinstitute.org/issue-area/bans-and-moratoriums/moratoriums/">Moratoriums Archives - North Star Data Center Policy Toolkit</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#data centers`, `#AI infrastructure`, `#energy policy`, `#environment`, `#US politics`
+**Tags**: `#human genetics`, `#archaeology`, `#African history`, `#linguistics`, `#migration`
 
 ---
 
 <a id="item-48"></a>
-## [Climate Change Makes Homeownership a Financial Trap](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/) ⭐️ 6.0/10
+## [Ships Loiter Near Subsea Cables Amid Iranian Threats](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) ⭐️ 6.0/10
 
-The article examines how escalating climate disasters are undermining the traditional promise of homeownership as a path to household wealth. For many affected families, owning a home is increasingly becoming a financial liability rather than an asset. Homeownership plays a central role in the American wealth-building model, so climate risks can have consequences beyond personal finances. Rising disaster exposure may also reshape housing demand, insurance availability, property values, and public policy. The central issue is that climate-related disasters can impose losses on homeowners through property damage, repair costs, insurance expenses, and declining market value. The provided summary does not identify a specific disaster, location, affected population, or financial estimate.
+Iran threatened to attack subsea communications cables if the United States escalates military strikes. Ships have reportedly been loitering near undersea cable routes, prompting concern about potential threats to critical communications infrastructure. Subsea cables carry the overwhelming majority of intercontinental data traffic, including communications among Europe, Asia, and the Gulf. Damage to cables near the Strait of Hormuz could therefore have broad regional and global consequences beyond the immediate military conflict. The warning was conditional on further U.S. military escalation, and the available report provides little technical detail or evidence establishing the vessels&\#x27; identities or intentions. Most cables in the region merely pass offshore rather than terminate in Iran, making attempted toll collection through threats a novel and coercive proposition.
 
-rss · Wired · Nov 7, 10:00
+rss · Ars Technica · Nov 6, 22:41
 
-**Background**: The American dream has often associated homeownership with stable wealth accumulation and upward mobility. Climate change challenges that model because homes exposed to increasingly frequent or severe hazards may cost more to maintain, insure, repair, and sell.
+**Background**: Submarine communications cables are fiber-optic links laid across the ocean and are the physical foundation of international internet traffic. More than 400 such cables carry about 99% of intercontinental data, while natural hazards and human interference have repeatedly demonstrated the network&\#x27;s vulnerability to outages. The Strait of Hormuz is an important passage where cables connect Europe, Asia, and the Gulf, although the cables themselves lie offshore and generally do not end in Iran.
 
-**Tags**: `#climate change`, `#housing`, `#financial risk`, `#disasters`, `#American dream`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/">Ships loiter near subsea cables amid Iran &#x27;s warnings to... - Ars Technica</a></li>
+<li><a href="https://www.theguardian.com/world/2026/may/18/iran-threat-internet-cables-strait-hormuz">How realistic is threat of Iran charging to use internet cables under...</a></li>
+<li><a href="https://www.lawfaremedia.org/article/cutting-cord-legal-regime-protecting-undersea-cables">Cutting the Cord: The Legal Regime Protecting Undersea Cables</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#subsea cables`, `#geopolitics`, `#critical infrastructure`, `#internet security`, `#Iran`
 
 ---
 
 <a id="item-49"></a>
-## [Cybertruck’s Decline Could Benefit Smaller EVs](https://www.wired.com/story/cybertrucks-death-great-news-for-evs/) ⭐️ 6.0/10
+## [World Models Bring AI Into the Physical World](https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/) ⭐️ 6.0/10
 
-Tesla’s Cybertruck has become the second high-profile electric vehicle program to face major setbacks within a year, while smaller EVs continue multiplying. The article argues that this retreat from large electric trucks could be a positive development for both the EV market and the US battery supply chain. A shift away from large, battery-intensive electric trucks could redirect investment and manufacturing capacity toward smaller vehicles that require fewer battery cells per unit. It may also support a more resilient US battery supply chain by sustaining demand for domestically produced cells and related infrastructure. The analysis is framed as a market-development argument rather than proof of a completed industry transformation: large EV programs are retreating as smaller models proliferate. Lower battery demand per vehicle could ease pressure on supply chains, although the excerpt provides no production, sales, or cost figures to quantify the effect.
+The article introduces AI world models as systems that simulate physical environments, helping robots and autonomous vehicles learn and test navigation behavior. It presents world models as an emerging foundation for AI systems that move beyond text and interact with three-dimensional space. World models could let physical-AI systems practice safely in simulation, generate synthetic experience, and evaluate how actions may change an environment before acting in reality. This is particularly relevant to robotics and autonomous driving, where failures can have physical consequences. A world model typically predicts how relevant parts of an environment evolve, often conditioned on an agent’s actions. These learned simulators can support planning, synthetic training, and counterfactual evaluation, but they remain approximations rather than perfect reproductions of physical reality.
 
-rss · Wired · Nov 6, 22:31
+rss · Wired · Nov 8, 10:00
 
-**Background**: Large electric trucks require substantial battery capacity to balance payload, range, and performance, making them vulnerable when demand proves weaker than expected. Smaller EVs generally need smaller packs, so broader adoption can support battery manufacturing without requiring every vehicle to consume as many cells. The US has also pursued domestic battery production and supply-chain investment, although policy changes and trade tensions may affect those plans.
+**Background**: World models represent an approach to physical AI in which systems learn the dynamics of environments rather than relying only on language. In robotics and autonomous vehicles, they can provide simulated experience for navigation and planning. Their potential value comes from enabling systems to explore and fail in virtual settings before deployment, although the reliability of their simulations remains an unsettled issue.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2022/05/02/climate/biden-electric-car-batteries.html">Biden Administration Begins $3 Billion Plan for Electric Car Batteries ...</a></li>
-<li><a href="https://www.automotivemanufacturingsolutions.com/electrification/electric-dreams-teslas-gigafactory-network-and-ev-battery-production-blueprint/545858">Tesla’s EV battery production and global gigafactory network | Article</a></li>
-<li><a href="https://www.automotivelogistics.media/ev-and-battery/in-the-face-of-global-trade-wars-and-tempered-demand-has-the-battery-supply-chain-in-north-america-lost-its-charge/337920">Automakers invest in localised US electric vehicle supply chain ...</a></li>
+<li><a href="https://aman.ai/primers/ai/physical-ai/">Aman&#x27;s AI Journal • Primers • Physical AI</a></li>
+<li><a href="https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/">Simulating everything, sort of: The promise and limits of world models</a></li>
+<li><a href="https://www.cnet.com/tech/services-and-software/step-aside-llms-ai-world-models-are-here/">How Smart Do We Want AI to Be? World Models May... - CNET</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Electric Vehicles`, `#Tesla`, `#Cybertruck`, `#Battery Supply Chain`, `#Automotive Industry`
+**Tags**: `#world-models`, `#AI`, `#robotics`, `#autonomous-vehicles`, `#simulation`
 
 ---
 
 <a id="item-50"></a>
-## [A Rigorous Framework for Correct Automatic Differentiation](https://arxiv.org/abs/2001.02209) ⭐️ 6.0/10
+## [AI Enhances Caregiver Apps but Not Their Well-Being](https://www.wired.com/story/apps-for-caregivers-get-a-dose-of-ai-but-that-might-not-be-enough/) ⭐️ 6.0/10
 
-The paper develops a framework for proving automatic differentiation correct by combining diffeological spaces with categorical gluing. It presents correctness as a categorical and differential-geometric construction rather than relying only on implementation-specific assumptions. A rigorous correctness argument could strengthen confidence in differentiable programming tools used for machine learning, scientific computing, and optimization. It may also provide a theoretical foundation for tools that need verified derivatives despite operating on spaces more general than ordinary manifolds. Diffeology generalizes differential geometry beyond manifolds to spaces such as quotients, subsets, and mapping spaces equipped with suitable smoothness structures. Categorical gluing supplies the compositional structure used to connect local or componentwise pieces, although the available item gives no quantitative results or implementation details.
+Caregiver apps and platforms are gaining AI-powered capabilities to help families manage loved ones’ needs. However, these features have not resolved the broader well-being challenges faced by family caregivers. AI may make care coordination, training, scheduling, and communication more efficient, but technical convenience alone cannot address caregiver stress, isolation, or burnout. Addressing those wider needs is essential if digital tools are to improve the caregiving experience rather than merely add features. The available examples use AI for caregiver training, matching, scheduling automation, and support, while elderly-care platforms connect services, families, and communication systems. The supplied article excerpt provides no specific product, version, performance metric, or clinical evidence, so the extent and effectiveness of these AI features remain unverified.
 
-rss · Hacker News \(best\) · Nov 8, 19:46
+rss · Wired · Nov 7, 11:00
 
-**Background**: Automatic differentiation evaluates derivatives of functions specified by computer programs through special mathematical rules, avoiding finite-difference approximation. A diffeological space is a generalized smooth space that includes ordinary smooth manifolds while accommodating structures that are not manifolds. Category theory provides an abstract language for expressing compositional relationships, and categorical gluing generalizes the process of assembling compatible mathematical objects.
+**Background**: Family caregivers help relatives with practical, medical, and emotional needs, often while balancing paid work and other responsibilities. Caregiver apps can centralize tasks such as training, scheduling, service coordination, and communication, and AI can automate or personalize parts of those functions. Digital-health platforms likewise seek to keep families connected and ensure that older adults receive support at home.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Diffeology">Diffeology - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Automatic_differentiation">Automatic differentiation - Wikipedia</a></li>
-<li><a href="https://arxiv.org/html/2007.05282">Denotational Correctness of Forward-Mode Automatic ...</a></li>
+<li><a href="https://www.learn2care.us/">AI - Powered Online Caregiver Training Platform | Learn2 Care</a></li>
+<li><a href="https://www.joinhomebase.com/blog/caregiver-scheduling-software">Best Caregiver Scheduling Software for Home Care Agencies</a></li>
+<li><a href="https://www.snegcare.com/blog/digital-health-platforms-for-elderly-home-care">Digital Health Platform for Elderly Care | SNEG CARE | SNEG CARE</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#automatic differentiation`, `#diffeology`, `#category theory`, `#differential geometry`, `#formal verification`
+**Tags**: `#AI applications`, `#caregiving`, `#digital health`, `#well-being`, `#technology ethics`
 
 ---
 
 <a id="item-51"></a>
-## [Validate Migrations with Shadow Traffic Before Cancellation](https://dev.to/techpy_768/migration-diary-run-the-cutover-in-shadow-mode-before-you-cancel-the-old-plan-4iab) ⭐️ 6.0/10
+## [Anti-Data-Center Candidate Heads to Congress](https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress/) ⭐️ 6.0/10
 
-The article presents a lightweight shadow-testing harness for replaying sampled production requests through a new system while keeping the old service active. It combines deterministic request sampling, dual-send execution with per-call deadlines, and output normalization to support cutover decisions based on observed differences. Curated fixtures may miss the complex, long-tail inputs that real users send, while shadow replay tests both correctness and capacity under production-like conditions. This can reduce cutover failures and avoid prematurely canceling the old service, though the method is an established reliability-engineering practice rather than a novel breakthrough. The sampler hashes request IDs with SHA-256 and applies a modulo operation so the same request is reproducibly assigned to the same bucket across runs and machines. The harness sends requests to both paths under a per-call deadline, normalizes response shape before comparing text, and records request-level latency, errors, and output diffs; duplicate side effects and privacy-sensitive production data still require explicit safeguards.
+Michigan’s 7th District representative-elect Will Lawrence defeated better-funded opponents and plans to campaign for a federal moratorium on data centers. He intends to make opposition to data-center construction his central political issue. Lawrence’s campaign could broaden the political debate over AI infrastructure, electricity consumption, and the pace of data-center construction. A federal moratorium would affect developers, technology companies, communities hosting facilities, and the wider US AI buildout. The proposal is a federal moratorium rather than a detailed legislative package, so its scope, thresholds, and exemptions remain undefined. Existing local efforts show that data-center restrictions are spreading across multiple states, but a federal pause would carry broader economic and strategic consequences.
 
-rss · Dev.to · Nov 8, 19:54
+rss · Wired · Nov 7, 11:00
 
-**Background**: Shadow testing sends production-like traffic to a candidate system without allowing that system to affect users, then compares its responses with those of the current system. It complements fixtures, which remain useful for stable regression cases, by exposing the candidate system to realistic distributions and edge cases. Production migration practices also use controlled traffic shifting and continuous evaluation to manage rollout risk.
+**Background**: Data centers require large, continuous supplies of electricity, while AI workloads can intensify demand for grid capacity and new transmission infrastructure. Communities and policymakers have increasingly used zoning rules and moratoria to manage the sector’s environmental and infrastructure impacts. Federal proposals discussed in the search results would pause construction or expansion of sufficiently large AI data centers until national policy addresses specified concerns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-2-4b1c8c7155c1?trk=public_post_comment-text">Migrating Critical Traffic At Scale with No Downtime... | Netflix TechBlog</a></li>
-<li><a href="https://microsoft.github.io/code-with-engineering-playbook/automated-testing/shadow-testing/">Shadow Testing - Engineering Fundamentals Playbook code-with-engineering-playbook/docs/automated-testing/shadow ... Effortless Shadow Testing Computer Vision Models ... - Medium Shadow Testing | BossaBox Shadow Testing: How It Works in Production | QA Decoded How to Shadow-Test an AI Agent Without Letting It Act Twice</a></li>
-<li><a href="https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/automated-testing/shadow-testing/README.md">code-with-engineering-playbook/docs/automated-testing/shadow ...</a></li>
+<li><a href="https://ember-energy.org/latest-insights/data-centres-for-grids-the-potential-impact-of-flexibility/">Data centres for grids ꞉ the potential impact of flexibility | Ember</a></li>
+<li><a href="https://introl.com/blog/sanders-data-center-moratorium-politics-2026">The Data Center Moratorium Movement | Introl Blog</a></li>
+<li><a href="https://www.electricchoice.com/datacenters/moratoriums/">Data Center Moratoriums and Restrictions</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#migration-testing`, `#shadow-traffic`, `#cutover-strategy`, `#reliability-engineering`, `#software-migration`
+**Tags**: `#data centers`, `#AI infrastructure`, `#energy policy`, `#US politics`, `#moratorium`
 
 ---
 
 <a id="item-52"></a>
-## [Designing Deterministic Schema Interfaces with Zod for Agent Pipelines](https://dev.to/castov/designing-deterministic-schema-interfaces-using-zod-for-agentic-pipelinespublished-true-d31) ⭐️ 6.0/10
+## [Climate Change Undermines the American Homeownership Dream](https://www.wired.com/story/the-american-dream-wasnt-built-for-climate-change/) ⭐️ 6.0/10
 
-The article proposes a runtime-boundary architecture for LLM agent pipelines built from strict Zod objects, action-based discriminated unions, explicit bounds, and a self-repairing validation loop. Its example uses one schema to produce the model-facing JSON Schema, validate returned actions, and infer the corresponding TypeScript type. Enforcing schemas at runtime can prevent malformed or ambiguous model output from reaching tools, databases, and downstream logic. Sharing one schema across generation and validation also reduces contract drift, while bounded retries make failure handling predictable rather than allowing invalid input to propagate. The example rejects unknown keys, limits paths to 1–500 characters and file content to 100,000 characters, caps search results at 50, and defaults to 10. At model boundaries it uses safeParse, returns structured validation issues to the model for correction, and stops after three attempts; the article also recommends validating tool arguments and results, keeping schemas shallow, and versioning persisted actions.
+The analysis argues that climate-related disasters are making homeownership a potential financial trap rather than a reliable path to wealth for many Americans. The core issue is that escalating physical risks, along with rising insurance costs, can undermine a home&\#x27;s value and affordability. Homeownership has traditionally supported household balance sheets, retirement planning, and intergenerational wealth, so climate damage can have effects far beyond the cost of repairing an individual property. Mortgage lenders, insurers, homebuyers, and policymakers may increasingly need to incorporate climate risk into underwriting, pricing, and housing policy. Research cited in the search results analyzes 6.7 million borrowers and finds that rising homeowners insurance premiums are associated with changes in mortgage and credit outcomes. Buyers should also check parcel-specific flood designations and local insurance availability, because climate exposure and market conditions vary substantially by location.
 
-rss · Dev.to · Nov 8, 19:54
+rss · Wired · Nov 7, 10:00
 
-**Background**: TypeScript types are erased during compilation, so they cannot validate a JSON string generated by a model at runtime. Zod is a runtime schema library whose discriminated unions use a shared discriminator field to select exactly one object variant. In agent pipelines, such schemas act as guardrails between probabilistic model output and deterministic tool execution.
+**Background**: A mortgage is a debt instrument used to finance a home, while homeowners insurance helps cover damage from hazards such as floods, wildfires, and wind. Climate change affects the value and insurability of properties by increasing the frequency or severity of losses and by challenging historical assumptions used in catastrophe models. Higher premiums, unavailable coverage, and reduced property values can make a previously attractive investment financially less viable.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://zod.dev/api?id=discriminated-unions">Defining schemas | Zod</a></li>
-<li><a href="https://dev.to/srijan_bhai/deterministic-guardrails-stop-llm-tool-calling-failures-at-runtime-10g1">Deterministic Guardrails: Stop LLM Tool Calling Failures at Runtime</a></li>
-<li><a href="https://lobstermail.ai/blog/type-safe-email-agent-patterns-with-zod">type-safe email agent patterns with Zod — LobsterMail</a></li>
+<li><a href="https://www.dallasfed.org/-/media/documents/research/papers/2025/wp2505.pdf">Climate Risk, Insurance Premiums and the Effects on Mortgage ...</a></li>
+<li><a href="https://www.brookings.edu/articles/how-local-homeowners-insurance-market-stress-impacts-urban-and-suburban-housing-markets/">How local homeowners insurance market stress impacts... | Brookings</a></li>
+<li><a href="https://waltersrealtywi.com/blog/water-security-is-quietly-becoming-a-luxury-amenity">climate migration 2026 • Great Lakes real estate • water security...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Zod`, `#LLM agents`, `#schema validation`, `#TypeScript`, `#agentic pipelines`
+**Tags**: `#climate change`, `#homeownership`, `#financial risk`, `#American Dream`, `#climate resilience`
 
 ---
 
 <a id="item-53"></a>
-## [Google Fi Data Fixed on Pixel 3a](https://dev.to/gde/mobile-data-on-android-17-and-a-49-kernel-google-fi-on-the-pixel-3a-4cdc) ⭐️ 6.0/10
+## [PDFops v0.11 Adds Ten Operations Across All Clients](https://dev.to/pdfops/pdfops-v011-ten-new-pdf-operations-in-the-api-and-in-every-client-4nc2) ⭐️ 6.0/10
 
-The author enabled IPv4 and IPv6 Google Fi mobile data on a Pixel 3a running LineageOS 24.0, based on Android 17, with its original Linux 4.9 kernel. Four changes achieved the result: enabling mobile data by default, adding the Google Fi APN for 310260, including Google&\#x27;s Fi VoLTE key, and backporting close\_range\(\) so Android 17 can start clatd on the old kernel. This makes a substantially newer Android release practical on a legacy Pixel 3a without replacing its original modem or kernel. It is especially useful to Android porting enthusiasts who want working carrier data on old hardware, although the narrow device and carrier scope limits its broader impact. The tested modem build is MPSS.AT.4.0.2.c4.1-00145 from 2022, and the device uses a Google Fi data-only SIM. The author publishes the patches, scripts, and kernel build artifacts, while each ROM test starts from a stock flash because the failed registration state can persist across reboots, ROM reinstalls, and modem restarts.
+PDFops v0.11 expands the hosted API from three PDF primitives to fourteen endpoints, adding operations such as splitting and unlocking encrypted documents. The same fourteen-operation contract is now available through the API, n8n node, MCP server, TypeScript SDK, and Python package. Consistent functionality across every client reduces integration work and lets developers select PDFops based on their runtime or workflow environment without losing access to the full API. The release is primarily an expansion and standardization effort rather than an introduction of a new PDF-processing technique. The new operations use multipart requests and retain the existing 4 MB file-size and 2,000-page limits, with every request counted against the same quota. Field filling now supports normalized, forgiving field-name matching, but ambiguous or unresolved keys return errors rather than being silently ignored; owner-locked PDFs open automatically, while password-protected PDFs require the password field.
 
-rss · Dev.to · Nov 8, 19:52
+rss · Dev.to · Nov 8, 22:28
 
-**Background**: The Pixel 3a, codenamed sargo, originally shipped with Android 12 and a Linux 4.9-based kernel, so this project backports Android 17-era networking behavior onto substantially older hardware. APN settings determine how Android reaches a carrier&\#x27;s mobile-data network, while Google Fi uses T-Mobile&\#x27;s network and normally supplies device-specific carrier configuration. Android&\#x27;s clatd provides IPv4-to-IPv6 translation under 464XLAT, but newer Android releases expect kernel functionality that may be missing from Linux 4.9.
+**Background**: PDFops is a hosted API designed for deterministic PDF workflows, including filling AcroForm fields, inspecting forms, merging documents, and generating invoices. Its client layers expose the hosted service to no-code workflows, AI agents through MCP, and developers using TypeScript or Python, without requiring local PDF binaries or a headless browser.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://android.googlesource.com/kernel/common/+/refs/heads/android-mainline">refs/heads/android-mainline - kernel/common - Git at Google kernel/common - Git at Google [ROM] [UNOFFICIAL] [17] [gts4lvwifi] [gts4lv] LineageOS 24 ... Documentation/compat-drivers — Linux Backports documentation clatd on Android - Dan&#x27;s notes</a></li>
-<li><a href="https://www.technobezz.com/google-fi-apn-settings">Google Fi APN Settings for Android and iPhone | Technobezz</a></li>
-<li><a href="https://wiki.lineageos.org/devices/">Devices | LineageOS Wiki</a></li>
+<li><a href="https://pdfops.dev/docs">PDFops docs — hosted PDF API reference</a></li>
+<li><a href="https://pdfops.dev/">PDFops — PDF API for AI agents, n 8 n and Python</a></li>
+<li><a href="https://github.com/pdfops/n8n-nodes-pdfops">GitHub - pdfops / n 8 n - nodes - pdfops : n 8 n community node for the...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android 17`, `#LineageOS`, `#Kernel Porting`, `#Google Fi`, `#Networking`
+**Tags**: `#PDF processing`, `#API expansion`, `#MCP`, `#TypeScript SDK`, `#Python package`
 
 ---
 
 <a id="item-54"></a>
-## [Audit Every Endpoint Your Retry Chain Can Reach](https://dev.to/devrs_886/audit-every-endpoint-your-retry-chain-can-reach-4n71) ⭐️ 6.0/10
+## [Tooloraa Offers 114+ Private Browser-Based Developer Tools](https://dev.to/tooloraa/i-built-114-developer-tools-with-no-backend-everything-runs-in-your-browser-5a7l) ⭐️ 6.0/10
 
-The article proposes auditing all endpoints reachable through retry policies, SDK defaults, environment variables, and fallback configurations rather than reviewing only the primary route. It recommends defining named routes and classifying individual request fields at the client boundary so transport policies remain effective even when a base URL changes. A primary-path review can miss destinations that receive the same payload during failures, including hosts selected by SDK defaults or environment variables. Field-level gating can reduce accidental disclosure of confidential or secret data and prevent a new hostname from silently expanding permitted egress. The proposed route model combines a base URL, credential, and retry behavior, with repository searches used to locate explicit configuration and an environment-variable listing used to reveal host-related settings without printing secret values. The example policy tags fields as PUBLIC, INTERNAL, CONFIDENTIAL, or SECRET and stores the classification beside each value, but the supplied article excerpt is incomplete and does not demonstrate broad production results.
+Tooloraa is a no-sign-up static website offering more than 114 developer utilities that process inputs locally in the browser without uploads, telemetry, or a backend. Its tools include JSON formatting and validation, Base64 encoding, JWT decoding, hashing, secure password generation, and Indian PAN, GSTIN, and IFSC validators. Local processing can prevent secrets, production payloads, and sensitive identifiers from being exposed to unfamiliar servers, logs, caches, or analytics systems. The project also illustrates a broader shift toward browser-native privacy tools, although its security claims currently rely on the author&\#x27;s description rather than independent validation. The site uses ordinary JavaScript, and its password generator relies on the Web Crypto API&\#x27;s crypto.getRandomValues\(\) rather than Math.random\(\), which is unsuitable for cryptographic secrets. The author notes that large inputs can still create performance and rendering problems, while offline support, network-call auditing, and believable privacy claims require deliberate design.
 
-rss · Dev.to · Nov 8, 19:51
+rss · Dev.to · Nov 8, 22:27
 
-**Background**: Retries and fallbacks can make one logical request travel to several API endpoints, each potentially using a different credential or data-handling policy. Prompt-level DLP typically examines an entire prompt before submission, whereas the approach described here classifies structured fields at the point where the client builds the request. Data discovery, classification, DLP, governance, and policy enforcement are broadly used together to control sensitive data movement.
+**Background**: Traditional online utilities typically send pasted content to a remote server for processing, potentially exposing it to infrastructure the user cannot inspect. Client-side tools instead execute calculations and transformations within the browser, keeping sensitive input in the current tab and allowing local operation when the implementation makes no network requests. The Web Crypto API provides browser-native cryptographic primitives, including cryptographically secure random-number generation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://nhimg.org/articles/chatgpt-dlp-gaps-leave-browser-pasted-data-exposed/">ChatGPT DLP gaps leave browser-pasted data exposed</a></li>
-<li><a href="https://www.fortra.com/blog/6-ai-data-security-platforms-securing-enterprise-ai-2026">6 AI Data Security Platforms for Securing Enterprise AI in 2026</a></li>
-<li><a href="https://github.com/cloudflare/security-audit-skill/blob/main/skills/security-audit/WEB-PROTOCOL-AND-AUTH.md">github.com/cloudflare/ security - audit -skill/blob/main/skills/ security ...</a></li>
+<li><a href="https://www.bridgehomies.com/blog/client-side-processing-zero-server-execution-developer-privacy-speed">Client - Side Processing : Zero-Server Execution for Developer Privacy</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Crypto_API">Web Crypto API - Web APIs | MDN - MDN Web Docs</a></li>
+<li><a href="https://dinochiesa.github.io/jwt/">An online tool to perform JWT verification, decoding, or generation.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#API Security`, `#Retry Policies`, `#Data Classification`, `#Endpoint Auditing`, `#Software Architecture`
+**Tags**: `#developer-tools`, `#client-side`, `#privacy`, `#browser-tools`, `#security`
 
 ---
 
 <a id="item-55"></a>
-## [Price Retries, Not Requests, for Reliable Output](https://dev.to/hackrs_3352/price-the-retry-not-the-request-349n) ⭐️ 6.0/10
+## [Consistent Design Systems Do Not Ensure Intuitive Navigation](https://dev.to/bulkina/your-users-dont-care-about-your-design-system-1176) ⭐️ 6.0/10
 
-The article reframes API and distributed-system economics around the cost per accepted output, including failed attempts, queue waits, and expired deadlines. It also presents an offline Python gate that calculates deadline-feasible attempts, acceptance probability, and effective cost from measured success rate and latency. Free or cheap request pricing can conceal substantial operational costs and create misleading capacity plans. Accounting for retries and deadlines helps engineering teams distinguish acceptable average cost from workloads that cannot reliably finish within their latency budgets. For independent attempts with success probability p, the expected attempt count is 1/p, while acceptance within n attempts is 1-\(1-p\)^n. The proposed model separately estimates the average bill and deadline feasibility, then uses Bernoulli simulation to check the closed-form calculation; retries in production may additionally require bounded policies, exponential backoff, and jitter to prevent retry storms.
+The article argues that reusable components, design tokens, and consistent interface patterns can coexist with confusing navigation and inefficient task flows. It recommends diagnosing information-architecture and usability problems through navigation research before spending more time polishing the design system. For growing B2B SaaS products, visual standardization can improve development efficiency without reducing navigation-related support requests. Teams should therefore distinguish interface consistency from understandable product structure and prioritize user research, task analysis, and information architecture. The article separates three concerns: UI consistency, the design system itself, and information architecture. It also warns that a requested visual change may only be the visible symptom of excessive competing information or unclear hierarchy, while noting that improving a design system alone may leave navigation tickets unchanged.
 
-rss · Dev.to · Nov 8, 19:50
+rss · Dev.to · Nov 8, 22:25
 
-**Background**: The expected number of independent attempts needed to obtain a first success follows a geometric distribution, with an expectation of 1/p. In distributed systems, retries consume both request capacity and wall-clock time, so a deadline can make repeated attempts infeasible even when their average cost appears acceptable. Queueing delay reduces the time available for attempts, while coordinated retries can amplify load through a retry storm.
+**Background**: A design system provides shared components, design tokens, standards, and documentation so teams can build interfaces more quickly and consistently. Information architecture instead concerns how content and features are organized and found; relevant research methods include card sorting, tree testing, first-click testing, and analysis of users’ top tasks. Task-flow analysis examines how people actually complete real-world tasks, helping teams identify navigation friction that visual redesign alone may not resolve.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Geometric_distribution">Geometric distribution - Wikipedia</a></li>
-<li><a href="https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/">Exponential Backoff And Jitter | AWS Architecture Blog How to Prevent Retry Storms in a Distributed System Retries Strategies in Distributed Systems - GeeksforGeeks Exponential backoff and retry storms: jitter, retry budgets ... Preventing Retry Storms: Exponential Backoff and Jitter ...</a></li>
-<li><a href="https://arxiv.org/pdf/1805.11681">Maximizing Service Reward for Queues with Deadlines</a></li>
+<li><a href="https://design.dev/guides/design-systems/">Design Systems &amp; Design Tokens Explained — design.dev</a></li>
+<li><a href="https://www.nngroup.com/articles/ia-study-guide/">Information Architecture: Study Guide - NN/G Information Architecture Research: Complete Guide (2026) Information Architecture vs Navigation: A Practical UX Guide Information Architecture vs. Navigation Design: What’s the ... Navigation That Thinks: Applying Cognitive Load Theory to ... Navigation Design in Information Architecture Information Architecture: A Complete Guide For Beginners</a></li>
+<li><a href="https://dev.interpix.design/task-flows.html">Task Flows</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#distributed-systems`, `#cost-modeling`, `#reliability`, `#retries`, `#latency`
+**Tags**: `#design-systems`, `#user-experience`, `#product-design`, `#usability-testing`, `#information-architecture`
 
 ---
 
 <a id="item-56"></a>
-## [Token-Weighted Queues Better Reflect Inference Budgets](https://dev.to/codepro_4664/weight-your-queue-by-tokens-not-jobs-1ejc) ⭐️ 6.0/10
+## [LedgerSMB Extends Security Review Beyond the Login Page](https://dev.to/bianliang/ledgersmb-puts-accounting-roles-in-the-database-boundary-2g1g) ⭐️ 6.0/10
 
-The article proposes admitting queued inference jobs by estimated token weight rather than by job count. It sketches a SQLite-based workflow in which estimators assign per-stage weights, workers acquire renewable leases, and actual token usage is settled back into a spend ledger. LLM jobs can differ greatly in token consumption, so counting jobs can oversubscribe a finite token allowance and let one expensive task block the queue. Token-weighted admission aligns scheduling with the primary budget constraint while separately managing worker concurrency and execution time. The unexecuted pseudocode uses an 8,000,000-token ceiling, a 40,000-token burst weight per tick, a cap of 25 leased jobs, and 90-second leases. The estimator remains loosely coupled from the admission gate so estimation errors cannot corrupt the ledger, although the numbers are explicitly presented as choices requiring local validation.
+The article explains that LedgerSMB enforces application permissions through PostgreSQL roles, making database connections, schema privileges, role assignments, and administrative tools part of the effective security boundary. It reports 40 ZoomEye title matches on November 8, 2026, but cautions that this is a search indicator rather than a verified deployment count. 仅检查公开登录界面可能遗漏角色变更、暴露的安装路径、不安全的自定义报表以及过宽的集群权限。由于 LedgerSMB 系统可能保存账簿、银行资料、供应商、客户和过账历史，数据库权限应与 Web 应用层受到同等审查。 The recommended review includes the application account, user-to-role mappings, reachable databases and schemas, extensions, setup and migration endpoints, custom SQL reports, and separation-of-duties controls. Recovery sets should include the database, attachments, and configuration, with restores tested under the same role model because missing roles can prompt administrators to grant excessive privileges.
 
-rss · Dev.to · Nov 8, 19:50
+rss · Dev.to · Nov 8, 22:23
 
-**Background**: LLM inference generally separates prompt processing from the autoregressive generation of output tokens, and requests can have highly variable service costs. Admission control determines which requests enter a serving system, while token buckets, concurrency limits, and circuit breakers are related mechanisms for protecting finite capacity. The proposed design combines token budgeting with lease-based execution and usage settlement.
+**Background**: LedgerSMB is a web-based, double-entry accounting and ERP system designed for small and medium-sized businesses. Its database-centric access-control model uses PostgreSQL roles to govern database objects and application capabilities, including posting, user administration, and company configuration. PostgreSQL roles can represent users or groups and determine access to objects within a database cluster.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wantsvibes.online/article/llm-inference-scheduling-from-request-queues-to-continuous-batching-and-fair-gpu-utilization/">LLM Inference Scheduling: From Request Queues to... | Wants Vibes</a></li>
-<li><a href="https://sivaro.in/articles/why-your-llm-inference-server-needs-admission-control-and/">Why Your LLM Inference Server Needs Admission Control...</a></li>
-<li><a href="https://arxiv.org/pdf/2508.01002">Optimal scheduling algorithms for LLM inference - arXiv.org</a></li>
+<li><a href="https://deepwiki.com/ledgersmb/LedgerSMB/4.5-role-based-access-control">Role-Based Access Control | ledgersmb/LedgerSMB | DeepWiki</a></li>
+<li><a href="https://www.postgresql.org/docs/current/user-manag.html">PostgreSQL: Documentation: 18: Chapter 21. Database Roles</a></li>
+<li><a href="https://ledgersmb.org/">Open Source ERP : accounting , invoicing and more | LedgerSMB</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM inference`, `#queueing systems`, `#token budgeting`, `#resource scheduling`, `#systems architecture`
+**Tags**: `#LedgerSMB`, `#PostgreSQL`, `#Access Control`, `#Application Security`, `#ERP Security`
 
 ---
 
 <a id="item-57"></a>
-## [AI’s Water Infrastructure and Hydrosocial Dispossession](https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113) ⭐️ 6.0/10
+## [Nine Production Problems in RAG Systems](https://dev.to/vishalmysore/production-problems-in-rag-and-how-to-solve-them-429n) ⭐️ 6.0/10
 
-The paper examines how AI data centers intersect with water politics, dispossession, and colonial infrastructure development. It connects the material and environmental costs of AI infrastructure to hydrosocial relations and colonial land relations. This analysis expands the environmental debate beyond energy use and carbon emissions to include water access, local burdens, and unequal development patterns. It highlights how the expansion of AI infrastructure may reproduce colonial and environmental-justice inequalities. The article theorizes hydrosocial dispossession through critical water geography and accumulation by dispossession applied to water commodification. Its contribution is a sociotechnical and critical-geographical framing rather than a quantitative assessment of specific facilities.
+The article organizes nine common production failures in retrieval-augmented generation into a staged troubleshooting sequence and pairs each failure with a practical fix. It also adds an interactive Advanced Local RAG lab that runs in the browser without a server, API key, or model download. Many RAG failures occur silently: stale or inconsistent index data can produce confident answers based on the wrong text. The article’s focus on incremental updates, operational reliability, and evaluation reflects the gap between prototype demonstrations and continuously changing production corpora. The browser simulation uses 121 fictional documents, fixed 400-character or structure-anchored chunking, 1,024-dimensional feature-hashed embeddings, an in-memory vector store with an asynchronous upsert queue, and 128 questions scored by Recall@5. In the first example, full re-embedding after one handbook edit requires 258 embeddings, whereas deleting and rebuilding vectors by document ID requires 18—a 93% reduction; the lab simulates mechanics rather than benchmarking a commercial product.
 
-rss · Hacker News \(AI/ML\) · Nov 8, 18:46
+rss · Dev.to · Nov 8, 22:20
 
-**Background**: Data centers require electricity and water for computing infrastructure and cooling, while the environmental costs of AI are often concentrated in particular communities. Critical water geography treats nature and water as socially produced through institutions, power relations, and accumulation rather than as neutral resources. Coloniality refers to enduring structures of extraction, unequal authority, and dispossession that can shape contemporary infrastructure development.
+**Background**: In a RAG pipeline, documents are split into chunks, converted into embedding vectors, and stored so that relevant passages can be retrieved and supplied to a language model. Production systems must also handle document edits, index synchronization, embedding-model changes, and retrieval quality as the corpus evolves. Incremental ETL approaches can reduce repeated processing costs, while failures such as malformed documents are commonly isolated through mechanisms such as dead-letter queues.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113">GEO: Geography and Environment - Wiley Online Library</a></li>
-<li><a href="https://journals.sagepub.com/doi/10.1177/27539687231201667">Hydrosocial geographies: Cycles, spaces and spheres of ...</a></li>
-<li><a href="https://news.un.org/en/story/2026/06/1167658">AI’s environmental costs threaten water, land and climate ...</a></li>
+<li><a href="https://medium.com/@raghavmagotracu/building-a-production-grade-etl-pipeline-for-rag-a-low-level-design-deep-dive-17e1c281f945">Building a Production -Grade ETL Pipeline for RAG... | Medium</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2023/10/rag-pipeline-with-the-llama-index/">Build a RAG Pipeline With the LLama Index - Analytics Vidhya</a></li>
+<li><a href="https://github.com/curv-institute/curv-embedding">GitHub - curv-institute/curv-embedding: Stability-driven ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#data centers`, `#water politics`, `#environmental justice`, `#critical geography`
+**Tags**: `#RAG`, `#vector databases`, `#production ML`, `#retrieval pipelines`, `#LLM applications`
 
 ---
 
 <a id="item-58"></a>
-## [Expanding Rapid Reperfusion After Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/NEJMe2612650?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 6.0/10
+## [Drugmaker CEOs Challenge Silicon Valley’s AI-Cure Promises](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c) ⭐️ 6.0/10
 
-The New England Journal of Medicine published an article ahead of print examining ways to extend rapid reperfusion to more patients with out-of-hospital cardiac arrest. The supplied publication notice does not describe the article’s specific recommendations, results, or implementation details. Rapid restoration of blood flow can limit ischemic heart damage and improve survival after cardiac arrest, but access to time-sensitive reperfusion care is often limited. Expanding its reach could affect emergency, interventional cardiology, and regional transfer systems. For refractory out-of-hospital cardiac arrest, extracorporeal cardiopulmonary resuscitation can provide extracorporeal circulation and potentially enable coronary angiography and revascularization. Its effectiveness and cost-effectiveness remain uncertain because high-quality comparative evidence is limited, and candidate selection, transport, and resource requirements are important practical constraints.
+Drugmaker executives are pushing back on Silicon Valley’s claim that artificial intelligence can transform or even cure disease. The available material identifies skepticism among pharmaceutical CEOs but does not provide specific companies, claims, figures, or supporting quotations. The disagreement highlights a gap between technology-sector expectations and the pharmaceutical industry’s evidence-driven standards for drug development. It may affect investment, partnerships, and the credibility of AI-assisted drug-discovery programs. AI is being applied across drug discovery, including target selection, molecular design, protein modeling, and optimization of drug-like compounds. Its practical value depends on chemical synthesizability, biological and clinical validation, and ultimately patient outcomes, rather than computational performance alone.
 
-rss · NEJM · 最新文章 · Nov 7, 04:45
+rss · Hacker News \(AI/ML\) · Nov 8, 18:43
 
-**Background**: Out-of-hospital cardiac arrest is a time-critical emergency in which delayed restoration of circulation may worsen ischemic injury. Conventional cardiopulmonary resuscitation is the initial treatment, while extracorporeal cardiopulmonary resuscitation is an emerging option for selected patients who do not respond to standard resuscitation. Once circulation is restored, coronary angiography and revascularization may be needed to address an underlying acute coronary obstruction.
+**Background**: Drug discovery combines computational candidate generation with laboratory testing, clinical trials, regulatory review, and large-scale manufacturing. Generative models can explore molecular designs more efficiently, while protein language models can support structure prediction and biological design, but promising candidates still require synthesis and validation before any clinical benefit can be established.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10624408/">Extracorporeal cardiopulmonary resuscitation in out-of ...</a></li>
-<li><a href="https://www.ahajournals.org/doi/10.1161/JAHA.120.016521">In‐Depth Extracorporeal Cardiopulmonary Resuscitation in ...</a></li>
-<li><a href="https://www.ahajournals.org/doi/10.1161/CIRCINTERVENTIONS.123.013848">Prioritizing Rapid Reperfusion in ST-Segment–Elevation ...</a></li>
+<li><a href="https://www.pharmafocusamerica.com/articles/generative-ai-in-drug-discovery">Generative AI in Drug Discovery: From Molecular Design to ...</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2666379122003494">Deep generative molecular design reshapes drug discovery</a></li>
+<li><a href="https://arxiv.org/abs/2502.17504">[2502.17504] Protein Large Language Models: A Comprehensive ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#cardiac arrest`, `#reperfusion`, `#emergency medicine`, `#clinical research`
+**Tags**: `#artificial intelligence`, `#drug discovery`, `#healthcare`, `#industry skepticism`
 
 ---
 
 <a id="item-59"></a>
 ## [Technology Offers a Path to Equity in Maternal–Fetal Medicine](https://www.nejm.org/doi/full/10.1056/NEJMp2607107?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 6.0/10
 
-This New England Journal of Medicine perspective discusses technological advances in maternal–fetal medicine and a potential pathway toward improving equity in care. The article is listed ahead of print, but the supplied material contains no substantive arguments, evidence, or implementation details. Technologies such as telemedicine, artificial intelligence–assisted prenatal diagnosis, fetal echocardiography, and noninvasive prenatal testing could expand access to specialized maternal–fetal services. Their equitable impact will depend on whether implementation also addresses geographic, socioeconomic, and digital barriers. The available evidence indicates that AI-assisted fetal imaging may support prenatal diagnosis, while telemedicine can improve timely access to maternal–fetal medicine. However, neither the perspective&\#x27;s specific recommendations nor its supporting data are available in the provided content, so its principal claims and limitations cannot be evaluated.
+A New England Journal of Medicine perspective examines technological advances and possible pathways toward improving equity in maternal–fetal medicine. The article appeared ahead of print, but the available bibliographic metadata does not reveal its specific recommendations or evidence. Better access to advanced prenatal screening, risk prediction, and specialized care could help reduce disparities affecting high-risk pregnancies. If technologies are designed and deployed equitably, they may improve maternal and fetal outcomes; however, unequal access could also widen existing gaps. Maternal–fetal medicine focuses on managing maternal and fetal health concerns before, during, and shortly after pregnancy. Search results describe AI-assisted prenatal risk identification, including efforts involving preeclampsia and low-dose aspirin recommendations, but they do not establish which technologies the NEJM perspective analyzes.
 
 rss · NEJM · 最新文章 · Nov 7, 12:30
 
-**Background**: Maternal–fetal medicine is a subspecialty focused on high-risk pregnancies and complications involving the mother and fetus. Its services often depend on specialized expertise and advanced diagnostic tools, creating access disparities for patients in underserved areas. Digital and AI-based approaches may extend these capabilities, but unequal connectivity, access to devices, language barriers, algorithmic performance, and healthcare infrastructure can also widen disparities.
+**Background**: Maternal–fetal medicine, also called perinatology or feto-maternal medicine, specializes in concerns involving both the mother and fetus during pregnancy. Advanced ultrasound, prenatal screening, and data-driven risk assessment are important tools in this field, while disparities in access and outcomes can affect whether these technologies benefit all patients equitably.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ajog.org/article/S0002-9378%2823%2900803-7/fulltext?rss=yes">Utilizing Telemedicine to Address Disparities in Maternal - Fetal ...</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/36618830/">Disparities from bedside to &quot;webside&quot;: barriers to achieving equity in...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11076681/">Applications of artificial intelligence -powered prenatal diagnosis for...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Maternal%E2%80%93fetal_medicine">Maternal – fetal medicine - Wikipedia</a></li>
+<li><a href="https://meetattheintersection.org/tipping-points/how-ai-helped-address-racial-disparities-in-maternal-care/">How AI Helped Address Racial Disparities in Maternal Care – The...</a></li>
+<li><a href="https://weillcornell.org/services/obstetrics-and-gynecology/maternal-fetal-medicine-high-risk-pregnancy">Maternal - Fetal Medicine (High-Risk Pregnancy) | Patient Care</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#maternal-fetal medicine`, `#health equity`, `#medical technology`, `#healthcare disparities`, `#NEJM`
+**Tags**: `#maternal-fetal medicine`, `#health equity`, `#medical technology`, `#healthcare disparities`
+
+---
+
+<a id="item-60"></a>
+## [Recurrent Vertigo and Brain Lesions Find a Skin Clue](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2900695-1/fulltext?rss=yes) ⭐️ 6.0/10
+
+A 35-year-old woman was evaluated for one year of recurrent, brief vertigo lasting about 15 minutes, along with multifocal brain lesions. The diagnostic clue was a skin finding, suggesting a single unifying diagnosis. The case illustrates how an apparently simple cutaneous sign can connect disparate findings and narrow a complex neurological differential. It also highlights the importance of considering systemic disease in patients with recurrent vertigo and multifocal brain lesions. The episodes were non-positional and unaccompanied by headache, tinnitus, hearing loss, visual symptoms, or other neurological complaints. Neurological, vestibular, and audiometric examinations were normal between episodes, as was the Dix–Hallpike manoeuvre, making common causes such as benign paroxysmal positional vertigo less directly supported by the findings.
+
+rss · The Lancet · 最新文章 · Nov 6, 23:30
+
+**Background**: Vertigo is a sensation of spinning that can arise from several inner-ear or neurological disorders, so recurrent attacks may require broader evaluation when examination findings are normal. The Dix–Hallpike manoeuvre is commonly used to test for benign paroxysmal positional vertigo by moving the patient&\#x27;s head and body into positions that provoke positional vertigo. Multifocal brain lesions have many possible causes, making a clinical clue outside the brain—such as a skin finding—especially useful for diagnostic reasoning.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.healthline.com/health/dix-hallpike-maneuver">Dix - Hallpike Maneuver : What It Is and Why It’s Performed</a></li>
+<li><a href="https://www.nhsinform.scot/illnesses-and-conditions/ears-nose-and-throat/vertigo">Vertigo | NHS inform</a></li>
+<li><a href="https://www.researchgate.net/publication/342679171_Multifocal_brain_lesions">Multifocal brain lesions</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Clinical Case`, `#Neurology`, `#Vertigo`, `#Brain Lesions`, `#Diagnostic Reasoning`
 
 ---
