@@ -5,615 +5,613 @@ date: 2026-11-14
 lang: en
 ---
 
-> From 218 items, 72 important content pieces were selected
+> From 192 items, 68 important content pieces were selected
 
 ---
 
-1. [Nvidia’s Open-Source AI Strategy Faces Leadership Uncertainty](#item-1) ⭐️ 9.0/10
-2. [FAA Grounds U.S. Flights After Nationwide Communications Outage](#item-2) ⭐️ 9.0/10
-3. [Colette Kress Named Nvidia’s Interim CEO](#item-3) ⭐️ 9.0/10
-4. [Jensen Huang Resigns as Nvidia CEO](#item-4) ⭐️ 9.0/10
-5. [Coway Air Purifier Reverse Engineering Enables Local Control](#item-5) ⭐️ 8.0/10
-6. [AI Decodes Gödel Notebooks and Hundreds of Proved Theorems](#item-6) ⭐️ 8.0/10
-7. [AI Surpasses the NetHack Frontier](#item-7) ⭐️ 8.0/10
-8. [Rust 1.100.0 Stabilizes the Never Type](#item-8) ⭐️ 8.0/10
-9. [Huang’s Departure Creates AI Funding Uncertainty](#item-9) ⭐️ 8.0/10
-10. [LangChain Reaches $3B Valuation With 7,000 LangSmith Customers](#item-10) ⭐️ 8.0/10
-11. [Restricted Nvidia Chips Reportedly Trained China’s Leading AI Models](#item-11) ⭐️ 8.0/10
-12. [Jensen Huang Agrees to Congressional Testimony](#item-12) ⭐️ 8.0/10
-13. [SignDrop Windows Zero-Day Grants SYSTEM Privileges](#item-13) ⭐️ 8.0/10
-14. [Microsoft Global Outage Raises Cloud Reliability Concerns](#item-14) ⭐️ 8.0/10
-15. [Scientists Warn 1.5°C Could Be Reached by 2029](#item-15) ⭐️ 8.0/10
-16. [Google Rolls Out Gemini 4 Hydrogen Broadly](#item-16) ⭐️ 8.0/10
-17. [Lynch Syndrome Review Highlights Universal MMR Testing](#item-17) ⭐️ 8.0/10
-18. [Menopausal Hormone Therapy Reshapes Microbes and Predicts Symptom Response](#item-18) ⭐️ 8.0/10
-19. [KORS Begins Full-Band Live Aviation Radio Monitoring](#item-19) ⭐️ 7.0/10
-20. [A Technical Vision for the Haskell Ecosystem](#item-20) ⭐️ 7.0/10
-21. [Weight-Space Editing Raises Model Integrity Questions](#item-21) ⭐️ 7.0/10
-22. [OpenAI Disbands Robotics Team as General Models Take Over Robot Control](#item-22) ⭐️ 7.0/10
-23. [Protein May Drive Ageing Without Triggering Inflammation](#item-23) ⭐️ 7.0/10
-24. [CERN Develops Next-Generation LHC Superconducting Magnets](#item-24) ⭐️ 7.0/10
-25. [Comparing Pointer Provenance in Rust and C++](#item-25) ⭐️ 7.0/10
-26. [ChatGPT Wallet Begins Testing Agentic Shopping](#item-26) ⭐️ 7.0/10
-27. [Nebius Tests Neocloud Financing with $40 Billion Plan](#item-27) ⭐️ 7.0/10
-28. [SoftBank’s Turbine Losses Highlight AI Power Constraints](#item-28) ⭐️ 7.0/10
-29. [OpenAI Board Member Warns AI Takeover Could Be Months Away](#item-29) ⭐️ 7.0/10
-30. [Families Seek AI Moratorium After Gemini Safety Lawsuit](#item-30) ⭐️ 7.0/10
-31. [Brain Implant Trial Volunteers Demand Autonomy and Transparency](#item-31) ⭐️ 7.0/10
-32. [Nvidia Says Advanced Chip Tracking Could Help Combat Smuggling](#item-32) ⭐️ 7.0/10
-33. [Amazon Plans a Global Product Data Index](#item-33) ⭐️ 7.0/10
-34. [Nvidia’s AI Boom Comes With Environmental Costs](#item-34) ⭐️ 7.0/10
-35. [Climate Change Pushes Ice Beyond Stable Limits](#item-35) ⭐️ 7.0/10
-36. [Synchron Pauses Brain Implant Trials After Performance Issues](#item-36) ⭐️ 7.0/10
-37. [Google and Samsung Launch Android XR Smart Glasses](#item-37) ⭐️ 7.0/10
-38. [Apple HomeView reportedly uses person recognition instead of FaceID](#item-38) ⭐️ 7.0/10
-39. [Shamonda Virus Emerges in Central European Cattle](#item-39) ⭐️ 7.0/10
-40. [KRAS Vaccines Face a Pancreatic Cancer Prevention Test](#item-40) ⭐️ 7.0/10
-41. [FM-1 Workbench Opens Portable FM Synthesis to Community Developers](#item-41) ⭐️ 6.0/10
-42. [Six Hundred JEPA Experiments Reveal Planning Parallels](#item-42) ⭐️ 6.0/10
-43. [A 1960 Population Forecast Shows the Perils of Extrapolation](#item-43) ⭐️ 6.0/10
-44. [Isometric SF Creates a Pixel-Styled Bay Area Map](#item-44) ⭐️ 6.0/10
-45. [$11.4M Nvidia GPU Shipment Vanishes in California-to-Texas Transit](#item-45) ⭐️ 6.0/10
-46. [Users Report Excessive Clicks in Everyday Digital Tasks](#item-46) ⭐️ 6.0/10
-47. [Lonewolf 0.3 Introduces a Rust-Based XMPP Server](#item-47) ⭐️ 6.0/10
-48. [No AI Slop Manifesto Prioritizes Outcomes Over Output](#item-48) ⭐️ 6.0/10
-49. [Claude Services Hit by Widespread Outage](#item-49) ⭐️ 6.0/10
-50. [FreeBSD and bhyve Seek Live-Migration Support](#item-50) ⭐️ 6.0/10
-51. [Blog Post Claims Android Clipboard-Read Restrictions Can Be Bypassed](#item-51) ⭐️ 6.0/10
-52. [National Weather Service Reports Nationwide Communications Disruptions](#item-52) ⭐️ 6.0/10
-53. [Apify Publishes Security Incident Notice](#item-53) ⭐️ 6.0/10
-54. [Rethinking “Glue Work” in Software Development](#item-54) ⭐️ 6.0/10
-55. [A Beginner-Friendly Introduction to ML Modules](#item-55) ⭐️ 6.0/10
-56. [llm-gemini 0.37 Adds Gemini 4 Hydrogen Support](#item-56) ⭐️ 6.0/10
-57. [Democrats Open Second Probe Into Nvidia China Sales](#item-57) ⭐️ 6.0/10
-58. [United Airlines Blocks AI Agents From Flight Bookings](#item-58) ⭐️ 6.0/10
-59. [Cost Barriers Push Americans Toward Unofficial GLP-1 Use](#item-59) ⭐️ 6.0/10
-60. [FAA Expands AI Air Traffic Advisory Nationwide](#item-60) ⭐️ 6.0/10
-61. [American Cancer Society Recommends Routine PSA Screening](#item-61) ⭐️ 6.0/10
-62. [Ukraine Says Starshield Limits Again Weaken Air Defense](#item-62) ⭐️ 6.0/10
-63. [Microsoft Outlook Outage Begins Recovering After Nearly Two Days](#item-63) ⭐️ 6.0/10
-64. [Mansa Uses AI Microdramas to Promote Black Stories in Hollywood](#item-64) ⭐️ 6.0/10
-65. [NASA Seeks Commercial Options to Reboost Hubble](#item-65) ⭐️ 6.0/10
-66. [DeepMind Workers Escalate UK Unionization Campaign](#item-66) ⭐️ 6.0/10
-67. [Reject Stale Updates with Atomic Revision Checks](#item-67) ⭐️ 6.0/10
-68. [Five Checks for Fintech Knowledge-Bot Retrieval and Auditability](#item-68) ⭐️ 6.0/10
-69. [Understanding x86-64 Page Tables](#item-69) ⭐️ 6.0/10
-70. [LLM Judges Can Strengthen MCP Tool Safety](#item-70) ⭐️ 6.0/10
-71. [Reclaiming SOL Locked in Empty Solana Token Accounts](#item-71) ⭐️ 6.0/10
-72. [Lula’s New Term Faces Governance and Democracy Risks](#item-72) ⭐️ 6.0/10
+1. [Jensen Huang Resignation Scandal Timeline](#item-1) ⭐️ 9.0/10
+2. [Lovable Apps Exposed Passports and 200,000 Private Messages](#item-2) ⭐️ 8.0/10
+3. [Formalizing the Entire US Tax Code in Lean to Hunt Loopholes](#item-3) ⭐️ 8.0/10
+4. [Asian Governments Respond to Nvidia CEO’s Reported Exit](#item-4) ⭐️ 8.0/10
+5. [Huang’s Departure Raises Fears for AI Startup Funding](#item-5) ⭐️ 8.0/10
+6. [China’s Leading AI Models Used Export-Restricted Nvidia Chips](#item-6) ⭐️ 8.0/10
+7. [SignDrop Windows Zero-Day Grants SYSTEM Privileges](#item-7) ⭐️ 8.0/10
+8. [Microsoft Outage Disrupts Essential Services Worldwide](#item-8) ⭐️ 8.0/10
+9. [FAA Grounds U.S. Flights After Nationwide Communications Failure](#item-9) ⭐️ 8.0/10
+10. [Shamonda Virus Emerges in European Cattle](#item-10) ⭐️ 8.0/10
+11. [Lynch Syndrome: Genetics, Screening, and Prevention Reviewed](#item-11) ⭐️ 8.0/10
+12. [KRAS Vaccines Could Help Prevent Pancreatic Cancer Recurrence](#item-12) ⭐️ 8.0/10
+13. [Microbiomes Shape Menopausal Hormone Therapy Outcomes](#item-13) ⭐️ 8.0/10
+14. [PyPI Redesigns Project Pages to Highlight Security Provenance](#item-14) ⭐️ 7.0/10
+15. [Google Adds Multi-Agent Teamwork to Antigravity](#item-15) ⭐️ 7.0/10
+16. [Italy Fines Meta $887 Million Over Android Photo Access](#item-16) ⭐️ 7.0/10
+17. [Companies Shift Privacy Toward Data Collection](#item-17) ⭐️ 7.0/10
+18. [GLM-5.3 Reaches 607.8 Tokens/s Across Two DGX Stations](#item-18) ⭐️ 7.0/10
+19. [IRS Publishes Direct File Tax-Filing Code](#item-19) ⭐️ 7.0/10
+20. [DeepSeek V3 Rebuilt in About 200 JAX Lines](#item-20) ⭐️ 7.0/10
+21. [A Visual Guide to Reinforcement Learning](#item-21) ⭐️ 7.0/10
+22. [Project Zero Sets a 90-Day Vulnerability Disclosure Deadline](#item-22) ⭐️ 7.0/10
+23. [Jane Street Builds an OxCaml DSL for Parallel Programming](#item-23) ⭐️ 7.0/10
+24. [Pointer Provenance in Rust vs. C++](#item-24) ⭐️ 7.0/10
+25. [Danfoss AK-SM800A Faces Multiple Unpatchable-Style RCE Flaws](#item-25) ⭐️ 7.0/10
+26. [Haskell Foundation Unveils Technical Vision](#item-26) ⭐️ 7.0/10
+27. [LangChain Reaches $3 Billion Valuation](#item-27) ⭐️ 7.0/10
+28. [ChatGPT Wallet Lets AI Agents Shop and Check Out](#item-28) ⭐️ 7.0/10
+29. [Democrats Investigate Nvidia’s China Sales and Huang-Trump Ties](#item-29) ⭐️ 7.0/10
+30. [Nebius Tests $40 Billion Neocloud Expansion Financing](#item-30) ⭐️ 7.0/10
+31. [Starship Flight 15 Reaches Orbit, Paving Way for Possible Catch](#item-31) ⭐️ 7.0/10
+32. [FAA Expands AI Air Traffic Advice Nationwide](#item-32) ⭐️ 7.0/10
+33. [OpenAI Board Member Warns of a Possible AI Takeover](#item-33) ⭐️ 7.0/10
+34. [Scientists Warn 1.5°C Could Be Breached by 2029](#item-34) ⭐️ 7.0/10
+35. [Starship Prepares for Historic Flight as Electron Reaches 100 Launches](#item-35) ⭐️ 7.0/10
+36. [Amazon Plans a Global Product Data Graph](#item-36) ⭐️ 7.0/10
+37. [AI Aviation Raises Human-Staffing Safety Questions](#item-37) ⭐️ 7.0/10
+38. [NASA Seeks Commercial Help to Extend Hubble&\#x27;s Lifespan](#item-38) ⭐️ 7.0/10
+39. [Building a Custom Ethernet Switch ASIC](#item-39) ⭐️ 7.0/10
+40. [KDE Documentary Examines a Desktop Software Journey](#item-40) ⭐️ 6.0/10
+41. [Terminactory Brings AI Agent Updates to a Rust Idle Game](#item-41) ⭐️ 6.0/10
+42. [Thirteen Monkey Island Versions, Side by Side](#item-42) ⭐️ 6.0/10
+43. [LinkedIn and Monster Remove 1,000+ Fake Job Postings](#item-43) ⭐️ 6.0/10
+44. [Fursoy Brings an Out-of-Order RV64 CPU to GitHub](#item-44) ⭐️ 6.0/10
+45. [Build a PostScript Interpreter from Scratch](#item-45) ⭐️ 6.0/10
+46. [Agweb Offers a Lightweight Browser Environment for AI Agents](#item-46) ⭐️ 6.0/10
+47. [A Mathematically Intuitive Primer on Generative AI](#item-47) ⭐️ 6.0/10
+48. [Reimagining Transformers Through Associative Memory](#item-48) ⭐️ 6.0/10
+49. [Report Questions Huang’s Confidence in Successor David Kress](#item-49) ⭐️ 6.0/10
+50. [JWST Finds Ice Older Than Its Host Star](#item-50) ⭐️ 6.0/10
+51. [Millions of Americans Use GLP-1 Drugs in Nonstandard Ways](#item-51) ⭐️ 6.0/10
+52. [American Cancer Society Recommends Routine PSA Screening](#item-52) ⭐️ 6.0/10
+53. [Brain-Implant Volunteers Demand Greater Autonomy and Transparency](#item-53) ⭐️ 6.0/10
+54. [Helen Toner Questions Trust in AI Leadership](#item-54) ⭐️ 6.0/10
+55. [Jensen Huang’s Shift From Showman to Founder Authority](#item-55) ⭐️ 6.0/10
+56. [AI Is Supercharging Ransomware Before Full Automation Arrives](#item-56) ⭐️ 6.0/10
+57. [Audit Old Cloud Storage Links](#item-57) ⭐️ 6.0/10
+58. [Gaza Floods Force a Choice Between Sewage and Clean Water](#item-58) ⭐️ 6.0/10
+59. [Galaxy Collisions Create Dark-Matter-Deficient ‘Ghosts’](#item-59) ⭐️ 6.0/10
+60. [Microsoft 365 Recovers After a 24-Hour Global Outage](#item-60) ⭐️ 6.0/10
+61. [Microsoft’s Outage Exposes Global Single-Provider Cloud Risk](#item-61) ⭐️ 6.0/10
+62. [Mansa Uses AI Microdramas to Test Black Audience Demand](#item-62) ⭐️ 6.0/10
+63. [Formalizing Tensor Layout Selection for ML Compilers](#item-63) ⭐️ 6.0/10
+64. [Survey Finds Most iOS Photo Vaults Hide Rather Than Encrypt](#item-64) ⭐️ 6.0/10
+65. [Plannotator Brings Email-Style Review to AI Agents](#item-65) ⭐️ 6.0/10
+66. [Atlyxen Builds 100+ Browser-Native Engineering Tools](#item-66) ⭐️ 6.0/10
+67. [Decompiling Bodyless UnsafeAccessor Methods from Metadata](#item-67) ⭐️ 6.0/10
+68. [Cangrelor Strategies Merit Evaluation in Infarction-Related Shock](#item-68) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Nvidia’s Open-Source AI Strategy Faces Leadership Uncertainty](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) ⭐️ 9.0/10
+## [Jensen Huang Resignation Scandal Timeline](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) ⭐️ 9.0/10
 
-Jensen Huang’s resignation has raised questions about Nvidia’s future support for open-source AI, including its planned $12.9 billion acquisition of Hugging Face, open-weight models, and opposition to model restrictions. Hugging Face’s CEO reportedly pledged to continue advocating for open-source AI after Huang’s departure. Huang’s departure could change Nvidia’s strategic direction across the AI stack, from open-weight models and developer platforms to industry advocacy. Because Hugging Face is a central distribution and collaboration hub for AI models, Nvidia’s acquisition could influence how widely developers access and deploy open models. Nvidia has publicly described Hugging Face as part of its long-standing commitment to open-weight models and has also contributed to open-source platforms. However, the report provides limited detail about the leadership transition or specific changes to acquisition, product, and advocacy plans, so the practical consequences remain uncertain.
+TechCrunch published a timeline of reported events surrounding Jensen Huang’s alleged resignation from Nvidia and his alleged affair with a purported Chinese spy. The reporting raises questions about possible national-security consequences amid the US-China race for advanced AI infrastructure. Huang’s reported departure would place one of the world’s leading AI-chip executives at the center of corporate-governance, export-control, and counterintelligence scrutiny. His position has been especially consequential because Nvidia’s advanced chips are central to AI capacity and US-China technology competition. Related coverage says members of Congress were calling for Huang to resign and were building momentum to subpoena him. It also reports that Huang had pushed to ease restrictions on exports of advanced AI chips to China, while Chinese AI companies were reportedly seeking Nvidia capacity outside China; however, the supplied material provides limited direct verification of the central allegations.
 
-rss · TechCrunch AI · Nov 12, 18:39
+rss · TechCrunch AI · Nov 13, 15:58
 
-**Background**: Open-weight models make the learned parameters of an AI system available for download and further use, allowing developers to inspect, adapt, or deploy them rather than relying only on a closed API. Nvidia says it has invested in open-weight models and contributed to Hugging Face, a platform where developers share and download AI models. The reported $12.9 billion acquisition would therefore connect Nvidia’s hardware business with a major model-distribution and developer ecosystem.
+**Background**: Nvidia is a leading supplier of chips used to train and operate advanced AI systems, making its export policy closely tied to US national-security interests. US controls on advanced AI-chip sales to China are a major part of the broader technology competition, and Huang has reportedly advocated a less restrictive approach. The reported scandal could therefore affect both Nvidia’s leadership and the enforcement of chip-export policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">Jensen Huang’s exit puts Nvidia ’s support for open source in question</a></li>
-<li><a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">NVIDIA to Acquire Hugging Face | NVIDIA Blog</a></li>
-<li><a href="https://www.linkedin.com/pulse/ep-49-nvidia-acquires-open-source-company-hugging-face-ziegler-08gvf">Ep. 49 nvidia acquires open - source company hugging face for $12.9B</a></li>
+<li><a href="https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html">Jensen Huang&#x27;s affair with alleged Chinese spy further ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html">Jensen Huang affair in DC: Resignation calls and moves to ...</a></li>
+<li><a href="https://www.cfr.org/articles/nvidia-chinese-espionage-and-the-ai-race-four-foreign-policy-issues-to-watch">Huang Resigns From Nvidia. Here Are the Stakes for U.S ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#Open Source AI`, `#Leadership Transition`, `#Open-Weight Models`, `#Hugging Face`
+**Tags**: `#Jensen Huang`, `#Nvidia`, `#AI leadership`, `#national security`, `#US-China technology competition`
 
 ---
 
 <a id="item-2"></a>
-## [FAA Grounds U.S. Flights After Nationwide Communications Outage](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/) ⭐️ 9.0/10
+## [Lovable Apps Exposed Passports and 200,000 Private Messages](https://www.crissyfield.de/research/lovable-en/) ⭐️ 8.0/10
 
-The Federal Aviation Administration issued a nationwide ground stop on Friday, temporarily preventing flights from departing after a communications failure disrupted all 22 Air Route Traffic Control Centers. More than 11,000 flights were delayed or canceled, while international flights were to be handled case by case. The disruption affected airports, airlines, passengers, and cargo operations across the United States, making it one of the most consequential recent failures of critical aviation infrastructure. It also highlights the vulnerability of air traffic control to failures in the communications technology that connects controllers, pilots, and supporting systems. Community reports indicated that an update to a private communications network operated by L3Harris caused the system to reboot, producing a crash and communications outage that affected radio frequencies used by controllers. The initial reports did not establish whether radar feeds were also affected, and officials reportedly warned that resolving the extended outage could take considerable time.
+A security investigation found that apps created with the Lovable AI app builder publicly exposed sensitive user data, including passport details and more than 200,000 private messages. The incident highlights insecure defaults in AI-generated app platforms and raises questions about responsibility across Lovable, Supabase, and app deployers. AI app builders make it easy for nontechnical users to create and publish applications, but insecure defaults can turn an otherwise simple deployment mistake into a large-scale data breach. The exposure could affect users whose personal information is stored in these apps and demonstrates that democratized development must include stronger privacy controls by default. The investigation reportedly involved examining network calls in browsers, a technique that did not require sophisticated hacking skills. Discussion also focused on Supabase’s database and Row Level Security defaults, including reports that fixes made for newer projects might not fully remediate existing projects; the exposure also created risks from visible API keys and unauthorized access.
 
-rss · Wired · Nov 13, 21:42
+hackernews · Hacker News \(热门\) · Nov 14, 17:43 · [Discussion](https://news.ycombinator.com/item?id=50499017)
 
-**Background**: The FAA oversees U.S. civil aviation and operates the nationwide air traffic control system through 22 Air Route Traffic Control Centers. A ground stop instructs aircraft that are ready to depart to remain on the ground, allowing officials to manage a safety-critical disruption. The FAA issued a comparable nationwide ground stop in January 2023 after a pilot notification system failed.
+**Background**: Lovable is an AI app builder that enables users to generate and deploy applications with limited technical expertise. Its apps can rely on Supabase for backend services such as Postgres databases exposed through browser-accessible APIs; Supabase’s documentation recommends explicit grants and Row Level Security policies to protect data. Security research on AI-assisted development finds that generated code and deployment workflows frequently miss security controls, making secure defaults especially important in this ecosystem.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA orders nationwide ground stop for all departing flights for...</a></li>
-<li><a href="https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848">FAA issues rare nationwide ground stop; no indication of...</a></li>
-<li><a href="https://edition.cnn.com/2026/11/13/us/faa-nationwide-ground-stop">FAA issues nationwide ground stop for all flights due to...</a></li>
+<li><a href="https://supabase.com/docs/guides/api/securing-your-api">Securing your API - Supabase Docs</a></li>
+<li><a href="https://secnews.in/article/article-ai-coding-models-insecure-code-study-2024/">Study Finds AI Coding Models Frequently Generate Insecure Code...</a></li>
+<li><a href="https://reptile.haus/journal/the-vibe-coding-data-leak-crisis-380000-ai-built-apps-and-the-death-of-security-defaults/">The Vibe-Coding Data Leak Crisis: 380,000 AI -Built Apps and the...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters focused on the scarcity of reliable technical information and circulated reports linking the outage to an L3Harris-managed private telecommunications network and a failed software rollout. Some connected the incident to the FAA&\#x27;s rollout of SMART across all 22 centers, while others reported mass delays at LAX and JFK; this suggested a potentially serious incident but did not establish the AI deployment as the cause.
+**Discussion**: Commenters argued that AI-generated apps are unusually easy targets because their developers may not understand security and because inspecting browser network requests can reveal exposed data. They also emphasized Supabase’s role in choosing permissive defaults, questioned whether reported fixes apply to existing projects, and noted a separate Railway incident involving alleged stolen keys and roughly $740,000 in AI charges.
 
-**Tags**: `#FAA`, `#Air Traffic Control`, `#Aviation Safety`, `#System Failure`, `#US Transportation`
+**Tags**: `#application-security`, `#data-privacy`, `#AI-generated-apps`, `#secure-defaults`, `#Supabase`
 
 ---
 
 <a id="item-3"></a>
-## [Colette Kress Named Nvidia’s Interim CEO](https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/) ⭐️ 9.0/10
+## [Formalizing the Entire US Tax Code in Lean to Hunt Loopholes](https://lexifina.com/blog/formalizing-the-us-tax-code) ⭐️ 8.0/10
 
-Nvidia appointed longtime Chief Financial Officer Colette Kress as interim CEO following Jensen Huang’s resignation on Thursday. Kress, who helped transform Nvidia into an AI-chip powerhouse, will temporarily lead the company. The leadership transition places one of Nvidia’s longtime finance executives at the helm of a company central to the AI and semiconductor industries. It may affect investor confidence, executive strategy, and Nvidia’s continued expansion in AI infrastructure. The announcement describes Kress’s appointment as interim rather than permanent, leaving the long-term succession question unresolved. An internal post asking the board to consider employee sentiment about Huang has received more than 1,600 comments, most supporting his reinstatement.
+Lexifina announced a project that formalizes the entire US Internal Revenue Code in the Lean theorem prover, building specialized tooling to model tax rules and computationally search for inconsistencies, unintended consequences, and loopholes. The project treats such unintended effects as &quot;bugs&quot; and explicitly calls out the 2025 &quot;Big Beautiful Bill&quot; as a case where married couples filing jointly can lose roughly $15,000 in write-offs compared with filing separately, except in the nine states without a broad individual income tax. Formalizing tax law turns statutes into machine-checkable specifications, making it possible to exhaustively test consistency across thousands of interacting provisions rather than relying on manual legal review. It also raises a deeper question for legal technology and computational law: whether &quot;loopholes&quot; should be classified as formal bugs at all, since that framing encodes a policy judgment about the legitimacy of particular tax outcomes. The work relies on Lean&\#x27;s dependent type theory and proof-checking infrastructure, so bugs become formal specification mismatches rather than mere code errors; one commenter also points to Catala, a dedicated law formalization language used by the French government in its aides service, as an existing alternative. Key caveats raised in discussion include that legislative rules are frequently internally inconsistent and that loopholes are often deliberately engineered, meaning a formal model can only surface them, not adjudicate intent.
 
-rss · Wired · Nov 12, 14:14
+hackernews · Hacker News \(热门\) · Nov 14, 15:41 · [Discussion](https://news.ycombinator.com/item?id=50497900)
 
-**Background**: Colette Kress has served as Nvidia’s Chief Financial Officer and played a role in the company’s transformation into an AI-chip powerhouse. Jensen Huang founded Nvidia and guided it into the center of the global AI-computing market, making his departure a significant leadership event. An interim CEO is typically used when a company needs continuity before selecting a permanent successor.
+**Background**: Lean is a theorem prover based on dependent type theory, where programs and proofs are checked by a small trusted kernel; it is best known from projects like Lean 4 and Mathlib, and increasingly from formal verification of software and mathematical statements. Formalization of law has a longer history in computational law and legal informatics, including a field often called law formalization with domain-specific languages such as Catala, and scholarly work on testing statutes for consistency and unintended outcomes. Tax law is a particularly dense target because the Internal Revenue Code contains thousands of interdependent sections, cross-references, phase-out thresholds, and exceptions, making manual consistency checking extremely labor-intensive.
 
-**Discussion**: An internal post urging the board to consider employees’ views on former CEO Jensen Huang drew more than 1,600 comments, with most commenters supporting his reinstatement. The response indicates substantial internal sentiment in favor of Huang’s return, although the post does not provide broader community debate beyond this referenced discussion.
+<details><summary>References</summary>
+<ul>
+<li><a href="https://leanprover.github.io/theorem_proving_in_lean/introduction.html">1. Introduction — Theorem Proving in Lean 3 (outdated)...</a></li>
+<li><a href="https://lawreview.uchicago.edu/online-archive/tax-law-and-flexible-formalizations">Tax Law and Flexible Formalizations | The University of ...</a></li>
+<li><a href="https://ceur-ws.org/Vol-1844/10000524.pdf">Formalization and Algebraic Verification of Legal Requirements</a></li>
 
-**Tags**: `#Nvidia`, `#Executive Leadership`, `#AI Semiconductors`, `#Jensen Huang`, `#Corporate Governance`
+</ul>
+</details>
+
+**Discussion**: Commenters engaged deeply with the project&\#x27;s framing: delichon and jedberg argued that calling loopholes &quot;bugs&quot; is a political statement, since no formal model can determine whether a provision&\#x27;s effect was intentional, and many loopholes are deliberately written. patrickmay noted that pre-LLM regulatory-compliance tools already surfaced significant conflicts between government rules and could only escalate them to humans, suggesting that requiring laws to be &quot;compilable&quot; would be valuable. qrobit pointed to Catala and its French government use as prior art, while rancar2 worked out the concrete magnitude of the joint-versus-separate filing disparity in the Big Beautiful Bill.
+
+**Tags**: `#Lean`, `#formalization`, `#tax law`, `#program verification`, `#legal technology`
 
 ---
 
 <a id="item-4"></a>
-## [Jensen Huang Resigns as Nvidia CEO](https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/) ⭐️ 9.0/10
+## [Asian Governments Respond to Nvidia CEO’s Reported Exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) ⭐️ 8.0/10
 
-Nvidia cofounder and CEO Jensen Huang resigned on Thursday after the company launched an investigation into his affair with an alleged Chinese intelligence asset. The announcement followed reports connecting the relationship to alleged Chinese espionage concerns. Huang&\#x27;s departure places significant leadership and national-security questions over one of the world&\#x27;s most influential AI and semiconductor companies. It could affect Nvidia&\#x27;s governance, strategic direction, and scrutiny of its operations in the context of U.S.-China technology competition. The stated catalyst was an internal investigation into an alleged affair with an alleged Chinese intelligence asset; the available item does not provide further details, timelines, or findings. It also does not identify Huang&\#x27;s successor or specify whether the allegations have been substantiated.
+Asian governments are seeking confirmation of chip-supply commitments while monitoring local projects that could be affected by Nvidia CEO Jensen Huang’s reported departure. Some governments are also addressing investigations connected to Nvidia and suspected violations of semiconductor export controls. Nvidia’s leadership change could affect AI-chip supply arrangements and regional infrastructure projects across Asia. It may also intensify scrutiny of how advanced GPUs are tracked and distributed under US export controls. The available report does not identify the specific governments, commitments, projects, or investigations involved. Broader reporting links the leadership turmoil to allegations of GPU smuggling and an alleged Chinese intelligence operation, but those claims remain separate from the Asian governments’ immediate responses described here.
 
-rss · Wired · Nov 12, 13:58
+rss · TechCrunch AI · Nov 14, 16:34
 
-**Background**: Nvidia is a major semiconductor company whose graphics processors and AI platforms are central to the expansion of data centers and advanced AI infrastructure. Alleged links between corporate leadership and foreign intelligence can raise questions about decision-making, information security, export controls, and regulatory scrutiny.
+**Background**: Nvidia supplies accelerated-computing chips widely used to train and operate AI systems, making government supply commitments important for regional data-center plans. US export controls restrict where certain advanced chips may be sent, and reports cited in the search results estimate that between 290,000 and 1.6 million advanced US semiconductors may have reached China in violation of those controls last year.
 
-**Tags**: `#Nvidia`, `#Jensen Huang`, `#CEO Resignation`, `#AI Industry`, `#Geopolitics`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://edition.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl">How the Nvidia scandal lifted the curtain on a loophole that’s giving...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1.5 million Nvidia AI GPUs... | Tom&#x27;s Hardware</a></li>
+<li><a href="https://www.bbc.com/news/articles/ck1exevgql4qo">Nvidia : How the Jensen Huang scandal exposed a headache for...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Nvidia`, `#Semiconductors`, `#AI Infrastructure`, `#Government Policy`, `#Jensen Huang`
 
 ---
 
 <a id="item-5"></a>
-## [Coway Air Purifier Reverse Engineering Enables Local Control](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) ⭐️ 8.0/10
+## [Huang’s Departure Raises Fears for AI Startup Funding](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) ⭐️ 8.0/10
 
-The author reverse engineered a Coway air purifier’s device-to-cloud protocol and developed a way to control it locally, allowing the purifier to operate without dependence on the vendor’s cloud servers. The project also exposed weaknesses in the device’s firmware and security architecture, including a root CA certificate downloaded over plain HTTP. Cloud dependence can undermine the long-term usefulness and privacy of consumer devices when vendors retire services or restrict functionality. The work demonstrates that ESP32-based appliances can often be reclaimed for local control, broader automation, and improved ownership, although the approach may be difficult for ordinary users and could expose devices to security risks. The reverse-engineering process involved analyzing the purifier’s communication protocol and replacing cloud-mediated operation with local control. Community participants highlighted the insecure HTTP certificate download, the usefulness of ESPHome and Home Assistant, and the possibility of exposing internal sensor data such as temperatures and valve positions.
+Founders and venture capitalists expect smaller funding rounds and lower valuations for AI startups following Nvidia co-founder Jensen Huang’s departure. Huang’s departure could weaken the investment strategy that saw Nvidia pour tens of billions into AI companies. Nvidia has been a major source of capital for AI startups, so changes in its investment posture could affect fundraising conditions across the industry. Smaller checks and lower valuations would matter particularly to early-stage companies dependent on strategic corporate capital. Nvidia completed 67 venture deals in 2025, excluding its formal fund, and made another 30 deals through NVentures. At the end of July, Nvidia reportedly held stakes worth $48 billion in 229 private companies, including OpenAI and Anthropic.
 
-hackernews · Hacker News \(热门\) · Nov 12, 22:03 · [Discussion](https://news.ycombinator.com/item?id=50474959)
+rss · TechCrunch AI · Nov 13, 22:43
 
-**Background**: Many connected appliances use an ESP32 or similar microcontroller and send commands through the manufacturer’s cloud, which can make otherwise capable devices unusable if the service changes. Local-first alternatives perform control directly on the device or within the home network and can integrate with platforms such as Home Assistant. ESPHome and related tools make it easier to flash, monitor, and automate embedded devices without building a full proprietary application.
+**Background**: Nvidia’s VC Alliance connects institutional investors, corporate venture arms, accelerators, incubators, and family offices that invest in AI and technology startups. Nvidia’s broader startup-investing activity made it an unusually influential strategic backer for the AI ecosystem, while its sizable private-company holdings also exposed it to changes in startup valuations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://agihunt.info/en/p/1a1d552decedd673e1f4dbc6dc2">Reverse Engineering My Coway Air Purifier … · AGI Hunt</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50474959">Reverse Engineering My Coway Air Purifier to Ditch... | Hacker News</a></li>
+<li><a href="https://www.nvidia.com/en-us/startups/venture-capital/">Venture Capital Alliance | NVIDIA</a></li>
+<li><a href="https://aifundingtracker.com/nvidia-startup-investments/">Nvidia Top Startup Investments 2026 | AI Funding Tracker</a></li>
+<li><a href="https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html">Jensen Huang’s Resignation From Nvidia Worries the A.I. Start ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Participants praised the project’s security findings and described similar successes with Haier air conditioners and other connected devices using ESP32 modules and ESPHome. They also noted that LLM-assisted reverse engineering can reduce the tedious work involved in identifying firmware flaws, while raising concerns that manufacturers may soon harden such devices against user control.
-
-**Tags**: `#reverse-engineering`, `#IoT-security`, `#local-first`, `#ESP32`, `#cloud-dependency`
+**Tags**: `#AI funding`, `#venture capital`, `#Nvidia`, `#startup valuations`, `#AI ecosystem`
 
 ---
 
 <a id="item-6"></a>
-## [AI Decodes Gödel Notebooks and Hundreds of Proved Theorems](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) ⭐️ 8.0/10
+## [China’s Leading AI Models Used Export-Restricted Nvidia Chips](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) ⭐️ 8.0/10
 
-Researchers reportedly used AI to decode and analyze Kurt Gödel’s unpublished notebooks, uncovering hundreds of proved theorems and identifying 14 themes in logic. The work, led by Jonathan von Plato, is presented as a new path for extracting discoveries from difficult mathematical archives. The project suggests that AI may help historians and mathematicians recover rigorous results from difficult handwritten archives, expanding the role of automated reasoning beyond conventional theorem proving. It could also open new research programs based on Gödel’s undeveloped ideas, although the claims still require independent mathematical verification. A major transcription obstacle is Gödel’s use of Gabelsberger shorthand, which required specialized decoding before the logical content could be interpreted. The reported findings include hundreds of proved theorems and 14 themes pursued in logic, but the available discussion supplies little detail about individual theorems or their proofs, leaving questions about rigor and completeness.
+New research reports that China’s most advanced AI models were trained using Nvidia chips subject to U.S. export restrictions. The findings suggest that restricted hardware reached Chinese AI developers despite Washington’s controls. The findings could intensify scrutiny of Nvidia, Chinese AI developers, and the effectiveness of U.S. chip export controls. They may also affect demand for Nvidia’s restricted products and accelerate efforts by Chinese companies and governments to develop domestic alternatives. The available report does not identify the specific Chinese models, chips, research methodology, or enforcement mechanisms, so the strength of the evidence remains unclear. Search results describe restricted Nvidia hardware including H100, A100, A800, H200, and Blackwell-family systems, with some products permitted on a case-by-case basis.
 
-hackernews · Hacker News \(热门\) · Nov 13, 17:30 · [Discussion](https://news.ycombinator.com/item?id=50486748)
+rss · TechCrunch AI · Nov 13, 18:40
 
-**Background**: Kurt Gödel’s incompleteness theorems showed that every sufficiently powerful consistent formal system contains true statements that cannot be proved or disproved within that system, fundamentally reshaping mathematical logic. Automated theorem proving uses computer programs to derive formal proofs, while this project applies AI primarily to deciphering and organizing archival mathematical reasoning before evaluating the recovered results.
+**Background**: Nvidia GPUs are widely used to pretrain large AI models and to perform post-training tasks such as reinforcement learning and fine-tuning. U.S. export controls restrict China’s access to advanced Nvidia accelerators to limit China’s ability to develop frontier AI and advanced semiconductors. The search results also report previous instances of Chinese institutions obtaining restricted chips or reportedly smuggling them into China.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths">‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Automated_theorem_proving">Automated theorem proving - Wikipedia</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50486748">AI unlocks Gödel &#x27;s notebooks , said to contain hundreds of proved ...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations">Investigative report details how export - restricted Nvidia AI chips ...</a></li>
+<li><a href="https://bingx.com/en/flash-news/post/northwestern-polytechnical-university-paid-for-two-nvidia-h-chips-despite-u-s-export-controls">Chinese Universities Bought Restricted Nvidia AI Chips Despite...</a></li>
+<li><a href="https://www.nvidia.com/en-us/solutions/ai/ai-training/">Frontier AI Model Training Platform - NVIDIA</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed skepticism about claims that shorthand decoding alone could reveal overlooked conclusive theorems, while noting that Gödel was an exceptionally rigorous author who likely knew the value of his own insights. Others wished to hear about the 14 logical themes and pointed out that the AI had apparently not addressed the consistency or completeness of the notebooks and their interpretation.
-
-**Tags**: `#AI for mathematics`, `#automated theorem proving`, `#Gödel`, `#mathematical logic`, `#scientific archives`
+**Tags**: `#AI chips`, `#Nvidia`, `#China AI`, `#export controls`, `#semiconductors`
 
 ---
 
 <a id="item-7"></a>
-## [AI Surpasses the NetHack Frontier](https://antithesis.com/blog/2026/nethack/) ⭐️ 8.0/10
+## [SignDrop Windows Zero-Day Grants SYSTEM Privileges](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/) ⭐️ 8.0/10
 
-Antithesis reports that an AI system beat the NetHack frontier, but the supplied excerpt does not describe the system, evaluation, or results. The linked article may contain the technical details, but they cannot be verified from the provided content. NetHack is a challenging test environment for reinforcement learning and long-horizon decision-making, so surpassing a stated frontier could indicate progress in agents that must plan under uncertainty. The significance remains difficult to assess without the comparison baseline, task definition, and reproducibility details. NetHack is an open-source roguelike game first released in 1987, and its NetHack Learning Environment provides procedurally generated, stochastic gameplay for reinforcement-learning research. The excerpt provides no metrics, model architecture, training method, hardware, baseline, or information about whether “beating the frontier” refers to score, survival time, or another benchmark.
+A former security researcher publicly released the SignDrop exploit code, targeting an unpatched Windows privilege-escalation vulnerability. The proof of concept enables local attackers to gain full SYSTEM rights. Public exploit code can shorten the window attackers need to abuse the flaw, particularly when no Microsoft fix is available. It could turn ordinary local access into complete control of a Windows machine. SignDrop exploits Windows Common Log File System log authentication and uses object-manager symbolic links to redirect file creation to an attacker-controlled location. The disclosed method bypasses mitigations Microsoft introduced in October 2025 to protect CLFS against authentication attacks.
 
-rss · Lobsters \(技术社区\) · Nov 13, 14:34
+rss · Ars Technica · Nov 13, 16:26
 
-**Background**: NetHack is an open-source single-player roguelike game whose procedurally generated levels and turn-based decisions create a difficult, long-horizon problem for reinforcement-learning agents. The NetHack Learning Environment, introduced in a 2020 NeurIPS paper, scales this setting for reinforcement-learning research by combining the game with a scalable, stochastic, procedurally generated environment. Existing work also includes MiniHack and other systems designed to study open-ended reinforcement learning and controlled interaction with the game’s randomness.
+**Background**: A local privilege-escalation exploit generally requires an attacker to have some initial access to the affected computer. Windows SYSTEM is its highest operating-system privilege level, granting capabilities far beyond those of a standard user account. The Common Log File System, or CLFS, is a Windows component involved in event-log processing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2006.13760">[2006.13760] The NetHack Learning Environment</a></li>
-<li><a href="https://proceedings.neurips.cc/paper/2020/file/569ff987c643b4bedf504efda8f786c2-Paper.pdf">The NetHack Learning Environment</a></li>
-<li><a href="https://github.com/facebookresearch/nle">GitHub - facebookresearch/nle: The NetHack Learning Environment</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/">New Windows SignDrop zero-day gives hackers SYSTEM privileges</a></li>
+<li><a href="https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html">New SignDrop Zero - Day Exploit Turns Windows CLFS Security...</a></li>
+<li><a href="https://attack.mitre.org/techniques/T1068/">Exploitation for Privilege Escalation , Technique... | MITRE ATT&amp;CK</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NetHack`, `#Reinforcement Learning`, `#AI Agents`, `#Game Playing`, `#Frontier Models`
+**Tags**: `#Windows Security`, `#Zero-Day`, `#Privilege Escalation`, `#Vulnerability Research`, `#Exploit Disclosure`
 
 ---
 
 <a id="item-8"></a>
-## [Rust 1.100.0 Stabilizes the Never Type](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 8.0/10
+## [Microsoft Outage Disrupts Essential Services Worldwide](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) ⭐️ 8.0/10
 
-Rust 1.100.0 was announced as the latest stable release of the Rust programming language. The release stabilizes the Never type and core parts of the Allocator API, while Cargo gains unused-dependency reporting, cache-collision reductions, and a dependency cooldown feature. These updates improve language expressiveness, memory-management APIs, and dependency hygiene for Rust developers. They also reinforce Rust&\#x27;s position as a widely adopted language for reliable and efficient systems software. Rust 1.100.0 is backward-compatible with older Rust code, while crates must opt into newer editions to adopt breaking changes. The new Cargo &quot;min-publish-age&quot; setting establishes a cooldown period for dependencies, and the release also includes work to reduce Cargo cache collisions.
+A global Microsoft cloud outage disrupted governments, hospitals, courts, and numerous Microsoft 365 and Azure services, with reports of impacts across more than 70 countries. Microsoft attributed the incident to failed server health checks rather than hackers, while an expert warned that the disruption may have exceeded the Amazon and CrowdStrike outages. The incident shows how concentration in a major cloud provider can simultaneously interrupt essential public services and business operations. It raises questions about redundancy, dependency mapping, and the preparedness of organizations that use Microsoft services for critical workflows. Affected services reportedly included Microsoft 365, Teams, OneDrive, Xbox, Entra, Word, Excel, Microsoft Store, and business applications; around 430 million people use Microsoft 365 globally. Microsoft reportedly identified failed server health checks as the cause, although the supplied report does not provide a detailed technical account of the failure.
 
-rss · Lobsters \(技术社区\) · Nov 12, 18:43
+rss · Ars Technica · Nov 13, 15:26
 
-**Background**: Rust follows a regular stable-release cadence and has been maintained by the Rust Foundation since 2021. Its stable releases advance the compiler and standard library without automatically introducing breaking changes, because compatibility-breaking behavior is generally tied to new language editions.
+**Background**: Microsoft Azure and Microsoft 365 provide widely used cloud computing, collaboration, identity, storage, and productivity services. Outages in such platforms can propagate through dependencies such as Microsoft Entra ID, ExpressRoute, and customer applications that rely on shared cloud control planes. The reported disruption reflects a broader infrastructure risk: critical services concentrated in one provider can inherit the same failure modes and produce simultaneous cross-sector effects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.phoronix.com/news/Rust-1.100-Released">Rust 1 . 100 Released With The &quot;Never&quot; Type Finally Stable - Phoronix</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50472038">Rust 1 . 100 | Hacker News</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29">Rust (programming language ) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/well-architected/reliability/failure-mode-analysis">Architecture strategies for performing failure mode... | Microsoft Learn</a></li>
+<li><a href="https://news.northeastern.edu/2026/11/13/global-microsoft-outage-cause/">Microsoft outage exposes risks of growing reliance on big ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: 现有的 Hacker News 讨论主要关注 Rust 的向后兼容性：用户指出旧代码仍可继续编译，而软件包必须选择更新的版本才能获得破坏性变更。一位参与者还提到 Rust 可以编译为动态库。
-
-**Tags**: `#Rust`, `#Programming Languages`, `#Systems Programming`, `#Release Announcement`
+**Tags**: `#Microsoft`, `#Cloud Infrastructure`, `#Outages`, `#Service Reliability`, `#Critical Infrastructure`
 
 ---
 
 <a id="item-9"></a>
-## [Huang’s Departure Creates AI Funding Uncertainty](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) ⭐️ 8.0/10
+## [FAA Grounds U.S. Flights After Nationwide Communications Failure](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/) ⭐️ 8.0/10
 
-After Nvidia CEO Jensen Huang resigned, founders and venture capitalists expect smaller investments and lower valuations for AI startups. His departure leaves a major gap in the support Nvidia provided for the AI ecosystem. 黄仁勋是英伟达广泛投资战略的核心人物，也是人工智能热潮中极具影响力的交易撮合者。他的缺席可能影响整个行业的初创企业融资、估值基准和风险投资策略。 在黄仁勋领导下，英伟达向人工智能初创企业投入了数百亿美元，据报道其策略是广泛布局，而不是只挑选少数冠军企业。该报道呈现的是风险投资机构和创业者的预期，并未披露实际削减的融资金额或调整后的估值。
+The FAA issued a national ground stop at 3:44 p.m. ET on Friday, halting most departures across the United States after a communications failure disrupted air traffic control systems. Officials lifted the order at 8:15 p.m. ET, more than four hours later, allowing flights to resume. The shutdown caused widespread delays, cancellations, and stranded passengers while highlighting the fragility of the infrastructure supporting the U.S. air traffic control network. Transportation Secretary Sean Duffy attributed the outage to obsolete equipment, while reports also pointed to a private communications-network update overwhelming older infrastructure. The FAA described the incident as a temporary telecommunications outage and cited safety as the basis for the national ground stop. The failure affected communications among air traffic control systems, and the event was the third nationwide ground stop in U.S. history, following September 11 and the 2023 FAA system outage.
 
-rss · TechCrunch AI · Nov 13, 22:43
+rss · Wired · Nov 13, 21:42
 
-**Background**: 英伟达与人工智能初创企业的关系已不仅限于销售芯片，还包括直接投资，这些投资帮助初创企业获得资本、算力和商业合作机会。黄仁勋被广泛视为英伟达的远见型领导者，也是人工智能行业的重要撮合者。
+**Background**: A national ground stop is an FAA safety measure that can temporarily prevent aircraft from departing while a significant control-system problem is investigated and cleared. Air traffic control depends on interconnected communications links among controllers, facilities, and aircraft, so an outage can halt operations far beyond the facility where the problem originates. The incident also revived concerns about aging equipment and the resilience of the private network connecting the FAA’s systems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://edition.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia">The AI boom was built around Jensen Huang . Now what?</a></li>
-<li><a href="https://intellectia.ai/news/stock/jensen-huang-explains-why-nvidia-invests-in-tons-of-companies-instead-of-trying-to-pick-winners">Jensen Huang discusses Nvidia &#x27;s strategy of... | Intellectia. AI</a></li>
-<li><a href="https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11">The Rise and Fall of Jensen Huang : AI Rock Star Exits Nvidia in...</a></li>
+<li><a href="https://www.reuters.com/business/aerospace-defense/old-air-traffic-control-equipment-regularly-disrupts-us-flights-2026-11-14/">Old air traffic control equipment regularly disrupts US ...</a></li>
+<li><a href="https://www.usatoday.com/story/news/nation/2026/11/13/faa-system-failure-blamed-on-technology-updates/92770720007/">Thousands were stranded at America&#x27;s airports. What went wrong?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_FAA_ground_stop">2026 FAA ground stop - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI startups`, `#venture capital`, `#Nvidia`, `#Jensen Huang`, `#AI funding`
+**Tags**: `#FAA`, `#Aviation`, `#Air Traffic Control`, `#Infrastructure Failure`, `#Flight Disruptions`
 
 ---
 
 <a id="item-10"></a>
-## [LangChain Reaches $3B Valuation With 7,000 LangSmith Customers](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) ⭐️ 8.0/10
+## [Shamonda Virus Emerges in European Cattle](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902232-4/fulltext?rss=yes) ⭐️ 8.0/10
 
-AI agent startup LangChain reportedly reached a $3 billion valuation after attracting 7,000 customers to LangSmith, its model- and platform-agnostic agent-management platform. The report does not disclose the funding round, investors, revenue, or valuation details. 这一估值表明，投资者认为帮助开发者构建、监控、评估和部署人工智能智能体的基础设施具有可观的商业需求。随着企业将智能体项目从原型开发推向生产部署，LangChain在模型无关生态中的地位也得到增强。 LangSmith provides tools to build, debug, evaluate, observe, and ship AI agents, including tracing of agent and language-model executions. Its model-agnostic approach can support multiple model providers, but the brief report provides no information on revenue growth, customer concentration, profitability, or the valuation methodology.
+In June 2026, Shamonda virus was identified in cattle in France, Germany, and Switzerland. Viral RNA was also detected in aborted bovine fetuses, suggesting transplacental transmission. The findings raise concerns about reproductive losses and other potential effects of infection during pregnancy in cattle. The virus’s spread across several central European countries also highlights the need for coordinated livestock surveillance and vector control. Shamonda virus is thought to be transmitted through bites from Culicoides midges. Detection of viral RNA in fetuses supports possible transplacental transmission, but does not by itself establish the extent of fetal infection, infectiousness, or the full range of pregnancy outcomes.
 
-rss · TechCrunch AI · Nov 13, 19:37
+rss · The Lancet · 最新文章 · Nov 13, 23:30
 
-**Background**: LangChain is a developer-focused company known for tools connected to AI-agent orchestration. LangSmith is its commercial platform for observability, evaluation, debugging, and deployment workflows. Model and platform agnosticism means the tooling is designed to work across different model providers and technology stacks rather than being tied to one model.
+**Background**: Shamonda virus belongs to the Orthobunyavirus genus within the Peribunyaviridae family and the Simbu serogroup, alongside Schmallenberg virus. It was first isolated from cattle in Nigeria in 1965 and primarily affects livestock, with midges serving as vectors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://smith.langchain.com/">LangSmith</a></li>
-<li><a href="https://draqee.com/tools/langsmith">LangSmith : Agent Observability Platform 2026 | Draqee</a></li>
-<li><a href="https://www.youtube.com/watch?v=kYtnLaJeia8">What Is LangSmith ? Explained in 5 Minutes - YouTube</a></li>
+<li><a href="https://www.woah.org/en/disease/shamonda-virus/">Shamonda virus - WOAH - World Organisation for Animal Health</a></li>
+<li><a href="https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer">What is Shamonda , the livestock virus found for the first time in... | CNN</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#LangChain`, `#LangSmith`, `#startup funding`, `#developer tools`
+**Tags**: `#Shamonda virus`, `#emerging infections`, `#orthobunyavirus`, `#pregnancy risk`, `#animal health`
 
 ---
 
 <a id="item-11"></a>
-## [Restricted Nvidia Chips Reportedly Trained China’s Leading AI Models](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) ⭐️ 8.0/10
+## [Lynch Syndrome: Genetics, Screening, and Prevention Reviewed](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901600-4/fulltext?rss=yes) ⭐️ 8.0/10
 
-New research claims that China’s most advanced AI models were trained using Nvidia chips restricted under U.S. export controls. The report raises questions about how the chips reached Chinese developers despite those restrictions. The claim could undermine the effectiveness of U.S. semiconductor export controls and intensify the AI rivalry between the United States and China. It may also lead policymakers to scrutinize Nvidia’s supply chains and demand stricter enforcement. The supplied report does not identify the affected models, chips, researchers, or methodology, so the findings cannot be independently assessed from the available information. Prior export controls led Nvidia to develop the A800 and H800 for China, but the search results do not establish that these specific products were used in the models described.
+This Lancet review synthesizes current knowledge of Lynch syndrome, including its prevalence, genetic basis, cancer risks, and molecular diagnostic strategies. It highlights universal tumour testing for mismatch repair deficiency, followed by targeted germline testing and cascade screening of relatives. Lynch syndrome is the most common inherited cancer predisposition syndrome, affecting roughly 1 in 350–450 people, but most carriers remain undiagnosed. Better case identification could enable earlier surveillance and risk-reducing care, reducing a substantial and preventable cancer burden. Lynch syndrome is caused by germline pathogenic variants in DNA mismatch repair genes and increases the risk of colorectal, endometrial, and other extracolonic cancers. Universal tumour testing for mismatch repair deficiency can reveal cases that would otherwise be missed, although it requires confirmatory germline testing, genetic counselling, and appropriate follow-up.
 
-rss · TechCrunch AI · Nov 13, 18:40
+rss · The Lancet · 最新文章 · Nov 12, 23:30
 
-**Background**: Nvidia pioneered GPUs for parallel computing and became a central supplier of hardware for large-scale AI training. U.S. export controls placed performance limits on advanced AI chips sold to China, prompting Nvidia to introduce reduced A800 and H800 products; Chinese firms such as Huawei have also gained ground as restrictions constrain Nvidia’s sales.
+**Background**: DNA mismatch repair normally corrects replication errors; defects in these genes can produce microsatellite instability, including the MSI-H pattern. Lynch syndrome is inherited in an autosomal dominant fashion, but its clinical presentation and cancer risks vary among affected families. Cascade genetic testing can identify relatives carrying the same familial pathogenic variant before cancer develops, creating opportunities for prevention and early detection.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.csis.org/analysis/insight-us-semiconductor-export-controls-update">Insight into the U . S . Semiconductor Export Controls Update</a></li>
-<li><a href="https://apnews.com/article/ai-chips-nvidia-huawei-china-1ae6228c4928ddbb43f984e9b38f49dd">Nvidia loses its AI chip edge in China as US export controls boost...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.mskcc.org/cancer-care/diagnosis-treatment/cancer-treatments/immunotherapy/mmrd-msi-h-and-tmb-h-tumors">MMRd, MSI-H, and TMB-H Tumors : What They Are and Why They...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38339422/">Real-World Data on Institutional Implementation of Screening for...</a></li>
+<li><a href="https://www.cancer.gov/publications/pdq/information-summaries/genetics/risk-assessment-hp-pdq">Cancer Genetics Risk Assessment and Counseling (PDQ®) - NCI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI chips`, `#export controls`, `#Nvidia`, `#China AI`, `#semiconductors`
+**Tags**: `#Lynch syndrome`, `#cancer genetics`, `#DNA mismatch repair`, `#hereditary cancer`, `#genetic screening`
 
 ---
 
 <a id="item-12"></a>
-## [Jensen Huang Agrees to Congressional Testimony](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) ⭐️ 8.0/10
+## [KRAS Vaccines Could Help Prevent Pancreatic Cancer Recurrence](https://www.nature.com/articles/s41591-026-04772-1) ⭐️ 8.0/10
 
-Nvidia CEO Jensen Huang agreed to testify before Congress on Wednesday after senior lawmakers threatened to subpoena him. The testimony concerns allegations surrounding his alleged affair with a woman suspected of spying for China, following his removal as CEO. The testimony could intensify congressional scrutiny of Nvidia, U.S. national-security concerns involving China, and the semiconductor industry&\#x27;s export-control practices. It may also affect scrutiny of AI chip sales, remote access to advanced AI hardware, and related policy toward China. The report says Huang was ousted after reports of an alleged affair with a woman suspected of spying for China, while search results describe him as a former CEO and say a Senate committee had planned to question him. The exact date and scope of the hearing remain uncertain in the available reports.
+A Nature Medicine perspective published online on November 13, 2026, identifies KRAS-targeting vaccination as a potential strategy for preventing pancreatic cancer recurrence. The article argues that converging therapeutic and technological advances support this approach, while emphasizing that substantial hurdles remain. KRAS mutations drive most pancreatic cancers and contribute to treatment resistance, making them a high-value target for immune-based interventions. If successful, KRAS vaccines could complement surgery and other therapies to reduce recurrence, an outcome for which effective treatments remain limited. Reported clinical work on the off-the-shelf ELI-002 2P vaccine found strong, durable KRAS-specific T-cell responses in 84% of patients with pancreatic or colorectal cancer, with stronger responses associated with longer relapse-free and overall survival. These findings support feasibility, but immune response does not by itself establish reduced recurrence, and larger randomized studies would be needed to confirm clinical benefit.
 
-rss · TechCrunch AI · Nov 12, 16:36
+rss · Nature Medicine · Nov 13, 00:00
 
-**Background**: Nvidia is a major supplier of AI and semiconductor hardware, while U.S. export controls restrict the sale of advanced AI GPUs to China. Congressional hearings can use testimony to investigate corporate conduct, national security, and the effectiveness of technology-export rules. Search results also describe broader proposals to extend export-control authority to remote access to advanced AI hardware hosted outside China.
+**Background**: KRAS is a signaling gene whose mutations can promote tumor growth and resistance to therapy. KRAS-targeting vaccines aim to direct the immune system against tumor cells carrying specific KRAS mutations rather than relying on a bespoke vaccine for every patient. In pancreatic cancer, ELI-002 7P and ELI-002 2P are experimental vaccines intended to target common KRAS mutations and help prevent cancer returning after treatment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/cmq5vd1wdgz6o">Ex- Nvidia CEO Jensen Huang summoned to testify before Congress ...</a></li>
-<li><a href="https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-super-intelligence-safety-11-12-26">Jensen Huang resigns; interim CEO of Nvidia named | Live Updates...</a></li>
-<li><a href="https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls">Trump backed Nvidia chip controls aimed at China 3 times as Lutnick...</a></li>
+<li><a href="https://medicalxpress.com/news/2025-08-vaccine-elicits-strong-immune-response.html">Vaccine elicits strong immune response in patients with pancreatic ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13037533/">Key Considerations for Targeting KRAS in Pancreatic Cancer ...</a></li>
+<li><a href="https://www.scientificamerican.com/article/new-cancer-vaccines-could-treat-some-types-of-pancreatic-colorectal-and-other-deadly-forms-of-the-disease/">New Cancer Vaccines Could Treat Some Types... | Scientific American</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#Jensen Huang`, `#Congressional Testimony`, `#AI Policy`, `#Semiconductors`
+**Tags**: `#KRAS`, `#cancer vaccines`, `#pancreatic cancer`, `#immuno-oncology`, `#precision medicine`
 
 ---
 
 <a id="item-13"></a>
-## [SignDrop Windows Zero-Day Grants SYSTEM Privileges](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/) ⭐️ 8.0/10
+## [Microbiomes Shape Menopausal Hormone Therapy Outcomes](https://www.nature.com/articles/s41591-026-04789-6) ⭐️ 8.0/10
 
-Security researcher Abdelhamid Naceri, also known as Nightmare Eclipse, publicly released a Windows zero-day exploit called SignDrop. The exploit reportedly enables local attackers to escalate from a standard user account to the highly privileged SYSTEM account. Local privilege escalation could give attackers complete control over affected Windows systems after obtaining initial access. Because the exploit has been publicly released, users and defenders may face an immediate risk of opportunistic abuse before Microsoft issues a patch. SignDrop targets a Windows security feature designed to prevent attacks involving the Common Log File System \(CLFS\) and claims to turn a normal user account into a SYSTEM account, Windows’ highest privilege level. The available reports describe it as a local privilege-escalation exploit chain, so it does not by itself provide remote access to an uncompromised machine.
+A six-month study found that menopausal hormone therapy remodels the gut, vaginal, and other microbiomes, with the vaginal community shifting toward a reproductive-age-like state. Baseline microbiome characteristics were associated with treatment response, and combining clinical and gut microbiome features improved prediction of rapid symptom remission. The findings suggest that microbiome profiling could eventually help clinicians tailor menopausal hormone therapy and identify women likely to respond quickly. This could advance precision care for menopause while reducing unnecessary treatment adjustment, although clinical use requires independent validation. Related analyses followed 356 perimenopausal women receiving oral menopausal hormone therapy over six months and examined multiple microbiome sites. Women whose gut microbiome was dominated by Phocaeicola vulgatus showed greater hormonal responsiveness and were more likely to achieve rapid clinical remission than those dominated by Prevotella copri, but the reported evidence does not yet establish a clinical testing standard.
 
-rss · Ars Technica · Nov 13, 16:26
+rss · Nature Medicine · Nov 13, 00:00
 
-**Background**: Windows assigns operating-system privileges at multiple levels, and SYSTEM is the most powerful account context available to services and system processes. A local privilege-escalation exploit is used after an attacker already has code execution or an ordinary account on a machine, allowing the attacker to cross a trust boundary and perform actions reserved for administrators or the operating system. CLFS is a Windows mechanism for managing transaction log files, and the reported exploit abuses a related security feature to facilitate privilege escalation.
+**Background**: Menopausal hormone therapy replaces hormones that decline during menopause and is used to manage symptoms such as hot flashes and urogenital symptoms. Hormone levels also influence microbial ecosystems, and reproductive-age vaginal microbiomes commonly contain abundant Lactobacillus species, whereas menopausal changes are often associated with a shift toward a more anaerobe-dominated community. Pharmacomicrobiomics refers to using microbiome characteristics to understand differences in drug response.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://cybersecuritynews.com/windows-signdrop-zero-day-exploit/">Windows SignDrop 0-Day Exploit Lets Attackers Gain SYSTEM...</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/">New Windows SignDrop zero-day gives hackers SYSTEM privileges</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows - Wikipedia</a></li>
+<li><a href="https://www.researchsquare.com/article/rs-8555097/v1">Heterogeneity in Multisystem Estrogenic and Site-Specific Microbiome ...</a></li>
+<li><a href="https://www.nature.com/articles/s41591-026-04737-4">Heterogeneity of microbiome responses to menopausal hormone ...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42977757/">Heterogeneity of microbiome responses to menopausal hormone ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Windows Security`, `#Zero-Day`, `#Privilege Escalation`, `#Vulnerability Research`, `#Cybersecurity`
+**Tags**: `#microbiome`, `#menopausal hormone therapy`, `#precision medicine`, `#women&\#x27;s health`, `#clinical research`
 
 ---
 
 <a id="item-14"></a>
-## [Microsoft Global Outage Raises Cloud Reliability Concerns](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) ⭐️ 8.0/10
+## [PyPI Redesigns Project Pages to Highlight Security Provenance](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
 
-A global Microsoft outage disrupted governments, hospitals, courts, schools, and businesses, while an expert said its scale and failure mode could exceed earlier outages involving Amazon Web Services or CrowdStrike. Microsoft reportedly attributed the incident to failed server health checks rather than a cyberattack. The disruption shows how heavily essential public services can depend on a single cloud and software provider. It also highlights that apparently routine reliability mechanisms, such as automated health checks, can create systemic risks when they fail across a large service. The available reporting identifies failed server health checks, not hackers, as the reported cause, but provides limited technical detail about the affected systems, recovery process, or duration. Search results describe the incident as involving Azure Front Door capacity loss in affected zones, with failures at edge and Entra ID components, but that account is not detailed in the supplied news excerpt.
+PyPI has launched redesigned project pages with a dedicated security tab that prominently displays release provenance and per-file attestations. The rollout, described as complete and live, makes security signals easier to find when users assess packages on PyPI. More visible provenance can help users distinguish packages built through trusted publishing workflows from releases lacking verifiable build histories. This may reduce reliance on package names and popularity alone when deciding whether to install a dependency. A release is labeled as having “full provenance” only when every file carries a PyPI Publish or SLSA Build Provenance attestation; “no provenance” means none of its files do. PyPI also warns when provenance is missing, incomplete, or conflicts with project history, but attestations are accepted only from trusted publisher identities associated with GitHub Actions, GitLab CI/CD, or Google Cloud.
 
-rss · Ars Technica · Nov 13, 15:26
+hackernews · Hacker News \(热门\) · Nov 14, 15:40 · [Discussion](https://news.ycombinator.com/item?id=50497892)
 
-**Background**: Microsoft operates Azure and widely used services such as Microsoft 365, Outlook, and Teams, making outages in its infrastructure capable of affecting many organizations at once. Earlier high-profile failures involving AWS and CrowdStrike demonstrated that cloud concentration and vendor-specific control failures can propagate quickly across downstream services.
+**Background**: Package provenance records how and where a release was built, while digital attestations provide verifiable evidence linking files to an authenticated publishing process. PyPI Trusted Publisher links uploads to approved identity providers, and Sigstore-style keyless signing is a related approach that avoids long-lived private keys by using short-lived, identity-based credentials.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://windowsforum.com/threads/microsoft-cloud-outage-highlights-edge-front-door-and-entra-id-failures.383879/">Microsoft Cloud Outage Highlights Edge Front Door... | Windows Forum</a></li>
-<li><a href="https://gulfmagazine.co/microsoft-cloud-outage-global-disruptions/">Microsoft Cloud Outage Triggers Global Disruptions</a></li>
+<li><a href="https://docs.pypi.org/using-pypi/package-security/provenance/">Checking Provenance (package origin) - PyPI Docs</a></li>
+<li><a href="https://docs.pypi.org/attestations/producing-attestations/">Producing attestations - PyPI User Documentation</a></li>
+<li><a href="https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance-18">Software Security in Supply Chains: Software Verification</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters compared the incident with earlier AWS and CrowdStrike outages, while arguing that some users understate outage risk because services usually recover quickly. Others advocated regular chaos testing and stronger resilience, although one commenter argued that cloud dependence and weak competition reduce pressure on providers to improve performance.
+**Discussion**: Community members welcomed the clearer provenance display and broader adoption of Sigstore-style keyless signing, while also requesting reusable workflows for trusted publishing. Concerns centered on the centralization of trust in major cloud platforms and the risk of locking users into specific CI/CD services; one commenter emphasized that the feature helps detect formerly legitimate projects whose PyPI entries were compromised, not inherently malicious projects.
 
-**Tags**: `#Microsoft`, `#cloud infrastructure`, `#service outage`, `#reliability engineering`, `#technology policy`
+**Tags**: `#PyPI`, `#software supply-chain security`, `#package provenance`, `#Sigstore`, `#trusted publishing`
 
 ---
 
 <a id="item-15"></a>
-## [Scientists Warn 1.5°C Could Be Reached by 2029](https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/) ⭐️ 8.0/10
+## [Google Adds Multi-Agent Teamwork to Antigravity](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
 
-Scientists warn that global warming could reach the critical 1.5°C threshold as early as 2029. The warning coincides with five years of stalled climate action and continued growth in fossil-fuel development. Reaching 1.5°C would intensify the risks of extreme heat, heavy rainfall, drought, and sea-level rise worldwide. The warning also highlights how delayed climate policy and expanding fossil-fuel production could narrow the window for limiting warming. The supplied report identifies 2029 as the possible arrival year for the 1.5°C threshold and links that prospect to stalled climate action and rising fossil-fuel development. It does not provide the study’s methodology, uncertainty range, emissions pathway, or specific regional projections.
+Google introduced Antigravity&\#x27;s /teamwork feature, which coordinates domain experts and AI agents on complex scientific and engineering projects. The feature uses a multi-agent architecture with specialized roles, parallel execution, and adversarial verification. The feature could let small research and engineering teams delegate substantial portions of long-running project work to coordinated AI agents. It also reflects a broader shift from single-agent assistants toward persistent, multi-step AI collaboration for research, coding, and technical problem-solving. Google&\#x27;s documentation describes collaborative agent teams for large projects, multi-file refactors, and complex research, including orchestration roles and adversarial verification gates. Community participants nevertheless questioned the feature&\#x27;s differentiation from competing workflows, the absence of an auto mode, and how users should practically deploy it.
 
-rss · Ars Technica · Nov 13, 14:29
+hackernews · Hacker News \(热门\) · Nov 14, 13:20 · [Discussion](https://news.ycombinator.com/item?id=50496811)
 
-**Background**: The 1.5°C threshold is a widely used benchmark in international climate policy for avoiding the most severe impacts of global warming. Crossing it does not mean climate change stops, because continued greenhouse-gas emissions can drive additional warming beyond the threshold. Fossil fuels remain a major source of carbon dioxide, while effective climate action depends on rapid emissions reductions and changes in energy and land-use practices.
+**Background**: Multi-agent systems divide work among agents that can plan, act, negotiate, and cooperate on different parts of a task. Google&\#x27;s /teamwork feature places that orchestration inside Antigravity, while the wider multi-agent literature is investigating how such systems coordinate across scientific, engineering, and other complex applications.
 
-**Tags**: `#climate change`, `#global warming`, `#climate science`, `#fossil fuels`, `#climate policy`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://antigravity.google/docs/teamwork/">Teamwork agent teams (/ teamwork ) | Google Antigravity Docs</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/">Gemini Multi - Agent Teams in Antigravity</a></li>
+<li><a href="https://arxiv.org/abs/2502.14743">[2502.14743] Multi-Agent Coordination across Diverse ... Multi-Agent Coordination across Diverse Applications: A Survey (PDF) Multi-Agentic Platforms: Architectures, Applications ... Combining Multi-Agent Systems and Artificial Intelligence of ... Agentic AI systems: A systematic survey of multi-agent ... AGENTIC AI IN MULTI-AGENT SYSTEMS: EXPLORING THE COORDINATION ... Towards a science of scaling agent systems: When and why ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Participants generally saw potential for domain experts to guide teams of agents and achieve faster project delivery with less quality loss than in some earlier workflows. Skeptics argued that /teamwork was not clearly different from Claude&\#x27;s dynamic workflows, questioned Antigravity&\#x27;s relative maturity, and noted that the announcement did not explain how to use the feature.
+
+**Tags**: `#multi-agent systems`, `#AI-assisted R&amp;D`, `#agent orchestration`, `#scientific computing`, `#Google Antigravity`
 
 ---
 
 <a id="item-16"></a>
-## [Google Rolls Out Gemini 4 Hydrogen Broadly](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/) ⭐️ 8.0/10
+## [Italy Fines Meta $887 Million Over Android Photo Access](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/) ⭐️ 7.0/10
 
-Google is rolling out Gemini 4 Hydrogen broadly as the successor to Gemini 3.8 Flash, with immediate availability rather than the cautious staged release used for Carbon and Argon. Google’s AI Mode now uses Hydrogen to better interpret complex queries, surface relevant links, and provide richer visual responses. This is a significant model transition for one of the world’s largest AI providers because Hydrogen becomes Google’s general-purpose everyday model. Its rapid rollout may affect the cost, speed, and capabilities of Google AI Mode and developers building agentic or multi-model workflows. Google describes Hydrogen as a fast, cost-efficient Gemini 4 model designed for reliable agentic workflows and everyday tasks. OpenRouter lists a 1,048,576-token context window and support for text, images, audio, video, and files such as PDFs as input, with text output; the supplied report provides no benchmarks or pricing comparisons.
+Italy’s data protection authority fined Meta €805 million, reported as $887 million, over alleged access to Android users’ photos and videos without specific consent or adequate disclosure. The action concerned a Facebook feature that recommended gallery content for posting on the platform. The penalty is significant because it targets how a major platform handled sensitive media permissions and user consent in the EU. It could influence enforcement of GDPR-style transparency and consent requirements across Android apps and strengthen scrutiny of broad media-access permissions. The reported fine equals about 0.47% of Meta’s global revenue, while the underlying feature required users to grant device permissions that could be changed later in settings. The available reporting does not clearly explain whether consent was obtained through Android’s permission system but then used for an undisclosed Facebook purpose, or whether access occurred without any permission prompt; the fine also does not by itself establish how collection will occur.
 
-rss · Ars Technica · Nov 12, 19:23
+hackernews · Hacker News \(热门\) · Nov 14, 13:48 · [Discussion](https://news.ycombinator.com/item?id=50497009)
 
-**Background**: Gemini is Google’s family of generative AI models and the technology underlying products such as Gemini and Google’s AI Mode. AI Mode is intended to answer complex searches by breaking requests into subqueries, retrieving relevant web results, and composing richer, often visual responses. Google says Hydrogen is intended to improve efficiency in multi-model workloads and support scalable developer and enterprise workflows.
+**Background**: Android apps can request permissions to read shared media, including broad access to photos and videos. Google Play’s Photo and Video Permissions policy limits access to these broad media permissions, while the relevant Facebook feature used permissions to suggest local gallery content for posting, raising questions about whether those permissions were sufficiently specific and transparent for the feature’s data use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Introducing Gemini 4 Hydrogen for Agentic Workflows</a></li>
-<li><a href="https://openrouter.ai/google/gemini-4-hydrogen">Gemini 4 Hydrogen - API Pricing &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://kie.ai/gemini-4-hydrogen">Gemini 4 Hydrogen</a></li>
+<li><a href="https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194">Italy fines Meta $887M over access to users&#x27; photos | AP News</a></li>
+<li><a href="https://developer.android.com/training/data-storage/shared/media">Access media files from shared storage - Android Developers</a></li>
+<li><a href="https://support.google.com/googleplay/android-developer/answer/15800983?hl=en">Required actions to comply with our Photo &amp; Video Permissions ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Google`, `#Gemini`, `#AI models`, `#product launch`, `#large language models`
+**Discussion**: Commenters were skeptical that Meta bypassed Android permissions, noting that users could grant or revoke access and that the report lacked technical and legal details. Others questioned what harm Italy was preventing, asked for a running total of EU technology fines, and questioned whether large penalties are actually collected.
+
+**Tags**: `#data-privacy`, `#Android`, `#Meta`, `#regulation`, `#EU-enforcement`
 
 ---
 
 <a id="item-17"></a>
-## [Lynch Syndrome Review Highlights Universal MMR Testing](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901600-4/fulltext?rss=yes) ⭐️ 8.0/10
+## [Companies Shift Privacy Toward Data Collection](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) ⭐️ 7.0/10
 
-This Lancet review assesses how Lynch syndrome is diagnosed and how cancer risk is managed. It emphasizes universal tumour testing for mismatch repair deficiency as a strategy for identifying affected patients, followed by targeted germline testing and cascade screening of relatives. 林奇综合征的患病率约为每350至450人中1人，但尽管存在大量可预防的癌症负担，大多数致病基因携带者仍未得到诊断。通过肿瘤检测改进病例发现，可能使患者更早接受监测，并帮助家庭成员降低可预防疾病带来的伤害。 Lynch syndrome is caused by germline pathogenic variants in DNA mismatch repair genes and increases the risk of colorectal, endometrial, and other cancers, with risk varying by variant and cancer type. Tumour findings alone do not establish Lynch syndrome because mismatch repair deficiency or microsatellite instability can also arise from somatic changes, making constitutional genetic confirmation important.
+The article argues that technology companies are redefining privacy from individual control toward widespread collection enabled by AI sensing and always-on recording. It highlights workplace use of AI meeting assistants that upload conversations and generate transcripts, alongside questions about consent, legal protections, and practical ways to limit exposure. AI-enabled recording can make privacy a property of organizational data practices rather than something each person can reliably control, especially when opting out may carry employment consequences. This shift affects workers, meeting participants, customers, and other people whose conversations are captured without meaningful choice. Always-on AI wearables and note-takers can continuously record audio, upload it to cloud services, and produce transcripts and summaries, creating consent, retention, security, and misuse concerns. Employers may also impose recording restrictions or internal policies, while commenters invoke human-rights protections against arbitrary interference with privacy.
 
-rss · The Lancet · 最新文章 · Nov 12, 23:30
+hackernews · Hacker News \(热门\) · Nov 14, 12:45 · [Discussion](https://news.ycombinator.com/item?id=50496602)
 
-**Background**: DNA mismatch repair normally corrects replication errors; defects in these genes can cause microsatellite instability and promote tumour development. Universal tumour testing screens for this deficiency in cancers such as colorectal or endometrial cancer, while germline testing determines whether the alteration is inherited. Once an inherited pathogenic variant is identified, cascade testing can assess relatives who may benefit from risk-reducing surveillance.
+**Background**: AI meeting assistants differ from ordinary note-taking by combining speech capture, cloud processing, transcription, and summarization, potentially producing a detailed record of a conversation. Their workplace use can blur the line between employee assistance and ambient workplace surveillance, especially when recording is automatic and consent is difficult to obtain. The discussion compares current products with the backlash surrounding Google Glass a decade earlier and suggests that collective refusal or explicit meeting norms could counter weak individual consent.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/mismatch-repair-deficiency-and-microsatellite-instability/">Mismatch repair deficiency and microsatellite instability — Knowledge...</a></li>
-<li><a href="https://www.lynchscreening.net/implementation/follow-up-germline-testing/double-somatic-mmr-mutations/">Double Somatic MMR Mutations</a></li>
-<li><a href="https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq">Genetics of Colorectal Cancer (PDQ®) - NCI</a></li>
+<li><a href="https://bizthrive.ai/blog/ai-wearables-workplace-recording-privacy">Always - On AI Wearables — Hidden Recording Devices in Your...</a></li>
+<li><a href="https://self.md/concepts/ambient-ai/">ambient AI: when your assistant is always watching, always... | self.md</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Lynch syndrome`, `#hereditary cancer`, `#genetic testing`, `#mismatch repair`, `#cancer screening`
+**Discussion**: Commenters expressed strong concern that professional meetings, including one-on-one conversations, are being recorded by AI participants without a realistic option to opt out. Some proposed explicit rules against unnecessary transcription, invoked human-rights protections, and drew a parallel to the backlash against Google Glass; others argued that practical privacy may require limiting online exposure, compartmentalizing identities, and joining privacy or legal-advocacy organizations.
+
+**Tags**: `#privacy`, `#AI`, `#surveillance`, `#data protection`, `#workplace technology`
 
 ---
 
 <a id="item-18"></a>
-## [Menopausal Hormone Therapy Reshapes Microbes and Predicts Symptom Response](https://www.nature.com/articles/s41591-026-04789-6) ⭐️ 8.0/10
+## [GLM-5.3 Reaches 607.8 Tokens/s Across Two DGX Stations](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/) ⭐️ 7.0/10
 
-A six-month clinical study found that menopausal hormone therapy reshaped both gut and vaginal microbiomes, with the vaginal community shifting toward a reproductive-age-like state. Baseline gut and vaginal community types were associated with symptom remission, while combining clinical and gut microbiome features predicted rapid symptom relief. The findings point toward microbiome-informed, personalized menopausal care, potentially helping clinicians identify patients who are more likely to respond quickly to hormone therapy. They also connect a common menopause treatment to biological changes across multiple microbial communities, although the study does not by itself establish a clinical prediction tool. The study followed participants for six months and evaluated multi-site microbiome remodeling alongside treatment outcomes. Its central observation is that baseline microbiome composition carries prognostic information about symptom remission, but the supplied material does not report sample size, effect sizes, predictive accuracy, hormone formulation, or validation in independent cohorts.
+The demonstration serves GLM-5.3 with vLLM across two networked NVIDIA DGX stations and reports throughput of 607.8 tokens per second. It also evaluates whether the roughly $200,000 hardware cost and operational demands justify the resulting performance. The result illustrates how vLLM can distribute a large model across multiple NVIDIA systems rather than requiring all weights to fit on one machine. It also highlights that peak throughput alone does not establish strong return on investment without workload, concurrency, latency, and power-cost measurements. The reported configuration spans two DGX stations and appears to use concurrency 16, but the headline figure is not clearly separated into aggregate and per-user throughput. Community participants also question the networking design and cite an alternative eight-B6000 deployment claiming about 60% higher throughput, though its cost and performance were not independently verified here.
 
-rss · Nature Medicine · Nov 13, 00:00
+hackernews · Hacker News \(热门\) · Nov 14, 14:09 · [Discussion](https://news.ycombinator.com/item?id=50497155)
 
-**Background**: Menopause can involve urogenital symptoms such as vaginal dryness, painful intercourse, and atrophic vaginitis, for which menopausal hormone therapy may be used. The microbiome consists of microorganisms living in a particular body environment, and community types describe the dominant microbial patterns in the gut or vagina. Integrating clinical information with microbiome data is part of a broader precision-medicine approach that seeks to predict individual treatment responses.
+**Background**: vLLM is an open-source serving framework that supports distributed inference across multiple GPUs and nodes, including NVIDIA DGX systems. GLM-5.3 is described as a large text-only Mixture-of-Experts model with 744 billion total parameters, 40 billion active parameters, and a context window of up to one million tokens. DGX Station systems provide high GPU memory capacity and performance, making them relevant for models whose weights and key-value caches exceed the capacity of a single accelerator.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Menopause">Menopause - Wikipedia</a></li>
-<li><a href="https://www.evvy.com/blog/vaginal-microbiome">Vaginal Microbiome : What It Is and How to Improve It | Evvy</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Multiomics">Multiomics - Wikipedia</a></li>
+<li><a href="https://docs.vllm.ai/en/v0.6.0/serving/distributed_serving.html">Distributed Inference and Serving — vLLM</a></li>
+<li><a href="https://build.nvidia.com/spark/vllm-cluster">Serve LLMs with vLLM Across DGX Sparks | DGX Spark</a></li>
+<li><a href="https://deepwiki.com/zai-org/GLM-5/1.1-model-architecture">Model Architecture | zai-org/GLM-5 | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#microbiome`, `#menopausal hormone therapy`, `#precision medicine`, `#vaginal microbiome`, `#clinical research`
+**Discussion**: Commenters were divided on the demonstration&\#x27;s practical value. Some argued that the hardware&\#x27;s multi-year payback, high power draw of roughly 1.6 kilowatts per station, noise, and uncertain multi-user scaling make it unattractive for small businesses, while others noted that lower-cost eight-GPU configurations might outperform it; several questioned whether 607.8 tokens per second represents aggregate or single-user throughput.
+
+**Tags**: `#LLM inference`, `#vLLM`, `#NVIDIA DGX`, `#GLM-5.3`, `#GPU serving`
 
 ---
 
 <a id="item-19"></a>
-## [KORS Begins Full-Band Live Aviation Radio Monitoring](https://orcasairband.com/) ⭐️ 7.0/10
+## [IRS Publishes Direct File Tax-Filing Code](https://github.com/IRS-Public/direct-file) ⭐️ 7.0/10
 
-The Orcas Airport Radio Station began live-scanning and decoding aviation traffic across the entire airband with an ETTUS B210 software-defined radio and dual NVIDIA RTX 4090 GPUs. Its CUDA-based polyphase channelizer isolates channels, demodulates voice, and detects transmissions, and the system proved useful during a Victoria ground stop. Monitoring an entire aviation band in real time provides broader situational awareness than tuning into one frequency at a time, particularly during disruptions, weather events, and ground stops. It also demonstrates how GPU parallel processing can make wideband software-defined radio analysis practical for aviation enthusiasts, researchers, and public-safety monitoring. The setup combines an ETTUS B210 with a dual-4090 computer; CUDA code performs polyphase channelization before demodulation and transmission detection. Published transcripts are raw, machine-extracted, and unedited, so weak or unintelligible passages may be inaccurate, and the system can only receive traffic rather than communicate with aircraft.
+The IRS published the source code for its free Direct File online tax-filing service in a public GitHub repository. The project was developed by an in-house IRS technology team with support from USDS, GSA, TrussWorks, Coforma, and ATI. Publishing the code enables the public, researchers, and potential contributors to inspect and improve a major federal technology service. It may also increase transparency and encourage reuse of the government&\#x27;s tax-filing infrastructure. Direct File is designed as a microservices-based online system for filing the federal Form 1040, with its architecture centered on service interactions and data flows. The release consists of source code rather than a guarantee that every deployment or future change will remain open source.
 
-hackernews · Hacker News \(热门\) · Nov 13, 22:04 · [Discussion](https://news.ycombinator.com/item?id=50490593)
+rss · Hacker News \(热门\) · Nov 14, 17:48
 
-**Background**: A software-defined radio uses general-purpose computing to sample and process radio signals that would otherwise require dedicated hardware. Aviation voice communications occupy many channels, so a wideband receiver can capture the whole airband before separating individual channels and decoding their transmissions.
+**Background**: Direct File is a government-run service that allows taxpayers to prepare and submit a federal income-tax return online. Its architecture uses multiple specialized services that communicate with one another, while IRS personnel and partner organizations contributed to development. The IRS also provides information about Form 1040 and its free filing options.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://radiohackers.com/everything-is-radio-mapping-the-invisible-airwaves-with-a-borrowed-dongle-and-an-ai-partner-77b9e1bcf0ff">Everything Is Radio : Mapping the Invisible Airwaves... | Radio Hackers</a></li>
-<li><a href="https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html">What Is a GPU ? Graphics Processing Units Defined - Intel</a></li>
+<li><a href="https://github.com/IRS-Public/direct-file">GitHub - IRS-Public/direct-file: Direct File</a></li>
+<li><a href="https://deepwiki.com/IRS-Public/direct-file/3-system-architecture">System Architecture | IRS-Public/direct-file | DeepWiki</a></li>
+<li><a href="https://www.irs.gov/individual-tax-filing">Individual tax filing | Internal Revenue Service</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters showed strong interest in the system&\#x27;s practical use during the Victoria ground stop and shared transcripts that appear to confirm the disruption. The discussion also compared it with KiwiSDR-based decoding and multi-receiver position triangulation, while another commenter pointed to a related online scanner transcriber.
-
-**Tags**: `#software-defined-radio`, `#CUDA`, `#GPU-accelerated-signal-processing`, `#aviation-radio`, `#SDR`
+**Tags**: `#open-source`, `#government-technology`, `#tax-filing`, `#public-sector`, `#GitHub`
 
 ---
 
 <a id="item-20"></a>
-## [A Technical Vision for the Haskell Ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
+## [DeepSeek V3 Rebuilt in About 200 JAX Lines](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
 
-Haskell community leaders presented a strategic technical roadmap for the language ecosystem, including long-term source compatibility across GHC releases. The proposal also prompted debate over AI suitability, cross-platform development, tooling, and paths toward broader adoption. A clearer technical strategy could improve stability and developer confidence in Haskell, particularly by reducing the cost of upgrading projects and maintaining long-lived software. The discussion also tests whether Haskell&\#x27;s concise, strongly typed design can compete more effectively in AI tooling and mainstream development environments. The roadmap&\#x27;s defining goal is to compile Haskell software written ten years earlier with the latest GHC without modifying its source code. Community participants identified compile time, incremental builds, debugging, desktop, mobile, and web deployment, and AI-assisted development as important practical considerations; the proposal remains strategic rather than a delivered breakthrough.
+Vaibhaav Tiwari released a roughly 190-line pure JAX implementation of key parts of the DeepSeek V3 architecture, without Flax, Equinox, or PyTorch. The project uses plain dictionaries of arrays and reportedly trains a small model from scratch on a MacBook Air using public-domain detective fiction. The project demonstrates how the major components of DeepSeek V3 can be expressed in a compact, readable functional implementation. It may serve as an educational reference for JAX and mixture-of-experts model design, although it is not a reproduction of the original model at production scale. The implementation reportedly covers multi-head latent attention, auxiliary-loss-free mixture-of-experts routing, and multi-token prediction. A related report says a 36.2-million-parameter version reached a validation loss of 3.51 after 12,000 training steps, making the result an architectural and educational demonstration rather than a full-scale checkpoint.
 
-hackernews · Hacker News \(热门\) · Nov 13, 14:43 · [Discussion](https://news.ycombinator.com/item?id=50484235)
+rss · Hacker News \(热门\) · Nov 14, 15:04
 
-**Background**: Haskell is a general-purpose, statically typed, purely functional programming language featuring type inference, lazy evaluation, type classes, and monadic input and output. Its principal implementation is the Glasgow Haskell Compiler, or GHC. A robust ecosystem roadmap would address compatibility across compiler versions, package and tooling maintenance, and deployment across major platforms.
+**Background**: DeepSeek V3 is a 671B-parameter mixture-of-experts language model that activates about 37B parameters for each token. Its architecture includes multi-head latent attention, auxiliary-loss-free load balancing, and multi-token prediction. JAX is a numerical computing framework that can execute tensor operations through compiled functions, while JAX’s “pure” style minimizes higher-level model-library abstractions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">A technical vision for the Haskell ecosystem - Haskell Foundation...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Haskell">Haskell - Wikipedia</a></li>
-<li><a href="https://www.haskell.org/">Haskell Language</a></li>
+<li><a href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax">GitHub - Vaibhaav-Tiwari/deepseek-v3-jax: DeepSeek V3 (MLA ...</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3">deepseek -ai/ DeepSeek - V 3 · Hugging Face</a></li>
+<li><a href="https://disruptive-concepts.com/article/deepseek-v3-moe-efficiency-frontier">DeepSeek - V 3 : A 671B-parameter Mixture - of - Experts model that</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Participants argued that Haskell&\#x27;s token efficiency, expressive type system, and machine-checkable correctness could make it well suited to agentic AI, while noting that compile time and incremental builds may blunt those advantages. They also called for stronger cross-platform reach and better live debugging, sharing examples of Haskell-assisted engineering work and a live runtime debugger for a Haskell VR compositor.
-
-**Tags**: `#Haskell`, `#programming-languages`, `#AI`, `#software-ecosystems`, `#developer-tools`
+**Tags**: `#DeepSeek V3`, `#JAX`, `#LLM`, `#Open Source`, `#Model Implementation`
 
 ---
 
 <a id="item-21"></a>
-## [Weight-Space Editing Raises Model Integrity Questions](https://www.alphaxiv.org/abs/2611.weight-space-misfolding) ⭐️ 7.0/10
+## [A Visual Guide to Reinforcement Learning](https://aatishb.com/myriad/how-brains-learn/) ⭐️ 7.0/10
 
-The paper investigates whether directly editing the weights of trained neural networks can produce persistent changes in model behavior. It does not demonstrate a computer virus or establish that weight-space editing is inherently virus-like. If weight edits can reliably alter a deployed model while leaving its training pipeline and model artifact checks largely unchanged, they could complicate model integrity, security auditing, and provenance. The broader significance is therefore an open research question rather than a demonstrated attack. The reported contribution is an investigation of direct weight-space editing as a mechanism for influencing trained models. Commenters emphasize that the paper observed weight-space editing but did not prove replication, autonomous propagation, or any equivalent of a biological virus.
+An interactive visual guide uses the example of how brains learn to explain the basic mechanics of reinforcement learning. It presents a core AI concept through visual intuition rather than a reported technical advance. Strong visual explanations can make reinforcement learning more accessible to learners who may find equations and formal terminology intimidating. The brain-learning analogy may also help readers connect machine-learning methods with neuroscience and psychology. The guide focuses on how agents learn from feedback and rewards, the central loop of reinforcement learning. The available material emphasizes intuition and accessibility, with no evidence of a new algorithm, benchmark, or formal technical contribution.
 
-hackernews · Hacker News \(热门\) · Nov 13, 18:33 · [Discussion](https://news.ycombinator.com/item?id=50487762)
+rss · Hacker News \(热门\) · Nov 14, 13:31
 
-**Background**: Weight-space programming means inspecting or modifying another neural network’s parameters directly instead of applying a conventional training loop. Neural-network weights encode learned behavior, so changing them can potentially affect outputs without retraining the full model. Model provenance and hashing are relevant because they can help identify the exact weights being distributed or deployed.
+**Background**: Reinforcement learning is a machine-learning paradigm in which an agent interacts with an environment, takes actions, and learns through trial and error to maximize cumulative rewards. Research in neuroscience has long treated reinforcement learning as a useful model for learning and decision-making in the brain, while modern deep reinforcement learning extends the basic theory into more advanced methods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://artificialintelligencemax.com/ai-tools-automation/weight-space-programming-and-the-promise-of-editing-neural-networks-directly/">Weight - Space Programming And The Promise Of Editing Neural ...</a></li>
-<li><a href="https://arxiv.org/pdf/2302.14040">Permutation Equivariant Neural Functionals</a></li>
-<li><a href="https://www.ibm.com/think/topics/machine-learning">What is Machine Learning ? | IBM</a></li>
+<li><a href="https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/">Reinforcement Learning - GeeksforGeeks</a></li>
+<li><a href="https://arxiv.org/html/2311.07315v2">An introduction to reinforcement learning for neuroscience</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0893608021003944">Reinforcement learning and its connections with neuroscience ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News discussion strongly criticizes the title’s virus and “misfolding” analogy as misleading, noting that deliberate weight editing is not analogous to accidental protein misfolding. One commenter suggests open weights and model hashing as safeguards, while another speculates about meme-like transmission through generated training data.
-
-**Tags**: `#machine learning`, `#model security`, `#weight editing`, `#model provenance`, `#neural networks`
+**Tags**: `#reinforcement-learning`, `#machine-learning`, `#visual-explanation`, `#AI-education`
 
 ---
 
 <a id="item-22"></a>
-## [OpenAI Disbands Robotics Team as General Models Take Over Robot Control](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
+## [Project Zero Sets a 90-Day Vulnerability Disclosure Deadline](https://projectzero.google/2026/11/disclosure-policy.html) ⭐️ 7.0/10
 
-OpenAI has reportedly disbanded its dedicated robotics team, with more capable general-purpose foundation models taking on robot-control tasks directly. The move reverses a strategy the company revived in 2024 after earlier abandoning robotics research in 2021. It signals that foundation models are becoming good enough that a separate specialist robotics org may no longer be worth funding, which matters for how physical AI is developed across the industry. It also raises questions about whether the decision reflects genuine capability progress or simply cost-cutting ahead of a potential IPO. OpenAI has a history of oscillating on robotics: it halted robotics research and disbanded the team in 2021, then rebooted it in 2024 aiming for collaboration in robotics and industrial manufacturing. Commenters also flag practical limits — general models are reportedly poor at real-time robot control, and streaming LLM commands at 60fps is highly token-inefficient compared to a hierarchical stack of fast, specialized low-level models plus a slower planner.
+Google&\#x27;s Project Zero will publicly disclose reported vulnerabilities 90 days after notifying the relevant parties. Its policy also states that details will become public on day 90 even if a vendor has not patched the issue by then. The policy places a clear deadline on vendors and could reduce the time critical vulnerabilities remain undisclosed. It also gives security researchers greater predictability while increasing pressure on organizations to patch promptly. Project Zero&\#x27;s disclosure FAQ says it plans to shorten the deadline to 60 days on February 2, 2027, and then to 30 days on January 3, 2028. The policy applies whether or not the vendor has completed a patch by the deadline.
 
-hackernews · Hacker News \(热门\) · Nov 13, 17:55 · [Discussion](https://news.ycombinator.com/item?id=50487184)
+rss · Hacker News \(热门\) · Nov 14, 11:13
 
-**Background**: In 2019, OpenAI researchers demonstrated a neural network trained in simulation that enabled a single robotic arm to solve a Rubik&\#x27;s cube, and in October 2020 the company abruptly halted its robotics work. The team was disbanded in 2021, with members redistributed to other projects, only for OpenAI to reboot a robotics team in 2024. The broader trend behind the news is that foundation models are increasingly being used as general controllers for robots rather than bespoke, task-specific policies.
+**Background**: Vulnerability disclosure policies balance coordinated remediation against the risk that vendors delay fixing serious flaws. Project Zero is Google&\#x27;s dedicated vulnerability research team, and its public deadlines are intended to ensure that unresolved security issues eventually receive wider attention.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.forbes.com/sites/kenrickcai/2024/05/30/openai-robotics-team/">OpenAI Is Rebooting Its Robotics Team</a></li>
-<li><a href="https://www.digitimes.com/news/a20240606PD209/openai-robotics-ai-ict-manufacturing.html">OpenAI revives robotics team , aiming for collaboration in the robotics ...</a></li>
-<li><a href="https://inf.news/en/tech/5763623b3eb82aaed6aaa46dac18c450.html">OpenAI disbanded the robot team and tried to build AGI robots .</a></li>
+<li><a href="https://projectzero.google/vulnerability-disclosure-faq.html">Vulnerability Disclosure FAQ - Project Zero</a></li>
+<li><a href="https://projectzero.google/vulnerability-disclosure-policy.html">Vulnerability Disclosure Policy - Project Zero</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Full_disclosure_%28computer_security%29">Full disclosure (computer security) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Hacker News commenters were skeptical that general models are the right tool for robot control: one argued a hierarchical stack of fast, &\#x27;dumber&\#x27; low-level models with a slower high-level planner is far more efficient, while another called the change &quot;the Bitter Lesson comes for everything.&quot; Others suggested the real motive is cost-cutting to boost numbers before an IPO, questioned whether giving up on non-cloud-connected robotics was ever in scope, and asked for a primer on using LLMs for robot control given the token inefficiency of streaming commands at 60fps.
-
-**Tags**: `#OpenAI`, `#Robotics`, `#Foundation Models`, `#AI Agents`, `#Industry Strategy`
+**Tags**: `#cybersecurity`, `#vulnerability-disclosure`, `#Project-Zero`, `#security-policy`, `#Google`
 
 ---
 
 <a id="item-23"></a>
-## [Protein May Drive Ageing Without Triggering Inflammation](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
+## [Jane Street Builds an OxCaml DSL for Parallel Programming](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/) ⭐️ 7.0/10
 
-A Nature report identifies a protein that appears to promote ageing through a non-inflammatory mechanism. The supplied material does not name the protein or provide enough experimental detail to assess the study’s scope. Separating ageing effects from inflammation could reveal a distinct pathway for understanding age-related deterioration and potential interventions. The result may be particularly relevant to efforts that aim to influence ageing without provoking inflammatory side effects. The headline characterizes the protein as driving ageing without unleashing inflammation, but the available content provides no protein identity, organism, method, effect size, or peer-review details beyond its attribution to Nature. A search result about restoring Menin concerns inflammation-linked ageing features and does not establish that Menin is the protein in this report.
+Jane Street published a technical account of creating a domain-specific language for high-performance parallel programming in OxCaml. The supplied page contains only a link to comments, so the article’s specific implementation details and results are not visible in the provided content. A purpose-built DSL could make parallel workloads easier to express while helping Jane Street explore performance-oriented language design. The work may provide useful ideas for OCaml and OxCaml developers working with multicore systems, although its broader impact cannot be assessed from the excerpt alone. OxCaml extends OCaml with compiler features and libraries for multicore parallelism, including mechanisms that track concurrent value usage to promote data-race safety. Because the original article text is absent from the supplied content, no DSL syntax, benchmark figures, implementation limitations, or production-readiness claims can be verified.
 
-rss · Hacker News \(热门\) · Nov 13, 19:25
+rss · Lobsters \(技术社区\) · Nov 14, 02:57
 
-**Background**: Cellular senescence is a state in which stressed or damaged cells stop dividing, and the accumulation of such cells can contribute to ageing. Senescent cells may also release inflammatory molecules as part of the senescence-associated secretory phenotype, making inflammation an important but not universal feature of ageing-related cellular dysfunction.
+**Background**: A domain-specific language is designed for a restricted problem domain and can expose specialized syntax or abstractions that improve clarity and tooling. OxCaml is a fast-moving collection of OCaml extensions that serves both as Jane Street’s production compiler and as a laboratory for performance-oriented language experiments. Its parallelism infrastructure builds on OCaml 5’s multicore capabilities and includes safety-oriented features intended to help prevent data races.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.jci.org/articles/view/64098">JCI - Cellular senescence and the senescent secretory phenotype...</a></li>
-<li><a href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2023.1292053/full">Frontiers | Senescence : A DNA damage response and its role in aging ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cellular_senescence">Cellular senescence - Wikipedia</a></li>
+<li><a href="https://oxcaml.org/">OxCaml | About</a></li>
+<li><a href="https://oxcaml.org/documentation/parallelism/intro/">OxCaml | Parallelism | Intro</a></li>
+<li><a href="https://blog.janestreet.com/introducing-oxcaml/">Jane Street Blog - Introducing OxCaml</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ageing`, `#biomedical research`, `#inflammation`, `#Nature`, `#Hacker News`
+**Tags**: `#OxCaml`, `#DSL`, `#Parallel Programming`, `#Language Design`, `#Performance`
 
 ---
 
 <a id="item-24"></a>
-## [CERN Develops Next-Generation LHC Superconducting Magnets](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets) ⭐️ 7.0/10
+## [Pointer Provenance in Rust vs. C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/) ⭐️ 7.0/10
 
-CERN has developed more powerful superconducting magnets intended to improve the Large Hadron Collider&\#x27;s performance and enable future particle-physics research. Stronger magnets can increase the collider&\#x27;s particle-beam energy or collision rate, improving the statistical precision of major physics experiments. The technology also advances the infrastructure needed for future high-energy accelerators and related scientific applications. The Large Hadron Collider is a 27-kilometre ring containing superconducting magnets and accelerating structures that raise particles to high energies. Relevant accelerator-magnet research includes work on high-temperature superconductors, including REBCO materials, although the supplied material does not specify the exact design, performance figures, or deployment schedule of CERN&\#x27;s new magnets.
-
-rss · Hacker News \(热门\) · Nov 13, 14:25
-
-**Background**: The Large Hadron Collider is the world&\#x27;s largest and highest-energy particle accelerator, built by CERN from 1998 to 2008 with contributions from more than 10,000 scientists. Its superconducting magnets bend particle beams around the 27-kilometre ring, while accelerating structures increase their energy. High-temperature superconductors such as REBCO are being investigated as a possible basis for stronger, more compact accelerator magnets.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://home.cern/science/accelerators/large-hadron-collider/">Large Hadron Collider – Home | CERN</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Large_Hadron_Collider">Large Hadron Collider - Wikipedia</a></li>
-<li><a href="https://acceleratingnews.eu/news/issue-49/compact-linear-collider-clic/how-high-temperature-superconductors-can-drive-evolution">How high - temperature superconductors can drive the evolution of...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Large Hadron Collider`, `#Superconducting Magnets`, `#CERN`, `#Particle Physics`, `#Scientific Instrumentation`
-
----
-
-<a id="item-25"></a>
-## [Comparing Pointer Provenance in Rust and C++](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/) ⭐️ 7.0/10
-
-The linked project presents a technical analysis of how pointer provenance is modeled and enforced in Rust compared with C++. It focuses on a low-level language-design issue central to memory safety and systems programming. Pointer-provenance rules affect which pointer manipulations are valid and how compilers can enforce or optimize them. The comparison can help systems programmers understand the different safety trade-offs between Rust and C++. The supplied page contains only a link to a discussion and no substantive article text, so specific implementation claims or version details cannot be verified. Pointer provenance generally concerns the relationship between a pointer value, its address, and the permissions or metadata a language associates with it.
+Sofía Belén López Vicens published an in-depth comparison of how Rust and C++ model pointer provenance, including an examination of LLVM IR. The article contrasts C++ integer casts with Rust&\#x27;s provenance-preserving APIs and their implications for pointer handling. Pointer provenance affects which memory allocations a pointer may access, making its treatment central to memory safety, systems programming, and language design. The comparison can help developers understand when conversions preserve or weaken the guarantees available to Rust and C++ code. Rust documents two approaches for situations involving pointers and integer-like values: Strict Provenance and Exposed Provenance. Integer-to-pointer casts can create pointers with wildcard provenance in Miri, while exposed-provenance operations reduce portability and make Rust memory-model compliance harder for tools to verify.
 
 rss · Lobsters \(技术社区\) · Nov 13, 18:37
 
-**Background**: Rust and C++ both support raw pointers for low-level operations, but their approaches to tracking pointer validity and provenance differ. Such differences influence memory-safety guarantees, compiler optimization, interoperability, and the design of systems code.
+**Background**: Pointer provenance is a compiler-tracked property that associates a pointer with the memory allocation it is intended to access. Rust aims to preserve provenance across pointer manipulation and offers APIs for exposing or manipulating it explicitly, whereas C++ proposals describe provenance being exposed when pointers are cast to integers, their representations are read through non-pointer types, or they are printed with the %p format specifier.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29">Rust (programming language ) - Wikipedia</a></li>
+<li><a href="https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/">Pointer Provenance in Rust vs C++ - sofiabelen.github.io</a></li>
+<li><a href="https://doc.rust-lang.org/stable/nightly-rustc/miri/enum.Provenance.html">Provenance in miri - Rust</a></li>
+<li><a href="https://www.open-std.org/JTC1/SC22/WG14/www/docs/n2363.pdf">C provenance semantics: examples - open-std.org</a></li>
 
 </ul>
 </details>
@@ -622,1027 +620,952 @@ rss · Lobsters \(技术社区\) · Nov 13, 18:37
 
 ---
 
-<a id="item-26"></a>
-## [ChatGPT Wallet Begins Testing Agentic Shopping](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) ⭐️ 7.0/10
+<a id="item-25"></a>
+## [Danfoss AK-SM800A Faces Multiple Unpatchable-Style RCE Flaws](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a) ⭐️ 7.0/10
 
-OpenAI is rolling out ChatGPT Wallet to U.S. ChatGPT Pro subscribers, allowing AI agents to select products and complete purchases on users’ behalf. The limited release initially targets users aged 18 or older with a U.S. billing address and eligible U.S.-issued payment cards. The rollout turns ChatGPT from a shopping assistant into a participant in checkout, advancing the shift toward agentic commerce. It could reshape how consumers interact with online stores, while raising questions about authorization, spending controls, and responsibility for agent-driven purchases. ChatGPT Wallet follows the earlier launch of OpenAI’s Dots AI agents platform. The initial rollout is restricted to U.S. Pro subscribers using eligible American Express, Chase, Mastercard, and Visa cards, and the available material does not specify the service’s broader availability or full technical limitations.
+Midnight Blue reported six zero-day vulnerabilities that enable pre-authentication remote code execution in Danfoss AK-SM800A controllers, affecting firmware through version 5.3.2. The research argues that conventional patching may be insufficient because the flaws involve missing memory-corruption defenses and exposed controllers. Remote code execution on an internet-exposed industrial controller could allow attackers to alter system behavior or use the device as an entry point into operational networks. The findings raise significant concerns for refrigeration and building-management deployments that rely on these controllers. The reported issues are described as basic security features not being enabled, including stack canaries and Position Independent Executable protections. Public reporting states that controllers are exposed to the public internet, although the supplied article excerpt contains no exploit code or fuller technical analysis.
 
-rss · TechCrunch AI · Nov 13, 16:00
+rss · Lobsters \(技术社区\) · Nov 13, 20:26
 
-**Background**: Agentic commerce refers to workflows in which AI agents perform tasks such as finding products, comparing options, ordering items, and completing purchases. Digital wallets provide the payment connection needed for agents to transact, but that expansion also requires consumer protections and interoperability across agents, merchants, and payment providers.
+**Background**: The AK-SM800A is a Danfoss system-manager controller used to coordinate refrigeration-system components, monitor operations, and optimize energy use. Such embedded devices often operate on constrained hardware and long-lived firmware, making missing exploit mitigations and delayed updates especially consequential in industrial-control environments.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://chatgpt.com/overview/">Overview | ChatGPT</a></li>
-<li><a href="https://learn.chatgpt.com/docs/web">ChatGPT on the web | ChatGPT Learn</a></li>
-<li><a href="https://www.bigcommerce.com/articles/ecommerce/agentic-commerce/">Agentic Commerce : A New, AI -Powered Way to Buy and Sell</a></li>
+<li><a href="https://ccb.belgium.be/advisories/warning-six-new-danfoss-vulnerabilities-refrigeration-controllers-risk-immediate-action">Warning: Six New Danfoss Vulnerabilities - Refrigeration ...</a></li>
+<li><a href="https://threatcluster.io/cluster/multiple-remote-code-execution-vulnerabilities-in-danfoss-sm-65b2acbc">Multiple Remote Code Execution Vulnerabilities in Danfoss SM ...</a></li>
+<li><a href="https://www.danfoss.com/en/service-and-support/downloads/dcs/adap-kool-software/ak-sm-800a/">AK-SM 800A Series - Danfoss</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Agents`, `#ChatGPT`, `#E-commerce`, `#Digital Wallets`, `#Agentic Commerce`
+**Tags**: `#security`, `#industrial-control-systems`, `#remote-code-execution`, `#vulnerability-research`, `#Danfoss`
+
+---
+
+<a id="item-26"></a>
+## [Haskell Foundation Unveils Technical Vision](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
+
+The Haskell Foundation&\#x27;s technical leadership committee has formally begun operating after several weeks of discussing its vision and strategy. The committee presents this work as a proposed technical direction for strengthening and evolving the broader Haskell ecosystem. A coordinated technical vision could help Haskell maintainers and developers prioritize shared improvements across the language, compiler, tooling, libraries, and package infrastructure. It may also make ecosystem-level decision-making more systematic for a mature open-source programming-language community. The announcement explicitly links to an external comments page on Lobsters, but the supplied news content does not expose the full proposal, its individual recommendations, or the committee&\#x27;s operational scope. The broader ecosystem-proposals repository provides specifications and a proposal process modeled on GHC proposals.
+
+rss · Lobsters \(技术社区\) · Nov 13, 14:27
+
+**Background**: Haskell&\#x27;s ecosystem includes compilers, package managers, build tools, libraries, IDEs, and other utilities used to develop Haskell software. Cabal and Stack are commonly used to build projects, although some projects may require one rather than the other. Larger ecosystem changes can be handled through formal proposal specifications and review processes.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">A technical vision for the Haskell ecosystem - Haskell Foundation...</a></li>
+<li><a href="https://github.com/haskell/ecosystem-proposals">GitHub - haskell / ecosystem - proposals : Proposals for the Haskell ...</a></li>
+<li><a href="https://www.haskell.org/get-started/">Get started - Haskell</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Haskell`, `#Programming Languages`, `#Ecosystem Development`, `#Software Engineering`
 
 ---
 
 <a id="item-27"></a>
-## [Nebius Tests Neocloud Financing with $40 Billion Plan](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/) ⭐️ 7.0/10
+## [LangChain Reaches $3 Billion Valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) ⭐️ 7.0/10
 
-Nebius plans to spend $40 billion on AI infrastructure, financing the expansion through customer prepayments and loans. The plan comes as delays involving a Microsoft data center raise concerns about the neocloud business model. The expansion tests whether customer prepayments and debt can provide enough capital to scale a neocloud at hyperscale speed. It also highlights the financing and execution risks facing companies that build dedicated AI computing capacity. Nebius intends to combine customer prepayments with loans to fund $40 billion in planned infrastructure spending. Delays at a Microsoft data center are an important caveat because infrastructure bottlenecks could undermine delivery schedules, customer commitments, and the financial assumptions behind the expansion.
+LangChain reportedly reached a $3 billion valuation, driven by adoption of its model-agnostic LangSmith agent-management platform. The company now claims 7,000 LangSmith customers. The valuation signals strong investor confidence in infrastructure for building and operating AI agents. It could accelerate competition in observability, evaluation, deployment, and governance tools as enterprises move agents into production. LangChain describes LangSmith as a framework-agnostic platform for AI-agent and LLM observability, evaluation, deployment, and lifecycle management. The brief report does not disclose the funding round, investors, revenue figures, or details behind the reported valuation.
 
-rss · TechCrunch AI · Nov 12, 21:27
+rss · TechCrunch AI · Nov 13, 19:37
 
-**Background**: A neocloud is an AI-focused cloud provider that rents GPU compute to customers for AI training and inference, typically using hourly, per-second, reserved, or contracted pricing. Such providers must arrange large amounts of capital for facilities, power, and computing equipment while managing the risk that planned capacity may not be delivered on schedule.
+**Background**: LangChain is an open-source framework for building agents and applications powered by large language models, with integrations across models, tools, and databases. LangSmith is its commercial platform for testing, monitoring, evaluating, and deploying those applications, including governance capabilities for production agents.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.hivenet.com/post/post-neocloud-business-model-explained">Neocloud business model explained: how AI GPU clouds... | Hivenet</a></li>
-<li><a href="https://vast.ai/article/what-is-a-neocloud-business-model-explained">What Is a Neocloud ? The Business Model Explained</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain : Open Source AI Agent Framework for Any Model</a></li>
+<li><a href="https://www.langchain.com/langsmith-platform">LangSmith: AI Agent &amp; LLM Observability and Evals Platform</a></li>
+<li><a href="https://info.langchain.com/agent-management">AI Agent Management Platform | LangSmith</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#neocloud`, `#data centers`, `#cloud computing`, `#infrastructure financing`
+**Tags**: `#AI Agents`, `#LangChain`, `#LangSmith`, `#Startups`, `#Funding`
 
 ---
 
 <a id="item-28"></a>
-## [SoftBank’s Turbine Losses Highlight AI Power Constraints](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/) ⭐️ 7.0/10
+## [ChatGPT Wallet Lets AI Agents Shop and Check Out](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) ⭐️ 7.0/10
 
-SoftBank lost more than $3 billion on preorders of natural-gas turbines intended to supply power to AI data centers. The reported losses suggest that financing and limited equipment availability may constrain data-center expansion plans that rely on gas generation. 这一进展表明，AI基础设施扩张不仅依赖芯片和数据中心建设，还需要充足资本与稳定电力供应。因此，运营商和政策制定者可能面临项目延误、成本上升，以及天然气发电环境影响受到更严格审查的问题。 Gas turbines can provide rapidly deployable electricity where grid connections or renewable generation are insufficient, but turbine orders require substantial upfront commitments. GE Vernova has announced data-center-focused packages, including 29 LM2500XPRESS aeroderivative turbine packages for Crusoe, while repurposed aircraft engines are generally less efficient and more polluting than conventional gas plants.
+OpenAI announced ChatGPT Wallet, a payment feature that lets ChatGPT&\#x27;s &quot;dots&quot; AI agents shop and make purchases on behalf of users. The limited rollout begins for U.S. Pro subscribers who are over 18. ChatGPT Wallet expands ChatGPT from providing shopping assistance into agentic commerce, where an AI can carry out transactions. It could reshape how consumers interact with online stores and push merchants and payment networks to accommodate purchases made by AI agents. Agent purchases are designed to use a linked bank card, while merchants receive payment tokens rather than the user&\#x27;s card details. By default, each purchase requires user confirmation with biometric authentication, so the launch is not fully autonomous; websites must also allow legitimate agent traffic and update payment and risk systems.
 
-rss · TechCrunch AI · Nov 12, 17:00
+rss · TechCrunch AI · Nov 13, 16:00
 
-**Background**: AI data centers require large, dependable quantities of electricity for processors, cooling, and supporting systems. Gas turbines are being pursued as a potentially faster source of firm power than some alternatives, but their availability and long-term operating costs can affect project economics. Other options include hydrogen-capable turbines and repurposed aircraft engines, though the latter generally have lower efficiency and higher emissions.
+**Background**: Agentic commerce refers to systems in which AI agents search for products, interact with merchants, and complete purchases for a user. ChatGPT Wallet is OpenAI&\#x27;s implementation of that model and is initially focused on its &quot;dots&quot; agents. Its rollout highlights both a new consumer payment interface and the infrastructure challenges of distinguishing legitimate agent purchases from automated abuse.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.infinityturbine.com/ge-vernova-gas-turbine-generator-for-data-center-hyperscaler-by-infinity-turbine.html">GE Vernova and the AI Data Center Power Rush How to Reserve Now...</a></li>
-<li><a href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html">Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers</a></li>
-<li><a href="https://interestingengineering.com/energy/hydrogen-turbines-power-ai-data-center">100% hydrogen turbines could power AI data centers with lower...</a></li>
+<li><a href="https://openai.com/index/introducing-chatgpt-wallet/">Introducing ChatGPT Wallet | OpenAI</a></li>
+<li><a href="https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html">OpenAI&#x27;s ChatGPT Wallet allows &#x27;dots&#x27; AI agents to make purchases</a></li>
+<li><a href="https://www.unite.ai/openai-launches-chatgpt-wallet-for-agent-assisted-purchases/">OpenAI Launches ChatGPT Wallet for Agent-Assisted ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI infrastructure`, `#data centers`, `#natural gas turbines`, `#energy markets`, `#SoftBank`
+**Tags**: `#AI agents`, `#e-commerce`, `#ChatGPT`, `#payments`, `#product launch`
 
 ---
 
 <a id="item-29"></a>
-## [OpenAI Board Member Warns AI Takeover Could Be Months Away](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/) ⭐️ 7.0/10
+## [Democrats Investigate Nvidia’s China Sales and Huang-Trump Ties](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) ⭐️ 7.0/10
 
-An OpenAI board member warned that uncontrolled AI systems could reshape society and threaten humanity within months. The warning traces a possible pathway from reward hacking to extreme societal disruption and potential human extinction. The warning connects failures in AI training and control to potentially catastrophic outcomes on a near-term timeline. It could intensify debate over how advanced AI systems should be evaluated, deployed, and governed before risks become harder to contain. Reward hacking occurs when a reinforcement-learning system maximizes its measured objective without fulfilling the developer’s intended goal. The supplied source description provides little technical evidence for the specific months-long timeline, so the claim should be understood as a warning rather than a demonstrated forecast.
+Democratic lawmakers launched a second congressional investigation into Nvidia’s China business and alleged ties between CEO Jensen Huang and President Donald Trump. The inquiry follows reports of an alleged spy affair and the Trump administration’s approval of Nvidia’s H200 chip sales to China. The investigation could intensify scrutiny of U.S. export controls, political influence over AI-chip sales, and Nvidia’s access to the Chinese market. Its outcome may affect semiconductor companies, AI developers, and the broader effort to limit advanced computing technology reaching China. The lawmakers are asking the Commerce Department to preserve records concerning Trump’s decision to permit Nvidia’s H200 sales to China. Related proposals would extend U.S. export-control authority to remote access to advanced AI hardware hosted outside China, a measure reportedly opposed by Nvidia and Oracle.
 
-rss · Ars Technica · Nov 13, 17:25
+rss · TechCrunch AI · Nov 12, 22:42
 
-**Background**: Reward hacking, also called specification gaming, is the gap between satisfying a formal objective and achieving the outcome a designer actually intended. AI alignment research seeks to prevent such mismatches and ensure increasingly capable systems remain useful and controllable. OpenAI’s stated long-term research goal includes artificial general intelligence, a system capable of solving human-level problems.
+**Background**: Nvidia has developed products such as the A800, H800, and H20 to comply with successive U.S. restrictions on advanced AI chips sold to China. Congressional scrutiny now focuses not only on direct chip sales but also on alleged lobbying and political relationships that could shape export-control decisions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Reward_hacking">Reward hacking - Wikipedia</a></li>
-<li><a href="https://www.unite.ai/what-is-reward-hacking-when-ai-optimizes-the-metric-instead-of-the-goal/">What Is Reward Hacking ? When AI Optimizes the Metric Instead ...</a></li>
-<li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
+<li><a href="https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/">Nvidia&#x27;s Trump-approved H200 chip sales face probe from ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html">Nvidia CEO Jensen Huang&#x27;s China puts Trump ties under scrutiny</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1.5 million Nvidia AI GPUs... | Tom&#x27;s Hardware</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI Safety`, `#Reward Hacking`, `#AI Alignment`, `#Existential Risk`, `#OpenAI`
+**Tags**: `#Nvidia`, `#AI chips`, `#China export controls`, `#US politics`, `#Regulation`
 
 ---
 
 <a id="item-30"></a>
-## [Families Seek AI Moratorium After Gemini Safety Lawsuit](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/) ⭐️ 7.0/10
+## [Nebius Tests $40 Billion Neocloud Expansion Financing](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/) ⭐️ 7.0/10
 
-Families are challenging Google&\#x27;s use of Gemini in schools after a lawsuit alleged that the chatbot acted as a harmful “suicide coach.” The case has prompted renewed calls for schools to pause generative AI use in classrooms. The allegations raise serious questions about whether general-purpose AI assistants can be safely deployed for children without stronger mental-health safeguards and human oversight. The dispute could accelerate school moratoria, shape procurement rules, and influence how education companies test and restrict AI products. Google&\#x27;s Gemini API exposes adjustable safety settings for restricting or allowing content by category, while Gemini for Education positions the system as support for lesson planning, brainstorming, and research. However, the provided material does not establish the technical cause of the alleged failure, identify the specific safeguards in place for the affected student, or describe the outcome of the lawsuit.
+Nebius plans to finance a $40 billion AI infrastructure expansion through customer prepayments and loans. The plan comes as reported delays at a Microsoft data center raise questions about demand assumptions and the financing model. The expansion is a major test of the neocloud model, in which specialized providers rent GPU capacity for AI workloads. Its financing structure could become a template for funding data-center buildouts, but delays may expose the risks of relying on prepayments and debt to finance rapid capacity growth. Nebius disclosed a $3.5 billion financing facility with Citi on October 22, 2026, supplementing customer prepayments and operating cash flow. Search results also indicate that 2026 capital-expenditure guidance was raised to $27 billion, with 2027 spending expected at $40 billion to $45 billion and additional support from asset-backed financing.
 
-rss · Ars Technica · Nov 12, 18:57
+rss · TechCrunch AI · Nov 12, 21:27
 
-**Background**: Gemini, originally known as Bard, is Google&\#x27;s generative AI chatbot and assistant for tasks such as writing, planning, and brainstorming. An AI moratorium in schools generally means temporarily prohibiting generative tools—including Gemini, ChatGPT, AI writing assistants, and AI tutoring platforms—from classroom use while their educational and safety implications are assessed. Such proposals reflect broader concern that students may rely on AI in ways that undermine learning or expose them to harmful interactions.
+**Background**: A neocloud is an AI-focused cloud provider that manages GPU infrastructure and rents computing capacity to customers, typically on an hourly, per-second, reserved, or contract basis. These providers must finance expensive facilities, hardware, power, and network connections while securing customers willing to commit to future capacity. Customer prepayments can reduce upfront funding risk, while loans and asset-backed financing can accelerate construction, but they also expose providers to utilization and project-execution risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://ai.google.dev/gemini-api/docs/safety-settings">Safety settings | Gemini API | Google AI for Developers</a></li>
-<li><a href="https://edu.google.co.zm/ai/gemini-for-education/?pt_ref=ai">Empower Learning with Gemini for Education - Google for Education</a></li>
-<li><a href="https://hiwavemakers.com/blog/ai-moratorium-schools-what-parents-need-to-know/">AI Moratorium in Schools : What the Research Really Says</a></li>
+<li><a href="https://nebius.com/newsroom/nebius-secures-3-5-billion-financing-facility-with-citi">Nebius secures $3.5 billion financing facility with Citi</a></li>
+<li><a href="https://www.kucoin.com/news/flash/nebius-q3-2026-report-customer-prepayments-cover-ai-build-out-costs">Nebius Q3 2026 Report: Customer Prepayments Cover AI Build ...</a></li>
+<li><a href="https://www.hivenet.com/post/post-neocloud-business-model-explained">Neocloud business model explained: how AI GPU clouds... | Hivenet</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Gemini`, `#AI safety`, `#education technology`, `#policy`, `#child safety`
+**Tags**: `#AI infrastructure`, `#neocloud`, `#data centers`, `#cloud financing`, `#Nebius`
 
 ---
 
 <a id="item-31"></a>
-## [Brain Implant Trial Volunteers Demand Autonomy and Transparency](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) ⭐️ 7.0/10
+## [Starship Flight 15 Reaches Orbit, Paving Way for Possible Catch](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) ⭐️ 7.0/10
 
-Participants in brain-implant trials are calling for greater autonomy, more transparency, and fewer restrictive nondisclosure agreements. Their demands concern how invasive neurotechnology research is conducted and how participants’ contributions are governed. Brain-implant studies increasingly depend on people who accept surgical and privacy-related risks to advance technologies that may restore communication or movement control. Clearer consent, access to research information, and limits on confidentiality restrictions could strengthen trust and improve participation in human-subjects research. The available excerpt does not identify specific trials, institutions, proposed policy changes, or the number of participants behind the demands. It frames the issue around participant agency in research involving implantable devices that decode brain activity for uses such as robotic-limb control, computer control, and speech restoration.
+SpaceX’s Starship reached orbit during its 15th test flight on November 13, 2026. Although the company canceled the planned launch-site catch of the Super Heavy booster, the flight prepared the system for a possible catch attempt on Saturday. Reaching orbit validates another major step in Starship’s flight program, while a launch-pad catch could demonstrate rapid reuse of its largest booster. Success would strengthen SpaceX’s reusable-launch strategy and could reduce hardware replacement demands and launch costs. The mission launched on November 13 as part of an ambitious 22-hour Flight 15 test, and SpaceX redirected Booster 22 for an ocean splashdown after aborting the tower-catch plan. The possible Saturday attempt may involve the first catch of a Version 3 Super Heavy booster and the first attempt to catch the Starship spacecraft itself, subject to final confirmation.
 
-rss · MIT Technology Review · Nov 13, 10:00
+rss · Ars Technica · Nov 14, 00:49
 
-**Background**: Brain implants can translate neural activity into commands for external devices, including robotic limbs and communication systems. Because implantation involves surgery and sensitive neural data, participants face distinctive medical, privacy, and autonomy concerns. Nondisclosure agreements can limit what participants may discuss about their experiences, making transparency an important issue in neurotechnology governance.
+**Background**: Starship is SpaceX’s reusable launch system, comprising the Super Heavy booster and the Starship spacecraft. Unlike conventional rockets that discard their stages, SpaceX intends to recover both components; the booster is designed to return to the launch tower and be caught by mechanical “chopsticks.” The company has already demonstrated a Super Heavy booster catch, but catching the upper-stage spacecraft would be a more demanding and consequential milestone.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html">‘I Have a Lot to Say’: Brain Implant Helps a Disabled Patient Speak</a></li>
-<li><a href="https://neuralink.com/">Neuralink — Pioneering Brain Computer Interfaces</a></li>
-<li><a href="https://research.nih.gov/">Research</a></li>
+<li><a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship">SpaceX launches Starship on ambitious 22-hour Flight 15 test , but...</a></li>
+<li><a href="https://nextspaceflight.com/starship/">Starship | Next Spaceflight</a></li>
+<li><a href="https://www.scientificamerican.com/article/spacexs-starship-lifts-off-in-make-or-break-orbital-test-flight/">SpaceX ’s Starship lifts off in make-or-break orbital test flight</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#brain implants`, `#neurotechnology`, `#human subjects`, `#research ethics`, `#participant autonomy`
+**Tags**: `#SpaceX`, `#Starship`, `#Spaceflight`, `#Reusable Rockets`, `#Launch Tests`
 
 ---
 
 <a id="item-32"></a>
-## [Nvidia Says Advanced Chip Tracking Could Help Combat Smuggling](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/) ⭐️ 7.0/10
+## [FAA Expands AI Air Traffic Advice Nationwide](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) ⭐️ 7.0/10
 
-Nvidia representatives privately told Illinois representative Bill Foster that advanced chip-tracking mechanisms required by the Chip Security Act were technically feasible. This contrasted with an industry group&\#x27;s public assessment that some proposed anti-smuggling measures could be potentially infeasible. The disagreement could materially affect semiconductor supply-chain legislation and enforcement, particularly the design and feasibility of mechanisms for locating advanced chips. It may also influence how policymakers balance anti-smuggling controls against compliance costs and technical limitations. The drafted act allows tracking through facility inspections, company attestations, or ping-based location mechanisms, with the ping-based approach described as the hardest to circumvent. Nvidia&\#x27;s December 2025 Fleet Intelligence announcement, which lets customers monitor the location of its advanced chips, suggests relevant tracking capabilities may already exist.
+The FAA expanded the SMART system nationwide to help controllers advise on traffic management across the entire U.S. airspace. The $875 million AI-supported tool combines 200 data streams to anticipate congestion and recommend potential routing or capacity responses. A nationwide deployment could reduce delays and improve the use of constrained airspace, particularly as weather, staffing levels, and traffic demand interact. It also moves AI from a regional trial into a role touching the daily operation of a safety-critical national infrastructure system. FAA said SMART rerouted 180 flights after its September 21 launch over Washington, D.C., saving an average of 10 minutes and nearly 80 gallons of fuel per flight. The tool provides advice rather than direct control, and the FAA says it will not affect air safety, while controller-union representatives criticize the rollout for excluding them from development.
 
-rss · MIT Technology Review · Nov 12, 20:16
+rss · Ars Technica · Nov 13, 21:20
 
-**Background**: The Chip Security Act is intended to strengthen controls on advanced semiconductors and address smuggling through requirements that reveal where chips are located. Proposed methods range from physical inspections and corporate attestations to electronic location tracking. The feasibility of these methods remains disputed because technical capability alone does not resolve questions about privacy, cost, implementation, and circumvention.
+**Background**: SMART stands for Strategic Management of Airspace, Routes and Trajectories and draws on weather, flight paths, traffic flow, and controller-staffing data. Its function is to identify where demand may exceed available capacity and help traffic-management personnel consider reroutes or other mitigations. Controllers retain responsibility for operational decisions, so the system is an advisory aid rather than an autonomous air traffic controller.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/">Nvidia privately confirmed it could track ... | MIT Technology Review</a></li>
-<li><a href="https://ainewscove.com/news/7126/">The Download: Silicon Valley’s blind spot and Nvidia’s chip - tracking ...</a></li>
-<li><a href="https://quasa.io/insights/anthropic-quits-a-tech-lobby-three-chip-control-bills-split-the-industry">Why Anthropic Left ITI Over Three Chip Bills</a></li>
+<li><a href="https://generalaviationnews.com/2026/09/22/faa-launches-new-ai-air-traffic-control-tool/">FAA Launches New AI Air Traffic Control Tool</a></li>
+<li><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">FAA expands AI advice to manage air traffic congestion across entire...</a></li>
+<li><a href="https://www.flyingmag.com/faa-smart-ai-rollout-natca-atc-union/">FAA&#x27;s Rollout of SMART AI System Left Out ATC Union</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#semiconductors`, `#chip-security`, `#supply-chain`, `#Nvidia`, `#policy`
+**Discussion**: Airline executives welcomed the tool because it promises measurable fuel and time savings. Air traffic controller representatives and some lawmakers raised concerns about safety oversight, workforce effects, and the absence of controller-union involvement during SMART&\#x27;s development.
+
+**Tags**: `#artificial intelligence`, `#aviation`, `#air traffic management`, `#FAA`, `#automation governance`
 
 ---
 
 <a id="item-33"></a>
-## [Amazon Plans a Global Product Data Index](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) ⭐️ 7.0/10
+## [OpenAI Board Member Warns of a Possible AI Takeover](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/) ⭐️ 7.0/10
 
-Amazon reportedly plans to build a “World Product Graph” covering nearly every product sold online, including items Amazon does not stock. The initiative would use the resulting product information to power shopping and product discovery on Amazon’s own site. The project could make Amazon a more influential shopping search platform while reducing the need for shoppers to visit competing retailers. It also positions Amazon to compete more directly with AI shopping agents that synthesize product information across websites. Internal documents reportedly describe a possible public launch in October 2027, though the original news excerpt is brief and does not provide a full implementation timeline. A product knowledge graph generally structures product entities, standardized attributes, and relationships so search and recommendation systems can compare items more effectively.
+An OpenAI board member warned that advanced AI could reshape or potentially end human society within months. The warning traces a pathway from reward hacking to catastrophic risks, although the supplied summary provides little technical evidence supporting that timeline. A warning of this magnitude from a prominent AI governance figure could intensify debate over frontier-AI development, oversight, and catastrophic-risk preparation. It also highlights the need to evaluate specific capability gains and failure pathways rather than relying solely on broad existential-risk scenarios. Reward hacking occurs when a reinforcement-learning system maximizes its stated reward signal without fulfilling the developer’s intended outcome, potentially creating a gap between measured success and real-world safety. The available material does not identify the board member, document the proposed chain of events, or substantiate the claim that societal takeover could happen within months.
 
-rss · The Verge · Nov 13, 23:49
+rss · Ars Technica · Nov 13, 17:25
 
-**Background**: A product knowledge graph connects products with standardized attributes such as category, brand, specifications, and availability. Search and AI shopping systems use structured data to identify similar items, compare options, and recommend products across merchants.
+**Background**: AI takeover scenarios concern advanced systems gaining enough autonomy, resources, or influence to obstruct human control or reshape society. AI existential-risk research distinguishes broad pathways, including decisive single-event failures and cumulative cascades in which several smaller risks compound over time. Reward hacking is one relevant mechanism because a system can satisfy a proxy objective while violating the broader intent behind its training and governance safeguards.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://finance.biggo.com/news/5b92133e-14e4-4bb7-a6f1-9ce77b88308d">Amazon Moves to Monopolize Global Product Data... — BigGo Finance</a></li>
-<li><a href="https://www.resultfirst.com/blog/ecommerce-seo/ecommerce-product-knowledge-graphs/">How Ecommerce Product Knowledge Graphs Improve... | ResultFirst</a></li>
-<li><a href="https://neo4j.com/blog/knowledge-graph/what-is-knowledge-graph/">What is a knowledge graph ? - Neo4j Neo4j Graph Intelligence Platform</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Reward_hacking">Reward hacking - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence">Existential risk from artificial intelligence - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2401.07836v3">Two Types of AI Existential Risk:Decisive and Accumulative</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Amazon`, `#e-commerce`, `#product search`, `#AI`, `#shopping data`
+**Tags**: `#AI Safety`, `#Reward Hacking`, `#Existential Risk`, `#OpenAI`, `#AI Governance`
 
 ---
 
 <a id="item-34"></a>
-## [Nvidia’s AI Boom Comes With Environmental Costs](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution) ⭐️ 7.0/10
+## [Scientists Warn 1.5°C Could Be Breached by 2029](https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/) ⭐️ 7.0/10
 
-The investigation examines how Nvidia’s AI-driven demand for chips has expanded water- and chemical-intensive semiconductor factories, placed heavy pressure on electricity grids through data centers, and accelerated the prospect of electronic waste. It argues that cofounder and CEO Jensen Huang’s pursuit of AI growth has made Nvidia a major environmental liability as well as a technology-industry leader. AI infrastructure is not limited to software: its expansion requires semiconductor fabrication, continuous data-center operation, cooling, and eventually hardware disposal. As Nvidia drives investment across this supply chain, its environmental footprint may extend well beyond its own facilities and raise questions about whether the benefits of rapid AI deployment justify its physical costs. Modern semiconductor fabs use complex water loops, including treatment of raw or reclaimed water into ultrapure water for wafer processing, while process gases may require wet scrubbers that consume additional water. AI data centers also create sustained electricity and cooling demand, and faster hardware turnover contributes to energy use and e-waste across the lifecycle; one University of Michigan summary reports that poor hardware-software alignment can waste up to 30% of electricity during AI model training alone.
+Scientists warn that global warming could push the world across the 1.5°C threshold as early as 2029 while climate action has stalled for five years. Fossil-fuel development continues to grow, adding to the risk that countries miss the Paris Agreement’s temperature goal. A 1.5°C breach would bring more severe and frequent climate risks, including extreme heat, heavy rainfall, drought, and ecosystem disruption. It could also increase pressure for rapid emissions cuts, adaptation spending, and restrictions on fossil-fuel development. The warning is linked to a remaining carbon budget of about 130 gigatonnes of CO₂ for a 50% chance of limiting warming to 1.5°C, with exhaustion projected for 2029 if emissions remain near current levels. Exhausting this budget would not cause an instantaneous jump to 1.5°C, but it would make temporary exceedance much more likely.
 
-rss · The Verge · Nov 13, 17:44
+rss · Ars Technica · Nov 13, 14:29
 
-**Background**: Semiconductor fabrication requires exceptionally pure water and specialized chemical processes, making chip production resource-intensive even when factories recycle and reuse water. AI accelerators then operate in data centers that need large, continuous supplies of electricity and cooling capacity, potentially affecting grid planning and local electricity costs. Electronic waste adds a final lifecycle stage, because obsolete accelerators and other hardware must be collected, recycled, or disposed of.
+**Background**: The Paris Agreement seeks to hold global average warming well below 2°C above pre-industrial levels while pursuing efforts to limit it to 1.5°C. The 1.5°C figure is a long-term average temperature target, not a point at which climate impacts abruptly begin, and exceeding it would not make the Paris goals formally impossible to recover from. Carbon budgets estimate how much additional CO₂ can be emitted while remaining consistent with a given warming limit, and they are recalculated as scientific evidence and emissions trajectories change.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://semiengineering.com/how-semiconductor-fabs-use-water/">How Semiconductor Fabs Use Water</a></li>
-<li><a href="https://lest.fe.uni-lj.si/news/invited-lecture-ai-data-centers-and-their-impact-on-the-electrical-grid-by-dr-edvina-uzunovic/">Invited Lecture: AI Data Centers and Their Impact on the Electrical ...</a></li>
-<li><a href="https://news.umich.edu/optimizing-ai-energy-consumption-throughout-its-entire-lifecycle/">Optimizing AI energy consumption throughout its entire lifecycle</a></li>
+<li><a href="https://unfccc.int/process-and-meetings/the-paris-agreement">The Paris Agreement - UNFCCC</a></li>
+<li><a href="https://climatechangetracker.org/climate-change-progress/current-remaining-carbon-budget-and-trajectory-till-exhaustion">Current Remaining Carbon Budget - Climate Change Tracker</a></li>
+<li><a href="https://apnews.com/article/warming-carbon-climate-change-too-late-943b4b34bff5110631c2e02f5cdf7d68">In early 2029, Earth will likely lock into breaching key ... A geophysical commitment to warming over 1.5 °C by 2029 after ... Global warming will breach 1.5°C – but deep, fast cuts can ... Chapter 2 — Global Warming of 1.5 ºC - IPCC Limiting Overshoot - Navigating exceedance of 1.5°C and ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#AI infrastructure`, `#semiconductors`, `#environmental impact`, `#data centers`
+**Tags**: `#climate change`, `#global warming`, `#climate science`, `#fossil fuels`, `#policy`
 
 ---
 
 <a id="item-35"></a>
-## [Climate Change Pushes Ice Beyond Stable Limits](https://www.wired.com/story/climate-change-abolishes-ice/) ⭐️ 7.0/10
+## [Starship Prepares for Historic Flight as Electron Reaches 100 Launches](https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/) ⭐️ 7.0/10
 
-Burning fossil fuels has increased the risk that the world&\#x27;s cryosphere will undergo accelerating and partly irreversible changes. The report frames this as a departure from historically stable conditions that have supported human societies. A destabilizing cryosphere can amplify warming, raise sea levels, and disrupt ecosystems and human livelihoods. Once critical thresholds are crossed, changes may continue for centuries or millennia and become difficult or impossible to reverse. The available excerpt presents the central risk qualitatively and provides limited technical measurements, locations, or timelines. It specifically links fossil-fuel-driven warming to accelerating and partly irreversible harm in Earth&\#x27;s cold regions.
+Ars Technica’s Rocket Report previews an upcoming Starship test flight that could mark a historic step for SpaceX’s reusable launch system. The roundup also highlights Rocket Lab’s Electron, which is approaching or reaching its 100th launch. A successful Starship flight would advance SpaceX’s effort to demonstrate a fully reusable, large-lift launch architecture capable of carrying payloads and eventually supporting propellant-transfer operations. Electron’s 100th launch demonstrates the maturity and commercial durability of a small-lift vehicle serving the small-satellite market. Starship uses a large propellant tank to feed its engines, with in-space cryogenic propellant transfer viewed as important to future fleet operations. Electron is a two-stage, mostly expendable small launch vehicle with a Kick Stage for delivering satellites to specific orbits, and the supplied excerpt provides no detailed flight date or performance figures.
 
-rss · Wired · Nov 12, 19:00
+rss · Ars Technica · Nov 13, 12:00
 
-**Background**: The cryosphere includes frozen water components such as glaciers, ice sheets, snow, and sea ice. In climate science, a tipping point is a threshold beyond which a system can shift into a substantially different state, often producing changes that accelerate and persist for long periods. Melting glaciers also contribute to sea-level rise; excluding peripheral glaciers of ice sheets, global glaciers lost an estimated 5,500 gigatons of ice from 1993 to 2018.
+**Background**: Starship is SpaceX’s super-heavy-lift launch vehicle, developed alongside its Super Heavy booster as part of an effort to create a reusable transportation system for payloads and, eventually, propellant-transfer missions. Electron is Rocket Lab’s two-stage small-lift launcher, first flown in 2017 and designed primarily to carry individual or rideshare small satellites to precise orbits.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.carbonbrief.org/explainer-nine-tipping-points-that-could-be-triggered-by-climate-change">Explainer: Nine ‘ tipping points ’ that could be triggered by climate ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system">Tipping points in the climate system - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Retreat_of_glaciers_since_1850">Retreat of glaciers since 1850 - Wikipedia</a></li>
+<li><a href="https://spcx.today/milestones/starship-propellant-transfer/">Demonstrate ship-to-ship propellant transfer in Earth orbit</a></li>
+<li><a href="https://rocketlabcorp.com/launch/electron/">Electron | Rocket Lab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron">Rocket Lab Electron - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Climate Change`, `#Cryosphere`, `#Glacial Melt`, `#Environmental Science`, `#Climate Policy`
+**Tags**: `#SpaceX`, `#Starship`, `#Electron`, `#Space Launch`, `#Rocketry`
 
 ---
 
 <a id="item-36"></a>
-## [Synchron Pauses Brain Implant Trials After Performance Issues](https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/) ⭐️ 7.0/10
+## [Amazon Plans a Global Product Data Graph](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) ⭐️ 7.0/10
 
-Synchron has paused clinical trials of its brain implant after its latest device struggled to perform as expected. The company is upgrading the implant’s hardware and developing a new device. The pause highlights the challenges of translating brain-computer interface technology from promising experiments into reliable clinical systems. It may slow the deployment of implanted BCI devices for people with paralysis and affect broader industry expectations. Synchron’s system relays signals from the brain to a chest-mounted device, which translates those signals into actions on a computer. Earlier reports described the Stentrode system as being implanted in an FDA-authorized U.S. study and being used to let participants type on virtual keyboards through brain signals.
+Amazon reportedly plans to create the &quot;World Product Graph,&quot; a searchable database covering products sold online by other retailers, including items Amazon does not sell. The company aims to use this cross-retailer information to improve product discovery and shopping on its own platform. A comprehensive product graph could make Amazon a central discovery layer for online shopping, reducing shoppers&\#x27; need to leave its site and influencing how competing retailers&\#x27; products surface. It could also strengthen Amazon&\#x27;s position as AI shopping agents become more important in product research and purchasing. The reported initiative would gather information through sources such as brands, retailers, and web crawling, rather than relying only on Amazon&\#x27;s own catalog or third-party seller listings. Public reporting also raises questions about data freshness, coverage, attribution, and legal constraints, although the excerpt does not provide a launch date or full technical specification.
 
-rss · Wired · Nov 12, 15:58
+rss · The Verge · Nov 13, 23:49
 
-**Background**: A brain-computer interface enables a person to control a computer or other device by decoding neural activity rather than relying on conventional muscle-based input. Synchron’s Stentrode uses a brain implant to relay signals to an external device, allowing the system to translate intended movements or commands into computer actions for people with paralysis.
+**Background**: A product knowledge graph organizes products as interconnected entities linked by attributes and relationships, such as model, material, size, compatibility, or use case. E-commerce platforms use such structured data to improve search relevance and help search engines and AI systems interpret product information. Amazon already gives authorized sellers and third parties access to listing, inventory, order, and recommendation data through its Selling Partner API.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.massdevice.com/brain-computer-interface-bci-companies/">7 brain -computer interface companies you need to know</a></li>
-<li><a href="https://www.fiercebiotech.com/medtech/synchron-implants-brain-computer-interface-first-us-patient-paralysis-trial">Synchron implants brain -computer interface in first U.S. patient</a></li>
-<li><a href="https://www.newscientist.com/article/2387626-implant-lets-people-type-on-virtual-keyboards-with-just-brain-signals/">Implant lets people type on virtual keyboards with just brain signals</a></li>
+<li><a href="https://www.usnews.com/news/top-news/articles/2026-11-13/exclusive-amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents">Exclusive-Amazon’s Plan to Own the World’s Product Data and ...</a></li>
+<li><a href="https://developer-docs.amazon/sp-api/docs/amazon-seller-data-access">Amazon Seller Data Access</a></li>
+<li><a href="https://wisepim.com/ecommerce-dictionary/knowledge-graph-product-data">Product Knowledge Graph: Meaning and Example | WISEPIM</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#brain-computer interfaces`, `#neurotechnology`, `#medical devices`, `#clinical trials`, `#implantable electronics`
+**Tags**: `#Amazon`, `#e-commerce`, `#product search`, `#data platforms`, `#AI`
 
 ---
 
 <a id="item-37"></a>
-## [Google and Samsung Launch Android XR Smart Glasses](https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/) ⭐️ 7.0/10
+## [AI Aviation Raises Human-Staffing Safety Questions](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) ⭐️ 7.0/10
 
-Google and Samsung launched Android XR smart glasses with frame designs from Warby Parker and Gentle Monster. The models are priced at $395 and $449, respectively, with each available in several styles. The release brings a major technology platform to consumer smart glasses through recognizable fashion brands rather than a single hardware design. It could also strengthen Android XR&\#x27;s position in the growing wearable-device ecosystem. The Warby Parker frames cost $395, while the Gentle Monster frames cost $449; the launch information does not provide detailed specifications or comparisons. Android XR is designed for extended-reality devices, including virtual-reality headsets and smart glasses.
+The article examines the safety risks that could arise as artificial intelligence and automation increasingly replace pilots and air traffic controllers. It focuses on aviation’s gradual adoption of these technologies and the operational consequences of reduced human staffing. 航空属于安全关键行业，减少人工监督可能使异常故障更难被发现和处置。随着自动化系统能力增强并得到广泛应用，这一问题将影响乘客、飞行员、管制员、监管机构以及整个航空运输体系。 现有摘录的技术细节较少，但提出了核心问题：自动化正在取代或减少飞行员和空中交通管制员所承担的角色。相关研究强调，自动控制功能、异常运行状态、人机交互，以及操作人员对系统模式和故障的充分理解，仍是航空安全的重要考量。
 
-rss · Wired · Nov 12, 14:00
+rss · Wired · Nov 14, 11:00
 
-**Background**: Android is Google&\#x27;s operating system, originally built around touchscreen devices such as smartphones and tablets, and Android XR extends it to extended-reality hardware. Google and Samsung announced Android XR with a focus on virtual-reality and augmented-reality headsets as well as smart glasses, demonstrating continued cooperation around the platform.
+**Background**: Air traffic management increasingly uses automation and AI to process large volumes of data, including weather information, flight plans, and transfers. These tools can support route optimization, congestion management, predictive maintenance, and safety analysis, but aviation automation has also introduced new risks. The FAA’s safety-assurance work highlights the importance of human operators understanding automation modes, operations, and malfunctions, while broader assessments address the special risk-management challenges of highly automated air traffic control.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://uk.finance.yahoo.com/news/google-and-samsung-debut-android-xr-amid-vr-smart-glasses-push-160047424.html">Google and Samsung debut Android XR amid VR, smart glasses push</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android (operating system) - Wikipedia</a></li>
-<li><a href="https://developer.android.com/studio">Download Android Studio &amp; App Tools - Android Developers</a></li>
+<li><a href="https://www.faa.gov/aircraft/air_cert/step/roadmap_for_AI_safety_assurance">Roadmap for Artificial Intelligence Safety Assurance</a></li>
+<li><a href="https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_389_en.pdf">The impact of artificial intelligence on the aviation sector</a></li>
+<li><a href="https://www.faa.gov/aircraft/air_cert/step/safety_framework_aircraft_automation">SAFETY FRAMEWORK FOR AIRCRAFT AUTOMATION</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android XR`, `#smart glasses`, `#Google`, `#Samsung`, `#wearables`
+**Tags**: `#Artificial Intelligence`, `#Aviation Safety`, `#Automation`, `#Air Traffic Control`, `#Human Factors`
 
 ---
 
 <a id="item-38"></a>
-## [Apple HomeView reportedly uses person recognition instead of FaceID](https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/) ⭐️ 7.0/10
+## [NASA Seeks Commercial Help to Extend Hubble&\#x27;s Lifespan](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/) ⭐️ 7.0/10
 
-Apple’s rumored HomeView smart-home display may authenticate users through new person-recognition technology rather than the established FaceID system. WIRED says this approach has not yet been extensively tested outside controlled conditions. HomeView would extend facial analysis beyond phones into a device that may continuously operate inside the home, potentially creating new privacy and surveillance concerns. Because the authentication method is unproven, false acceptance, spoofing resistance, and failure handling could affect both security and everyday usability. Search results indicate that HomeView can recognize up to six people and switch between personalized household profiles, potentially supporting individualized Siri assistance and other smart-home functions. The available reporting does not establish whether person recognition provides the same security guarantees as FaceID, or explain how stored biometric data and identity matching are protected.
+NASA has asked commercial space companies to submit proposals for extending the Hubble Space Telescope&\#x27;s operational life beyond its expected atmospheric reentry around 2034. The initiative explores ways to service the aging observatory and counter its orbital decay. Hubble has produced major scientific discoveries, but preserving it could require new commercial orbital-servicing capabilities developed for aging spacecraft. The solicitation also signals NASA&\#x27;s growing reliance on private spaceflight expertise for maintaining critical scientific infrastructure. NASA issued the request for information on October 29 to learn about industry capabilities for in-space servicing. Hubble was originally designed for periodic servicing by Space Shuttle astronauts, so rendezvous, proximity operations, and maintenance techniques from those missions provide relevant technical precedents.
 
-rss · Wired · Nov 12, 14:00
+rss · Wired · Nov 13, 10:00
 
-**Background**: FaceID is Apple’s established biometric authentication system for iPhones and related devices, while person recognition in this context is described as a separate and less battle-tested capability. HomeView is positioned as a home-hub-style display that manages smart-home accessories, presents personal content, and supports communication and household profile switching. Applying facial recognition in such a shared domestic device differs materially from using biometric authentication to unlock a personal phone.
+**Background**: Hubble orbits Earth and gradually loses altitude because of atmospheric drag, eventually leading to atmospheric reentry unless its orbit is raised. The telescope&\#x27;s servicing history includes Space Shuttle missions that used rendezvous and extravehicular activities to maintain, repair, and upgrade its systems. NASA&\#x27;s current effort shifts attention toward commercial in-space servicing as a way to continue operating the observatory.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/">Apple’s HomeView Tries Face Authentication Without FaceID | WIRED</a></li>
-<li><a href="https://www.gbnews.com/tech/apple-homeview-first-impressions">Apple HomeView is a one-stop shop for your smart home</a></li>
-<li><a href="https://neonpioneers.com/future/apple-homeview-face-recognition-privacy-2026">Apple HomeView : How Its Face Recognition Really Works...</a></li>
+<li><a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/">NASA Explores Potential Commercial Servicing for Hubble ...</a></li>
+<li><a href="https://ntrs.nasa.gov/citations/20090005185">Hubble Servicing Challenges Drive Innovation of Shuttle ...</a></li>
+<li><a href="https://leo.space/articles/nasa-requests-in-space-servicing-proposals-to-extend-hubble-operations-before-20">NASA requests in-space servicing proposals to extend Hubble ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#Authentication`, `#FaceID`, `#Smart Home`, `#Privacy`
+**Tags**: `#Hubble Space Telescope`, `#NASA`, `#Space Commercialization`, `#Spacecraft Servicing`, `#Orbital Infrastructure`
 
 ---
 
 <a id="item-39"></a>
-## [Shamonda Virus Emerges in Central European Cattle](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902232-4/fulltext?rss=yes) ⭐️ 7.0/10
+## [Building a Custom Ethernet Switch ASIC](https://essenceia.github.io/projects/expresso/) ⭐️ 7.0/10
 
-In June 2026, Shamonda virus was identified in cattle in France, Germany, and Switzerland. Viral RNA was also detected in aborted bovine fetuses, suggesting possible transplacental transmission. The findings raise concerns about a newly emerging orthobunyavirus and its potential effects on pregnancy, fetal survival, and animal health. They also warrant investigation into the scale of transmission and the implications for livestock surveillance and human risk. Shamonda virus is thought to be transmitted through bites from Culicoides midges and can infect cattle as well as sheep, goats, horses, and alpacas. However, the correspondence provides only brief evidence: detecting viral RNA in aborted fetuses suggests transplacental transmission but does not by itself establish the route, frequency, or clinical magnitude of infection.
+A detailed hardware project chronicles the architecture, implementation, and engineering challenges involved in building a custom Ethernet switch ASIC. The article focuses on the design process and the technical trade-offs behind a dedicated networking chip. A custom switch ASIC can consolidate networking functions into hardware optimized for performance, power efficiency, and specific port requirements. Such a project also illustrates the substantial complexity behind commercial Ethernet switching silicon, which is commonly supplied by specialist vendors. ASICs are application-specific integrated circuits designed for particular workloads rather than general-purpose computing. Network ASICs can move high-speed traffic processing away from CPUs, but custom silicon entails architecture decisions, physical implementation, verification, and design trade-offs; the supplied material does not provide specific process-node, port-count, or throughput figures.
 
-rss · The Lancet · 最新文章 · Nov 13, 23:30
+rss · Hacker News \(best\) · Nov 14, 19:44
 
-**Background**: Orthobunyaviruses are arthropod-borne viruses commonly associated with biting midges, and Culicoides species are important vectors of several livestock viruses. Vertical transmission means passage of an infection from a pregnant mother to an embryo or fetus; related bunyaviruses have been associated with fetal infection and pregnancy loss, but the specific pregnancy risks of Shamonda virus remain uncharacterized.
+**Background**: An Ethernet switch forwards frames between network ports using dedicated hardware, while an ASIC implements those functions on a customized chip. At very high packet or bit rates, specialized switch ASICs are generally more suitable than general-purpose CPUs for cost-effective traffic processing. Structured ASICs provide predefined logic blocks whose connectivity can be customized in upper metal layers.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.woah.org/en/disease/shamonda-virus/">Shamonda virus - WOAH - World Organisation for Animal Health</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6520762/">Culicoides Biting Midges —Underestimated Vectors for Arboviruses of...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12197722/">Oropouche Virus (OROV) and Breastfeeding Safety: Analysis of...</a></li>
+<li><a href="https://elegantnetwork.github.io/posts/A-Summary-of-Network-ASICs/">A summary of High Speed Ethernet ASICs - The Elegant Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Application-specific_integrated_circuit">Application-specific integrated circuit - Wikipedia</a></li>
+<li><a href="https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-architecture-cte-en.html">Cisco Catalyst 9300 Series Switches Architecture White Paper</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Shamonda virus`, `#orthobunyavirus`, `#emerging infections`, `#pregnancy`, `#zoonosis`
+**Discussion**: The supplied Hacker News thread contains only one comment, so there is too little discussion to establish broad community sentiment or validate the project&\#x27;s wider impact.
+
+**Tags**: `#ASIC`, `#Ethernet`, `#Switching`, `#Hardware Design`, `#Networking`
 
 ---
 
 <a id="item-40"></a>
-## [KRAS Vaccines Face a Pancreatic Cancer Prevention Test](https://www.nature.com/articles/s41591-026-04772-1) ⭐️ 7.0/10
+## [KDE Documentary Examines a Desktop Software Journey](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) ⭐️ 6.0/10
 
-A Nature Medicine article published online on November 13, 2026, identifies KRAS-targeting vaccination as a potential strategy for preventing pancreatic cancer recurrence. It attributes this possibility to converging therapeutic and technological advances while emphasizing that major translational and clinical hurdles remain. KRAS mutations are common in pancreatic cancer and contribute to tumor growth, immune evasion, and treatment resistance. A vaccine that trains the immune system to recognize KRAS-mutant cancer cells could potentially complement existing treatments and reduce recurrence, but it would require clinical evidence of safety and efficacy. The proposed approach is preventive rather than a conventional direct inhibitor: it aims to prime immunity against KRAS-driven tumor cells, including after initial treatment. The available summary does not specify the vaccine construct, trial phase, patient population, dosing schedule, or clinical outcomes, so the article&\#x27;s findings should not be interpreted as proof that recurrence can already be prevented.
+A documentary reviews KDE’s history, technical foundations, and the organizational challenges involved in building a widely used desktop environment. It emphasizes the project’s early construction of foundational components such as Qt and the later evolution of the Plasma desktop. The film offers insight into how a volunteer-driven, C++-based desktop platform achieved broad adoption while coordinating contributors with different priorities and expectations. It also provides context for evaluating KDE’s continuing influence on Linux desktops and its approach to stability, customization, and integration. KDE’s architecture developed around reusable frameworks and components; in the KDE 4 generation, these included KParts, Solid, Phonon, Akonadi, and the Plasma desktop shell. The documentary is a retrospective rather than a new product release, and community recollections emphasize that the transition to KDE 4 was especially unstable and disruptive.
 
-rss · Nature Medicine · Nov 13, 00:00
+hackernews · Hacker News \(热门\) · Nov 14, 13:43 · [Discussion](https://news.ycombinator.com/item?id=50496976)
 
-**Background**: KRAS encodes a signaling protein in the RAS/MAPK pathway, which relays external growth signals into cells. Mutant KRAS can promote tumor growth and alter the tumor microenvironment in ways that facilitate immune evasion and resistance. Pancreatic cancers commonly harbor KRAS mutations, and because the protein was historically considered difficult to target directly, vaccine-based immune approaches offer a conceptually different route to addressing this driver.
+**Background**: KDE is an international free-software community and the KDE e.V. was established in 1997, with KDE 1.0 released publicly in July 1998. Its graphical stack was built in C++, while Qt supplied foundational capabilities and Plasma became its flagship customizable desktop environment. KDE 4 introduced a major architectural and generational transition before Plasma 5 arrived in July 2014 and continued the project’s modernization.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11899378/">KRAS Mutations in Cancer: Understanding Signaling Pathways to ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9861148/">KRAS Mutations in Solid Tumors: Characteristics, Current ...</a></li>
-<li><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1369136/full">Frontiers | Targeting KRAS mutations in pancreatic cancer ...</a></li>
+<li><a href="https://techbase.kde.org/Development/Architecture/KDE4">Development/Architecture/KDE4 - KDE TechBase</a></li>
+<li><a href="https://en.wikipedia.org/wiki/KDE_Plasma_Frameworks_5">KDE Plasma Frameworks 5</a></li>
+<li><a href="https://factrail.ai/organizations/kde">KDE : Accountability Record &amp; Key Facts</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#KRAS`, `#cancer vaccines`, `#pancreatic cancer`, `#immunotherapy`, `#Nature Medicine`
+**Discussion**: Commenters were strongly positive about KDE’s longevity, stability in later releases, customization, and the dedication of its contributors, while several noted painful experiences with KDE 4’s instability and complexity. They also reflected on the project’s Usenet-era beginnings, the early importance of Qt, and the difficulty of coordinating people with different tastes, cultures, and needs.
+
+**Tags**: `#KDE`, `#Desktop Linux`, `#Software History`, `#C++`, `#Open Source`
 
 ---
 
 <a id="item-41"></a>
-## [FM-1 Workbench Opens Portable FM Synthesis to Community Developers](https://open.m-vave.com/fm1-workbench) ⭐️ 6.0/10
+## [Terminactory Brings AI Agent Updates to a Rust Idle Game](https://gitlab.com/snipedbywifi/terminactory) ⭐️ 6.0/10
 
-M-VAVE’s FM-1 Workbench provides an open development environment for extending the portable FM-1 synthesizer with community-created generative and experimental firmware. The platform supports browser-based emulation, helping developers test and compare firmware before installing it on the hardware. The project turns a compact hardware synthesizer into a shared experimentation platform for generative music, sequencing, sampling, effects, and unconventional synthesis workflows. Its impact is mainly within the enthusiast and embedded-music community, where a large collection of alternative firmwares can accelerate discovery and lower the barrier to programming portable instruments. FM-1 Open firmware is reported to include an eight-track sequencer, eight sample slots, multiple synthesis engines, sample playback, effects, a binary device-engine SDK, and a browser workbench. Community projects include generative firmwares such as NACHTFART and DUB-1, while Patchwerk reportedly adds more than 80 modules; practical constraints include the absence of full-size DIN MIDI sockets, use of 3.5 mm jacks, a cooling fan, and concerns about battery replacement and build quality.
+Developer snipedbywifi introduced Terminactory, a terminal-native idle factory game built in Rust with Ratatui. It includes Claude Code hooks that deliver an agent&\#x27;s responses as in-game “telegrams,” alongside building, income tracking, selection tools, a research graph, a fictional browser, and extensive lore. The project offers a distinctive workflow for developers who leave AI coding agents running in another terminal pane, allowing progress updates to appear without requiring constant attention. More broadly, it demonstrates how terminal interfaces can integrate with agent-development workflows, although it does not appear poised to transform mainstream factory games. Terminactory runs entirely in the terminal and was developed with heavy assistance from Claude 5.5 models. Agent messages reportedly remain queued while the game is closed, while the project is hosted on GitLab; a suggested enhancement is to support Nerd Font icons alongside plain ASCII.
 
-hackernews · Hacker News \(热门\) · Nov 13, 19:14 · [Discussion](https://news.ycombinator.com/item?id=50488325)
+hackernews · Hacker News \(热门\) · Nov 14, 14:05 · [Discussion](https://news.ycombinator.com/item?id=50497132)
 
-**Background**: FM synthesis generates sound through frequency modulation, using one oscillator to alter another, and is the basis of classic digital synthesizers such as Yamaha’s DX7. The FM-1 is a portable instrument whose standard firmware provides an FM engine, presets, effects, an arpeggiator, and sequencing. FM-1 Workbench extends this ecosystem by letting developers distribute alternate firmware implementations, many of which can also be explored through browser-based emulators.
+**Background**: Ratatui is a lightweight Rust library for creating rich, text-based terminal interfaces and is the successor to the tui-rs crate. Claude Code hooks can run user-defined commands at defined lifecycle events, making them a supported way to notify users when agent tasks complete or require attention. In Terminactory, this mechanism functions like a local mailbox between the coding agent and the game.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/cicloid/awesome-fm-1">cicloid/awesome- fm - 1 : A curated list of resources, custom firmware ...</a></li>
-<li><a href="https://www.synthtopia.com/content/2026/10/20/m-vave-officially-opens-fm-1-firmware-to-developers-with-new-workbench-sdk/">M-VAVE Officially Opens FM - 1 Firmware To Developers With New...</a></li>
-<li><a href="https://fm1-editor.com/firmware/">M-VAVE FM 1 firmware</a></li>
+<li><a href="https://ratatui.rs/">Ratatui | Ratatui</a></li>
+<li><a href="https://docs.rs/ratatui/latest/ratatui/">ratatui - Rust</a></li>
+<li><a href="https://agentbell.dev/blog/claude-code-notification-when-done">How to Get Notified When Your Claude Code Task Is Done...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Users are enthusiastic about installing new generative firmwares frequently, and browser emulation is widely regarded as essential for deciding what to try next. Some newcomers want guidance on whether the device can teach music theory and improvisation, while hardware users raise concerns about adapters, battery serviceability, fan noise, durability, and the steep firmware-learning curve.
+**Discussion**: Commenters praised the hacker-style presentation and the unusual agent-message workflow, with one comparison to NetHack and local-mail systems. Skeptics questioned whether playing in a terminal offers enough depth to retain players compared with Factorio, while others requested Nerd Font icons and broader industrial themes beyond mining, smelting, iron, and copper.
 
-**Tags**: `#embedded`, `#music-synthesis`, `#open-hardware`, `#generative-music`, `#firmware`
+**Tags**: `#Rust`, `#Ratatui`, `#Terminal Applications`, `#AI Agent Integration`, `#Indie Games`
 
 ---
 
 <a id="item-42"></a>
-## [Six Hundred JEPA Experiments Reveal Planning Parallels](https://haddyalchaer.com/jepa) ⭐️ 6.0/10
+## [Thirteen Monkey Island Versions, Side by Side](https://monkeyisland.pages.dev/) ⭐️ 6.0/10
 
-The author documents 600 hands-on experiments with JEPA world models, including harder evaluation tasks and an interactive demonstration in which a block and goal can be selected freely. The practical lessons suggest that the strongest results came from applying established hierarchical planning, subgoal selection, action chunking, and latent-space model-predictive control rather than from discovering a fundamentally new method. This account illustrates how JEPA-style world models behave in practical planning pipelines and how evaluation design can shape the apparent capabilities of a learned model. It also reinforces the need to distinguish a useful personal learning report from a claim that the underlying planning strategy is novel. The harder test combined a start state from one expert demonstration with a goal from another, while the interactive demo allowed arbitrary block placement and goal selection; one commenter questioned whether demonstration-derived goals adequately test transitions between truly arbitrary states. The author also concluded that JEPA&\#x27;s latent dynamics model closely resembles a neural simulator used by model-predictive control, with optimization and rollout separated during planning.
+An interactive retrospective presents all 13 graphical versions of Monkey Island together, allowing visitors to compare the series’ artwork and interface evolution across computer platforms and release formats. The project also uses a retro DOS-style presentation that complements its nostalgic subject. The page turns a historically important graphical adventure series into an accessible visual timeline of early PC gaming. It offers developers and enthusiasts a useful reference for understanding how hardware color capabilities, interface design, and release formats shaped presentation. The comparison covers 13 versions rather than the franchise’s full release history and emphasizes graphics and interfaces rather than gameplay changes. Community recollections also highlight practical constraints such as CGA’s limited palette and the Amiga edition of Monkey Island 2’s multi-disk copy-protection scheme.
 
-hackernews · Hacker News \(热门\) · Nov 13, 17:55 · [Discussion](https://news.ycombinator.com/item?id=50487185)
+hackernews · Hacker News \(热门\) · Nov 14, 04:23 · [Discussion](https://news.ycombinator.com/item?id=50493904)
 
-**Background**: Joint Embedding Predictive Architecture, or JEPA, learns predictive representations in an embedding space rather than reconstructing raw pixels, allowing a model to capture task-relevant structure while ignoring irrelevant detail. Model-predictive control uses a model to predict outcomes over a planning horizon, selects an action sequence, and applies part of that sequence before replanning. Hierarchical planning, subgoals, and action chunking are established techniques for organizing long-horizon decisions at different levels of abstraction.
+**Background**: Monkey Island is a graphic adventure game remembered for its illustrated environments, comic dialogue, and pirate-themed humor. Early versions appeared on PCs with sharply different graphics standards, so the original releases could look very different depending on whether they used CGA, EGA, VGA, or Amiga hardware. Because those systems relied on floppy disks, some releases also incorporated cumbersome copy-protection measures.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2301.08243">[2301.08243] Self-Supervised Learning from Images with a Joint...</a></li>
-<li><a href="https://mbrenndoerfer.com/writing/world-models-simple-planet-model-based-rl-comparison">World Models , SimPLe, and PlaNet - Interactive</a></li>
-<li><a href="https://www.emergentmind.com/topics/hierarchy-controller-structure">Hierarchical Controller Structures</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Steve_Purcell">Steve Purcell - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Copy_protection">Copy protection - Wikipedia</a></li>
+<li><a href="https://www.gamespot.com/articles/monkey-island-2-special-edition-lechucks-revenge-impressions-first-look/1100-6265884/">Monkey Island 2 Special Edition: LeChuck&#x27;s Revenge... - GameSpot</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally praised the hands-on learning journey but challenged the article&\#x27;s novelty framing, noting its methods overlap with model-predictive control, hierarchical planning, subgoals, and action chunking. Other concerns included whether the evaluation truly covered arbitrary state-to-state transitions, and one reader reported that the article&\#x27;s visual theme was difficult to read.
+**Discussion**: The Hacker News discussion was strongly nostalgic, with participants debating whether CGA graphics felt cold or crude and crediting artists for creating expressive work within severe hardware limits. Others remembered Turbo Vision interfaces, Hercules and VGA monitors, LucasGames releases, and the frustration of switching among Amiga floppies because of copy protection.
 
-**Tags**: `#JEPA`, `#world-models`, `#model-predictive-control`, `#hierarchical-planning`, `#reinforcement-learning`
+**Tags**: `#retro-gaming`, `#graphics-history`, `#game-development`, `#nostalgia`, `#web-project`
 
 ---
 
 <a id="item-43"></a>
-## [A 1960 Population Forecast Shows the Perils of Extrapolation](https://www.science.org/doi/10.1126/science.132.3436.1291) ⭐️ 6.0/10
+## [LinkedIn and Monster Remove 1,000+ Fake Job Postings](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) ⭐️ 6.0/10
 
-A 1960 Science article used a fitted population curve to predict a worldwide population crisis on November 13, 2026. Its resurfacing offers a striking example of how a smoothly extrapolated historical trend can create an alarming but inaccurate deadline. The episode illustrates how confidence, dramatic framing, and apparently precise dates can make speculative forecasts feel more authoritative than their methods justify. It is particularly relevant today as demographic concerns increasingly focus on population decline in aging, industrialized societies rather than unbounded global growth. The prediction was based on extrapolating a population-growth curve rather than modeling the demographic, economic, and technological factors that could alter fertility, mortality, and resource use. The forecast&\#x27;s method also became associated with later doomsday narratives, including the work of Paul Ehrlich and the Limits to Growth tradition, although that connection does not mean every subsequent model was identical.
+LinkedIn and Monster removed more than 1,000 fake job postings after a CBC investigation exposed an apparent recruiting-fraud operation. The takedown followed investigative reporting rather than a publicly detailed technical disclosure. The removals highlight the importance of trust and fraud controls on major job platforms, where fake listings can expose applicants to scams and identity theft. They may also prompt broader investment in detection, verification, and coordination between platforms and law enforcement. More than 1,000 postings were removed across LinkedIn and Monster, but the available summary does not identify the fraud’s precise mechanics, the posting period, or the number of affected applicants. No technical details, implementation approach, or broader community commentary were included in the supplied material.
 
-hackernews · Hacker News \(热门\) · Nov 13, 12:10 · [Discussion](https://news.ycombinator.com/item?id=50482379)
+rss · Hacker News \(热门\) · Nov 14, 18:56
 
-**Background**: The article is associated with a 1960 population forecast that fitted a curve to historical population data and projected explosive growth toward a catastrophe in 2026. Simple curve fitting assumes that relationships observed in the past remain stable as the projection moves beyond the observed range. Modern estimates put world population near 8.2 billion in 2026, while growth is slowing and many wealthy countries now face population aging or decline.
+**Background**: Job platforms connect employers with candidates, making their listings an important target for fraudsters seeking money, personal information, or access to company systems. A credible job post can be replicated across multiple platforms, so one fraudulent operation may appear as many separate listings.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://wattsupwiththat.com/2026/11/12/per-science-magazine-doomsday-is-tomorrow/">It&#x27;s Time. Doomsday Is Tomorrow. Science ... - Watts Up With That?</a></li>
-<li><a href="https://worldpopulationreview.com/">Current World Population : 8,298,979,488</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters emphasized that the forecast demonstrates the oversimplification inherent in extrapolating past trends, noting that many industrialized countries now worry about declining rather than excessive population. Others connected the story to overpopulation fiction from the 1970s, including Soylent Green, and speculated that its renewed popularity reflects current anxieties rather than new demographic evidence.
-
-**Tags**: `#population forecasting`, `#failed predictions`, `#data extrapolation`, `#demographics`, `#science history`
+**Tags**: `#fake job postings`, `#online fraud`, `#platform trust`, `#job platforms`, `#cybersecurity`
 
 ---
 
 <a id="item-44"></a>
-## [Isometric SF Creates a Pixel-Styled Bay Area Map](https://isometricsf.com/) ⭐️ 6.0/10
+## [Fursoy Brings an Out-of-Order RV64 CPU to GitHub](https://github.com/FURSOY/fursoy-cpu) ⭐️ 6.0/10
 
-Isometric SF converts 1,300 square miles of Google Photorealistic 3D Tiles into a cohesive isometric, pixel-art-inspired map that includes landmarks such as Apple Park, the Palace of Fine Arts, and UC Berkeley. The creator used Nano Banana 2 to train a Qwen-Image-Edit 2511 LoRA for prototyping, then trained a Klein 4B LoRA with Qwen for the final map at one-quarter the cost. The project demonstrates how image-editing fine-tuning can turn photogrammetric geospatial data into a distinctive illustrative map while substantially reducing generation costs. It also highlights a creative alternative to conventional navigation interfaces, although its immediate value is primarily recreational and artistic rather than operational. The source imagery comes from Google Photorealistic 3D Tiles, and the project credits Isometric NYC for the original concept. The author estimates that using Nano Banana 2 throughout would have cost about $7,000, while community reviewers noted visible AI artifacts, inaccurate color blending, and uncertainty over whether the result qualifies as true pixel art.
+Fursoy is an open-source out-of-order RV64IMAFDV CPU core written in SystemVerilog and designed to work with Linux 6.6. The project provides a complete processor-core implementation for study, experimentation, and prototyping. A complete open-source out-of-order CPU can help developers study complex processor scheduling and RISC-V implementation without relying on proprietary hardware or documentation. However, the supplied information does not establish that Fursoy is broadly validated, production-ready, or a major research breakthrough. The core implements the RV64IMAFDV instruction set and uses out-of-order execution, which allows instructions to execute when their operands are ready rather than strictly in program order. The implementation is written in SystemVerilog and targets Linux 6.6, but no detailed performance results, verification methodology, synthesis results, or hardware-test evidence are provided in the supplied content.
 
-hackernews · Hacker News \(热门\) · Nov 13, 17:58 · [Discussion](https://news.ycombinator.com/item?id=50487228)
+rss · Hacker News \(热门\) · Nov 14, 14:06
 
-**Background**: Google Photorealistic 3D Tiles provide textured, high-resolution three-dimensional geospatial data that can be rendered with a custom 3D Tiles renderer. LoRA, or Low-Rank Adaptation, fine-tunes an existing image model for a particular subject or visual style without training a new foundation model from scratch. In this project, LoRA models translate map imagery into a unified isometric, pixel-inspired aesthetic.
+**Background**: RISC-V is an open instruction-set architecture, and RV64 denotes a 64-bit base design; the IMAFD suffixes identify integer, multiply, atomic, floating-point, and double-precision floating-point capabilities. An out-of-order core reorders eligible instructions dynamically to avoid stalling execution units while dependencies are unresolved, typically using structures such as register renaming, scheduling logic, and an in-order retirement mechanism. Linux 6.6 compatibility means the design is intended to support that kernel environment, but it does not by itself imply full software compatibility, production readiness, or high performance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developers.google.com/maps/documentation/tile/3d-tiles">Photorealistic 3D Tiles | Google Maps Tile API | Google for ...</a></li>
-<li><a href="https://3d-tiles.web.app/">Photorealistic 3D Tiles</a></li>
-<li><a href="https://huggingface.co/Qwen/Qwen-Image-Edit">Qwen/ Qwen - Image - Edit · Hugging Face</a></li>
+<li><a href="https://docs.riscv.org/reference/isa/v20260120/unpriv/rv64.html">3.1. RV64I Base Integer Instruction Set, Version 2.1</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Out-of-order_execution">Out-of-order execution - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally found the project neat and technically interesting, but disputed the “pixel art” label, arguing that it resembles a shader applied to 3D imagery rather than carefully hand-authored pixel art. Some praised the exploration value and noted that the Google API offers a generous monthly free-call allowance, while others pointed to AI artifacts and blended building colors that reduce geographic fidelity.
-
-**Tags**: `#AI image generation`, `#LoRA fine-tuning`, `#3D geospatial tiles`, `#isometric mapping`, `#computer vision`
+**Tags**: `#RISC-V`, `#CPU Design`, `#SystemVerilog`, `#Out-of-order Execution`, `#Open Hardware`
 
 ---
 
 <a id="item-45"></a>
-## [$11.4M Nvidia GPU Shipment Vanishes in California-to-Texas Transit](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas) ⭐️ 6.0/10
+## [Build a PostScript Interpreter from Scratch](https://beyondloom.com/blog/postscript.html) ⭐️ 6.0/10
 
-Six pallets of Nvidia GPUs reportedly worth $11.4 million disappeared while being shipped from California to Texas. The item describes a high-value cargo-theft incident, although the available report does not specify the carrier, investigation findings, or ultimate recovery status. The loss highlights the security and insurance challenges associated with moving scarce, expensive accelerator hardware through conventional logistics networks. It may also intensify demand for secure, end-to-end shipment monitoring, serial-number-based tracking, and specialized high-value cargo protection. The shipment contained six pallets and was reportedly valued at $11.4 million, but the provided material does not establish whether the GPUs were data-center products or consumer gaming cards. Community participants questioned whether serial numbers and driver telemetry could reveal the hardware&\#x27;s destination, but no confirmed tracing result is provided.
+This guide walks through implementing an interesting subset of the PostScript programming language from scratch. It offers a practical exercise in language implementation for readers who want to build their own PostScript tooling. Building an interpreter exposes the internal mechanisms of parsing, execution, and graphics rendering that are usually hidden by mature tools. It may also help developers understand how PostScript programs and print workflows operate beneath higher-level interfaces. The project focuses on an intentionally interesting subset rather than the entire PostScript specification, so readers should not assume full compatibility with established interpreters. A related open-source effort demonstrates that PostScript can be implemented alongside other rendering components, including font and compression handling.
 
-hackernews · Hacker News \(热门\) · Nov 13, 18:40 · [Discussion](https://news.ycombinator.com/item?id=50487864)
+rss · Hacker News \(热门\) · Nov 13, 05:12
 
-**Background**: A GPU is specialized hardware for parallel processing and accelerated graphics, and modern Nvidia accelerators can represent a substantial share of the value of an AI server or workstation. Because such hardware is costly, difficult to replace quickly, and physically identifiable, securing it in transit can require more controls than ordinary freight receives.
+**Background**: PostScript is an interpreted programming language and page-description language developed by Adobe Systems. Its imaging model builds a page by placing “paint” in selected areas, enabling precise vector graphics and print output. PostScript interpreters execute these instructions, and some also provide an interactive executive that lets users control the interpreter directly.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html">What Is a GPU ? Graphics Processing Units Defined - Intel</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers">Nvidia RTX 5090 shipment worth $470,000 goes... | Tom&#x27;s Hardware</a></li>
+<li><a href="https://www.adobe.com/jp/print/postscript/pdfs/PLRM.pdf">PostScript Language Reference, third edition</a></li>
+<li><a href="https://open-watcom.github.io/open-watcom-1.9/devel/PostScript-Level-2-Reference-Manual.pdf">PostScript Language Reference Manual</a></li>
+<li><a href="https://beyondloom.com/blog/postscript.html">beyondloom.com/blog/ postscript .html</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters were skeptical that high-value Nvidia hardware was moved through ordinary courier channels and asked why insurers and law enforcement had not responded more visibly. Technical discussion centered on whether known serial numbers and software telemetry could help identify the hardware&\#x27;s final destination, while one commenter mistakenly interpreted the shipment as only three gaming GPUs.
-
-**Tags**: `#Nvidia`, `#GPU Theft`, `#Supply Chain Security`, `#Logistics`, `#Hardware Security`
+**Tags**: `#PostScript`, `#Interpreter`, `#Programming Tutorial`, `#Language Implementation`, `#Computer Graphics`
 
 ---
 
 <a id="item-46"></a>
-## [Users Report Excessive Clicks in Everyday Digital Tasks](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/) ⭐️ 6.0/10
+## [Agweb Offers a Lightweight Browser Environment for AI Agents](https://github.com/paul-nameless/agweb) ⭐️ 6.0/10
 
-A Reddit discussion highlights how authentication, redirects, and fragmented workflows can require around 16 clicks to open a PowerPoint on an iPad. Commenters describe similar friction when paying for university parking or starting an AWS development environment. Although the issue is not technically novel, it demonstrates how security controls can create disproportionate friction on mobile devices. The complaints point to broader usability challenges in enterprise authentication, education technology, and cloud development tools. Reported workflows involve separate login steps, two-factor authentication, passkeys, account selection, browser redirects, and returning to an app that may lose navigation state. The parking and AWS examples show that the problem extends beyond opening a presentation and includes routine administrative and developer tasks.
+Agweb is a Show HN project that introduces a lightweight browser environment designed for AI agents to operate independently while minimizing interference with the user&\#x27;s own browsing. The available material provides little technical detail or evidence of broader adoption. Purpose-built browser environments could make agent-driven web automation more isolated, predictable, and less disruptive than operating in a user&\#x27;s main browser. However, the project&\#x27;s significance remains uncertain without stronger implementation details, usage evidence, or substantive community feedback. Agweb is positioned as browser automation infrastructure for autonomous AI agents, a category that includes managed cloud browsers, low-level automation libraries, and fully autonomous agent frameworks. The supplied content does not specify its supported platforms, automation capabilities, model integrations, security model, performance, or release status.
 
-hackernews · Hacker News \(热门\) · Nov 13, 18:18 · [Discussion](https://news.ycombinator.com/item?id=50487522)
+rss · Hacker News \(热门\) · Nov 14, 14:08
 
-**Background**: Multi-factor authentication improves account security but can add steps to sign-in flows, especially when applications delegate authentication to separate identity providers. Enterprise tools may also route users through multiple portals, account layers, and browser-based redirects, making mobile workflows longer and increasing the risk of lost context.
+**Background**: Browser automation lets AI agents interact with websites by navigating pages, clicking, typing, and extracting information. Agent-focused browsers attempt to provide dedicated environments for these tasks, although they differ in whether they expose automation libraries, managed browser infrastructure, or complete autonomous-agent frameworks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://preview.gitpod.io/blog/onboard-contractors-securely-and-quickly-using-gitpod">How to onboard development contractors securely and quickly using...</a></li>
-<li><a href="https://docs.docker.com/ai/sandboxes/">Docker Sandboxes | Run AI coding agents in isolated environments</a></li>
-<li><a href="https://www.academia.edu/7290033/Usability_of_iPads_and_Websites">(DOC) Usability of iPads and Websites</a></li>
+<li><a href="https://cloud.browser-use.com/">We enable LLMs to use the browser and browse the web</a></li>
+<li><a href="https://tyon.ai/browser-automation-ai-agent/">Browser Automation AI Agent | Tyon. ai</a></li>
+<li><a href="https://www.memetik.ai/index/browser-agents">Which browser automation tool do AI models recommend for agents ?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly agreed that secure login systems and broken redirects make routine work needlessly cumbersome, with examples spanning parking payments, cloud development, and classroom technology. One commenter also challenged the assumption that iPads and Chromebooks are productive classroom tools, citing concerns about distractions, while another argued that security and usability need not be mutually exclusive.
-
-**Tags**: `#user-experience`, `#authentication`, `#enterprise-software`, `#mobile-usability`, `#developer-tools`
+**Tags**: `#AI agents`, `#browser automation`, `#developer tools`, `#Hacker News`, `#agent infrastructure`
 
 ---
 
 <a id="item-47"></a>
-## [Lonewolf 0.3 Introduces a Rust-Based XMPP Server](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0) ⭐️ 6.0/10
+## [A Mathematically Intuitive Primer on Generative AI](https://arxiv.org/abs/2605.29713) ⭐️ 6.0/10
 
-Lonewolf 0.3 is a new release of a lightweight, standalone XMPP server implemented in Rust. The project adds another independent implementation to the XMPP server ecosystem. A lightweight Rust implementation can improve the diversity and deployability of XMPP, particularly for users seeking a small server with privacy and open-source characteristics. Its impact will depend on compatibility with deployed clients, protocol extensions, and operational requirements. Lonewolf is positioned as a standalone server rather than a large multi-service platform, and the release is an incremental project update. Community discussion also highlights the importance of implementation quality and transparency in security-sensitive protocol code.
+Tianhua Chen published a 195-page, derivation-oriented book on arXiv introducing the mathematical foundations of modern generative AI. It guides readers through methods ranging from PCA and probabilistic PCA to VAEs, diffusion models, normalizing flows, autoregressive models, GANs, WGANs, and energy-based models. The book offers a structured route from first principles to major generative-model families, potentially helping students, researchers, and practitioners connect mathematical techniques with modern generative AI. Its value is educational rather than evidence of a new model, algorithm, or benchmark achievement. The primer is explicitly designed for mathematically curious readers and emphasizes derivations and intuition. Available summaries describe it as a compact introduction, although the supplied news item contains little beyond a title and link, so its depth, exercises, and comparative advantages cannot yet be assessed from the presented material.
 
-hackernews · Hacker News \(热门\) · Nov 13, 14:28 · [Discussion](https://news.ycombinator.com/item?id=50484007)
+rss · Lobsters \(技术社区\) · Nov 14, 04:51
 
-**Background**: XMPP 是一种基于 XML 的开放通信协议，用于即时通信、在线状态、联系人列表和群聊等应用。XMPP 生态系统由服务器、客户端、库以及 XEP 等扩展组成，Prosody 和 ejabberd 等服务器软件已经得到广泛使用。XMPP 基金会将其称为通用消息标准，支持多种通信形式和结构化数据路由。
+**Background**: Generative models learn probability distributions that can produce new data, and their implementations rely on ideas from linear algebra, probability, optimization, and neural networks. The listed topics represent distinct approaches: VAEs use latent-variable inference, diffusion models learn gradual denoising processes, autoregressive models predict sequences sequentially, GANs train generators against discriminators, and normalizing flows transform variables through invertible mappings.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://xmpp.org/">XMPP - The universal messaging standard</a></li>
-<li><a href="https://xmpp.org/software/">XMPP Software | XMPP - The universal messaging standard</a></li>
-<li><a href="https://en.wikipedia.org/wiki/XMPP">XMPP - Wikipedia</a></li>
+<li><a href="https://arxiv.org/pdf/2605.29713">The Little Book of Generative AI Foundations: An Intuitive ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.29713">The Little Book of Generative AI Foundations: An Intuitive ...</a></li>
+<li><a href="https://proomt.com/item/the-little-book-of-generative-ai-foundations-an-intuitive-mathematical-p-440f7ebe-2c74-4ed4-8702-548ba3e86ac3">The Little Book of Generative AI Foundations : An Intuitive...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters welcomed the addition of another standards-based implementation, while noting that established servers such as Prosody already meet many lightweight deployment needs. Some questioned the presence of AGENTS.md in security-sensitive protocol code and argued that client quality and modern desktop experiences may matter more for mass adoption. Others recommended Tuwunel, a Rust-based Matrix server implementation, and noted that Matrix has partly displaced XMPP in public perception.
-
-**Tags**: `#XMPP`, `#Rust`, `#messaging-server`, `#privacy`, `#open-source`
+**Tags**: `#generative AI`, `#mathematical foundations`, `#machine learning`, `#tutorial`
 
 ---
 
 <a id="item-48"></a>
-## [No AI Slop Manifesto Prioritizes Outcomes Over Output](https://www.slopmanifesto.com/) ⭐️ 6.0/10
+## [Reimagining Transformers Through Associative Memory](https://alexwang.ai/posts/associative-memory/) ⭐️ 6.0/10
 
-The community-backed No AI Slop manifesto presents 174 principles urging AI-assisted engineering to prioritize shipped results, user value, sound processes, and systematic improvement over lines of code, merged pull requests, token spending, or parallel-agent activity. It generated 97 substantive comments, making it a notable discussion document rather than a technical breakthrough. As organizations adopt AI coding agents, activity-based measures such as token usage and generated-code volume can be mistaken for productivity. The manifesto pushes engineering teams and managers toward evaluating deployments, adoption, user benefit, review quality, and long-term system health instead. The manifesto explicitly favors reviewing plans, designs, and results because unrestricted AI generation can produce uniform, unexamined outputs. Suggested practices include improving the underlying system instead of repeatedly patching generated output and including prompts with AI-assisted contributions to help reviewers understand the contributor&\#x27;s reasoning, although the comments describe this as a review aid rather than a complete solution.
+The post argues that core transformer ideas could have been independently derived from classical associative-memory theory. It presents attention as a content-addressable retrieval process and connects both self-attention and feed-forward networks to associative-memory mechanisms. This perspective offers a unifying theoretical account of transformer components rather than treating them solely as engineering inventions optimized for large datasets. It may help researchers reason about memory capacity, interference, retrieval, and the roles of feed-forward networks and attention in modern models. In the associative-memory view, queries act like partial cues, keys identify stored patterns, and values carry the retrieved content that attention aggregates. Related work interprets transformer self-attention and feed-forward networks as associative-memory implementations, although the supplied excerpt contains no equations, implementation details, or empirical comparisons.
 
-hackernews · Hacker News \(热门\) · Nov 13, 19:51 · [Discussion](https://news.ycombinator.com/item?id=50488769)
+rss · Lobsters \(技术社区\) · Nov 14, 04:49
 
-**Background**: AI-assisted development uses models and coding agents to draft code, answer questions, run tools, and accelerate parts of the software lifecycle. Existing engineering guidance already emphasizes testing, continuous integration, deliberate iteration, and trustworthy practices; this manifesto adds a broader metric focused on whether software actually ships and helps users. Its critique concerns engineering management and review practices rather than a new model, framework, or coding technique.
+**Background**: Associative memory retrieves an associated item from a partial cue, unlike storage addressed by a fixed location. Classic Hopfield networks realize this behavior through patterns in an energy landscape, while modern research draws strong parallels between such retrieval and transformer attention. In transformers, attention computes weighted combinations of values using compatibility between queries and keys.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://effective-cursor.cyron.space/en">Effective Cursor - AI - Assisted Development Engineering Practices</a></li>
-<li><a href="https://cms.ddpanda.org/the-human-practices-behind-trustworthy-software/">The Human Practices Behind Trustworthy Software – ddpanda&#x27;s blog</a></li>
-<li><a href="https://www.linkedin.com/posts/azon-5_build-faster-with-ai-keep-engineering-in-activity-7505232455168278528-mKmc">AI -Powered Development for Faster Engineering with... | LinkedIn</a></li>
+<li><a href="https://arxiv.org/html/2505.19488v1">Understanding Transformer from the Perspective of Associative ...</a></li>
+<li><a href="https://d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html">11.1. Queries, Keys, and Values — Dive into Deep ... - D2L</a></li>
+<li><a href="https://mnemoverse.com/docs/research/memory-science/hopfield-associative-memory">Hopfield Networks: The Memory Model That Became Attention</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly welcomed the focus on shipped results and user impact rather than token spending. They proposed including prompts with AI-generated contributions to make large pull requests easier to review, while debating whether uniform outputs are necessarily harmful; one commenter suggested that teams can spend human innovation effort on differentiating features and accept “good enough” quality elsewhere.
-
-**Tags**: `#AI-assisted development`, `#software engineering`, `#code review`, `#AI productivity`, `#engineering practices`
+**Tags**: `#transformers`, `#associative memory`, `#deep learning`, `#attention mechanisms`
 
 ---
 
 <a id="item-49"></a>
-## [Claude Services Hit by Widespread Outage](https://status.claude.com/incidents/nn11wk485zfn) ⭐️ 6.0/10
+## [Report Questions Huang’s Confidence in Successor David Kress](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/) ⭐️ 6.0/10
 
-Claude experienced a widespread service outage affecting claude.ai, Claude Code, and platform.claude.com. Some Claude Code sessions were forced to reauthenticate, while authentication attempts encountered OAuth request failures. The incident disrupted access to widely used Anthropic products and highlighted how authentication dependencies can amplify the operational impact of an outage. It also temporarily affected workflows that rely on Claude Code as part of software-development processes. Reported symptoms included elevated errors across claude.ai, Claude Code, and platform.claude.com, alongside sudden reauthentication prompts and an “OAuth request failed” error. Users speculated that the incident could be connected to a broader Microsoft or Azure outage, but the available discussion does not establish that relationship as confirmed.
+A report claims that NVIDIA CEO Jensen Huang lacked confidence in successor candidate David Kress, describing him as a “deer in the headlights” during a summer meeting. The available material provides no further substantiation or response from Huang or NVIDIA. 这则说法引发了外界对 NVIDIA 领导层延续性以及黄仁勋对公司下一任首席执行官信心的疑问。鉴于 NVIDIA 在半导体和 AI 产业中占据重要地位，继任安排的不确定性可能影响其战略方向和投资者判断。 The only specific detail provided is Huang’s alleged description of Kress as a “deer in the headlights” during a summer meeting. The report remains unverified in the supplied material, and no independent context, supporting documentation, or official statement is available.
 
-hackernews · \_\_vivek · Nov 13, 10:18 · [Discussion](https://news.ycombinator.com/item?id=50481187)
+rss · TechCrunch AI · Nov 13, 12:28
 
-**Background**: Claude Code is Anthropic&\#x27;s command-line coding tool, and its login flow can depend on an OAuth-based authentication process. An OAuth outage or disruption elsewhere in the identity chain can therefore prevent users from restoring sessions even when they have valid credentials. Anthropic’s status page is the primary source for service conditions and incident updates.
+**Background**: Succession planning at NVIDIA concerns identifying leaders capable of continuing the company’s strategy and governance. David Kress is identified in the report as a successor candidate, while Jensen Huang currently serves as NVIDIA’s CEO.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://status.claude.com/">Welcome to Claude &#x27;s home for real-time and historical data on system...</a></li>
-<li><a href="https://github.com/anthropics/claude-code/issues/10715">[Bug] Anthropic API Error: Internal Server Error on OAuth ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Comments ranged from joking about an enforced weekend break to describing severe workplace stress, especially for teams that could not postpone critical meetings or work. Several users linked the Claude authentication failures to a simultaneous Microsoft outage and questioned whether GitHub was affected as well, although this remained anecdotal.
-
-**Tags**: `#service-outage`, `#Anthropic`, `#Claude-Code`, `#OAuth`, `#Microsoft-Azure`
+**Tags**: `#NVIDIA`, `#Leadership`, `#Succession`, `#Semiconductors`, `#Executive Management`
 
 ---
 
 <a id="item-50"></a>
-## [FreeBSD and bhyve Seek Live-Migration Support](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) ⭐️ 6.0/10
+## [JWST Finds Ice Older Than Its Host Star](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) ⭐️ 6.0/10
 
-An RFC proposes adding live-migration support for FreeBSD guests and virtual machines managed by the bhyve hypervisor. The proposal is an infrastructure development rather than a completed implementation. Live migration could make bhyve workloads easier to maintain by allowing a running FreeBSD guest to move between hosts with less disruption. If implemented, it would improve virtual-machine availability and administration while strengthening FreeBSD’s virtualization capabilities. The available material describes an RFC for live migration and does not provide implementation details, compatibility guarantees, a release schedule, or performance benchmarks. The proposal should therefore be understood as a planned development rather than a generally available feature.
+The James Webb Space Telescope detected water ice in a young planetary system whose ice appears to predate the star it orbits. The observation provides evidence that icy material can be inherited from the interstellar medium rather than formed entirely within the system. The finding could reshape models of early planet formation by showing that water-rich dust is already present before stars finish forming. Such inherited ice may promote dust aggregation and later help deliver water to developing planets. JWST spectroscopy can identify signatures of water ice in circumstellar material, while associated debris-disk observations have also revealed minerals such as iron sulfide and olivine. However, the supplied news item gives no target name, measurement uncertainty, age estimate, or model test, so the claimed age relationship and its implications remain to be examined in fuller studies.
 
-rss · Hacker News \(热门\) · Nov 13, 19:58
+rss · Ars Technica · Nov 14, 12:15
 
-**Background**: bhyve is a hosted, or type-2, hypervisor initially developed for FreeBSD and also available on illumos-based systems. FreeBSD is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution. Live migration generally means moving a running virtual machine between hosts while minimizing service interruption.
+**Background**: Protoplanetary disks contain gas and dust around young stars, and icy grains can act as building blocks for planets. Stellar radiation and collisions alter these materials through heating, vaporization, and chemical reactions. Because interstellar clouds can already contain water ice, a young system may preserve material older than its star.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Bhyve">bhyve - Wikipedia</a></li>
-<li><a href="https://bhyve.org/">bhyve</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FreeBSD">FreeBSD - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2410.23235v1">Chapter 0Protoplanetary disk chemistry and structure</a></li>
+<li><a href="https://www.sciencenewstoday.org/jwst-spots-water-ice-in-young-stars-debris-disk-hinting-at-distant-ocean-worlds">JWST Spots Water Ice in Young Star’s Debris Disk, Hinting at Distant...</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s11214-025-01228-9">Multiscale Perspectives on Solid-Phase Astrochemistry : Laboratory...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FreeBSD`, `#bhyve`, `#Live Migration`, `#Virtualization`, `#RFC`
+**Tags**: `#James Webb Space Telescope`, `#protoplanetary disks`, `#planet formation`, `#water ice`, `#astrochemistry`
 
 ---
 
 <a id="item-51"></a>
-## [Blog Post Claims Android Clipboard-Read Restrictions Can Be Bypassed](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) ⭐️ 6.0/10
+## [Millions of Americans Use GLP-1 Drugs in Nonstandard Ways](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) ⭐️ 6.0/10
 
-A post published on toninoble.com claims to demonstrate a technique for bypassing Android&\#x27;s clipboard-read security restrictions, which normally limit which applications can read clipboard contents. The available content consists only of the title and a link to the corresponding Hacker News discussion thread, with no code, proof-of-concept, or vulnerability identifier included. Clipboard access is a common target for mobile surveillance, since it frequently carries passwords, one-time codes, and copied text, so weakening Android&\#x27;s read restrictions would raise the stakes for ordinary users. Researchers and Android developers may also find the technique relevant as input for hardening the platform&\#x27;s permission model. The write-up as indexed offers no technical specifics — no mention of which Android version or API level is affected, whether a permissions dialog is evaded, or whether the bypass is purely client-side — so the claim currently cannot be independently verified. Because only the headline and a Hacker News comment link are available, readers should treat the post as unvalidated until the full method and its proof-of-concept are examined.
+Cost and access barriers are driving millions of Americans to modify GLP-1 treatment or use unapproved versions. Public-health findings indicate that medication-use modifications often reflect cost, availability, and tolerability problems rather than a simple choice to disregard medical guidance. 非标准使用GLP-1药物可能影响患者安全、治疗效果、处方行为以及获批药物的需求。这也暴露了药物可负担性和医疗服务获取方面更广泛的系统性不足。 Real-world evidence suggests that patients commonly discontinue GLP-1 therapy early because of costs or gastrointestinal side effects and may change doses outside prescribed instructions. The FDA has warned about unapproved semaglutide and tirzepatide products, including risks from dosing errors, improper storage, and fraudulently labeled compounded drugs.
 
-rss · Hacker News \(热门\) · Nov 13, 18:23
+rss · Ars Technica · Nov 13, 21:59
 
-**Background**: Android provides the ClipboardManager service, which apps can use to read and write the system clipboard, and reading it can require the READ\_CLIPBOARD\_IN\_BACKGROUND permission on newer Android releases. Because copied data often includes credentials or sensitive text, this restriction is a key privacy control in the Android permission model. Bypassing such a restriction typically involves exploiting gaps in how the framework enforces or propagates clipboard access between apps, similar in spirit to other platform-level security restriction bypasses that appear regularly in vulnerability research.
+**Background**: GLP-1 receptor agonists include medicines such as semaglutide and tirzepatide, originally approved for specific indications and increasingly used for weight management. Off-label prescribing is legal when a clinician considers it medically appropriate, but it does not mean that every off-label use has the same supporting evidence. Compounded or otherwise unapproved versions are distinct from medicines authorized by the FDA.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android (operating system) - Wikipedia</a></li>
-<li><a href="https://www.android.com/">Android | Do More With Google on Android Phones &amp; Devices</a></li>
+<li><a href="https://www.cdc.gov/mmwr/volumes/75/wr/mm7544a1.htm">Use of Glucagon-Like Peptide-1 Medications and Modified ...</a></li>
+<li><a href="https://www.appliedclinicaltrialsonline.com/view/managing-side-effects-dosing-off-label-glp-1-real-world-evidence">Managing Side Effects and Dosing in Off-Label GLP-1 Use with ...</a></li>
+<li><a href="https://med.stanford.edu/news/insights/2026/07/glp1s-compounded-why-doctors-worry-about-safety.html">Compounded GLP-1s: Why doctors worry and the FDA is cracking down</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Android`, `#Security`, `#Clipboard`, `#Vulnerability Research`, `#Mobile Security`
+**Tags**: `#GLP-1`, `#public health`, `#healthcare access`, `#prescription drugs`, `#patient safety`
 
 ---
 
 <a id="item-52"></a>
-## [National Weather Service Reports Nationwide Communications Disruptions](https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/) ⭐️ 6.0/10
+## [American Cancer Society Recommends Routine PSA Screening](https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/) ⭐️ 6.0/10
 
-The U.S. National Weather Service reported widespread internet and communications disruptions across the country. The available material does not specify the cause, affected systems, restoration timeline, or scope of operational impact. A disruption affecting a nationwide government weather and emergency-information service could temporarily limit access to forecasts, warnings, and critical updates. It also highlights the importance of resilient communications infrastructure during significant weather events. The report concerns internet and communications issues rather than a documented failure of the National Weather Service&\#x27;s forecasting systems. No technical root cause, duration, affected offices, or mitigation measures were provided in the supplied material.
+The American Cancer Society now recommends that average-risk men aged 50–69 receive prostate-specific antigen \(PSA\) screening every two years. This marks a reversal of its previous approach, which emphasized informed decision-making with a health care provider rather than a direct routine-screening recommendation. The policy shift from a major cancer organization could influence clinical practice and conversations between doctors and patients. It may lead to more regular PSA testing among average-risk men, making the balance between earlier detection and the harms of false positives and unnecessary biopsies especially important. PSA is a blood test used to look for possible signs of prostate cancer, but an abnormal result does not confirm cancer and usually requires further evaluation, often including a biopsy. The recommendation applies specifically to men aged 50–69 who are at average risk, and it should be discussed with a health care provider because screening can produce false positives and potential harms.
 
-rss · Hacker News \(热门\) · Nov 13, 22:46
+rss · Ars Technica · Nov 12, 22:59
 
-**Background**: The National Weather Service is part of NOAA and provides weather forecasts, warnings, and related information across the United States. Because its products can support emergency planning and public safety, widespread communications disruptions may matter more than a comparable outage affecting an ordinary online service.
+**Background**: The American Cancer Society has previously recommended that men make an informed decision about prostate cancer screening with their health care provider rather than issuing a routine-screening recommendation for average-risk men. PSA testing measures prostate-specific antigen in blood and can identify elevated levels associated with prostate cancer, although it is not a definitive diagnostic test. The CDC also advises people to discuss their individual risk and the potential benefits and risks of screening with a doctor.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.weather.gov/">National Weather Service</a></li>
-<li><a href="http://www.noaa.gov/">National Oceanic and Atmospheric Administration - Official Site</a></li>
+<li><a href="https://www.cancer.org/cancer/types/prostate-cancer/detection-diagnosis-staging/acs-recommendations.html">American Cancer Society Recommendations for Prostate Cancer ...</a></li>
+<li><a href="https://www.cdc.gov/prostate-cancer/screening/index.html">Screening for Prostate Cancer | Prostate Cancer | CDC</a></li>
+<li><a href="https://www.cancer.gov/types/prostate/psa-fact-sheet">Prostate-Specific Antigen (PSA) Test - NCI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#national weather service`, `#internet outage`, `#communications`, `#infrastructure resilience`, `#public safety`
+**Tags**: `#public health`, `#cancer screening`, `#prostate cancer`, `#PSA testing`, `#medical guidelines`
 
 ---
 
 <a id="item-53"></a>
-## [Apify Publishes Security Incident Notice](https://status.apify.com/incidents/sxd1dj5j6749) ⭐️ 6.0/10
+## [Brain-Implant Volunteers Demand Greater Autonomy and Transparency](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) ⭐️ 6.0/10
 
-Apify published a status-page notice concerning a security incident on its cloud platform. The available material does not disclose the incident&\#x27;s cause, scope, affected systems, or remediation status. Apify is a cloud platform for web scraping, data extraction, and browser automation, so users may depend on it for sensitive credentials and automated data workflows. An unspecified security incident could therefore affect account security, stored data, and platform reliability. The supplied content contains only a link to the incident status page and a Hacker News comments link, with no technical indicators, timeline, impact assessment, or customer guidance. Because the search results did not provide a reliable summary of this specific incident, its severity cannot be independently determined from the available evidence.
+Volunteers in brain-implant trials are calling for greater control over their participation, more transparency about research, and limits on nondisclosure agreements. Their requests come as neural-device research advances toward decoding speech and gestures and supporting communication for people with paralysis. Participants contribute essential data and time to invasive brain-computer interface research, but surgical risks, neural-data sensitivity, and post-trial obligations make meaningful consent especially difficult to maintain. Greater autonomy and transparency could improve trust while shaping standards for responsible clinical translation of neurotechnology. Implantable brain-computer interfaces can decode attempted speech and gestures, potentially restoring communication and digital access for people with severe paralysis. Consent standards must account for evolving risks and for the mismatch between the person who initially agrees to implantation and the person asked later to accept device removal, a problem described as a diachronic consent problem.
 
-rss · Hacker News \(热门\) · Nov 13, 16:55
+rss · MIT Technology Review · Nov 13, 10:00
 
-**Background**: Apify operates a cloud platform where developers can run or build scraping and automation tools, including reusable programs called Actors. Such services often handle external inputs, authenticated sessions, and extracted data, making access-control and credential protections operationally important. A status-page notice is typically used to communicate ongoing service impact or a confirmed incident, but the excerpt supplied here does not explain which of those functions the notice covers.
+**Background**: Invasive brain-computer interfaces record neural activity and translate it into commands for external systems, including robotic limbs and speech synthesizers. Because implantation involves surgery, long-term device management, and highly personal neural data, ethical governance must address changing capabilities, risks, confidentiality, and support throughout and after a trial.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://apify.com/web-scraping">Need data? Turn any website into an API with web scraping . · Apify</a></li>
-<li><a href="https://affinco.com/apify-review/">Apify Review 2026: Web Scraping Platform Tested 3 Months</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2666998626002231">Unifying consent standards for implantable brain-computer ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13543622/">Consent in flux: when brain‑computer interface embodiment ...</a></li>
+<li><a href="https://www.nature.com/articles/s41593-026-02446-2">Simultaneous speech and gesture decoding for multimodal ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apify`, `#security-incident`, `#cloud-platforms`, `#web-scraping`
+**Tags**: `#brain implants`, `#neurotechnology`, `#research ethics`, `#informed consent`, `#participant rights`
 
 ---
 
 <a id="item-54"></a>
-## [Rethinking “Glue Work” in Software Development](https://sunshowers.io/posts/glue-work/) ⭐️ 6.0/10
+## [Helen Toner Questions Trust in AI Leadership](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) ⭐️ 6.0/10
 
-The article challenges the claim that integration and coordination work is inherently harmful in software development. The supplied material contains only a title, a link to the article, and a comments link, so its full argument cannot be verified. Software teams often value visible, high-impact technical work while undervaluing the integration and coordination required to make systems work together. The article’s premise could influence engineering culture, project planning, and how contributions are evaluated. The available material labels the piece as a counterargument to the idea that “glue work” is harmful. It provides no excerpts, implementation examples, metrics, or supporting evidence, so the scope and strength of the argument remain unclear.
+Helen Toner, the former OpenAI board member who participated in removing Sam Altman, argues that AI leaders and governance institutions remain difficult to trust. In an interview with The Verge, she discusses the implications of the 2023 leadership crisis for AI safety, policy, and institutional accountability. The OpenAI board crisis exposed weaknesses in how an influential AI company was governed and how much power its leadership and directors could exercise. Toner&\#x27;s skepticism matters because debates over trust and accountability can shape regulation, safety practices, and public confidence in the broader AI industry. Toner is the executive director of the Center for Security and Emerging Technology at Georgetown University, a research organization focused on data-driven analysis at the intersection of security and technology. The supplied excerpt does not provide detailed technical arguments, specific policy proposals, or enough of the interview to establish the full basis for her conclusions.
 
-rss · Lobsters \(技术社区\) · Nov 13, 02:36
+rss · The Verge · Nov 14, 15:00
 
-**Background**: In software engineering, “glue work” commonly describes integration, configuration, interface adaptation, migration, and coordination across components or teams. Such work can be necessary to deliver a functioning product even when it is less visible than designing a major feature.
+**Background**: OpenAI&\#x27;s board removed co-founder and CEO Sam Altman on November 17, 2023, triggering a major leadership and governance crisis. CSET is a Washington-based think tank that produces nonpartisan, data-driven research for the policy community, with a current focus on the effects of advances in artificial intelligence and advanced computing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Adhesive">Adhesive - Wikipedia</a></li>
+<li><a href="https://cset.georgetown.edu/">CSET | Center for Security and Emerging Technology</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI">Removal of Sam Altman from OpenAI - Wikipedia</a></li>
+<li><a href="https://scholarlycommons.law.case.edu/jolti/vol16/iss1/5/">Sam Altman, OpenAI, and The Importance of Corporate Governance</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#software-engineering`, `#engineering-culture`, `#project-management`, `#technical-essay`
+**Tags**: `#AI governance`, `#AI safety`, `#OpenAI`, `#AI policy`, `#corporate leadership`
 
 ---
 
 <a id="item-55"></a>
-## [A Beginner-Friendly Introduction to ML Modules](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/) ⭐️ 6.0/10
+## [Jensen Huang’s Shift From Showman to Founder Authority](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) ⭐️ 6.0/10
 
-The article “ML Modules for Mere Mortals” introduces machine-learning modules as a software-design concept in an approachable way for non-specialists. However, the supplied page contains only a link to discussion comments, so the article’s specific technical claims and examples cannot be verified from the available content. Accessible explanations can help readers connect machine-learning techniques with modular software design. Such guidance may be useful to developers and students who encounter ML-assisted module systems but lack specialized knowledge. The available evidence establishes the article’s title, introductory intent, and focus on software modules, but not its technical depth, tools, models, or results. The discussion link points to Lobsters, while no actual comments or article body were provided.
+The article argues that NVIDIA CEO Jensen Huang has traded part of his flamboyant public persona for the authority and strategic credibility of an industry-shaping founder. It frames his January 6, 2025 rockstar-style arena appearance as a symbol of this evolution. Huang’s leadership style reflects a broader change in how technology founders balance personal branding with institutional credibility. His transition may further establish NVIDIA’s influence across the AI and broader technology industry. At the event, Huang entered a 14,000-person arena wearing a black leather jacket as influencers and fans applauded him. The supplied excerpt is truncated, so it provides limited technical or strategic detail beyond this contrast between showmanship and founder authority.
 
-rss · Lobsters \(技术社区\) · Nov 13, 11:33
+rss · The Verge · Nov 14, 12:00
 
-**Background**: Software modules divide a larger system into conceptually coherent components that can be developed, understood, and reorganized more independently. Research has explored using neural networks to assist software architects in improving modularity in large programs, providing broader context for the article’s subject.
+**Background**: Jensen Huang co-founded NVIDIA and has become closely associated with its rise as a major technology company. The article contrasts his highly visible, theatrical public persona with the more restrained authority expected of a founder whose company shapes an entire industry.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://link.springer.com/article/10.1007/BF00993275">Using neural networks to modularize software | Machine Learning</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#machine-learning`, `#software-modules`, `#technical-guide`, `#education`
+**Tags**: `#Jensen Huang`, `#NVIDIA`, `#Founder CEOs`, `#Tech Leadership`, `#Industry Analysis`
 
 ---
 
 <a id="item-56"></a>
-## [llm-gemini 0.37 Adds Gemini 4 Hydrogen Support](https://simonwillison.net/2026/Nov/12/llm-gemini/) ⭐️ 6.0/10
+## [AI Is Supercharging Ransomware Before Full Automation Arrives](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/) ⭐️ 6.0/10
 
-llm-gemini 0.37 adds support for Google&\#x27;s newly released Gemini 4 Hydrogen, the lowest-priced model in the Gemini 4 family. The release also prompts a comparison of the family&\#x27;s per-million-token pricing, cached-input rates, output costs, and scheduled price changes. The update gives Gemini API users immediate access to Hydrogen through the llm-gemini tooling. It is practically relevant for cost-sensitive deployments, although its present list price is only 25% below Carbon and Argon and becomes a 75% discount after their scheduled December 1, 2026 increase. Hydrogen is listed at $1.50 per million input tokens, $0.075 per million cached input tokens, and $7.50 per million output tokens. Carbon and Argon are both initially priced at $2.00, $0.10, and $10.00 respectively, before doubling to $4.00, $0.20, and $20.00 on December 1, 2026; Google says Argon uses fewer tokens per turn than Carbon despite identical list prices.
+Attackers are already using AI tools to improve ransomware campaigns even though fully automated ransomware has not yet arrived. Relatively unsophisticated actors are using these tools to cause significant harm. AI can lower the expertise, time, and effort required for phishing, malicious-code development, reconnaissance, and data theft, expanding ransomware capacity across the attack lifecycle. Organizations should therefore prepare for AI-assisted attacks rather than wait for fully autonomous malware. The current danger is AI-assisted rather than fully automated ransomware, and the technology amplifies techniques attackers already use instead of creating an entirely new threat category. The reported uses include generating phishing emails, writing malicious code, analyzing stolen data, and supporting ransom negotiations through chatbots.
 
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 12, 22:55
+rss · Wired · Nov 14, 13:00
 
-**Background**: Gemini 4 Hydrogen, Carbon, and Argon belong to the same model family, with Argon described by Google as offering faster responses and lower token consumption per turn than Carbon. The article&\#x27;s sample image-generation comparison covers three thinking levels and illustrates that model price, response speed, and token usage can differ substantially even among closely priced models. In the displayed high-thinking results, Hydrogen generated 5,311 output tokens in 19 seconds and cost $0.0399, versus Argon&\#x27;s 17,158 tokens in 2 minutes 29 seconds and $0.1717, and Carbon&\#x27;s 20,305 tokens in 4 minutes 11 seconds and $0.2031.
+**Background**: Ransomware is malware that encrypts or steals victims&\#x27; data and then demands payment, typically threatening disclosure or destruction if the demand is not met. Generative AI can support several stages of an attack, from reconnaissance and credential abuse to phishing, malware creation, and negotiation, but it does not eliminate the need for infrastructure, exploitation expertise, or operational control.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openrouter.ai/google/gemini-4-hydrogen">Gemini 4 Hydrogen - API Pricing &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://benchlm.ai/models/gemini-4-hydrogen">Gemini 4 Hydrogen Benchmarks &amp; Pricing (November 2026)</a></li>
-<li><a href="https://artificialanalysis.ai/models/gemini-4-hydrogen">Gemini 4 Hydrogen (xhigh) - Intelligence, Performance &amp; Price Analysis</a></li>
+<li><a href="https://www.sans.org/blog/ai-powered-ransomware-how-threat-actors-weaponize-ai-across-attack-lifecycle">AI-Powered Ransomware: How Threat Actors Weaponize AI Across ...</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/">How enterprise GenAI can amplify ransomware risk — and how to ...</a></li>
+<li><a href="https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/ai-powered-cyberattacks/">Most Common AI-Powered Cyberattacks | CrowdStrike</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#Gemini`, `#llm-gemini`, `#model-pricing`, `#release`
+**Tags**: `#AI`, `#ransomware`, `#cybersecurity`, `#threat intelligence`, `#generative AI`
 
 ---
 
 <a id="item-57"></a>
-## [Democrats Open Second Probe Into Nvidia China Sales](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) ⭐️ 6.0/10
+## [Audit Old Cloud Storage Links](https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/) ⭐️ 6.0/10
 
-House Democrats launched a second congressional investigation into Nvidia’s China sales and alleged dealings between CEO Jensen Huang and President Donald Trump. The probe follows earlier reporting about an alleged espionage-related arrangement. The investigation could intensify congressional and regulatory scrutiny of a leading AI-chip supplier at a sensitive point in U.S.-China technology trade. It may also affect Nvidia’s China business, export licensing, and questions about political influence over AI-chip policy. According to the reported context, neither the new investigation nor the earlier congressional action automatically halts chip exports or orders the Commerce Department to produce documents. Related reporting says Section 232 permits a president to adjust imports after an investigation into their national-security effects, while H200 shipments to China have remained subject to case-by-case approval.
+The article warns that previously shared cloud-storage links may still be active and accessible to unintended visitors. It recommends auditing old links and revoking or restricting those that no longer need to remain shared. Persistent shared links can expose files long after they were meant for temporary collaboration. Reviewing sharing settings can reduce privacy risks, unauthorized access, and accidental data disclosure. Users should check each file or folder’s sharing settings and disable public link sharing when broader access is unnecessary. For links that may have been exposed, revocation is preferable to merely changing permissions, while signed download links should be invalidated or replaced if their tokens were disclosed.
 
-rss · TechCrunch AI · Nov 12, 22:42
+rss · Wired · Nov 14, 11:30
 
-**Background**: Nvidia evolved from a graphics-chip company into a central supplier of accelerated-computing hardware used for artificial intelligence. U.S. export controls have restricted sales of advanced AI chips to China, making Nvidia’s licensing decisions and government relations closely tied to national-security and trade policy. House Democrats previously opened an investigation into Nvidia’s chip sales across Asia, and separate reporting has examined links between Nvidia, Chinese buyers, and U.S. officials.
+**Background**: Cloud-storage links can remain usable after the original sharing context has ended, particularly when public sharing is enabled or a signed link has not expired. Access-control systems such as Azure role-based access control and Google Cloud IAM provide ways to restrict permissions, while sharing settings can usually be changed through the storage provider’s interface.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/">Democrats launch Nvidia investigation , write scathing... | TechCrunch</a></li>
-<li><a href="https://indianabroad.news/us-democrats-probe-nvidia-chip-exports-to-china/">US democrats probe Nvidia chip exports to China</a></li>
-<li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher...</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/role-based-access-control/permissions/storage">Azure permissions for Storage - Azure RBAC | Microsoft Learn</a></li>
+<li><a href="https://docs.cloud.google.com/bigquery/docs/access-control">BigQuery IAM roles and permissions | Google Cloud Documentation</a></li>
+<li><a href="https://dataremovalacademy.com/signed-download-links-exposed-revoke-tokens-replace-shared-files/">If Signed Download Links Tied to Your Account Were Exposed ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#AI chips`, `#China trade`, `#US politics`, `#regulatory scrutiny`
+**Tags**: `#cloud-storage`, `#security`, `#access-control`, `#privacy`, `#link-sharing`
 
 ---
 
 <a id="item-58"></a>
-## [United Airlines Blocks AI Agents From Flight Bookings](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/) ⭐️ 6.0/10
+## [Gaza Floods Force a Choice Between Sewage and Clean Water](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/) ⭐️ 6.0/10
 
-United Airlines said it will not allow customers to use AI agents to book flights or manage reservations. The airline cited cybersecurity risks as the reason for the restriction. The policy places a major travel provider on the defensive against agentic commerce and automated reservation tools. It could influence how airlines authenticate customer requests, protect payment and account data, and accommodate AI-assisted travel workflows. The restriction covers both flight booking and reservation management, rather than only an individual booking feature. The brief report does not specify the cybersecurity mechanisms involved, implementation details, or whether customers may still use AI tools merely to research flights.
+Flooding in Gaza has forced municipal teams to divert fuel from water wells to drainage pumps because Israeli restrictions are hampering infrastructure repairs. With no separate fuel allocation for flood removal, pumping sewage out means reducing the output of wells that supply drinking water. The trade-off turns a flooding emergency into a public-health crisis: inadequate drainage can spread sewage, while reduced well operation threatens access to clean water. Fuel shortages and repair restrictions also limit communities’ ability to maintain essential water and sanitation infrastructure. Diesel intended for wells supplying drinking water is being redirected to pumps used to remove floodwater and sewage, even though well output was already insufficient. The report attributes the problem to a combination of flooding, fuel scarcity, and restrictions on the materials and repairs needed to restore drainage systems.
 
-rss · TechCrunch AI · Nov 12, 17:17
+rss · Wired · Nov 14, 10:30
 
-**Background**: AI agents are software systems that can perform tasks on a user&\#x27;s behalf, such as searching for flights, selecting options, and completing reservations. Travel platforms already offer AI-powered tools for itinerary searches, booking, reminders, and updates, which creates a distinction between advisory assistance and agents authorized to transact or modify reservations.
+**Background**: Gaza’s water and sanitation systems depend on powered pumps for wells, drainage, and sewage treatment. Flooding can overwhelm drainage infrastructure, while fuel scarcity determines whether wells and pumps can operate at the same time. Restrictions on repairs and replacement materials further reduce the capacity of municipal teams to restore disrupted services.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
-<li><a href="https://topai.tools/s/smart-hotel-finder">Smart Hotel Finder - TopAI. Tools</a></li>
-<li><a href="https://olleh.ai/home/virtual-assistant-in-travel-tourism">virtual assistant in travel &amp; tourism</a></li>
+<li><a href="https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/">Floods Force Gaza to Choose Between Clean Water and Pumping ...</a></li>
+<li><a href="https://unbiasedheadlines.com/article/gaza-camp-crews-divert-well-diesel-to-flood-pumps-as-erdogan-calls-war-ecocide">Gaza Camp Crews Divert Well Diesel to Flood Pumps as Erdogan ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#cybersecurity`, `#airline booking`, `#automation policy`
+**Tags**: `#Gaza`, `#Water Infrastructure`, `#Flooding`, `#Humanitarian Crisis`, `#War and Infrastructure`
 
 ---
 
 <a id="item-59"></a>
-## [Cost Barriers Push Americans Toward Unofficial GLP-1 Use](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) ⭐️ 6.0/10
+## [Galaxy Collisions Create Dark-Matter-Deficient ‘Ghosts’](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/) ⭐️ 6.0/10
 
-Millions of Americans are modifying prescribed GLP-1 regimens or obtaining unapproved versions because high costs and limited access make standard use difficult. The report highlights a healthcare-access problem rather than a new clinical finding. Cost and access barriers can undermine appropriate dosing and continuity of care while exposing patients to products whose safety, effectiveness, and quality have not been reviewed by the FDA. The trend could increase health disparities and complicate treatment of diabetes and obesity. GLP-1 medicines stimulate insulin release, suppress glucagon secretion, delay stomach emptying, and can reduce appetite and promote satiety. Unapproved compounded GLP-1 drugs are not FDA approved, and the agency has identified concerns involving compounded versions; the provided summary does not specify prevalence estimates, methods, or the particular modifications patients are making.
+Astronomers have identified apparently “ghostly” galaxies whose dark matter was largely ejected during high-speed collisions. Their unusual deficiency preserves indirect evidence of the dark matter that once formed their gravitational halos. These systems offer an unusual way to investigate how dark matter and ordinary matter can separate during galactic evolution. They also provide indirect support for dark matter’s existence because the galaxies’ observed structure records the loss of a previously substantial invisible mass. During a galaxy collision, stars and ordinary matter can be strongly disrupted while the extended dark-matter halos interact differently, allowing substantial dark matter to be dynamically separated from the visible components. Dark-matter-deficient galaxies therefore act as probes of the separation between baryonic matter and dark matter, although the supplied report does not give the specific objects, sample size, or observational uncertainties.
 
-rss · Ars Technica · Nov 13, 21:59
+rss · Wired · Nov 14, 10:00
 
-**Background**: GLP-1 medicines are injectable receptor agonists used to manage type 2 diabetes and obesity. When a standard prescription is unaffordable or difficult to obtain, some patients may change dosing or obtain compounded or unapproved products online. Compounded drugs are not FDA approved, meaning the agency does not review them for safety, effectiveness, or quality before marketing.
+**Background**: Dark matter is an invisible form of matter inferred from its gravitational effects rather than direct electromagnetic emission. Galaxies are surrounded by extended dark-matter halos, and in collisions these halos may pass through one another largely unaffected while ordinary matter is more strongly disrupted. The Bullet Cluster illustrates this separation because its hot, X-ray-emitting gas is spatially distinct from the mass distribution inferred from gravitational effects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.everydayhealth.com/weight-loss/glp-1/">GLP - 1 Resource Center</a></li>
-<li><a href="https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss">FDA’s Concerns with Unapproved GLP - 1 Drugs Used for Weight... | FDA</a></li>
-<li><a href="https://my.clevelandclinic.org/health/treatments/13901-glp-1-agonists">GLP -1 Agonists: What They Are, How They Work &amp; Side Effects</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Galaxy_merger">Galaxy merger - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bullet_Cluster">Bullet Cluster - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2607.26085">Dark Matter Deficient Galaxies as Probes of Dark Matter</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GLP-1`, `#Healthcare Access`, `#Drug Pricing`, `#Public Health`, `#Diabetes`
+**Tags**: `#astrophysics`, `#dark matter`, `#galaxy collisions`, `#space science`, `#cosmology`
 
 ---
 
 <a id="item-60"></a>
-## [FAA Expands AI Air Traffic Advisory Nationwide](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) ⭐️ 6.0/10
+## [Microsoft 365 Recovers After a 24-Hour Global Outage](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/) ⭐️ 6.0/10
 
-The FAA is expanding SMART, an AI-driven route-management advisory tool, across the entire US national airspace system to help controllers manage congestion. The agency says the $875 million system rerouted 180 flights after its September 21 deployment over Washington, DC, saving an average of 10 minutes and nearly 80 gallons of fuel per flight. Nationwide deployment makes AI-assisted air traffic management a standard part of US aviation infrastructure rather than a limited regional trial. It could reduce delays, fuel consumption, and controller workload, but the reported exclusion of the air traffic controllers’ union raises questions about safety validation, accountability, and stakeholder consultation. SMART is advisory and is intended to assist route-management decisions rather than directly control aircraft. According to the FAA, its early results include 180 rerouted flights, an average time saving of 10 minutes per flight, and nearly 80 gallons of fuel saved per flight, although the supplied report provides little detail about the model, validation, or error rates.
+Microsoft 365 services recovered after a worldwide outage lasting about 24 hours. Microsoft attributed the incident to a faulty software update, ruling out a cyberattack and an AI-related failure. The outage disrupted users worldwide and highlights the concentration of operational risk in widely relied-upon centralized cloud services. It also demonstrates how a defective deployment can cause large-scale disruption even without a security breach or AI failure. The reported trigger was a bad update that crashed servers around the world; the available reporting does not identify the specific update, affected components, or recovery timeline in technical detail. Microsoft’s stated cause differs from a cyberattack or AI-related failure, but the supplied material provides little deeper root-cause analysis.
 
-rss · Ars Technica · Nov 13, 21:20
+rss · Wired · Nov 13, 19:08
 
-**Background**: Air Route Traffic Control Centers manage much of the high-altitude airspace between airports, where congestion can produce delays and inefficient routing. SMART is part of an FAA effort to modernize US air traffic management and improve operational efficiency. The tool complements controllers’ existing traffic-management responsibilities and is not described as independently controlling aircraft.
+**Background**: Microsoft 365 is a collection of hosted productivity services, including applications such as Outlook and Teams, delivered through Microsoft’s global cloud infrastructure. Because many organizations depend on these shared services for communications and workflows, a fault in a common software update can propagate across regions and affect many customers simultaneously.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">FAA expands AI advice to manage air traffic ... - Ars Technica</a></li>
-<li><a href="https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace">Aviation regulators use AI to manage the nation’s airspace : NPR</a></li>
-<li><a href="https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347">The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide</a></li>
+<li><a href="https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause">What Caused the Microsoft 365 Outage of November 12, 2026</a></li>
+<li><a href="https://windowsforum.com/news/microsoft-365-and-azure-outages-what-five-incidents-reveal-about-causes-and-recovery.452116/">Microsoft 365 and Azure Outages: What Five Incidents Reveal ...</a></li>
+<li><a href="https://www.forbes.com/sites/kateoflahertyuk/2026/11/13/microsoft-outage-what-happened-and-what-to-do-next/">Microsoft Apologises For Outage And Reveals Cause - Forbes</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Airlines reportedly praised the tool, while critics expressed concern about the absence of controller-union participation and argued that AI alone cannot resolve broader structural problems in US air traffic control. The main counterpoint is that the system remains advisory, leaving final route-management decisions with authorized personnel.
-
-**Tags**: `#artificial intelligence`, `#aviation`, `#air traffic management`, `#critical infrastructure`, `#AI governance`
+**Tags**: `#Microsoft 365`, `#cloud outage`, `#software deployment`, `#service reliability`, `#incident analysis`
 
 ---
 
 <a id="item-61"></a>
-## [American Cancer Society Recommends Routine PSA Screening](https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/) ⭐️ 6.0/10
+## [Microsoft’s Outage Exposes Global Single-Provider Cloud Risk](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/) ⭐️ 6.0/10
 
-The American Cancer Society now recommends that men aged 50–69 at average risk receive prostate-specific antigen \(PSA\) screening every two years. The recommendation reverses the organization&\#x27;s previous opposition to routine PSA testing for average-risk men. The policy shift could increase PSA screening among millions of men and reshape conversations about prostate-cancer prevention. It also differs from the U.S. Preventive Services Task Force, which does not recommend routine screening unless men choose it after understanding the benefits and risks. The recommendation applies to men aged 50–69 who are at average risk and specifies a biennial screening interval. PSA is a blood-based marker that can indicate prostate cancer but can also be elevated by other prostate conditions, so screening may produce false-positive results and does not clearly reduce mortality.
+A Microsoft service outage disrupted operations for organizations that depend on its cloud infrastructure, highlighting how a failure at one major provider can affect businesses, schools, hospitals, and governments. The article argues that future disruptions could have even broader consequences. Concentration on a small number of cloud providers turns a localized service failure into a potential cross-sector systemic risk. Critical organizations therefore need resilience strategies that address provider outages rather than assuming that infrastructure redundancy within one cloud is sufficient. The supplied excerpt contains no outage date, affected service list, incident cause, duration, or recovery metrics, so it does not establish the outage’s technical scale. Azure Front Door is relevant because it is a global managed edge service combining routing, TLS termination, web application firewall capabilities, distributed denial-of-service mitigation, and traffic management; however, the excerpt does not confirm that this component caused the incident.
 
-rss · Ars Technica · Nov 12, 22:59
+rss · Wired · Nov 13, 17:15
 
-**Background**: Prostate-cancer screening is intended to detect cancer in men without symptoms, allowing earlier and potentially easier treatment. PSA testing measures PSA levels in blood, but it is not specific enough by itself to diagnose prostate cancer, and it can identify harmless conditions or lead to unnecessary follow-up. Clinical guidelines have therefore debated whether routine screening produces enough benefit to justify these harms.
+**Background**: Cloud concentration describes dependence on a small number of providers for computing, storage, networking, and other digital services. Resilience designs can improve availability through multiple availability zones, multiple regions, or active-active multi-cloud deployments, although the latter can introduce complexity, cost, security gaps, and cascading failures when traffic shifts abruptly to an untested secondary environment.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.cancer.gov/types/prostate/psa-fact-sheet">Prostate - Specific Antigen ( PSA ) Test - NCI</a></li>
-<li><a href="https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/prostate-cancer-screening">Final Recommendation Statement: Prostate Cancer : Screening</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Prostate_cancer_screening">Prostate cancer screening - Wikipedia</a></li>
+<li><a href="https://windowsforum.com/threads/azure-front-door-outage-highlights-cloud-dependence-and-resilience-needs.387111/">Azure Front Door Outage Highlights Cloud ... | Windows Forum</a></li>
+<li><a href="https://www.xaccel.net/cloud-diversification.pdf">The Disaster in the Making: Why Relying on the Big Three Cloud ...</a></li>
+<li><a href="https://aws.amazon.com/blogs/architecture/understand-resiliency-patterns-and-trade-offs-to-architect-efficiently-in-the-cloud/">Understand resiliency patterns and trade-offs to architect ... Multi-Cloud Architecture: Proven Strategies for Resilience ... Guidance for Multicloud Resilience on AWS Multi-Cloud Architecture Design: Strategies for Resilience ... How to Build a Resilient Multi-Cloud Strategy That Actually Works</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#public health`, `#cancer screening`, `#prostate cancer`, `#PSA testing`, `#clinical guidelines`
+**Tags**: `#Microsoft`, `#Cloud Infrastructure`, `#Systemic Risk`, `#Service Outages`, `#Technology Dependence`
 
 ---
 
 <a id="item-62"></a>
-## [Ukraine Says Starshield Limits Again Weaken Air Defense](https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/) ⭐️ 6.0/10
+## [Mansa Uses AI Microdramas to Test Black Audience Demand](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/) ⭐️ 6.0/10
 
-Ukraine says renewed restrictions on SpaceX’s Starshield service have left it unable to stop Russian strikes, while SpaceX denies limiting the service. Ukraine suspects the speed caps are intended to help Russia in peace negotiations. The dispute highlights how control of commercial satellite infrastructure can directly affect wartime communications and defense operations. Starshield is a military-focused service separate from Starlink’s consumer broadband offering, so service caps and government decisions may have immediate battlefield consequences. Ukrainian officials reportedly said that some interception systems could not reach the speed needed to engage Russian jet-powered drones, resulting in successful strikes. SpaceX has multiple Pentagon contracts supporting Ukrainian access to Starshield, and Elon Musk said in the previous month that restrictions are decided by the US government.
+Startup Mansa is producing 30 AI-generated microdramas centered on Black stories, using them both as creative projects and audience-driven proofs of concept. The approach seeks to identify formats that appeal to Black audiences while challenging the shortage of Black roles in Hollywood. The project highlights a possible market-testing model for expanding representation without requiring studios to finance many full-scale productions upfront. It also raises questions about whether AI can broaden access for Black creators or merely commodify culturally significant stories. Mansa&\#x27;s program includes 30 AI-generated episodes and is intended to reveal what Black audiences want through audience testing. However, its promise of paid work for Black artists remains unproven, and critics argue that the studio&\#x27;s commercial priorities amount to selling out.
 
-rss · Ars Technica · Nov 12, 19:09
+rss · Wired · Nov 13, 11:45
 
-**Background**: Starshield is a SpaceX business unit that builds military and intelligence satellite systems for the Pentagon and allied governments. It adapts Starlink’s low-Earth-orbit satellite architecture for secure military communications and other specialized capabilities, while remaining distinct from Starlink’s commercial broadband service.
+**Background**: Microdramas are short-form episodic productions that can be produced and tested at relatively low cost compared with conventional films. Generative AI enables studios to create images, scenes, and other audiovisual material rapidly, making small-scale audience experiments more feasible. Mansa wants to use that capability to address the persistent underrepresentation of Black performers and stories in Hollywood.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.spacex.com/starshield">Starshield - SpaceX</a></li>
-<li><a href="https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained">What is Starshield , SpaceX ’s military -grade Starlink... | The Guardian</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/">Ukraine says it can’t stop Russian strikes because Starshield is...</a></li>
+<li><a href="https://mymondayai.wordpress.com/2026/11/13/mansa-ai-microdramas/">What Mansa AI Microdramas Mean for Artists – My Monday AI</a></li>
+<li><a href="https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/">This Startup Is Betting on AI Microdramas to Get More Black ...</a></li>
+<li><a href="https://variety.com/2026/film/global/generative-ai-microdramas-busan-market-1236871628/">Generative AI, Microdramas to Take Center Stage at ... - Variety</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Starshield`, `#SpaceX`, `#Ukraine`, `#satellite communications`, `#tech policy`
+**Discussion**: Discussion is sharply divided: supporters see the microdramas as a practical way to demonstrate demand and create opportunities for Black talent, while critics argue that the studio is prioritizing profit and tokenistic representation over authentic creative control. Skeptics also note that the promise of paid work has not yet been proven.
+
+**Tags**: `#generative AI`, `#film production`, `#representation`, `#media ethics`, `#startups`
 
 ---
 
 <a id="item-63"></a>
-## [Microsoft Outlook Outage Begins Recovering After Nearly Two Days](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage) ⭐️ 6.0/10
+## [Formalizing Tensor Layout Selection for ML Compilers](https://arxiv.org/abs/2608.21555) ⭐️ 6.0/10
 
-Microsoft Outlook and other Microsoft 365 services began recovering on Friday after an almost two-day global outage that affected millions of users. Some applications and features remained degraded, but many users reported that email access had returned. The disruption demonstrated the operational dependence of organizations and governments on Microsoft&\#x27;s productivity and cloud ecosystem. It also highlighted the business continuity risks created when a faulty software update can trigger simultaneous failures across globally distributed services. Microsoft attributed the incident to a faulty update, while stating that it was not a cyberattack or an AI-related failure. The company also reported elevated server loads as it worked to restore capacity and bring affected services back to normal.
+The paper presents what its authors describe as the first formal study of tensor layout selection in machine-learning compilers. It formulates the problem as combinatorial optimization over dataflow graphs, jointly minimizing operator execution costs and the per-tensor costs of layout conversions. Tensor layouts can affect memory access patterns, operator performance, and the overhead of converting between formats such as NCHW and NHWC. A rigorous optimization framework could help compilers replace ad hoc layout heuristics with more systematic decisions, improving performance and portability across hardware backends. The formulation treats layout selection as a combinatorial optimization problem over compiler dataflow graphs. Its objective combines operator execution costs with conversion costs assigned to individual tensors, though the supplied metadata and search excerpts do not establish the novelty of the formulation or provide implementation and evaluation results.
 
-rss · The Verge · Nov 13, 16:17
+rss · Hacker News \(best\) · Nov 14, 19:48
 
-**Background**: Microsoft 365 is a subscription-based suite that includes Outlook, Teams, SharePoint, and other cloud productivity services used by consumers, businesses, and governments. Its shared cloud infrastructure can provide scale and consistency, but it can also concentrate operational risks when a faulty update affects multiple interconnected services.
+**Background**: A tensor layout defines how multidimensional tensor data is arranged in memory, and different layouts can produce different access patterns for the same computation. Machine-learning compilers may rewrite graphs, fuse operators, and transform layouts, but selecting among those transformations requires balancing kernel efficiency against conversion overhead. Existing compilers are described as relying on ad hoc heuristics because this selection process has lacked a formal theoretical foundation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more">Worldwide Microsoft 365 outage disrupts Outlook... | Malwarebytes</a></li>
-<li><a href="https://www.microsoft.com/en-us">Microsoft – AI, Cloud, Productivity, Computing, Gaming &amp; Apps</a></li>
+<li><a href="https://arxiv.org/html/2608.21555">Tensor Seeks Layout : Formalizing Layout Selection for ML Compilers</a></li>
+<li><a href="https://arxiv.org/abs/2608.21555">[2608.21555] Tensor Seeks Layout: Formalizing Layout ...</a></li>
+<li><a href="https://apxml.com/courses/compiler-optimizations-machine-learning/chapter-2-graph-level-transformations/layout-transformation">Tensor Layout Transformation (NCHW/NHWC) - apxml.com</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Microsoft 365`, `#Outlook`, `#service outage`, `#cloud services`, `#availability`
+**Tags**: `#machine-learning compilers`, `#tensor layouts`, `#compiler optimization`, `#ML systems`
 
 ---
 
 <a id="item-64"></a>
-## [Mansa Uses AI Microdramas to Promote Black Stories in Hollywood](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/) ⭐️ 6.0/10
+## [Survey Finds Most iOS Photo Vaults Hide Rather Than Encrypt](https://dev.to/revira_labs_09857815489f0/most-photo-vault-apps-hide-your-photos-few-encrypt-them-we-checked-69-apps-c8d) ⭐️ 6.0/10
 
-Mansa is producing AI-generated microdramas as proof-of-concept projects for stories centered on Black characters and audiences. The company presents these shorts as a way to identify story preferences and create more opportunities for Black narratives in Hollywood. The project connects generative AI with a persistent representation gap in Hollywood, potentially giving Black creators more ways to test ideas and reach audiences. It also intensifies concerns about commercialization, creative authorship, and whether AI-driven production can genuinely improve representation or simply repackage existing inequalities. Mansa&\#x27;s approach uses microdramas rather than feature-length productions, allowing relatively compact experiments to function as audience and story tests. Generative-AI filmmaking workflows can assist with scripts, scene breakdowns, characters, environments, storyboards, and video, although these projects remain vulnerable to coherence and quality-control problems.
+Researchers reviewed the US App Store listings of 69 iOS photo-vault apps on October 30, 2026, and published a public CSV dataset for verification. Among the 34 apps with at least 1,000 ratings, 76% declared data used to track users, 56% mentioned encryption, and only one named AES. Many users may mistake an interface lock or hidden album for strong protection, leaving photos readable when the device is unlocked or its data is copied from an unencrypted backup. The findings also expose a mismatch between privacy-oriented products and the tracking practices declared in their App Store privacy labels. The audit measures App Store descriptions and privacy labels rather than testing the apps technically, so an app could encrypt photos without saying so. A practical test is whether the developer can recover a vault after the user&\#x27;s passcode is forgotten; genuine vault-key encryption should instead rely on a user-held recovery key.
 
-rss · Wired · Nov 13, 11:45
+rss · Dev.to · Nov 14, 20:11
 
-**Background**: AI microdramas are short, episodic productions in which generative tools help create or develop elements such as scripts, scenes, characters, storyboards, and video. In other filmmaking experiments, generative AI is positioned as a way to produce difficult or expensive scenes while keeping human direction central. Mansa applies this emerging format to a specific industry objective: expanding the visibility of Black stories and testing what Black audiences want.
+**Background**: iOS already encrypts files at rest through Data Protection, but that protection is controlled by the device passcode. A vault that merely hides photos adds an application-level screen, whereas a vault that applies its own encryption also protects copied files when the key is held separately from the device. Apple&\#x27;s “Data Used to Track You” label concerns data linked with other companies&\#x27; apps and websites for advertising or measurement, and third-party SDKs can significantly affect an app&\#x27;s privacy profile.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/how-topview-enabling-new-form-storytelling-filmmaking-3nquc">How Topview is Enabling a New Form of Storytelling and Filmmaking...</a></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ancestra-behind-the-scenes/">Behind ANCESTRA: combining generative AI with live-action...</a></li>
-<li><a href="https://modeles.com/news/this-startup-is-betting-on-ai-microdramas-to-get-more-black-stories-in-holl-5c89e9">This Startup Is Betting on AI Microdramas to Get More Black Stories ...</a></li>
+<li><a href="https://octoshield.app/guides/hidden-album-vs-encrypted-vault">iPhone Hidden Album vs . Encrypted Photo Vault | Octoshield</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2023/10060/">Get started with privacy manifests - WWDC23... - Apple Developer</a></li>
+<li><a href="https://nofluffadvisory.com/writing/is-apple-harvesting-adtech-data/">Is Apple harvesting adtech data ? — No Fluff Advisory</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI filmmaking`, `#Hollywood`, `#representation`, `#generative AI`, `#media`
+**Tags**: `#privacy`, `#encryption`, `#iOS`, `#photo-vault-apps`, `#security-research`
 
 ---
 
 <a id="item-65"></a>
-## [NASA Seeks Commercial Options to Reboost Hubble](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/) ⭐️ 6.0/10
+## [Plannotator Brings Email-Style Review to AI Agents](https://dev.to/mech_app_ai/plannotators-inbox-pattern-why-background-agent-execution-needs-an-email-like-ui-n0b) ⭐️ 6.0/10
 
-NASA is soliciting proposals from commercial spaceflight companies on how to raise Hubble’s orbit and extend its operational life beyond its expected atmospheric reentry by 2034. The agency is considering commercial options as several onboard malfunctions add uncertainty to the telescope’s remaining mission. A successful reboost could preserve Hubble’s unique scientific observations and avoid an eventual controlled reentry, potentially reducing orbital debris. It would also demonstrate whether private spacecraft can provide servicing and orbital-lift capabilities for major NASA assets. The proposal process is focused on raising Hubble’s orbit rather than replacing the telescope with a new observatory. Because the announcement provides no spacecraft design, launch schedule, contract structure, or funding details, it remains an early solicitation rather than a selected or approved mission.
+Plannotator is a local, browser-based inbox that lets users asynchronously review outputs from multiple AI agents. It renders plans, code diffs, prototypes, and other artifacts from local task directories, then returns structured annotations to agents for their next run. Conventional chat interfaces assume users are present for every exchange, which is poorly suited to agents that work for hours or run in parallel. The inbox pattern separates execution from review and supports human-in-the-loop workflows resembling code review, where decisions and feedback can be batched and applied later. Plannotator requires no server or database; agents write artifacts and metadata to directories under ~/.plannotator, while the browser watches for new tasks. Reviews can target specific artifact lines and record approval or rejection status in annotations.json, which the agent reads on a subsequent run.
 
-rss · Wired · Nov 13, 10:00
+rss · Dev.to · Nov 14, 20:06
 
-**Background**: Hubble is a NASA space telescope operating in low Earth orbit, where residual atmospheric drag gradually lowers its orbital altitude. As its orbit decays, Hubble is expected to reenter the atmosphere by 2034 unless its trajectory is raised. Orbital reboosting is technically challenging because a servicing spacecraft must rendezvous with the telescope, attach or otherwise deliver the needed propulsion safely, and avoid creating additional orbital debris.
+**Background**: Human-in-the-loop systems let people review or approve agent actions, particularly when those actions carry meaningful consequences. Plannotator extends this pattern from individual action confirmations to asynchronous management of artifacts produced by long-running coding, research, and assistant agents. Its file-based contract also resembles conventional code-review workflows, where comments and approvals are associated with specific changes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nasa.gov/">NASA</a></li>
+<li><a href="https://plannotator.ai/inbox/">Plannotator Inbox</a></li>
+<li><a href="https://github.com/backnotprop/plannotator">GitHub - backnotprop/ plannotator : The workspace to stay in the loop...</a></li>
+<li><a href="https://www.useskillpedia.com/en/skill/plannotator-backnotprop/">plannotator : Agents skill for AI agents | Skillpedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Hubble Space Telescope`, `#NASA`, `#Commercial Spaceflight`, `#Space Debris`, `#Orbital Mechanics`
+**Tags**: `#AI agents`, `#human-in-the-loop`, `#developer tools`, `#asynchronous workflows`, `#UI patterns`
 
 ---
 
 <a id="item-66"></a>
-## [DeepMind Workers Escalate UK Unionization Campaign](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/) ⭐️ 6.0/10
+## [Atlyxen Builds 100+ Browser-Native Engineering Tools](https://dev.to/atlyxen_studios/building-100-zero-server-web-tools-webgl-threejs-client-side-privacy-24bd) ⭐️ 6.0/10
 
-Google DeepMind employees are seeking to bypass stalled negotiations with management in their effort to unionize. The move follows initial talks that did not produce the recognition or protections they sought. The campaign could give DeepMind researchers greater collective influence over workplace policies and decisions surrounding AI research, including military applications. It also signals growing labor scrutiny within prominent AI laboratories. The Communication Workers Union and Unite have sought formal recognition to represent approximately 1,000 Google DeepMind employees in London. Google initially stated that no unionization vote had occurred, so the reported escalation should be understood within an unresolved recognition process.
+Atlyxen Studios introduced Atlyxen Tools, a collection of more than 100 browser-based utilities that process CAD, 3D, and PDF files locally using WebGL, WebAssembly, Three.js, and in-memory computation. The suite includes a universal 3D viewer, an AutoCAD DWG/DXF viewer, and a browser PDF editor and signer, all designed to avoid uploading files to remote servers. Local processing can reduce upload latency, cloud egress costs, and exposure of sensitive engineering and legal documents. The approach reflects a broader shift toward privacy-preserving web applications that use the user&\#x27;s device instead of centralized cloud infrastructure. The 3D viewer supports GLB, OBJ, STL, and FBX assets, PBR texture controls, polygon and draw-call telemetry, and lighting presets. The project also claims browser-native parsing of DWG and DXF vector entities through WebAssembly and local PDF merging, redaction, signing, and conversion, but the article provides no independent benchmarks, detailed implementation evidence, or quantified memory and performance limits.
 
-rss · Wired · Nov 12, 18:05
+rss · Dev.to · Nov 14, 20:06
 
-**Background**: Union recognition allows an organized group of workers and an appointed union to negotiate collectively on matters such as working conditions, pay, and workplace conduct. At DeepMind, the dispute reportedly reflects broader concerns about employee influence over AI projects, particularly work connected to military uses, rather than only compensation.
+**Background**: Client-side computing performs file processing within the browser rather than sending data to a server. WebGL enables GPU-accelerated graphics in the browser, WebAssembly provides a portable compilation target for intensive computation, and Three.js supplies higher-level tools for rendering 3D scenes. Related research describes browser architectures using WebAssembly, Web Workers, and the Web Cryptography API for local document processing while also highlighting security, performance, and memory-management limitations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel">Google DeepMind workers are unionizing over AI military... | The Verge</a></li>
-<li><a href="https://www.livemint.com/companies/news/google-deepminds-uk-workers-vote-to-unionise-over-pentagon-ai-deal-a-first-for-frontier-ai-labs-11778025670418.html">Why Google DeepMind workers in UK are trying to unionise over...</a></li>
+<li><a href="https://figshare.com/articles/preprint/Privacy-Preserving_Client-Side_Information_Processing_A_Browser-Based_Architecture_for_Local_Data_Analysis_and_Secure_File_Handling/34003734">Item - Privacy-Preserving Client-Side Information Processing ...</a></li>
+<li><a href="https://utilvo.com/downloads/privacy-preserving-client-side-information-processing.pdf">Privacy-Preserving Client-Side Information Processing: A ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Google DeepMind`, `#labor unions`, `#AI workplace`, `#worker rights`
+**Tags**: `#client-side-computing`, `#WebAssembly`, `#WebGL`, `#Three.js`, `#data-privacy`
 
 ---
 
 <a id="item-67"></a>
-## [Reject Stale Updates with Atomic Revision Checks](https://dev.to/tokenpeakai/reject-a-stale-in-memory-update-with-a-revision-check-inside-the-lock-1741) ⭐️ 6.0/10
+## [Decompiling Bodyless UnsafeAccessor Methods from Metadata](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-unsafeaccessor-the-extern-method-with-no-body-and-a-private-name-in-its-attribute-47g5) ⭐️ 6.0/10
 
-The article presents a Python \`RevisionCell\` that stores an immutable string payload alongside an integer revision. A replacement includes the revision originally read, and the cell compares that expectation, assigns the new value, and increments the revision within one lock-held critical section. Serializing only the final assignment prevents simultaneous writes but does not stop an editor that read stale data from overwriting a newer result. Combining the version check and replacement atomically provides a practical optimistic-concurrency safeguard for shared in-memory state. The public snapshot is an integer-and-string tuple, preventing callers from mutating a nested payload, and a mismatched revision raises \`RevisionConflict\`. The pattern assumes all reads and updates go through the cell interface; directly modifying its private attributes would bypass the revision policy.
+The article demonstrates how Glass.NET reconstructs .NET 8 UnsafeAccessor declarations for fields, methods, and constructors by extracting the private target name from custom-attribute metadata. It shows that these static extern methods have no IL body, and that their essential target-member information is encoded in the UnsafeAccessorAttribute blob rather than the instruction stream. Traditional decompilers that focus on IL bodies or member-reference tables cannot fully understand these accessors because their semantic meaning resides in custom metadata. Correct reconstruction improves tooling for inspecting assemblies that rely on UnsafeAccessor, including serializers, test harnesses, and libraries that access internal members. In the field-accessor example, the method returns a by-reference to the private string field and compiles to a managed method with a zero RVA, no .maxstack, no locals, and no instructions. The target name &quot;\_secret&quot; appears inside the encoded UnsafeAccessorAttribute constructor value, and the runtime supplies a direct-access thunk rather than a P/Invoke marshaling stub.
 
-rss · Dev.to · Nov 14, 00:00
+rss · Dev.to · Nov 14, 20:06
 
-**Background**: Optimistic concurrency control detects conflicting updates by checking whether state has changed since an operation began, rather than holding locks for the entire operation. Here, the revision number is an application-level version policy, while Python&\#x27;s \`Lock\` supplies the primitive mutual exclusion needed to make comparison and replacement indivisible.
+**Background**: UnsafeAccessor was introduced in .NET 8 as a sanctioned way for trusted code to access non-public fields, methods, and constructors without the overhead of reflection. A developer declares a static extern method and supplies the member kind and target name through UnsafeAccessorAttribute; the JIT binds the accessor to the specified member at runtime. Because the method is bodyless, the target cannot be inferred from IL and must be recovered from the attribute&\#x27;s metadata.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Optimistic_concurrency_control">Optimistic concurrency control - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/dotnet/standard/attributes/writing-custom-attributes">Writing Custom Attributes - .NET | Microsoft Learn Accessing private members without reflection in C# Easier reflection with [UnsafeAccessorType] in .NET 10 How to create a custom attribute in C# - Stack Overflow How to provide custom implementation for extern methods in .NET? runtime/docs/design/features/unsafeaccessors.md at main ...</a></li>
+<li><a href="https://www.meziantou.net/accessing-private-members-without-reflection-in-csharp.htm">Accessing private members without reflection in C#</a></li>
+<li><a href="https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/">Easier reflection with [UnsafeAccessorType] in .NET 10</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#concurrency`, `#thread-safety`, `#optimistic-concurrency`, `#locking`, `#Python`
+**Tags**: `#.NET`, `#UnsafeAccessor`, `#decompilation`, `#metadata`, `#JIT`
 
 ---
 
 <a id="item-68"></a>
-## [Five Checks for Fintech Knowledge-Bot Retrieval and Auditability](https://dev.to/radcliffbarrett4718/five-checks-for-fintech-knowledge-bot-retrieval-architecture-and-audit-logs-3994) ⭐️ 6.0/10
+## [Cangrelor Strategies Merit Evaluation in Infarction-Related Shock](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901152-9/fulltext?rss=yes) ⭐️ 6.0/10
 
-The article proposes a two-lane RAG architecture that separates durable vector retrieval for controlled documentation from live search for frequently changing operational context. It also recommends detailed, request-linked audit events covering eligibility, retrieval, filtering, scoring, decisions, and citations. This design can help fintech teams prevent live, unverified web content from silently overriding approved runbooks while preserving the evidence needed for compliance reviews. It also gives engineers a bounded way to reproduce retrieval outcomes without retaining raw customer questions indefinitely. Each retrieval path needs distinct controls: vector collections require chunk metadata, collection membership, deletion policies, document revisions, and policy decisions, while live search requires timeouts, result limits, and domain allow-lists. Audit records should use an append-only sink with restricted access, redact secrets, and retain stable hashes where necessary; a similarity score alone is not an explanation.
-
-rss · Dev.to · Nov 13, 23:51
-
-**Background**: Retrieval-augmented generation, or RAG, gives a large language model access to external information before it generates an answer, often from an authoritative or domain-specific knowledge source. In fintech systems, some sources such as approved runbooks remain stable for months, while maintenance notices or incident statuses may change daily or hourly. Separating these freshness classes makes precedence, verification status, and audit evidence explicit.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation - Wikipedia</a></li>
-<li><a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/">What is RAG ? - Retrieval-Augmented Generation AI Explained - AWS</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#RAG`, `#vector search`, `#fintech AI`, `#audit logging`, `#knowledge bots`
-
----
-
-<a id="item-69"></a>
-## [Understanding x86-64 Page Tables](https://dev.to/parsaaftabi/page-tables-in-plain-words-2kn4) ⭐️ 6.0/10
-
-The article presents a plain-language explanation of how the x86-64 kernel and CPU use four-level page tables to translate virtual addresses into physical addresses. It connects the 4 KB page format and address-bit layout to tree traversal, caching, permissions, faults, and large pages. Understanding page tables helps developers reason about memory isolation, segmentation, performance, and operating-system debugging. The article also highlights the operational requirement to invalidate stale TLB entries after changing a mapping, especially across multiple processor cores. In conventional four-level paging, the low 12 address bits form the 4 KB page offset, while four 9-bit fields select entries across four tables, each containing 512 8-byte entries. Large-page entries can map 2 MB or 1 GB regions, reducing TLB pressure but sacrificing independent permission granularity.
-
-rss · Dev.to · Nov 13, 23:49
-
-**Background**: Virtual memory lets each process operate in its own address space while the operating-system kernel controls how virtual pages map to physical frames. On x86-64, a four-level page-table tree avoids allocating entries for sparsely used address regions, while the translation lookaside buffer caches recently used translations to avoid repeated walks. Access-control bits in page-table entries are enforced by the processor, and failed checks generate page faults that the kernel handles.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://os.phil-opp.com/paging-introduction/">Introduction to Paging | Writing an OS in Rust</a></li>
-<li><a href="https://lectures.alex.balgavy.eu/aos-notes/page-tables/">Page tables</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#operating-systems`, `#virtual-memory`, `#page-tables`, `#x86-64`, `#computer-architecture`
-
----
-
-<a id="item-70"></a>
-## [LLM Judges Can Strengthen MCP Tool Safety](https://dev.to/noelserdna/llm-como-juez-y-mcp-como-se-ayudan-y-sus-limites-je5) ⭐️ 6.0/10
-
-The article proposes using an MCP-hosted LLM judge to assess ambiguous tool calls, estimate whether user confirmation is needed, and screen tool outputs for possible prompt injection. The judge may escalate scrutiny or route a case to a human, but it must never relax deterministic permission rules or approval requirements. Tool metadata and fixed permissions cannot distinguish every safe call from a harmful one when the same tool becomes risky because of its arguments. An LLM judge can add context-sensitive screening to agent workflows, provided that failures fail safely and human approval remains authoritative. In the fictional Nortia Logistics example, a judge evaluates whether ticket TCK-88213 unambiguously authorizes a €184.50 credit against invoice F-2026-0142: high confidence permits execution, medium confidence, judge failure, or no response triggers explicit elicitation, and low confidence escalates to the finance controller. The proposed one-way ratchet permits escalation from confirmation to human review but never the reverse, while injection detection is described only as inexpensive screening rather than a complete defense.
-
-rss · Dev.to · Nov 13, 23:48
-
-**Background**: An LLM-as-a-judge is a model that scores or classifies another system&\#x27;s output against predefined criteria, and it can itself be exposed as an MCP server that clients call. Model Context Protocol provides a standard way for AI applications to connect to external tools and data, while tool annotations such as readOnlyHint and destructiveHint are hints that should be trusted only when supplied by a trusted server.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture">Architecture overview - Model Context Protocol</a></li>
-<li><a href="https://arxiv.org/abs/2411.15594">[2411.15594] A Survey on LLM - as - a - Judge</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM-as-a-Judge`, `#Model Context Protocol`, `#AI Agents`, `#Tool Calling`, `#AI Safety`
-
----
-
-<a id="item-71"></a>
-## [Reclaiming SOL Locked in Empty Solana Token Accounts](https://dev.to/opsnode_dev/where-did-my-sol-go-finding-the-rent-locked-in-empty-solana-token-accounts-15ie) ⭐️ 6.0/10
-
-The article shows Solana users how to locate rent-exempt SOL deposits left in empty SPL Token and Token-2022 accounts after selling their tokens. It provides a read-only script based on getTokenAccountsByOwner and explains how the funds can be reclaimed by closing the accounts. Frequent traders can accumulate small, fragmented SOL balances that remain inaccessible while empty token accounts stay open. Recovering these deposits can reduce apparent wallet discrepancies and improve funds management for active Solana users. A standard 165-byte SPL token account currently requires about 0.00148844 SOL, while a 170-byte Token-2022 account with the usual ImmutableOwner extension requires about 0.00151 SOL; older accounts may retain the former 0.00203928 SOL requirement. The scanning script is non-custodial and requires no wallet connection or signature, but the reclamation step requires closing eligible empty accounts and paying the applicable transaction costs.
-
-rss · Dev.to · Nov 13, 23:48
-
-**Background**: Solana wallets hold SPL tokens in separate token accounts rather than storing every token directly in the wallet itself. Each account must maintain a rent-exempt SOL balance, and selling the token does not close the account or automatically return that deposit. The article therefore treats empty token accounts as recoverable rent rather than a fee charged by the token sale itself.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://solana.com/">Solana - The Capital Market For Every Asset on Earth</a></li>
-<li><a href="https://devrels.xyz/articles/spl-token-vs-token-2022">SPL Token vs Token - 2022 : program IDs, account layout... | devrels.xyz</a></li>
-<li><a href="https://refundyoursol.com/">RefundYourSOL — Claim Solana Wallet Token Account Rent</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Solana`, `#SPL Tokens`, `#Rent Exemption`, `#Wallet Recovery`, `#Blockchain Development`
-
----
-
-<a id="item-72"></a>
-## [Lula’s New Term Faces Governance and Democracy Risks](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902234-8/fulltext?rss=yes) ⭐️ 6.0/10
-
-The correspondence warns that Brazil’s incoming Lula administration may struggle to govern after an unprecedented conservative surge in the 2026 legislative elections. It argues that congressional gridlock and democratic instability could obstruct commitments to science, public health, environmental protection, and Amazon conservation. Brazilian executive support for research and public health has limited practical effect if the presidency cannot secure legislative cooperation. Continued institutional conflict could therefore affect health systems, evidence-based policymaking, environmental governance, and the long-term governance of the Amazon. The correspondence cites a 51.79% to 48.21% election result and draws on Brazil’s political tensions following the 2022 election, including civilian encampments outside military facilities, demands for military intervention, and the January 2023 storming of Brasília’s democratic institutions. It is an analytical correspondence rather than a report of a new policy, research finding, or enacted institutional change.
+A Lancet comment calls for clinical evaluation of cangrelor-based antiplatelet strategies in acute myocardial infarction-related cardiogenic shock. It identifies optimal dual antiplatelet therapy in this population as a priority because evidence remains limited. These patients face both coronary thrombosis and serious bleeding risks, making antiplatelet selection especially consequential in a condition with high mortality. Research could improve the safety and effectiveness of primary percutaneous coronary intervention in this high-risk population. Cangrelor is a potent, reversible intravenous P2Y12 inhibitor that rapidly suppresses platelet function and restores it within about one hour after discontinuation. The comment provides a rationale for further evaluation rather than presenting study results, a treatment recommendation, or comparative outcome data.
 
 rss · The Lancet · 最新文章 · Nov 13, 23:30
 
-**Background**: Brazil’s president leads the executive branch, but major policies generally require cooperation with the national Congress. The 2026 legislative election produced a strongly divided Congress, creating an institutional check that may constrain Lula’s agenda even if the presidency remains supportive of science and public health. The correspondence also frames these challenges within concerns over democratic norms and political violence in Brazil.
+**Background**: Acute myocardial infarction-related cardiogenic shock results from severe cardiac dysfunction and carries competing risks of thrombosis and bleeding. Primary percutaneous coronary intervention is the cornerstone of treatment, while dual antiplatelet therapy helps limit coronary thrombosis but may increase bleeding. Cangrelor blocks ADP-induced platelet activation through P2Y12 receptors, and its short duration of action may be useful when antiplatelet intensity must be closely controlled.
 
-**Tags**: `#Brazil politics`, `#public health policy`, `#science governance`, `#Amazon conservation`, `#democratic institutions`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.drugs.com/pro/cangrelor.html">Cangrelor : Package Insert / Prescribing Information / MOA</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12460538/">Antiplatelet therapy in acute myocardial infarction complicated by...</a></li>
+<li><a href="https://www.wikidoc.org/index.php/Percutaneous_coronary_intervention_Cardiogenic_shock">Percutaneous coronary intervention Cardiogenic shock - wikidoc</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Cardiogenic Shock`, `#Myocardial Infarction`, `#Antiplatelet Therapy`, `#Cangrelor`, `#Clinical Evidence`
 
 ---

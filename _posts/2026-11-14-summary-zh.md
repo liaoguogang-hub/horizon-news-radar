@@ -5,615 +5,613 @@ date: 2026-11-14
 lang: zh
 ---
 
-> 从 218 条内容中筛选出 72 条重要资讯。
+> 从 192 条内容中筛选出 68 条重要资讯。
 
 ---
 
-1. [英伟达开源人工智能战略面临领导层不确定性](#item-1) ⭐️ 9.0/10
-2. [FAA 因全国性通信中断暂停美国航班](#item-2) ⭐️ 9.0/10
-3. [科莱特·克雷斯出任英伟达临时首席执行官](#item-3) ⭐️ 9.0/10
-4. [黄仁勋辞去英伟达首席执行官职务](#item-4) ⭐️ 9.0/10
-5. [逆向工程 Coway 空气净化器实现本地控制](#item-5) ⭐️ 8.0/10
-6. [人工智能解读哥德尔笔记，发现数百条已证明定理](#item-6) ⭐️ 8.0/10
-7. [人工智能超越《NetHack》前沿水平](#item-7) ⭐️ 8.0/10
-8. [Rust 1.100.0 稳定 Never 类型](#item-8) ⭐️ 8.0/10
-9. [黄仁勋离任令 AI 融资陷入不确定](#item-9) ⭐️ 8.0/10
-10. [LangChain 估值达 30 亿美元，LangSmith 拥有 7000 家客户](#item-10) ⭐️ 8.0/10
-11. [受限英伟达芯片被指训练中国领先人工智能模型](#item-11) ⭐️ 8.0/10
-12. [黄仁勋同意赴国会作证](#item-12) ⭐️ 8.0/10
-13. [SignDrop Windows 零日漏洞可获取 SYSTEM 权限](#item-13) ⭐️ 8.0/10
-14. [微软全球性故障引发云服务可靠性担忧](#item-14) ⭐️ 8.0/10
-15. [科学家警告全球升温或于 2029 年达到 1.5°C](#item-15) ⭐️ 8.0/10
-16. [Google 广泛推出 Gemini 4 Hydrogen](#item-16) ⭐️ 8.0/10
-17. [林奇综合征综述强调普遍错配修复检测](#item-17) ⭐️ 8.0/10
-18. [更年期激素疗法重塑微生物组并预测症状反应](#item-18) ⭐️ 8.0/10
-19. [KORS 启动全频段航空无线电实时监测](#item-19) ⭐️ 7.0/10
-20. [Haskell 生态系统的技术愿景](#item-20) ⭐️ 7.0/10
-21. [权重空间编辑引发模型完整性疑问](#item-21) ⭐️ 7.0/10
-22. [通用模型开始操控机器人，OpenAI 解散机器人团队](#item-22) ⭐️ 7.0/10
-23. [一种蛋白或可驱动衰老且不引发炎症](#item-23) ⭐️ 7.0/10
-24. [CERN 开发大型强子对撞机下一代超导磁体](#item-24) ⭐️ 7.0/10
-25. [比较 Rust 与 C++ 的指针来源模型](#item-25) ⭐️ 7.0/10
-26. [ChatGPT Wallet 开始测试智能体购物](#item-26) ⭐️ 7.0/10
-27. [Nebius 以 400 亿美元计划检验新型云融资模式](#item-27) ⭐️ 7.0/10
-28. [软银燃气轮机损失凸显 AI 电力约束](#item-28) ⭐️ 7.0/10
-29. [OpenAI 董事警告 AI 接管社会或仅剩数月](#item-29) ⭐️ 7.0/10
-30. [Gemini 安全诉讼引发家庭呼吁暂停校园 AI](#item-30) ⭐️ 7.0/10
-31. [脑植入试验志愿者要求更多自主权与透明度](#item-31) ⭐️ 7.0/10
-32. [英伟达称先进芯片追踪技术可打击走私](#item-32) ⭐️ 7.0/10
-33. [亚马逊计划建立全球商品数据索引](#item-33) ⭐️ 7.0/10
-34. [英伟达人工智能热潮背后的环境代价](#item-34) ⭐️ 7.0/10
-35. [气候变化将冰冻圈推向失稳边缘](#item-35) ⭐️ 7.0/10
-36. [Synchron 因性能问题暂停脑机接口试验](#item-36) ⭐️ 7.0/10
-37. [谷歌与三星推出 Android XR 智能眼镜](#item-37) ⭐️ 7.0/10
-38. [苹果 HomeView 据称采用人物识别而非 FaceID](#item-38) ⭐️ 7.0/10
-39. [Shamonda 病毒出现在中欧牛群](#item-39) ⭐️ 7.0/10
-40. [KRAS 疫苗预防胰腺癌复发仍待临床验证](#item-40) ⭐️ 7.0/10
-41. [FM-1 工作台向社区开发者开放便携式 FM 合成](#item-41) ⭐️ 6.0/10
-42. [六百次 JEPA 实验揭示规划方法的相似性](#item-42) ⭐️ 6.0/10
-43. [1960 年人口预测揭示外推风险](#item-43) ⭐️ 6.0/10
-44. [Isometric SF 打造像素风湾区地图](#item-44) ⭐️ 6.0/10
-45. [价值 1140 万美元的英伟达 GPU 在加州至得州运输途中失踪](#item-45) ⭐️ 6.0/10
-46. [用户反映日常数字任务需要过多点击](#item-46) ⭐️ 6.0/10
-47. [Lonewolf 0.3 发布 Rust 编写的 XMPP 服务器](#item-47) ⭐️ 6.0/10
-48. [“拒绝 AI 垃圾”宣言：成果比产出更重要](#item-48) ⭐️ 6.0/10
-49. [Claude 多项服务遭遇大范围故障](#item-49) ⭐️ 6.0/10
-50. [FreeBSD 与 bhyve 拟支持实时迁移](#item-50) ⭐️ 6.0/10
-51. [博客文章称可绕过 Android 剪贴板读取权限限制](#item-51) ⭐️ 6.0/10
-52. [美国国家气象局报告全国通信中断](#item-52) ⭐️ 6.0/10
-53. [Apify 发布安全事件通告](#item-53) ⭐️ 6.0/10
-54. [重新审视软件开发中的“胶水工作”](#item-54) ⭐️ 6.0/10
-55. [面向非专家的机器学习模块入门指南](#item-55) ⭐️ 6.0/10
-56. [llm-gemini 0.37 新增 Gemini 4 Hydrogen 支持](#item-56) ⭐️ 6.0/10
-57. [民主党启动对英伟达对华销售的第二次调查](#item-57) ⭐️ 6.0/10
-58. [联合航空禁止使用人工智能代理订票](#item-58) ⭐️ 6.0/10
-59. [费用障碍促使美国人转向非正规 GLP-1 用药](#item-59) ⭐️ 6.0/10
-60. [FAA 在全国扩展人工智能空中交通建议系统](#item-60) ⭐️ 6.0/10
-61. [美国癌症协会建议常规进行前列腺特异性抗原筛查](#item-61) ⭐️ 6.0/10
-62. [乌克兰称 Starshield 再次受限削弱防空能力](#item-62) ⭐️ 6.0/10
-63. [微软 Outlook 近两日大范围故障后开始恢复](#item-63) ⭐️ 6.0/10
-64. [Mansa 用 AI 微短剧推动好莱坞黑人故事](#item-64) ⭐️ 6.0/10
-65. [NASA 征集商业方案以抬升哈勃轨道](#item-65) ⭐️ 6.0/10
-66. [DeepMind 员工升级英国工会化行动](#item-66) ⭐️ 6.0/10
-67. [用原子版本检查拒绝过期更新](#item-67) ⭐️ 6.0/10
-68. [金融科技知识机器人的五项检索与审计检查](#item-68) ⭐️ 6.0/10
-69. [浅显理解 x86-64 页表](#item-69) ⭐️ 6.0/10
-70. [LLM 裁判可增强 MCP 工具安全性](#item-70) ⭐️ 6.0/10
-71. [找回空 Solana 代币账户中锁定的 SOL](#item-71) ⭐️ 6.0/10
-72. [卢拉新任期面临治理与民主风险](#item-72) ⭐️ 6.0/10
+1. [黄仁勋辞职风波时间线](#item-1) ⭐️ 9.0/10
+2. [Lovable 应用暴露护照信息及逾 20 万条私信](#item-2) ⭐️ 8.0/10
+3. [用 Lean 形式化整部美国税法以寻找漏洞](#item-3) ⭐️ 8.0/10
+4. [亚洲政府回应英伟达首席执行官离职](#item-4) ⭐️ 8.0/10
+5. [黄仁勋离任引发 AI 初创融资担忧](#item-5) ⭐️ 8.0/10
+6. [中国顶尖人工智能模型使用了受限出口的英伟达芯片](#item-6) ⭐️ 8.0/10
+7. [SignDrop Windows 零日漏洞可提升至系统权限](#item-7) ⭐️ 8.0/10
+8. [微软全球故障扰乱全球公共服务](#item-8) ⭐️ 8.0/10
+9. [FAA 因全国性通信故障暂停美国航班](#item-9) ⭐️ 8.0/10
+10. [Shamonda 病毒在欧洲牛群中 emergent](#item-10) ⭐️ 8.0/10
+11. [综述林奇综合征的遗传机制、筛查与预防](#item-11) ⭐️ 8.0/10
+12. [KRAS 疫苗或可预防胰腺癌复发](#item-12) ⭐️ 8.0/10
+13. [微生物组影响更年期激素治疗效果](#item-13) ⭐️ 8.0/10
+14. [PyPI 重构项目页面，突出供应链安全溯源信息](#item-14) ⭐️ 7.0/10
+15. [谷歌为 Antigravity 推出多智能体协作功能](#item-15) ⭐️ 7.0/10
+16. [意大利因安卓照片访问问题罚款 Meta 8.87 亿美元](#item-16) ⭐️ 7.0/10
+17. [科技公司再次推动隐私概念转向数据采集](#item-17) ⭐️ 7.0/10
+18. [GLM-5.3 跨两台 DGX Station 实现每秒 607.8 个词元](#item-18) ⭐️ 7.0/10
+19. [美国国税局公开直接报税系统源代码](#item-19) ⭐️ 7.0/10
+20. [用约 200 行 JAX 重建 DeepSeek V3](#item-20) ⭐️ 7.0/10
+21. [强化学习的可视化指南](#item-21) ⭐️ 7.0/10
+22. [Project Zero 确立漏洞披露的 90 天期限](#item-22) ⭐️ 7.0/10
+23. [Jane Street 为并行编程构建 OxCaml DSL](#item-23) ⭐️ 7.0/10
+24. [Rust 与 C++ 的指针来源模型对比](#item-24) ⭐️ 7.0/10
+25. [丹佛斯 AK-SM800A 曝出多个远程代码执行漏洞](#item-25) ⭐️ 7.0/10
+26. [Haskell 基金会发布技术愿景](#item-26) ⭐️ 7.0/10
+27. [LangChain 估值达到 30 亿美元](#item-27) ⭐️ 7.0/10
+28. [ChatGPT Wallet 让 AI 代理代购结账](#item-28) ⭐️ 7.0/10
+29. [民主党调查英伟达对华销售及黄仁勋与特朗普关系](#item-29) ⭐️ 7.0/10
+30. [Nebius 以 400 亿美元融资计划检验新型云模式](#item-30) ⭐️ 7.0/10
+31. [星舰第十五次试飞进入轨道，为可能抓捕创造条件](#item-31) ⭐️ 7.0/10
+32. [FAA 将人工智能空中交通建议扩展至全美](#item-32) ⭐️ 7.0/10
+33. [OpenAI 董事会成员警告人工智能可能接管社会](#item-33) ⭐️ 7.0/10
+34. [科学家警告全球升温或于 2029 年突破 1.5°C](#item-34) ⭐️ 7.0/10
+35. [Starship 筹备历史性试飞，Electron 迎来第 100 次发射](#item-35) ⭐️ 7.0/10
+36. [亚马逊计划构建全球商品数据图谱](#item-36) ⭐️ 7.0/10
+37. [人工智能介入航空引发人员配备安全问题](#item-37) ⭐️ 7.0/10
+38. [NASA 寻求商业方案延长哈勃望远镜寿命](#item-38) ⭐️ 7.0/10
+39. [构建定制以太网交换芯片](#item-39) ⭐️ 7.0/10
+40. [KDE 纪录片回顾桌面软件之路](#item-40) ⭐️ 6.0/10
+41. [Terminactory 将 AI 智能体通知融入 Rust 挂机游戏](#item-41) ⭐️ 6.0/10
+42. [十三款《猴岛》图形版本横向对比](#item-42) ⭐️ 6.0/10
+43. [LinkedIn 与 Monster 下架逾千条虚假招聘信息](#item-43) ⭐️ 6.0/10
+44. [Fursoy 在 GitHub 发布乱序执行 RV64 处理器核](#item-44) ⭐️ 6.0/10
+45. [从零实现 PostScript 解释器](#item-45) ⭐️ 6.0/10
+46. [Agweb 为 AI 智能体提供轻量级浏览器环境](#item-46) ⭐️ 6.0/10
+47. [生成式 AI 直观数学入门读本](#item-47) ⭐️ 6.0/10
+48. [从联想记忆重新理解 Transformer](#item-48) ⭐️ 6.0/10
+49. [报道质疑黄仁勋对继任者戴维·克雷斯的信心](#item-49) ⭐️ 6.0/10
+50. [詹姆斯·韦布望远镜发现早于宿主恒星的水冰](#item-50) ⭐️ 6.0/10
+51. [数百万美国人以非标准方式使用 GLP-1 药物](#item-51) ⭐️ 6.0/10
+52. [美国癌症协会建议常规进行前列腺特异性抗原筛查](#item-52) ⭐️ 6.0/10
+53. [脑植入试验志愿者要求更大自主权与透明度](#item-53) ⭐️ 6.0/10
+54. [海伦·托纳质疑对人工智能领导层的信任](#item-54) ⭐️ 6.0/10
+55. [黄仁勋从明星创始人走向行业领袖](#item-55) ⭐️ 6.0/10
+56. [AI 正加速勒索软件攻势](#item-56) ⭐️ 6.0/10
+57. [审查旧的云存储共享链接](#item-57) ⭐️ 6.0/10
+58. [加沙洪灾迫使当地在污水与净水间取舍](#item-58) ⭐️ 6.0/10
+59. [星系碰撞造就“幽灵星系”](#item-59) ⭐️ 6.0/10
+60. [Microsoft 365 在长达 24 小时的全球中断后恢复](#item-60) ⭐️ 6.0/10
+61. [微软故障暴露全球单一云服务商风险](#item-61) ⭐️ 6.0/10
+62. [Mansa 用 AI 微短剧测试黑人观众需求](#item-62) ⭐️ 6.0/10
+63. [形式化机器学习编译器的张量布局选择](#item-63) ⭐️ 6.0/10
+64. [调查发现多数 iOS 照片保险库仅隐藏而非加密](#item-64) ⭐️ 6.0/10
+65. [Plannotator 为 AI 智能体带来邮箱式审阅](#item-65) ⭐️ 6.0/10
+66. [Atlyxen 打造百款浏览器端工程工具](#item-66) ⭐️ 6.0/10
+67. [从元数据反编译无方法体的 UnsafeAccessor](#item-67) ⭐️ 6.0/10
+68. [梗死相关心源性休克亟需评估坎格雷洛策略](#item-68) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [英伟达开源人工智能战略面临领导层不确定性](https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/) ⭐️ 9.0/10
+## [黄仁勋辞职风波时间线](https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/) ⭐️ 9.0/10
 
-黄仁勋辞职引发了对英伟达未来支持开源人工智能的疑问，焦点包括其斥资 129 亿美元收购 Hugging Face 的计划、开放权重模型，以及反对限制模型的政策立场。报道称，黄仁勋离任后，Hugging Face 首席执行官仍承诺继续推动开源人工智能。 黄仁勋的离任可能改变英伟达在人工智能生态中的战略方向，涵盖开放权重模型、开发者平台和行业政策倡导。由于 Hugging Face 是人工智能模型发布与协作的重要枢纽，英伟达收购该平台可能影响开发者获取和部署开放模型的方式。 英伟达曾公开表示，收购 Hugging Face 延续了其对开放权重模型的长期承诺，公司也一直为开源平台作出贡献。不过，报道没有提供领导层交接及收购、产品和倡导计划可能发生何种具体变化的详细信息，因此实际影响仍不确定。
+TechCrunch 整理了一份时间线，梳理黄仁勋据报从英伟达辞职，以及他据称与一名中国间谍有不当关系的相关事件。报道指出，在美中竞逐先进人工智能基础设施之际，此事可能引发国家安全方面的后果。 黄仁勋据报离职，将使这位全球领先的人工智能芯片企业高管卷入公司治理、出口管制和反情报审查。由于英伟达的先进芯片对人工智能算力至关重要，他的角色一直直接影响美中科技竞争。 相关报道称，多名国会议员要求黄仁勋辞职，并正推动传唤他。报道还提到，黄仁勋曾主张放宽向中国出口先进人工智能芯片的限制，而中国人工智能企业据报正在中国境外寻求英伟达芯片产能；不过，所提供材料对核心指控的直接验证仍然有限。
 
-rss · TechCrunch AI · 11月12日 18:39
+rss · TechCrunch AI · 11月13日 15:58
 
-**背景**: 开放权重模型会公开人工智能系统的学习参数，使开发者能够下载、检查、修改或部署模型，而不必只依赖封闭接口。英伟达表示，公司长期投资开放权重模型，并向 Hugging Face 等开源平台作出贡献；Hugging Face 是开发者分享和下载人工智能模型的主要平台。拟议中的 129 亿美元收购因此会把英伟达的硬件业务与重要的模型分发及开发者生态连接起来。
+**背景**: 英伟达是先进人工智能系统训练和运行芯片的主要供应商，因此其出口政策与美国国家安全利益密切相关。美国对先进人工智能芯片销往中国的管制是更大范围科技竞争的重要组成部分，而黄仁勋据报曾主张采取限制较少的政策。因此，这起据报丑闻既可能影响英伟达的管理层，也可能影响芯片出口政策的执行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/">Jensen Huang’s exit puts Nvidia ’s support for open source in question</a></li>
-<li><a href="https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/">NVIDIA to Acquire Hugging Face | NVIDIA Blog</a></li>
-<li><a href="https://www.linkedin.com/pulse/ep-49-nvidia-acquires-open-source-company-hugging-face-ziegler-08gvf">Ep. 49 nvidia acquires open - source company hugging face for $12.9B</a></li>
+<li><a href="https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html">Jensen Huang&#x27;s affair with alleged Chinese spy further ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-congress-resign-ai-chips.html">Jensen Huang affair in DC: Resignation calls and moves to ...</a></li>
+<li><a href="https://www.cfr.org/articles/nvidia-chinese-espionage-and-the-ai-race-four-foreign-policy-issues-to-watch">Huang Resigns From Nvidia. Here Are the Stakes for U.S ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#Open Source AI`, `#Leadership Transition`, `#Open-Weight Models`, `#Hugging Face`
+**标签**: `#Jensen Huang`, `#Nvidia`, `#AI leadership`, `#national security`, `#US-China technology competition`
 
 ---
 
 <a id="item-2"></a>
-## [FAA 因全国性通信中断暂停美国航班](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/) ⭐️ 9.0/10
+## [Lovable 应用暴露护照信息及逾 20 万条私信](https://www.crissyfield.de/research/lovable-en/) ⭐️ 8.0/10
 
-美国联邦航空管理局于周五下令实施全国性地面停止令，在通信故障影响全国 22 个空中交通管制中心后，暂停所有航班起飞。超过 11,000 架次航班被延误或取消，国际航班则将按个案处理。 此次中断影响美国各地的机场、航空公司、旅客和货运业务，是近期关键航空基础设施故障中影响最广泛的事件之一。它也凸显了空中交通管制对通信技术的高度依赖，因为这些系统连接管制员、飞行员及配套网络。 社区消息称，由 L3Harris 运营的私有通信网络在更新后发生重启，系统随之崩溃并造成通信中断，影响了管制员使用的无线电频率。初步报道尚未确认雷达数据是否也受到影响，官员据报警告称，修复这次持续时间可能较长的中断需要相当长时间。
+一项安全调查发现，使用 Lovable 这一 AI 应用构建器创建的应用曾公开暴露敏感用户数据，包括护照信息和逾 20 万条私信。该事件凸显了 AI 生成应用平台中的不安全默认设置，并引发了外界对 Lovable、Supabase 和应用部署者各自责任的讨论。 AI 应用构建器让非技术用户也能轻松创建并发布应用，但一个原本简单的部署错误可能因不安全的默认设置演变为大规模数据泄露。此次暴露可能影响在相关应用中存储个人信息的用户，也表明应用开发平民化必须以更完善的默认隐私保护为前提。 调查据称通过检查浏览器中的网络请求发现了问题，这意味着攻击者并不需要高深的黑客技术。讨论还集中于 Supabase 的数据库和行级安全默认设置，包括针对新项目实施的修复可能未能完全解决现有项目问题的相关说法；暴露的 API 密钥和未授权访问也带来了额外风险。
 
-rss · Wired · 11月13日 21:42
+hackernews · Hacker News \(热门\) · 11月14日 17:43 · [社区讨论](https://news.ycombinator.com/item?id=50499017)
 
-**背景**: FAA 负责监管美国民用航空，并通过 22 个空中交通管制中心运行全国空中交通管制系统。地面停止令要求已准备起飞的飞机继续停留在地面，以便管理部门控制涉及安全的重大中断。2023 年 1 月，FAA 曾在飞行员通知系统故障后发布过类似的全国性地面停止令。
+**背景**: Lovable 是一款 AI 应用构建器，让技术经验有限的用户也能生成并部署应用。这些应用可能使用 Supabase 提供后端服务，例如通过浏览器可访问的 API 提供 Postgres 数据库；Supabase 文档建议使用明确的权限授予和行级安全策略保护数据。针对 AI 辅助开发的安全研究发现，生成的代码和部署流程经常遗漏安全控制，因此该生态尤其需要默认安全的配置。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247">FAA orders nationwide ground stop for all departing flights for...</a></li>
-<li><a href="https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848">FAA issues rare nationwide ground stop; no indication of...</a></li>
-<li><a href="https://edition.cnn.com/2026/11/13/us/faa-nationwide-ground-stop">FAA issues nationwide ground stop for all flights due to...</a></li>
+<li><a href="https://supabase.com/docs/guides/api/securing-your-api">Securing your API - Supabase Docs</a></li>
+<li><a href="https://secnews.in/article/article-ai-coding-models-insecure-code-study-2024/">Study Finds AI Coding Models Frequently Generate Insecure Code...</a></li>
+<li><a href="https://reptile.haus/journal/the-vibe-coding-data-leak-crisis-380000-ai-built-apps-and-the-death-of-security-defaults/">The Vibe-Coding Data Leak Crisis: 380,000 AI -Built Apps and the...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍指出可靠技术信息十分匮乏，并转发报道，将故障与 L3Harris 管理的私有电信网络及一次失败的系统部署联系起来。一些人把事件与 FAA 在全国 22 个中心推广 SMART 系统联系起来，其他人则报告洛杉矶国际机场和肯尼迪国际机场出现大面积延误；这些线索表明事件可能十分严重，但没有证实 AI 部署是故障原因。
+**社区讨论**: 评论者认为，AI 生成应用特别容易成为攻击目标，因为开发者可能缺乏安全知识，而且只需检查浏览器网络请求就能发现暴露的数据。评论者还强调了 Supabase 在选择宽松默认设置方面的作用，质疑相关修复是否适用于现有项目，并提到 Railway 另有一宗涉及疑似被盗密钥和约 74 万美元 AI 费用的安全事件。
 
-**标签**: `#FAA`, `#Air Traffic Control`, `#Aviation Safety`, `#System Failure`, `#US Transportation`
+**标签**: `#application-security`, `#data-privacy`, `#AI-generated-apps`, `#secure-defaults`, `#Supabase`
 
 ---
 
 <a id="item-3"></a>
-## [科莱特·克雷斯出任英伟达临时首席执行官](https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/) ⭐️ 9.0/10
+## [用 Lean 形式化整部美国税法以寻找漏洞](https://lexifina.com/blog/formalizing-the-us-tax-code) ⭐️ 8.0/10
 
-英伟达任命长期担任首席财务官的科莱特·克雷斯为临时首席执行官，接替于周四辞任的黄仁勋。克雷斯曾参与推动英伟达成长为人工智能芯片巨头，并将暂时领导公司。 此次高层调整让英伟达的一位资深财务高管掌管这家深度影响人工智能与半导体行业的公司。调整可能影响投资者信心、公司战略以及英伟达在人工智能基础设施领域的扩张。 公告将克雷斯的任命描述为临时安排，而非永久接任，因此公司的长期继任问题仍未解决。一篇要求董事会考虑员工对黄仁勋意见的内部帖子已收到超过 1600 条评论，其中多数支持让他复任。
+Lexifina 宣布了一个项目，在 Lean 定理证明器中形式化整部美国《国内税收法典》（IRC），并构建专门的工具来建模税务规则、通过计算手段搜索法规之间的冲突、意外后果与漏洞。该项目将这些非预期效果视为“bug”，并指出 2025 年通过的“大而美法案”（Big Beautiful Bill）就是典型案例：联合申报的已婚夫妇相比分开申报可能损失约 1.5 万美元扣除额，但在九个不征收广泛个人所得税的州则基本不受影响。 将税法形式化可以把法规变成机器可检验的规格说明，从而对数千条相互作用的条款做穷尽式一致性测试，而不再完全依赖人工法律审查。这同时也为法律技术与计算法学提出了一个更根本的问题：是否应把“漏洞”直接定义为形式化意义上的 bug，因为这种表述本身就内含了关于特定税收结果是否正当的政策判断。 该工作依赖 Lean 的依赖类型论与证明检查基础设施，因此所谓 bug 本质上是形式化规格之间的不一致，而不只是普通代码错误；也有评论者指出，专门的税法形式化语言 Catala 已被法国政府用于其“aides”公共服务，是既有的替代方案。讨论中提出的关键保留意见包括：立法规则本身经常自相矛盾，而且许多漏洞是有意设计的，因此形式化模型只能暴露问题，而无法裁定立法意图。
 
-rss · Wired · 11月12日 14:14
+hackernews · Hacker News \(热门\) · 11月14日 15:41 · [社区讨论](https://news.ycombinator.com/item?id=50497900)
 
-**背景**: 科莱特·克雷斯长期担任英伟达首席财务官，并参与了公司将自身打造为人工智能芯片巨头的过程。黄仁勋创办英伟达并带领公司成长为全球人工智能计算市场的核心企业，因此他的离任构成重大高层变动。公司通常会在确定永久继任者之前，由临时首席执行官维持管理连续性。
+**背景**: Lean 是一个基于依赖类型论的定理证明器，程序与证明由一个很小的可信内核进行校验；它最为人熟知的是 Lean 4 与 Mathlib 等项目，近年来也被广泛用于软件与数学命题的形式化验证。法律形式化在计算法学与法律信息学中有更长的历史，形成了通常称为 law formalization 的研究方向，并出现了 Catala 这类领域专用语言以及检验法规一致性与意外后果的学术工作。税法尤其密集，因为《国内税收法典》包含数千条相互依赖的条款、交叉引用、逐步取消的门槛与例外条款，人工一致性检查极为费力。
 
-**社区讨论**: 一篇敦促董事会考虑员工对前首席执行官黄仁勋看法的内部帖子吸引了超过 1600 条评论，多数评论者支持让黄仁勋复任。这表明公司内部存在支持其回归的强烈情绪，但相关内容没有提供超出这一讨论范围的更广泛社区观点。
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://leanprover.github.io/theorem_proving_in_lean/introduction.html">1. Introduction — Theorem Proving in Lean 3 (outdated)...</a></li>
+<li><a href="https://lawreview.uchicago.edu/online-archive/tax-law-and-flexible-formalizations">Tax Law and Flexible Formalizations | The University of ...</a></li>
+<li><a href="https://ceur-ws.org/Vol-1844/10000524.pdf">Formalization and Algebraic Verification of Legal Requirements</a></li>
 
-**标签**: `#Nvidia`, `#Executive Leadership`, `#AI Semiconductors`, `#Jensen Huang`, `#Corporate Governance`
+</ul>
+</details>
+
+**社区讨论**: 评论者对该项目的表述展开深入讨论：delichon 与 jedberg 认为把漏洞称为“bug”是一种政治表态，因为形式化模型无法判断某项条款的效果是有意为之，而许多漏洞恰恰是刻意设计的。patrickmay 指出，在大语言模型出现之前，用于法规合规分析的工具就已经会发现政府规则之间的重大冲突，却只能将其上报给人工处理，因此要求法律“可编译”会很有价值。qrobit 提到 Catala 及其在法国政府的实际应用属于既有工作，而 rancar2 则具体计算了“大而美法案”中联合申报与分开申报之间的税务落差有多大。
+
+**标签**: `#Lean`, `#formalization`, `#tax law`, `#program verification`, `#legal technology`
 
 ---
 
 <a id="item-4"></a>
-## [黄仁勋辞去英伟达首席执行官职务](https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/) ⭐️ 9.0/10
+## [亚洲政府回应英伟达首席执行官离职](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) ⭐️ 8.0/10
 
-英伟达联合创始人兼首席执行官黄仁勋于周四辞职，此前公司已就他与一名涉嫌中国情报人员发生婚外情一事展开调查。此次辞职发生在相关关系被指涉及中国间谍活动的报道之后。 黄仁勋离任使这家全球最具影响力的人工智能与半导体企业之一面临重大领导层和国家安全质疑。此事可能影响英伟达的治理、战略方向，以及美国与中国科技竞争背景下对其运营的审查。 报道所述直接起因是公司就一桩涉嫌与一名中国情报人员的婚外情展开内部调查，但现有内容未提供更多细节、时间线或调查结果。报道也没有说明黄仁勋的继任者，或这些指控是否已得到证实。
+黄仁勋被报道离开英伟达后，亚洲各国政府正在确认芯片供应承诺，并评估可能受影响的本地项目。部分政府还在处理与英伟达及涉嫌违反半导体出口管制有关的调查。 英伟达领导层变动可能影响亚洲各地的 AI 芯片供应安排和基础设施项目。与此同时，这也可能加强外界对先进 GPU 如何在美国出口管制下追踪和分销的审查。 现有报道没有说明具体涉及哪些政府、供应承诺、本地项目或调查。更广泛的报道将此次领导层动荡与 GPU 走私指控及涉嫌中国情报行动的说法联系起来，但这些说法与此处所述亚洲政府的直接应对属于不同层面。
 
-rss · Wired · 11月12日 13:58
+rss · TechCrunch AI · 11月14日 16:34
 
-**背景**: 英伟达是一家重要的半导体公司，其图形处理器和人工智能平台是数据中心及先进人工智能基础设施扩张的核心。公司领导层涉嫌与外国情报机构存在联系，可能引发有关决策机制、信息安全、出口管制和监管审查的疑问。
+**背景**: 英伟达供应用于训练和运行 AI 系统的加速计算芯片，因此政府层面的供应承诺对区域数据中心建设至关重要。美国出口管制限制某些先进芯片的最终目的地；搜索结果所引报道估计，去年可能有 29 万至 160 万件先进美国半导体违规运往中国。
 
-**标签**: `#Nvidia`, `#Jensen Huang`, `#CEO Resignation`, `#AI Industry`, `#Geopolitics`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://edition.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl">How the Nvidia scandal lifted the curtain on a loophole that’s giving...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1.5 million Nvidia AI GPUs... | Tom&#x27;s Hardware</a></li>
+<li><a href="https://www.bbc.com/news/articles/ck1exevgql4qo">Nvidia : How the Jensen Huang scandal exposed a headache for...</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Nvidia`, `#Semiconductors`, `#AI Infrastructure`, `#Government Policy`, `#Jensen Huang`
 
 ---
 
 <a id="item-5"></a>
-## [逆向工程 Coway 空气净化器实现本地控制](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/) ⭐️ 8.0/10
+## [黄仁勋离任引发 AI 初创融资担忧](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) ⭐️ 8.0/10
 
-作者逆向分析了 Coway 空气净化器的设备与云端通信协议，并实现了本地控制，使设备不再依赖厂商云服务器也能运行。该项目还发现了固件和安全架构中的弱点，包括通过明文 HTTP 下载根 CA 证书的问题。 当厂商停止云服务或限制功能时，云依赖会削弱消费设备的长期可用性和隐私。实践表明，搭载 ESP32 的家电通常可以被重新纳入本地控制、自动化系统和更强的用户所有权体系，但这种方式对普通用户可能较难，也可能带来安全风险。 逆向工程包括分析空气净化器的通信协议，并以本地控制取代经由云端完成的操作。社区参与者指出，使用明文 HTTP 下载证书存在安全隐患，同时强调了 ESPHome 和 Home Assistant 的实用价值，以及获取温度、阀门位置等内部传感器数据的可能性。
+英伟达联合创始人黄仁勋离任后，创始人和风险投资机构预计 AI 初创企业的融资规模将缩小，估值也会降低。黄仁勋主导的投资策略曾推动英伟达向 AI 企业投入数百亿美元，其离任可能削弱这一战略。 英伟达一直是 AI 初创企业的重要资本来源，因此其投资策略的变化可能影响整个行业的融资环境。投资金额减少和估值下降尤其会影响依赖企业战略资本融资的早期公司。 2025 年，英伟达完成了 67 笔风险投资交易，不包括其正式基金，并通过 NVentures 完成另外 30 笔交易。截至 7 月底，据报道英伟达持有 229 家私营公司的股份，价值 480 亿美元，其中包括 OpenAI 和 Anthropic。
 
-hackernews · Hacker News \(热门\) · 11月12日 22:03 · [社区讨论](https://news.ycombinator.com/item?id=50474959)
+rss · TechCrunch AI · 11月13日 22:43
 
-**背景**: 许多联网家电使用 ESP32 或类似微控制器，并通过厂商云端发送命令，因此一旦云服务发生变化，设备本身即使仍然可用，也可能失去功能。本地优先的替代方案直接在设备或家庭网络内完成控制，并可接入 Home Assistant 等平台。ESPHome 等工具降低了刷写、监控和自动化嵌入式设备的门槛，无需重新开发完整的专有应用。
+**背景**: 英伟达的 VC Alliance 为积极投资和支持 AI 及科技初创企业的机构风投、企业风投部门、加速器、孵化器和家族办公室提供合作平台。英伟达广泛参与初创企业投资，使其成为 AI 生态中影响力异常突出的战略投资者，而其持有的大量私营公司股份也使其承受初创企业估值变化的影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://agihunt.info/en/p/1a1d552decedd673e1f4dbc6dc2">Reverse Engineering My Coway Air Purifier … · AGI Hunt</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50474959">Reverse Engineering My Coway Air Purifier to Ditch... | Hacker News</a></li>
+<li><a href="https://www.nvidia.com/en-us/startups/venture-capital/">Venture Capital Alliance | NVIDIA</a></li>
+<li><a href="https://aifundingtracker.com/nvidia-startup-investments/">Nvidia Top Startup Investments 2026 | AI Funding Tracker</a></li>
+<li><a href="https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html">Jensen Huang’s Resignation From Nvidia Worries the A.I. Start ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 参与者称赞了项目揭示的安全问题，并分享了使用 ESP32 模块和 ESPHome 改造海尔空调及其他联网设备的类似经验。他们指出，LLM 辅助逆向工程能够减少发现固件缺陷所需的繁琐工作，但也担心制造商可能很快加强设备安全措施，以阻止用户控制。
-
-**标签**: `#reverse-engineering`, `#IoT-security`, `#local-first`, `#ESP32`, `#cloud-dependency`
+**标签**: `#AI funding`, `#venture capital`, `#Nvidia`, `#startup valuations`, `#AI ecosystem`
 
 ---
 
 <a id="item-6"></a>
-## [人工智能解读哥德尔笔记，发现数百条已证明定理](https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths) ⭐️ 8.0/10
+## [中国顶尖人工智能模型使用了受限出口的英伟达芯片](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) ⭐️ 8.0/10
 
-研究人员据称使用人工智能解读并分析库尔特·哥德尔的未发表笔记，发现了数百条已证明的定理，并梳理出逻辑学领域的 14 个主题。主导该项目的乔纳森·冯·柏拉图将其视为利用人工智能挖掘复杂数学档案的新路径。 这项研究表明，人工智能可能帮助数学史研究者和数学家从难以辨读的 手写档案中恢复严谨成果，并把自动推理的应用范围从传统定理证明进一步扩展。若结果经独立验证，它还可能催生以哥德尔未成熟思想为基础的新研究计划。 项目面临的一项主要转录障碍，是哥德尔使用了需要专业人员破译的加布尔斯贝格速记体系，必须先辨认字迹，才能理解其逻辑内容。报道所说的成果包括数百条已证明的定理和哥德尔研究的 14 个逻辑学主题，但现有讨论没有提供具体定理或证明细节，因此严谨性与完备性问题仍有待检验。
+最新研究称，中国最先进的部分人工智能模型使用了受美国出口限制的英伟达芯片。这一发现表明，尽管华盛顿实施了相关管制，受限硬件仍然流入中国的人工智能研发机构。 这一发现可能促使外界加强审查英伟达、中国人工智能开发者以及美国芯片出口管制的有效性。它还可能影响市场对英伟达受限产品的需求，并加快中国企业和政府研发国产替代芯片的步伐。 现有报道没有说明具体涉及哪些中国模型和芯片，也没有披露研究方法或规避管制的机制，因此证据强度尚无法充分评估。搜索结果提到的受限英伟达硬件包括 H100、A100、A800、H200 和 Blackwell 系列系统，其中部分产品可按个案获得交易许可。
 
-hackernews · Hacker News \(热门\) · 11月13日 17:30 · [社区讨论](https://news.ycombinator.com/item?id=50486748)
+rss · TechCrunch AI · 11月13日 18:40
 
-**背景**: 库尔特·哥德尔的 不相容性定理表明，任何足够强大且一致的公理化形式系统都包含无法在该系统内证明或证伪的真命题，由此深刻改变了数学逻辑学。自动定理证明依靠计算机程序推导形式证明，而本项目首先利用人工智能破译和整理档案中的数学推理，随后才对恢复出的结果进行评估。
+**背景**: 英伟达 GPU 广泛用于大型人工智能模型的预训练，也用于强化学习、微调等后训练任务。美国实施芯片出口管制，旨在限制中国开发前沿人工智能和先进半导体的能力。搜索结果还显示，此前曾有中国机构取得受限芯片，或有报道称这些芯片被走私进入中国。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths">‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Automated_theorem_proving">Automated theorem proving - Wikipedia</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50486748">AI unlocks Gödel &#x27;s notebooks , said to contain hundreds of proved ...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/billions-worth-of-export-restricted-ai-accelerators-sold-to-china-report-details-how-chinese-firms-skirt-trumps-regulations">Investigative report details how export - restricted Nvidia AI chips ...</a></li>
+<li><a href="https://bingx.com/en/flash-news/post/northwestern-polytechnical-university-paid-for-two-nvidia-h-chips-despite-u-s-export-controls">Chinese Universities Bought Restricted Nvidia AI Chips Despite...</a></li>
+<li><a href="https://www.nvidia.com/en-us/solutions/ai/ai-training/">Frontier AI Model Training Platform - NVIDIA</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对仅靠速记破译就能发现被遗漏的、结论完备的定理表示怀疑，同时指出哥德尔是一位极其严谨的作者，应该清楚自己洞见的重要性。其他人希望了解所说的 14 个逻辑主题，并强调人工智能似乎并未讨论这些笔记本及其解释的一致性或完备性。
-
-**标签**: `#AI for mathematics`, `#automated theorem proving`, `#Gödel`, `#mathematical logic`, `#scientific archives`
+**标签**: `#AI chips`, `#Nvidia`, `#China AI`, `#export controls`, `#semiconductors`
 
 ---
 
 <a id="item-7"></a>
-## [人工智能超越《NetHack》前沿水平](https://antithesis.com/blog/2026/nethack/) ⭐️ 8.0/10
+## [SignDrop Windows 零日漏洞可提升至系统权限](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/) ⭐️ 8.0/10
 
-Antithesis 报告称，一套人工智能系统超越了《NetHack》的前沿水平，但所提供的摘录没有说明系统、评测方式或具体结果。链接文章可能包含技术细节，但仅凭现有内容无法核实。 《NetHack》是强化学习与长时程决策的重要测试环境，因此超越既定前沿可能表明智能体在不确定条件下规划能力有所进展。由于缺少对照基线、任务定义和可复现性细节，目前难以准确评估这一成果的重要性。 《NetHack》是一款始于 1987 年的开源随机生成角色扮演游戏，其 NetHack 学习环境通过程序化生成和随机性为强化学习研究提供复杂场景。摘录没有提供成绩指标、模型架构、训练方法、硬件、基线，也没有说明“超越前沿”具体指分数、存活时间还是其他基准。
+一名离职安全研究人员公开了 SignDrop 漏洞利用代码，目标是 Windows 中尚未修补的权限提升漏洞。该概念验证可让本地攻击者获得完整的 SYSTEM 权限。 在缺少微软修复的情况下，公开的漏洞利用代码会缩短攻击者实施滥用的时间窗口。它可能使攻击者从普通本地访问权限跃升为完全控制 Windows 设备。 SignDrop 利用 Windows 通用日志文件系统中的日志身份验证机制，并通过对象管理器符号链接将文件创建重定向到攻击者指定的位置。该方法绕过了微软于 2025 年 10 月为防范 CLFS 身份验证攻击而引入的缓解措施。
 
-rss · Lobsters \(技术社区\) · 11月13日 14:34
+rss · Ars Technica · 11月13日 16:26
 
-**背景**: 《NetHack》是一款开源单人随机生成角色扮演游戏，其程序化生成关卡和回合制决策为强化学习智能体构成了困难的长时程问题。2020 年 NeurIPS 论文介绍的 NetHack 学习环境通过可扩展、随机且程序化生成的环境支持强化学习研究。现有工作还包括 MiniHack 等系统，用于研究开放式强化学习以及如何可控地应对游戏中的随机性。
+**背景**: 本地权限提升漏洞通常要求攻击者事先取得目标计算机的某种初始访问权限。Windows SYSTEM 是其操作系统中的最高权限级别，赋予的能力远超标准用户账户。通用日志文件系统（CLFS）是 Windows 中负责事件日志处理的组件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2006.13760">[2006.13760] The NetHack Learning Environment</a></li>
-<li><a href="https://proceedings.neurips.cc/paper/2020/file/569ff987c643b4bedf504efda8f786c2-Paper.pdf">The NetHack Learning Environment</a></li>
-<li><a href="https://github.com/facebookresearch/nle">GitHub - facebookresearch/nle: The NetHack Learning Environment</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/">New Windows SignDrop zero-day gives hackers SYSTEM privileges</a></li>
+<li><a href="https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html">New SignDrop Zero - Day Exploit Turns Windows CLFS Security...</a></li>
+<li><a href="https://attack.mitre.org/techniques/T1068/">Exploitation for Privilege Escalation , Technique... | MITRE ATT&amp;CK</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NetHack`, `#Reinforcement Learning`, `#AI Agents`, `#Game Playing`, `#Frontier Models`
+**标签**: `#Windows Security`, `#Zero-Day`, `#Privilege Escalation`, `#Vulnerability Research`, `#Exploit Disclosure`
 
 ---
 
 <a id="item-8"></a>
-## [Rust 1.100.0 稳定 Never 类型](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/) ⭐️ 8.0/10
+## [微软全球故障扰乱全球公共服务](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) ⭐️ 8.0/10
 
-Rust 1.100.0 已被宣布为 Rust 编程语言的最新稳定版本。此次发布稳定了 Never 类型和分配器 API 的核心部分，同时 Cargo 新增未使用依赖报告、缓存冲突减少机制以及依赖冷却期功能。 这些更新提升了 Rust 的表达能力、内存管理 API 和依赖治理能力，并将进一步巩固 Rust 作为构建可靠高效系统软件的主流语言之一的地位。 Rust 1.100.0 仍可编译旧版 Rust 代码，但软件包需要显式选择更新的语言版本才能采用破坏性变更。Cargo 新增的 &quot;min-publish-age&quot; 设置用于设置依赖冷却期，该版本还包含减少 Cargo 缓存冲突的相关工作。
+微软云服务发生全球性故障，影响政府、医院、法院以及 numerous Microsoft 365 和 Azure 服务，据报道波及超过 70 个国家。微软称事故源于服务器健康检查失败，而非黑客攻击；一位专家警告，此次影响可能超过此前的 Amazon 和 CrowdStrike 故障。 这起事件表明，公共服务和商业运营对大型云服务商的集中依赖，可能导致关键业务在同一时间全面中断。事件也引发了人们对冗余设计、依赖关系梳理，以及使用微软服务承载关键工作流的机构是否具备充分应急预案的讨论。 据报道，受影响服务包括 Microsoft 365、Teams、OneDrive、Xbox、Entra、Word、Excel、Microsoft Store 和多种商业应用；全球约有 4.3 亿人使用 Microsoft 365。微软称故障原因是服务器健康检查失败，但现有报道尚未提供此次故障的详细技术说明。
 
-rss · Lobsters \(技术社区\) · 11月12日 18:43
+rss · Ars Technica · 11月13日 15:26
 
-**背景**: Rust follows a regular stable-release cadence and has been maintained by the Rust Foundation since 2021. Its stable releases advance the compiler and standard library without automatically introducing breaking changes, because compatibility-breaking behavior is generally tied to new language editions.
+**背景**: Microsoft Azure 和 Microsoft 365 提供广泛使用的云计算、协作、身份、存储及生产力服务。这类平台发生故障时，影响可能沿着 Microsoft Entra ID、ExpressRoute 以及依赖共享云控制平面的客户应用向外传播。此次中断反映了一种更广泛的基础设施风险：当关键服务集中在单一供应商时，同类故障可能同时影响多个行业。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.phoronix.com/news/Rust-1.100-Released">Rust 1 . 100 Released With The &quot;Never&quot; Type Finally Stable - Phoronix</a></li>
-<li><a href="https://news.ycombinator.com/item?id=50472038">Rust 1 . 100 | Hacker News</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29">Rust (programming language ) - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/well-architected/reliability/failure-mode-analysis">Architecture strategies for performing failure mode... | Microsoft Learn</a></li>
+<li><a href="https://news.northeastern.edu/2026/11/13/global-microsoft-outage-cause/">Microsoft outage exposes risks of growing reliance on big ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 现有的 Hacker News 讨论主要关注 Rust 的向后兼容性：用户指出旧代码仍可继续编译，而软件包必须选择更新的版本才能获得破坏性变更。一位参与者还提到 Rust 可以编译为动态库。
-
-**标签**: `#Rust`, `#Programming Languages`, `#Systems Programming`, `#Release Announcement`
+**标签**: `#Microsoft`, `#Cloud Infrastructure`, `#Outages`, `#Service Reliability`, `#Critical Infrastructure`
 
 ---
 
 <a id="item-9"></a>
-## [黄仁勋离任令 AI 融资陷入不确定](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) ⭐️ 8.0/10
+## [FAA 因全国性通信故障暂停美国航班](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/) ⭐️ 8.0/10
 
-在英伟达首席执行官黄仁勋辞职后，创业者和风险投资机构预计人工智能初创企业将获得更小的投资，并面临更低的估值。他的离任使英伟达此前为人工智能生态提供的支持出现重大缺口。
+美国联邦航空管理局于周五美东时间下午 3 点 44 分发布全国性地面停飞令，因空管系统通信故障而暂停美国各地的大多数航班。官员在超过四小时后的美东时间晚上 8 点 15 分解除禁令，允许航班恢复运行。 此次停飞造成大面积延误、取消和旅客滞留，凸显美国空中交通管制网络所依赖基础设施的脆弱性。交通部长肖恩·达菲将故障归咎于过时设备，另有报道指出，私有通信网络更新使老旧基础设施不堪重负。 FAA 将事件描述为临时性电信中断，并表示出于安全原因实施全国性地面停飞。故障影响空管系统之间的通信，而这是美国历史上第三次全国性停飞，此前分别发生在“九一一”事件和 2023 年 FAA 系统中断期间。
 
-rss · TechCrunch AI · 11月13日 22:43
+rss · Wired · 11月13日 21:42
 
-**背景**: 英伟达与人工智能初创企业的关系已不仅限于销售芯片，还包括直接投资，这些投资帮助初创企业获得资本、算力和商业合作机会。黄仁勋被广泛视为英伟达的远见型领导者，也是人工智能行业的重要撮合者。
+**背景**: 全国性地面停飞是 FAA 实施的一项安全措施，可在重大管制系统问题得到调查和解除期间，暂时阻止飞机起飞。空中交通管制依赖管制员、设施和飞机之间相互连接的通信链路，因此一次中断可能影响远超出故障发生设施的运行。此次事件再次引发了外界对老旧设备以及连接 FAA 各系统之私有网络韧性的担忧。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://edition.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia">The AI boom was built around Jensen Huang . Now what?</a></li>
-<li><a href="https://intellectia.ai/news/stock/jensen-huang-explains-why-nvidia-invests-in-tons-of-companies-instead-of-trying-to-pick-winners">Jensen Huang discusses Nvidia &#x27;s strategy of... | Intellectia. AI</a></li>
-<li><a href="https://www.businessinsider.com/rise-and-fall-jensen-huang-nvidia-ai-exits-scandal-2026-11">The Rise and Fall of Jensen Huang : AI Rock Star Exits Nvidia in...</a></li>
+<li><a href="https://www.reuters.com/business/aerospace-defense/old-air-traffic-control-equipment-regularly-disrupts-us-flights-2026-11-14/">Old air traffic control equipment regularly disrupts US ...</a></li>
+<li><a href="https://www.usatoday.com/story/news/nation/2026/11/13/faa-system-failure-blamed-on-technology-updates/92770720007/">Thousands were stranded at America&#x27;s airports. What went wrong?</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_FAA_ground_stop">2026 FAA ground stop - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI startups`, `#venture capital`, `#Nvidia`, `#Jensen Huang`, `#AI funding`
+**标签**: `#FAA`, `#Aviation`, `#Air Traffic Control`, `#Infrastructure Failure`, `#Flight Disruptions`
 
 ---
 
 <a id="item-10"></a>
-## [LangChain 估值达 30 亿美元，LangSmith 拥有 7000 家客户](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) ⭐️ 8.0/10
+## [Shamonda 病毒在欧洲牛群中 emergent](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902232-4/fulltext?rss=yes) ⭐️ 8.0/10
 
-据报道，人工智能智能体初创公司 LangChain 在 LangSmith 吸引 7000 家客户后，估值达到 30 亿美元。报道没有披露本轮融资的金额、投资方、收入或具体估值条款。 LangSmith 提供构建、调试、评估、观测和发布人工智能智能体的工具，包括跟踪智能体与大语言模型的执行过程。其模型无关方法可以支持多种模型供应商，但简短报道没有提供收入增长、客户集中度、盈利能力或估值方法等信息。
+2026 年 6 月，法国、德国和瑞士的牛群中发现了 Shamonda 病毒。流产胎牛中也检出了病毒 RNA，提示该病毒可能通过胎盘传播。 这些发现引发了人们对妊娠期间感染可能导致牛 reproductive losses（繁殖损失）及其他不良影响的担忧。该病毒在中欧多个国家出现，也凸显了加强跨境畜牧监测和媒介控制的重要性。 Shamonda 病毒被认为主要通过 Culicoides 蠓叮咬传播。胎牛中检出病毒 RNA 支持其可能经胎盘传播，但这一发现本身尚不能确定胎儿感染的广度、病毒传染性或妊娠结局的全部范围。
 
-rss · TechCrunch AI · 11月13日 19:37
+rss · The Lancet · 最新文章 · 11月13日 23:30
 
-**背景**: LangChain 是一家以开发者为中心的公司，其工具与人工智能智能体编排相关。LangSmith 是其商业平台，提供可观测性、评估、调试和部署工作流。模型无关和平台无关是指相关工具可适配不同模型供应商和技术栈，而不是绑定于单一模型。
+**背景**: Shamonda 病毒属于 Peribunyaviridae 科的 Orthobunyavirus 属，与 Schmallenberg 病毒同属 Simbu 血清组。该病毒于 1965 年首次从尼日利亚牛群中分离，主要影响家畜，并由蠓类媒介传播。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://smith.langchain.com/">LangSmith</a></li>
-<li><a href="https://draqee.com/tools/langsmith">LangSmith : Agent Observability Platform 2026 | Draqee</a></li>
-<li><a href="https://www.youtube.com/watch?v=kYtnLaJeia8">What Is LangSmith ? Explained in 5 Minutes - YouTube</a></li>
+<li><a href="https://www.woah.org/en/disease/shamonda-virus/">Shamonda virus - WOAH - World Organisation for Animal Health</a></li>
+<li><a href="https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer">What is Shamonda , the livestock virus found for the first time in... | CNN</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#LangChain`, `#LangSmith`, `#startup funding`, `#developer tools`
+**标签**: `#Shamonda virus`, `#emerging infections`, `#orthobunyavirus`, `#pregnancy risk`, `#animal health`
 
 ---
 
 <a id="item-11"></a>
-## [受限英伟达芯片被指训练中国领先人工智能模型](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/) ⭐️ 8.0/10
+## [综述林奇综合征的遗传机制、筛查与预防](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901600-4/fulltext?rss=yes) ⭐️ 8.0/10
 
-最新研究称，中国最先进的部分人工智能模型使用了受美国出口管制限制的英伟达芯片进行训练。这一发现引发了外界对受限芯片如何流入中国开发者手中的疑问。 这一说法可能削弱美国半导体出口管制的有效性，并加剧中美在人工智能领域的竞争。美国政策制定者也可能因此加强审查英伟达的供应链，并要求更严格的执法措施。 现有报道没有说明涉及哪些模型、芯片、研究人员或研究方法，因此无法仅凭现有信息独立评估这些结论。此前的出口管制曾促使英伟达面向中国市场开发 A800 和 H800，但搜索结果并未证明这些具体产品用于报道所称模型的训练。
+这篇《柳叶刀》综述整合了林奇综合征的现有知识，包括患病率、遗传基础、癌症风险和分子诊断策略。综述重点介绍了通过肿瘤错配修复缺陷开展普遍检测，随后进行靶向胚系遗传检测，并对有风险亲属展开级联筛查。 林奇综合征是最常见的遗传性癌症易感综合征，估计每 350 至 450 人中约有 1 人受累，但大多数携带者仍未得到诊断。改进病例识别有助于开展更早的监测和风险降低干预，从而减轻可预防的癌症负担。 林奇综合征由 DNA 错配修复基因中的胚系致病性变异引起，会增加结直肠癌、子宫内膜癌及其他肠外癌症的风险。对错配修复缺陷进行普遍肿瘤检测可发现原本可能被漏诊的病例，但仍需胚系检测确认、遗传咨询和适当的后续处置。
 
-rss · TechCrunch AI · 11月13日 18:40
+rss · The Lancet · 最新文章 · 11月12日 23:30
 
-**背景**: 英伟达开创了用于并行计算的图形处理器，并成为大规模人工智能训练硬件的核心供应商。美国出口管制对向中国销售的先进人工智能芯片设置了性能限制，促使英伟达推出性能较低的产品线 A800 和 H800；随着限制收紧、英伟达在华销售承压，华为等中国企业也扩大了市场地位。
+**背景**: DNA 错配修复系统通常负责纠正复制错误；这些基因发生缺陷可能导致微卫星不稳定，包括 MSI-H 模式。林奇综合征呈常染色体显性遗传，但不同受累家系的临床表现和癌症风险存在差异。级联遗传检测可在癌症发生前识别携带同一家族致病性变异的亲属，为预防和早期发现创造机会。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.csis.org/analysis/insight-us-semiconductor-export-controls-update">Insight into the U . S . Semiconductor Export Controls Update</a></li>
-<li><a href="https://apnews.com/article/ai-chips-nvidia-huawei-china-1ae6228c4928ddbb43f984e9b38f49dd">Nvidia loses its AI chip edge in China as US export controls boost...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Nvidia">Nvidia - Wikipedia</a></li>
+<li><a href="https://www.mskcc.org/cancer-care/diagnosis-treatment/cancer-treatments/immunotherapy/mmrd-msi-h-and-tmb-h-tumors">MMRd, MSI-H, and TMB-H Tumors : What They Are and Why They...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/38339422/">Real-World Data on Institutional Implementation of Screening for...</a></li>
+<li><a href="https://www.cancer.gov/publications/pdq/information-summaries/genetics/risk-assessment-hp-pdq">Cancer Genetics Risk Assessment and Counseling (PDQ®) - NCI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI chips`, `#export controls`, `#Nvidia`, `#China AI`, `#semiconductors`
+**标签**: `#Lynch syndrome`, `#cancer genetics`, `#DNA mismatch repair`, `#hereditary cancer`, `#genetic screening`
 
 ---
 
 <a id="item-12"></a>
-## [黄仁勋同意赴国会作证](https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/) ⭐️ 8.0/10
+## [KRAS 疫苗或可预防胰腺癌复发](https://www.nature.com/articles/s41591-026-04772-1) ⭐️ 8.0/10
 
-黄仁勋在国会资深议员威胁传唤后，同意于周三赴国会作证。此次作证涉及他与一名涉嫌为中国从事间谍活动女子有不当关系的指控，此前他已被免去首席执行官职务。 此次作证可能加剧国会对英伟达、美国对华国家安全问题以及半导体出口管制政策的审查。事件还可能影响对 AI 芯片销售、境外先进 AI 硬件远程访问以及美国对华政策的讨论。 报道称，黄仁勋因与一名涉嫌为中国从事间谍活动女子有不当关系的消息而被免职；搜索结果则称他是前首席执行官，并表示参议院委员会原计划要求他作证。现有报道尚未明确作证的确切日期和具体范围。
+《自然·医学》于 2026 年 11 月 13 日在线发表观点文章，将靶向 KRAS 的疫苗接种列为预防胰腺癌复发的潜在策略。文章认为，治疗方法与技术进展的协同为这一免疫肿瘤学方向提供了支持，但仍有大量难关尚未解决。 KRAS 突变存在于超过 90%的胰腺癌中，并推动癌症生长及耐药，因此是免疫治疗极具价值的作用靶点。若研发成功，KRAS 疫苗可与手术及其他治疗形成互补，降低复发风险，而目前胰腺癌仍缺乏有效的复发预防手段。 已报道的现货型 ELI-002 2P 疫苗研究表明，在胰腺癌或结直肠癌患者中，84%的人产生了强烈且持久的 KRAS 特异性 T 细胞反应；反应更强的患者无复发期和总生存期也更长。这些结果支持了该方案的可行性，但免疫反应本身并不等于复发率下降，仍需更大规模随机研究确认临床获益。
 
-rss · TechCrunch AI · 11月12日 16:36
+rss · Nature Medicine · 11月13日 00:00
 
-**背景**: 英伟达是 AI 和半导体硬件的重要供应商，而美国出口管制限制了先进 AI GPU 对华销售。国会听证会可以通过证词调查企业行为、国家安全问题以及技术出口规则的有效性。搜索结果还提到，相关政策讨论拟扩大出口管制范围，以覆盖境外数据中心中先进 AI 硬件的远程访问。
+**背景**: KRAS 是一种信号基因，其突变可促进肿瘤生长并导致治疗耐受。靶向 KRAS 的疫苗旨在引导免疫系统识别携带特定 KRAS 突变的肿瘤细胞，而不是为每位患者分别定制疫苗。在胰腺癌领域，ELI-002 7P 和 ELI-002 2P 是旨在覆盖常见 KRAS 突变并帮助预防癌症复发的实验性疫苗。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bbc.com/news/articles/cmq5vd1wdgz6o">Ex- Nvidia CEO Jensen Huang summoned to testify before Congress ...</a></li>
-<li><a href="https://www.foxnews.com/live-news/ai-news-china-nvidia-jensen-huang-super-intelligence-safety-11-12-26">Jensen Huang resigns; interim CEO of Nvidia named | Live Updates...</a></li>
-<li><a href="https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls">Trump backed Nvidia chip controls aimed at China 3 times as Lutnick...</a></li>
+<li><a href="https://medicalxpress.com/news/2025-08-vaccine-elicits-strong-immune-response.html">Vaccine elicits strong immune response in patients with pancreatic ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13037533/">Key Considerations for Targeting KRAS in Pancreatic Cancer ...</a></li>
+<li><a href="https://www.scientificamerican.com/article/new-cancer-vaccines-could-treat-some-types-of-pancreatic-colorectal-and-other-deadly-forms-of-the-disease/">New Cancer Vaccines Could Treat Some Types... | Scientific American</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#Jensen Huang`, `#Congressional Testimony`, `#AI Policy`, `#Semiconductors`
+**标签**: `#KRAS`, `#cancer vaccines`, `#pancreatic cancer`, `#immuno-oncology`, `#precision medicine`
 
 ---
 
 <a id="item-13"></a>
-## [SignDrop Windows 零日漏洞可获取 SYSTEM 权限](https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/) ⭐️ 8.0/10
+## [微生物组影响更年期激素治疗效果](https://www.nature.com/articles/s41591-026-04789-6) ⭐️ 8.0/10
 
-安全研究员 Abdelhamid Naceri（又称 Nightmare Eclipse）公开释出了名为 SignDrop 的 Windows 零日漏洞利用程序。据称，该利用程序可让本地攻击者从普通用户账户提升至权限极高的 SYSTEM 账户。 本地权限提升可使攻击者在获得初始访问权限后完全控制受影响的 Windows 系统。由于该利用程序已经公开，用户和防御方可能在 Microsoft 推出补丁前立即面临被滥用的风险。 SignDrop 针对 Windows 中用于阻止涉及通用日志文件系统（CLFS）攻击的一项安全机制，并声称可将普通用户账户转换为 SYSTEM 账户，即 Windows 的最高权限级别。现有报道将其描述为本地权限提升利用链，因此它本身不能直接为攻击者提供对未失陷机器的远程访问。
+一项为期六个月的研究发现，更年期激素治疗会重塑肠道、阴道及其他部位的微生物组，其中阴道微生物群向类似育龄期的状态转变。研究还显示，治疗前的微生物组特征与治疗反应相关，结合临床信息和肠道微生物组特征可更好地预测症状快速缓解。 这些结果表明，微生物组分析未来可能帮助临床医生为患者定制更年期激素治疗，并识别可能较快获得疗效的人群。这有望推动女性更年期精准医疗的发展并减少不必要的方案调整，但仍需独立研究验证。 相关分析对 356 名接受口服更年期激素治疗的围绝经期女性进行了为期六个月的随访，并检测多个部位的微生物组。肠道微生物组以 Phocaeicola vulgatus 为优势菌的女性激素反应更好，也比以 Prevotella copri 为优势菌的女性更可能实现快速临床缓解，但现有证据尚不足以确立临床检测标准。
 
-rss · Ars Technica · 11月13日 16:26
+rss · Nature Medicine · 11月13日 00:00
 
-**背景**: Windows 为操作系统功能设置了多个权限级别，其中 SYSTEM 是供服务和系统进程使用的最高权限账户上下文。本地权限提升利用程序通常在攻击者已经获得代码执行能力或普通账户后使用，用于跨越信任边界并执行仅限管理员或操作系统执行的操作。CLFS 是 Windows 用于管理事务日志文件的机制，而据报道，该漏洞利用程序滥用了一项相关安全机制来促成权限提升。
+**背景**: 更年期激素治疗用于补充绝经过程中减少的激素，以管理潮热和泌尿生殖系统症状等症状。激素水平也会影响微生物生态，育龄期阴道微生物组通常含有较多的乳杆菌，而绝经相关变化常与厌氧菌占比增加的群落转变有关。药物微生物组学则是利用微生物组特征解释个体药物反应差异的研究方向。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://cybersecuritynews.com/windows-signdrop-zero-day-exploit/">Windows SignDrop 0-Day Exploit Lets Attackers Gain SYSTEM...</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/">New Windows SignDrop zero-day gives hackers SYSTEM privileges</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows - Wikipedia</a></li>
+<li><a href="https://www.researchsquare.com/article/rs-8555097/v1">Heterogeneity in Multisystem Estrogenic and Site-Specific Microbiome ...</a></li>
+<li><a href="https://www.nature.com/articles/s41591-026-04737-4">Heterogeneity of microbiome responses to menopausal hormone ...</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42977757/">Heterogeneity of microbiome responses to menopausal hormone ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Windows Security`, `#Zero-Day`, `#Privilege Escalation`, `#Vulnerability Research`, `#Cybersecurity`
+**标签**: `#microbiome`, `#menopausal hormone therapy`, `#precision medicine`, `#women&\#x27;s health`, `#clinical research`
 
 ---
 
 <a id="item-14"></a>
-## [微软全球性故障引发云服务可靠性担忧](https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/) ⭐️ 8.0/10
+## [PyPI 重构项目页面，突出供应链安全溯源信息](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/) ⭐️ 7.0/10
 
-微软发生全球性服务故障，影响政府部门、医院、法院、学校和企业；一位专家认为，其影响范围和故障模式可能超过此前涉及 AWS 或 CrowdStrike 的中断事件。据报道，微软将此次故障归因于服务器健康检查失效，而非网络攻击。 此次中断显示，重要公共服务可能高度依赖单一的云服务与软件供应商。同时，它也表明，即使健康检查这类常规可靠性机制，也可能在大规模服务中失效并形成系统性风险。 现有报道称故障源于服务器健康检查失效，而非黑客攻击，但关于受影响系统、恢复过程和持续时间的技术信息有限。搜索结果称此次事件涉及部分区域的 Azure Front Door 容量损失，以及边缘组件和 Entra ID 的故障，但所提供新闻摘要并未详细说明这些情况。
+PyPI 已上线重构后的项目页面，并通过专门的安全标签页清晰展示版本来源证明和逐文件证明。新界面让用户在评估软件包时更容易发现重要的供应链安全信号。 更醒目的来源证明可帮助用户判断软件包是否通过可信发布流程构建，而非仅仅依赖包名或流行度决定是否安装。这有望降低用户误用被篡改依赖项的风险，并改善 Python 生态的供应链安全透明度。 只有当一个版本的所有文件都附带 PyPI Publish 或 SLSA Build Provenance 证明时，该版本才会被标为“完整来源证明”；若所有文件都没有此类证明，则标为“无来源证明”。当来源证明缺失、不完整或与项目历史冲突时，PyPI 会发出警告，但仅接受与 GitHub Actions、GitLab CI/CD 或 Google Cloud 关联的可信发布者身份提交证明。
 
-rss · Ars Technica · 11月13日 15:26
+hackernews · Hacker News \(热门\) · 11月14日 15:40 · [社区讨论](https://news.ycombinator.com/item?id=50497892)
 
-**背景**: 微软运营 Azure 以及 Microsoft 365、Outlook 和 Teams 等广泛使用的服务，因此其基础设施故障可能同时影响众多组织。此前 AWS 和 CrowdStrike 引发的高关注度故障表明，云服务集中化以及供应商特有的控制失误，可能迅速波及下游服务。
+**背景**: 软件包来源证明用于记录某个版本是如何以及在何处构建的，数字证明则提供可验证的证据，将文件与经过身份验证的发布流程关联起来。PyPI 的可信发布者功能将上传操作与获准的身份提供商绑定，而 Sigstore 风格的无密钥签名是一种相关方案，它使用短期身份凭据，从而避免依赖长期有效的私钥。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://windowsforum.com/threads/microsoft-cloud-outage-highlights-edge-front-door-and-entra-id-failures.383879/">Microsoft Cloud Outage Highlights Edge Front Door... | Windows Forum</a></li>
-<li><a href="https://gulfmagazine.co/microsoft-cloud-outage-global-disruptions/">Microsoft Cloud Outage Triggers Global Disruptions</a></li>
+<li><a href="https://docs.pypi.org/using-pypi/package-security/provenance/">Checking Provenance (package origin) - PyPI Docs</a></li>
+<li><a href="https://docs.pypi.org/attestations/producing-attestations/">Producing attestations - PyPI User Documentation</a></li>
+<li><a href="https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-supply-chain-security-guidance-18">Software Security in Supply Chains: Software Verification</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者将此次事件与此前的 AWS 和 CrowdStrike 故障进行比较，但认为一些用户低估了中断风险，因为服务通常会较快恢复。另一些人主张定期开展混沌测试并增强韧性；也有评论者认为，云依赖和竞争不足削弱了供应商改善性能的压力。
+**社区讨论**: 社区人士欢迎更清晰的来源证明展示，并希望扩大 Sigstore 风格无密钥签名的采用范围，同时呼吁为可信发布功能提供可复用工作流。讨论的主要担忧是信任机制集中于大型云平台，可能将用户锁定在特定 CI/CD 服务中；另有评论者强调，该功能主要帮助识别账户遭入侵但原本合法的项目，并不用于判断项目从一开始就具有恶意。
 
-**标签**: `#Microsoft`, `#cloud infrastructure`, `#service outage`, `#reliability engineering`, `#technology policy`
+**标签**: `#PyPI`, `#software supply-chain security`, `#package provenance`, `#Sigstore`, `#trusted publishing`
 
 ---
 
 <a id="item-15"></a>
-## [科学家警告全球升温或于 2029 年达到 1.5°C](https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/) ⭐️ 8.0/10
+## [谷歌为 Antigravity 推出多智能体协作功能](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/) ⭐️ 7.0/10
 
-科学家警告，全球变暖最早可能在 2029 年达到关键的 1.5°C 升温阈值。与此同时， 全球气候行动已经停滞五年，而化石燃料开发仍在持续增长。 达到 1.5°C 将加剧全球极端高温、强降雨、干旱和海平面上升等风险。这一警告还表明，拖延气候政策并继续扩大化石燃料生产，可能进一步压缩限制全球升温的时间窗口。 所给报道将 2029 年列为全球升温可能达到 1.5°C 阈值的年份，并将这一前景与气候行动停滞及化石燃料开发增长联系起来。不过，报道没有提供研究方法、不确定性范围、排放路径或具体区域预测。
+谷歌推出了 Antigravity 的 /teamwork 功能，用于协调领域专家与 AI 智能体共同完成复杂的科研和工程项目。该功能采用多智能体架构，支持角色分工、并行执行和对抗式验证。 这项功能可能使小型科研和工程团队将大量长期项目任务委托给协同工作的 AI 智能体。它也反映出 AI 工具正从单智能体助手转向面向科研、编程和复杂技术问题的持续多步协作。 谷歌文档将该功能描述为面向大型项目、多文件重构和复杂研究的协作式智能体团队，并包含编排角色与对抗式验证关卡。社区参与者同时质疑它与竞争工作流的差异、缺少自动模式，以及用户应如何实际部署。
 
-rss · Ars Technica · 11月13日 14:29
+hackernews · Hacker News \(热门\) · 11月14日 13:20 · [社区讨论](https://news.ycombinator.com/item?id=50496811)
 
-**背景**: 1.5°C 阈值是国际气候政策中广泛采用的基准，用于避免全球变暖造成最严重的影响。超过这一阈值并不意味着气候变化停止，因为持续的温室气体排放仍可能推动升温进一步加剧。化石燃料仍是二氧化碳的主要来源之一，而有效的气候行动取决于迅速减少排放，并推动能源利用和土地使用方式的改变。
+**背景**: 多智能体系统将任务拆分给能够规划、执行、协商和协作的不同智能体。谷歌的 /teamwork 功能将这种编排机制集成进 Antigravity，而更广泛的多智能体研究正在探索这类系统如何协调科学与工程等复杂应用中的工作。
 
-**标签**: `#climate change`, `#global warming`, `#climate science`, `#fossil fuels`, `#climate policy`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://antigravity.google/docs/teamwork/">Teamwork agent teams (/ teamwork ) | Google Antigravity Docs</a></li>
+<li><a href="https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/">Gemini Multi - Agent Teams in Antigravity</a></li>
+<li><a href="https://arxiv.org/abs/2502.14743">[2502.14743] Multi-Agent Coordination across Diverse ... Multi-Agent Coordination across Diverse Applications: A Survey (PDF) Multi-Agentic Platforms: Architectures, Applications ... Combining Multi-Agent Systems and Artificial Intelligence of ... Agentic AI systems: A systematic survey of multi-agent ... AGENTIC AI IN MULTI-AGENT SYSTEMS: EXPLORING THE COORDINATION ... Towards a science of scaling agent systems: When and why ...</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 参与者普遍认为，领域专家可以指导一组智能体协作，以更快的速度交付项目，并可能比早期某些工作流减少质量下降。质疑者则认为 /teamwork 与 Claude 的动态工作流没有明显区别，Antigravity 的成熟度相对不足，而且公告没有说明具体使用方法。
+
+**标签**: `#multi-agent systems`, `#AI-assisted R&amp;D`, `#agent orchestration`, `#scientific computing`, `#Google Antigravity`
 
 ---
 
 <a id="item-16"></a>
-## [Google 广泛推出 Gemini 4 Hydrogen](https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/) ⭐️ 8.0/10
+## [意大利因安卓照片访问问题罚款 Meta 8.87 亿美元](https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/) ⭐️ 7.0/10
 
-Google 正广泛推出 Gemini 4 Hydrogen，以取代 Gemini 3.8 Flash；该模型采用直接上线方式，而不像 Carbon 和 Argon 那样进行谨慎的分阶段发布。Google 的 AI Mode 现已使用 Hydrogen，以提升复杂查询理解、相关链接呈现和视觉回答的丰富度。 作为全球规模最大的 AI 提供商之一，Google 将 Hydrogen 设为其通用日常模型，这是一项重要的模型升级。其快速铺开可能影响 Google AI Mode 以及开发代理式和多模型工作流的开发者在成本、速度与能力方面的体验。 Google 将 Hydrogen 描述为 Gemini 4 系列中一款速度快、成本低、面向可靠代理式工作流和日常任务而设计的模型。OpenRouter 列出的上下文窗口为 1,048,576 个词元，并支持文本、图片、音频、视频和 PDF 等文件作为输入，输出形式为文本；但所提供报道未给出基准测试或与旧模型的定价对比。
+意大利数据保护机构对 Meta 处以 8.05 亿欧元罚款（报道折合 8.87 亿美元），原因是其涉嫌在没有取得明确同意或充分披露的情况下访问安卓用户的照片和视频。相关措施涉及 Facebook 的一项功能，该功能会从用户图库中推荐可发布到平台的内容。 此次处罚的重要性在于，它针对大型平台在欧盟处理敏感媒体权限和用户同意的方式。该决定可能影响欧盟对类似 GDPR 的透明度与同意要求的执法，并推动对广泛媒体访问权限的更严格审查。 据报道，这笔罚款约相当于 Meta 全球收入的 0.47%，而相关功能需要用户授予设备权限，用户之后可以在设置中更改这些权限。现有报道没有清楚说明，用户究竟是在安卓权限机制中已经同意、但 Meta 将其用于未披露的 Facebook 用途，还是访问行为完全绕过了权限提示；罚款本身也不能说明后续如何实际追缴。
 
-rss · Ars Technica · 11月12日 19:23
+hackernews · Hacker News \(热门\) · 11月14日 13:48 · [社区讨论](https://news.ycombinator.com/item?id=50497009)
 
-**背景**: Gemini 是 Google 的生成式 AI 模型家族，也是 Gemini 和 Google AI Mode 等产品背后的核心技术。AI Mode 旨在通过将复杂请求拆分为子查询、检索相关网页结果，并组织更丰富且通常包含视觉元素的回答，来提升搜索体验。Google 表示，Hydrogen 旨在提高多模型工作流的效率，并支持可扩展的开发者和企业工作流。
+**背景**: 安卓应用可以申请读取共享媒体的权限，其中包括广泛访问照片和视频的权限。Google Play 的照片与视频权限政策限制对这类广泛媒体权限的访问，而相关 Facebook 功能使用权限从本地图库中推荐可发布的图片，这引发了这些权限是否足够具体、以及是否充分披露了功能的数据用途等问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/">Introducing Gemini 4 Hydrogen for Agentic Workflows</a></li>
-<li><a href="https://openrouter.ai/google/gemini-4-hydrogen">Gemini 4 Hydrogen - API Pricing &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://kie.ai/gemini-4-hydrogen">Gemini 4 Hydrogen</a></li>
+<li><a href="https://apnews.com/article/italy-meta-android-facebook-feature-9b3073c52464d5cd0e8facbc57285194">Italy fines Meta $887M over access to users&#x27; photos | AP News</a></li>
+<li><a href="https://developer.android.com/training/data-storage/shared/media">Access media files from shared storage - Android Developers</a></li>
+<li><a href="https://support.google.com/googleplay/android-developer/answer/15800983?hl=en">Required actions to comply with our Photo &amp; Video Permissions ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Google`, `#Gemini`, `#AI models`, `#product launch`, `#large language models`
+**社区讨论**: 评论者怀疑 Meta 是否绕过安卓权限，认为用户可以授予或撤销访问权限，并指出报道缺少技术和法律细节。其他人则质疑意大利究竟在防止什么损害、欧盟对科技公司的罚款累计规模有多大，以及如此高额的罚款是否真的会被追缴。
+
+**标签**: `#data-privacy`, `#Android`, `#Meta`, `#regulation`, `#EU-enforcement`
 
 ---
 
 <a id="item-17"></a>
-## [林奇综合征综述强调普遍错配修复检测](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901600-4/fulltext?rss=yes) ⭐️ 8.0/10
+## [科技公司再次推动隐私概念转向数据采集](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again) ⭐️ 7.0/10
 
-这篇《柳叶刀》综述评估了林奇综合征的诊断流程及癌症风险管理。综述强调，应对肿瘤普遍开展错配修复缺陷检测，以识别受影响患者，随后进行针对性的生殖系检测，并筛查有风险的亲属。 林奇综合征由 DNA 错配修复基因中的生殖系致病变异引起，会增加结直肠癌、子宫内膜癌及其他癌症的风险，但具体风险因变异和癌症类型而异。仅凭肿瘤检测结果不能确诊林奇综合征，因为错配修复缺陷或微卫星不稳定性也可能由体细胞改变造成，因此必须通过胚系遗传检测加以确认。
+文章认为，科技公司正借助人工智能感知技术和持续录音，把隐私从个人控制重新定义为由企业主导的广泛数据采集。文章重点讨论了会上传会议内容并生成转录的 AI 会议助手，同时提出同意、法律保护及减少暴露风险等实际问题。 借助人工智能的录音技术，可能使隐私从个人可控的权利变成由组织数据实践主导的状态，尤其是在员工难以拒绝或拒绝可能影响工作时。趋势将影响员工、会议参与者、客户及其他无法有意义地选择退出录音的人。 持续工作的 AI 可穿戴设备和会议记录工具可以持续录音、上传云端，并生成转录和摘要，由此引发同意、保存期限、安全及滥用等问题。雇主也可能设置录音限制或内部政策，而讨论者则援引人权保护，反对对隐私的任意干预。
 
-rss · The Lancet · 最新文章 · 11月12日 23:30
+hackernews · Hacker News \(热门\) · 11月14日 12:45 · [社区讨论](https://news.ycombinator.com/item?id=50496602)
 
-**背景**: DNA 错配修复系统通常负责纠正复制错误，这些基因发生缺陷可导致微卫星不稳定性并促进肿瘤发展。肿瘤普遍检测会在结直肠癌、子宫内膜癌等肿瘤中筛查这种缺陷，而生殖系检测用于判断相关改变是否属于遗传性改变。一旦确认存在遗传致病变异，就可以对亲属开展级联检测，以确定哪些家庭成员可能从风险监测中获益。
+**背景**: AI 会议助手不同于普通笔记工具，它把语音采集、云端处理、转录和摘要结合起来，因而可能形成谈话的详细记录。此类工具进入职场后，会模糊员工辅助与环境式职场监控之间的界限，尤其是在自动录音且难以取得同意时。讨论将当前产品与十年前 Google Glass 遭遇的反弹进行比较，并提出通过集体拒绝或明确会议规范来弥补个人同意不足。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.genomicseducation.hee.nhs.uk/genotes/knowledge-hub/mismatch-repair-deficiency-and-microsatellite-instability/">Mismatch repair deficiency and microsatellite instability — Knowledge...</a></li>
-<li><a href="https://www.lynchscreening.net/implementation/follow-up-germline-testing/double-somatic-mmr-mutations/">Double Somatic MMR Mutations</a></li>
-<li><a href="https://www.cancer.gov/types/colorectal/hp/colorectal-genetics-pdq">Genetics of Colorectal Cancer (PDQ®) - NCI</a></li>
+<li><a href="https://bizthrive.ai/blog/ai-wearables-workplace-recording-privacy">Always - On AI Wearables — Hidden Recording Devices in Your...</a></li>
+<li><a href="https://self.md/concepts/ambient-ai/">ambient AI: when your assistant is always watching, always... | self.md</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Lynch syndrome`, `#hereditary cancer`, `#genetic testing`, `#mismatch repair`, `#cancer screening`
+**社区讨论**: 评论者强烈担忧，包括一对一谈话在内的职业会议正被 AI 参与者录音，而且员工实际上无法选择退出。有人建议明确规定不进行不必要的转录、援引人权保护，并将当前做法与 Google Glass 当年的反弹相提并论；另一些人则认为，实际保护隐私可能需要减少网络暴露、隔离不同身份，并加入隐私或法律倡议组织。
+
+**标签**: `#privacy`, `#AI`, `#surveillance`, `#data protection`, `#workplace technology`
 
 ---
 
 <a id="item-18"></a>
-## [更年期激素疗法重塑微生物组并预测症状反应](https://www.nature.com/articles/s41591-026-04789-6) ⭐️ 8.0/10
+## [GLM-5.3 跨两台 DGX Station 实现每秒 607.8 个词元](https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/) ⭐️ 7.0/10
 
-一项为期六个月的临床研究发现，更年期激素疗法会重塑肠道和阴道微生物组，其中阴道微生物群向类似生殖年龄的状态转变。治疗前的肠道和阴道微生物群类型与症状缓解相关，而将临床特征与肠道微生物组信息结合后，还可预测症状快速缓解。 这些结果为基于微生物组的个性化更年期照护提供了方向，可能帮助临床医生识别更可能快速响应激素疗法的患者。研究还把一种常见的更年期治疗与多个微生物群的生物学变化联系起来，但仅凭该研究尚不足以确立可直接用于临床的预测工具。 该研究对参与者进行了为期六个月的随访，并同时评估多个部位的微生物组重塑和治疗结局。其核心发现是，治疗前的微生物组组成包含有关症状缓解的预后信息，但所提供材料没有报告样本量、效应量、预测准确率、激素制剂类型或在独立队列中的验证结果。
+该演示使用 vLLM 在两台互联的 NVIDIA DGX Station 上部署 GLM-5.3，报告吞吐量为每秒 607.8 个词元。内容还评估了约 20 万美元的硬件成本及运维开销是否足以证明这一性能提升的价值。 这一结果展示了 vLLM 如何将大模型分布到多台 NVIDIA 系统上运行，而不是要求全部权重装入单机。同时，它也表明仅凭峰值吞吐量无法证明投资回报合理，还需要结合工作负载、并发量、延迟和电力成本进行评估。 报告的配置横跨两台 DGX Station，并似乎采用并发数 16，但标题中的吞吐量并未明确区分系统总吞吐与单用户吞吐。社区参与者还质疑网络连接方案，并提到一种八卡 B6000 部署方案据称可提供约高 60% 的吞吐量，但此处未对其成本和性能进行独立验证。
 
-rss · Nature Medicine · 11月13日 00:00
+hackernews · Hacker News \(热门\) · 11月14日 14:09 · [社区讨论](https://news.ycombinator.com/item?id=50497155)
 
-**背景**: 更年期可能伴随泌尿生殖系统症状，包括阴道干涩、性交疼痛和萎缩性阴道炎，而更年期激素疗法可用于相关治疗。微生物组是生活在特定身体环境中的微生物集合，微生物群类型则用于描述肠道或阴道中的主导微生物模式。将临床信息与微生物组数据结合，属于精准医学的一部分，其目标是预测个体对治疗的反应。
+**背景**: vLLM 是一个开源推理服务框架，支持在多张 GPU 和多个节点之间进行分布式推理，其中包括 NVIDIA DGX 系统。GLM-5.3 被描述为一款大型纯文本混合专家模型，总参数量为 7440 亿、激活参数量为 400 亿，并支持最长约 100 万词元的上下文。DGX Station 提供较高的 GPU 显存容量和性能，适合处理权重及键值缓存超出单张加速器容量的模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Menopause">Menopause - Wikipedia</a></li>
-<li><a href="https://www.evvy.com/blog/vaginal-microbiome">Vaginal Microbiome : What It Is and How to Improve It | Evvy</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Multiomics">Multiomics - Wikipedia</a></li>
+<li><a href="https://docs.vllm.ai/en/v0.6.0/serving/distributed_serving.html">Distributed Inference and Serving — vLLM</a></li>
+<li><a href="https://build.nvidia.com/spark/vllm-cluster">Serve LLMs with vLLM Across DGX Sparks | DGX Spark</a></li>
+<li><a href="https://deepwiki.com/zai-org/GLM-5/1.1-model-architecture">Model Architecture | zai-org/GLM-5 | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**标签**: `#microbiome`, `#menopausal hormone therapy`, `#precision medicine`, `#vaginal microbiome`, `#clinical research`
+**社区讨论**: 评论者对该演示的实际价值存在分歧。一些人认为，按约每台 1.6 千瓦的功耗、噪声，以及尚不明确的多用户扩展性计算，这套硬件可能需要数年才能回本，不适合小型企业。另一些人则指出，成本更低的八卡配置可能表现更好；多人还质疑每秒 607.8 个词元究竟代表系统总吞吐还是单用户吞吐。
+
+**标签**: `#LLM inference`, `#vLLM`, `#NVIDIA DGX`, `#GLM-5.3`, `#GPU serving`
 
 ---
 
 <a id="item-19"></a>
-## [KORS 启动全频段航空无线电实时监测](https://orcasairband.com/) ⭐️ 7.0/10
+## [美国国税局公开直接报税系统源代码](https://github.com/IRS-Public/direct-file) ⭐️ 7.0/10
 
-奥卡斯机场电台使用 ETTUS B210 软件定义无线电和双 NVIDIA RTX 4090 GPU，开始实时扫描并解码整个航空频段的无线电通信。其基于 CUDA 的多相信道化器能够分离信道、解调语音并检测发射事件；在维多利亚机场停止起降期间，这套系统发挥了实际作用。 实时监测整个航空频段，比一次只收听一个频率能够提供更全面的态势信息，在航班中断、天气事件和机场停止起降期间尤其有价值。该项目还表明，GPU 并行处理可以让宽带软件定义无线电分析变得实用，可服务于航空爱好者、研究人员和公共安全监测工作。 该系统将 ETTUS B210 与双 RTX 4090 计算机结合，由 CUDA 代码执行多相信道化，随后进行解调和发射检测。公开的文字记录是未经编辑的机器提取结果，因此微弱或无法辨认的片段可能不准确；该系统只能接收通信，不能与航空器通话。
+美国国税局在公开的 GitHub 仓库中发布了免费“直接报税”（Direct File）在线报税服务的源代码。该项目由国税局内部技术团队开发，并获得 USDS、GSA、TrussWorks、Coforma 和 ATI 的支持。 公开源代码使公众、研究人员及潜在贡献者能够审查和改进一项重要的联邦技术系统。这还可能提升政府报税基础设施的透明度，并促进其代码的再利用。 Direct File 是一款采用微服务架构的在线系统，用于提交联邦 1040 表格，其架构重点包括服务之间的交互和数据流。此次发布的是源代码，但并不意味着未来的每次部署或变更都会继续采用开源模式。
 
-hackernews · Hacker News \(热门\) · 11月13日 22:04 · [社区讨论](https://news.ycombinator.com/item?id=50490593)
+rss · Hacker News \(热门\) · 11月14日 17:48
 
-**背景**: 软件定义无线电使用通用计算设备采集和处理无线电信号，而不必完全依赖专用硬件。航空语音通信分布在许多信道上，因此宽带接收机可以先捕获整个航空频段，再分离各个信道并解码其中的发射内容。
+**背景**: Direct File 是美国政府提供的服务，允许纳税人在线编制并提交联邦所得税申报表。其架构采用多个相互通信的专用服务，国税局人员及合作机构共同参与了开发。国税局还就 1040 表格及其免费报税选项提供相关说明。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://radiohackers.com/everything-is-radio-mapping-the-invisible-airwaves-with-a-borrowed-dongle-and-an-ai-partner-77b9e1bcf0ff">Everything Is Radio : Mapping the Invisible Airwaves... | Radio Hackers</a></li>
-<li><a href="https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html">What Is a GPU ? Graphics Processing Units Defined - Intel</a></li>
+<li><a href="https://github.com/IRS-Public/direct-file">GitHub - IRS-Public/direct-file: Direct File</a></li>
+<li><a href="https://deepwiki.com/IRS-Public/direct-file/3-system-architecture">System Architecture | IRS-Public/direct-file | DeepWiki</a></li>
+<li><a href="https://www.irs.gov/individual-tax-filing">Individual tax filing | Internal Revenue Service</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者对系统在维多利亚机场停止起降期间的实用价值表现出浓厚兴趣，并分享了似乎能够证实中断情况的通信记录。讨论还将其与基于 KiwiSDR 的解码、多接收站位置三角测量进行比较，另有评论者分享了一个相关的在线扫描转录工具。
-
-**标签**: `#software-defined-radio`, `#CUDA`, `#GPU-accelerated-signal-processing`, `#aviation-radio`, `#SDR`
+**标签**: `#open-source`, `#government-technology`, `#tax-filing`, `#public-sector`, `#GitHub`
 
 ---
 
 <a id="item-20"></a>
-## [Haskell 生态系统的技术愿景](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
+## [用约 200 行 JAX 重建 DeepSeek V3](https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax) ⭐️ 7.0/10
 
-Haskell 社区领导者提出了一项面向语言生态的战略技术路线图，其中包括让旧版源代码能够继续由新版 GHC 编译的长期兼容目标。这项提案同时引发了社区对人工智能适用性、跨平台开发、工具链以及扩大主流采用范围的讨论。 更清晰的技术战略有望提升 Haskell 的稳定性和开发者信心，尤其是通过降低升级项目及维护长期软件的迁移成本。此次讨论还检验了 Haskell 简洁、强类型的设计能否在人工智能工具和主流开发场景中获得更强的竞争力。 该路线图的核心目标是让十年前编写的 Haskell 软件无需修改源代码即可由最新 GHC 编译。社区参与者还强调编译时间、增量构建、调试、桌面端、移动端和网页部署，以及人工智能辅助开发等实际因素；这项提案目前仍属于战略规划，并非已经实现的重大突破。
+Vaibhaav Tiwari 发布了一个约 190 行的纯 JAX 实现，用代码重现了 DeepSeek V3 架构的关键部分，且未使用 Flax、Equinox 或 PyTorch。该项目以普通数组字典保存参数，据称还使用一台 MacBook Air 和公版侦探小说从头训练了一个小型模型。 该项目展示了如何用紧凑且易读的函数式代码表达 DeepSeek V3 的主要组件。它可能成为了解 JAX 和混合专家模型设计的教学参考，但并不是对原始模型生产规模的有效复现。 据报道，该实现涵盖多头潜在注意力、无辅助损失的混合专家路由以及多词元预测。相关报道称，一个 3610 万参数版本在训练 12000 步后验证损失达到 3.51，因此它更像架构与教学演示，而不是完整的规模化检查点。
 
-hackernews · Hacker News \(热门\) · 11月13日 14:43 · [社区讨论](https://news.ycombinator.com/item?id=50484235)
+rss · Hacker News \(热门\) · 11月14日 15:04
 
-**背景**: Haskell 是一门通用的静态类型纯函数式编程语言，具有类型推断、惰性求值、类型类和单子式输入输出等特性。其主要实现是 Glasgow Haskell Compiler，也就是 GHC。稳健的生态路线图需要处理编译器版本兼容性、软件包与工具链维护，以及在主要平台上的部署问题。
+**背景**: DeepSeek V3 是一个总参数规模为 6710 亿的混合专家语言模型，每个词元约激活 370 亿参数。其架构包括多头潜在注意力、无辅助损失的负载均衡以及多词元预测。JAX 是一个通过编译函数执行张量运算的数值计算框架，而纯 JAX 风格尽量减少高层模型库抽象。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">A technical vision for the Haskell ecosystem - Haskell Foundation...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Haskell">Haskell - Wikipedia</a></li>
-<li><a href="https://www.haskell.org/">Haskell Language</a></li>
+<li><a href="https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax">GitHub - Vaibhaav-Tiwari/deepseek-v3-jax: DeepSeek V3 (MLA ...</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3">deepseek -ai/ DeepSeek - V 3 · Hugging Face</a></li>
+<li><a href="https://disruptive-concepts.com/article/deepseek-v3-moe-efficiency-frontier">DeepSeek - V 3 : A 671B-parameter Mixture - of - Experts model that</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 参与者认为，Haskell 的令牌效率、富有表达力的类型系统以及可由机器检查的正确性，十分适合智能体人工智能，但编译时间和增量构建问题也可能削弱这些优势。社区还呼吁加强跨平台支持和实时调试，并分享了借助 Haskell 完成工程工作的案例，以及为 Haskell 虚拟现实合成器开发的实时运行时调试器。
-
-**标签**: `#Haskell`, `#programming-languages`, `#AI`, `#software-ecosystems`, `#developer-tools`
+**标签**: `#DeepSeek V3`, `#JAX`, `#LLM`, `#Open Source`, `#Model Implementation`
 
 ---
 
 <a id="item-21"></a>
-## [权重空间编辑引发模型完整性疑问](https://www.alphaxiv.org/abs/2611.weight-space-misfolding) ⭐️ 7.0/10
+## [强化学习的可视化指南](https://aatishb.com/myriad/how-brains-learn/) ⭐️ 7.0/10
 
-该论文探讨了直接编辑已训练神经网络权重能否产生持久的行为变化。论文并未展示计算机病毒，也没有证明权重空间编辑天然具有病毒式特征。 如果权重编辑能够可靠改变已部署模型的行为，却绕过常规训练流程和模型制品检查，它可能增加模型完整性、安全审计和来源追溯的难度。更广泛的意义目前仍是一个开放研究问题，而不是已经得到验证的攻击。 论文报告的核心贡献是研究直接编辑权重空间能否作为影响已训练模型的一种机制。评论者强调，论文观察到了权重空间编辑，但没有证明复制、自主传播或任何等同于生物病毒的机制。
+一份交互式可视化指南以大脑如何学习为例，讲解强化学习的基本机制。它通过视觉直觉呈现人工智能领域的核心概念，而不是报道一项技术突破。 直观的视觉解释能帮助那些不熟悉公式和专业术语的学习者理解强化学习。大脑学习的类比还可以让读者将机器学习方法与神经科学和心理学联系起来。 该指南聚焦于智能体如何从反馈和奖励中学习，而这正是强化学习的核心循环。现有内容强调直觉和可理解性，没有提供新算法、基准测试或形式化技术贡献的证据。
 
-hackernews · Hacker News \(热门\) · 11月13日 18:33 · [社区讨论](https://news.ycombinator.com/item?id=50487762)
+rss · Hacker News \(热门\) · 11月14日 13:31
 
-**背景**: Weight-space programming means inspecting or modifying another neural network’s parameters directly instead of applying a conventional training loop. Neural-network weights encode learned behavior, so changing them can potentially affect outputs without retraining the full model. Model provenance and hashing are relevant because they can help identify the exact weights being distributed or deployed.
+**背景**: 强化学习是一种机器学习范式，其中智能体与环境交互并采取行动，通过试错学习以最大化累计奖励。神经科学研究长期将强化学习视为解释大脑学习与决策的有效模型，现代深度强化学习则在基本理论之上发展出更先进的方法。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://artificialintelligencemax.com/ai-tools-automation/weight-space-programming-and-the-promise-of-editing-neural-networks-directly/">Weight - Space Programming And The Promise Of Editing Neural ...</a></li>
-<li><a href="https://arxiv.org/pdf/2302.14040">Permutation Equivariant Neural Functionals</a></li>
-<li><a href="https://www.ibm.com/think/topics/machine-learning">What is Machine Learning ? | IBM</a></li>
+<li><a href="https://www.geeksforgeeks.org/machine-learning/what-is-reinforcement-learning/">Reinforcement Learning - GeeksforGeeks</a></li>
+<li><a href="https://arxiv.org/html/2311.07315v2">An introduction to reinforcement learning for neuroscience</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S0893608021003944">Reinforcement learning and its connections with neuroscience ...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News 讨论普遍批评标题中的病毒和“错误折叠”类比具有误导性，并指出有意进行的权重编辑并不等同于偶然发生的蛋白质错误折叠。一位评论者建议开放权重并采用模型哈希作为防护措施，另一位则推测了生成式训练数据中类似模因传播的可能性。
-
-**标签**: `#machine learning`, `#model security`, `#weight editing`, `#model provenance`, `#neural networks`
+**标签**: `#reinforcement-learning`, `#machine-learning`, `#visual-explanation`, `#AI-education`
 
 ---
 
 <a id="item-22"></a>
-## [通用模型开始操控机器人，OpenAI 解散机器人团队](https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/) ⭐️ 7.0/10
+## [Project Zero 确立漏洞披露的 90 天期限](https://projectzero.google/2026/11/disclosure-policy.html) ⭐️ 7.0/10
 
-据报道，OpenAI 已解散其专门的机器人团队，越来越多能力更强的通用基础模型开始直接承担机器人控制任务。这一举措逆转了公司此前的路线——OpenAI 曾于 2021 年终止机器人研究并解散团队，随后在 2024 年又重启机器人团队以寻求合作。 这表明基础模型的能力已强到足以让一个专门的机器人部门不再值得投入，这对整个行业如何推进「具身智能」具有重要意义。同时，外界也在质疑该决定究竟源于真实的能力进展，还是在潜在 IPO 前为美化财务数字而进行的成本削减。 OpenAI 在机器人路线上反复摇摆：2021 年终止机器人研究并解散团队，2024 年又重启机器人团队，目标是推动机器人与工业制造领域的合作。评论者还指出现实限制——通用模型在实时机器人控制上表现不佳，以 LLM 逐 token 流式输出 60fps 的控制指令相比「快速专用模型处理底层 + 慢速模型负责高层规划」的分层架构，token 效率极差。
+谷歌 Project Zero 将在通知相关方 90 天后公开披露已报告的漏洞。其政策还规定，即使供应商届时仍未修复漏洞，技术细节也会在第 90 天公开。 该政策为供应商设置了明确期限，并可能缩短严重漏洞保持未披露状态的时间。它还能让安全研究人员更准确地预期披露时间，同时加大各组织及时修复漏洞的压力。 Project Zero 的披露常见问题页面称，计划于 2027 年 2 月 2 日将期限缩短至 60 天，并于 2028 年 1 月 3 日进一步缩短至 30 天。无论供应商是否在期限前完成修复，该政策都适用。
 
-hackernews · Hacker News \(热门\) · 11月13日 17:55 · [社区讨论](https://news.ycombinator.com/item?id=50487184)
+rss · Hacker News \(热门\) · 11月14日 11:13
 
-**背景**: 2019 年，OpenAI 研究人员展示了在仿真环境中训练出的神经网络，使单条机械臂成功复原魔方；2020 年 10 月公司突然叫停了机器人研究。2021 年团队被解散，成员被重新分配到其他项目，直到 2024 年 OpenAI 才重启机器人团队。此次新闻背后的更大趋势是，基础模型正越来越多地被用作机器人的通用控制器，而非专门为单一任务定制的策略。
+**背景**: 漏洞披露政策需要在协调修复与防止供应商拖延严重缺陷修复之间取得平衡。Project Zero 是谷歌专门从事漏洞研究的团队，其公开期限旨在确保未解决的安全问题最终得到更广泛关注。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.forbes.com/sites/kenrickcai/2024/05/30/openai-robotics-team/">OpenAI Is Rebooting Its Robotics Team</a></li>
-<li><a href="https://www.digitimes.com/news/a20240606PD209/openai-robotics-ai-ict-manufacturing.html">OpenAI revives robotics team , aiming for collaboration in the robotics ...</a></li>
-<li><a href="https://inf.news/en/tech/5763623b3eb82aaed6aaa46dac18c450.html">OpenAI disbanded the robot team and tried to build AGI robots .</a></li>
+<li><a href="https://projectzero.google/vulnerability-disclosure-faq.html">Vulnerability Disclosure FAQ - Project Zero</a></li>
+<li><a href="https://projectzero.google/vulnerability-disclosure-policy.html">Vulnerability Disclosure Policy - Project Zero</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Full_disclosure_%28computer_security%29">Full disclosure (computer security) - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News  评论者普遍怀疑通用模型是否适合机器人控制：有人认为由「更快但更笨」的底层模型加慢速高层规划模型构成的分层架构效率高得多，也有人指出「苦涩的教训」终究适用于一切。其他人则猜测真实动机是 IPO 前通过裁员美化数字，质疑放弃非云端连接的机器人是否本来就在其计划范围内，并呼吁先出一份关于如何用 LLM 控制机器人的入门指南，因为在 60fps 下流式输出指令的 token 效率极其低下。
-
-**标签**: `#OpenAI`, `#Robotics`, `#Foundation Models`, `#AI Agents`, `#Industry Strategy`
+**标签**: `#cybersecurity`, `#vulnerability-disclosure`, `#Project-Zero`, `#security-policy`, `#Google`
 
 ---
 
 <a id="item-23"></a>
-## [一种蛋白或可驱动衰老且不引发炎症](https://www.nature.com/articles/d41586-026-03638-3) ⭐️ 7.0/10
+## [Jane Street 为并行编程构建 OxCaml DSL](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/) ⭐️ 7.0/10
 
-《自然》的一篇报道称，研究人员发现一种似乎能通过非炎症机制推动衰老的蛋白。现有材料没有说明该蛋白的名称，也未提供足够的实验细节来评估研究的范围。 将衰老效应与炎症反应区分开来，可能帮助人们认识一条不同于炎症路径的衰老机制，并探索相应干预方法。该发现尤其可能影响那些希望在调节衰老的同时避免引发炎症副作用的研究。 标题称该蛋白能够推动衰老而不会引发炎症，但现有内容除说明报道来自《自然》外，未提供蛋白名称、研究对象、方法、效应量或同行评审细节。检索结果中关于恢复 Menin 的研究涉及与炎症相关的衰老特征，并不能证明 Menin 就是本篇报道中的蛋白。
+Jane Street 发布了一篇技术文章，介绍如何在 OxCaml 中为高性能并行编程构建领域特定语言。所提供的页面只有评论链接，因此其中看不到具体实现细节和实验结果。 专用 DSL 可能让并行工作负载更易于表达，同时帮助 Jane Street 探索面向性能的语言设计。这项实践可能为使用多核系统的 OCaml 和 OxCaml 开发者提供有益思路，但仅凭现有摘要无法判断其更广泛的影响。 OxCaml 通过编译器功能和库扩展 OCaml，以支持多核并行，其中包括跟踪并发值使用以促进数据竞争安全的机制。由于所提供内容缺少原文，无法核实 DSL 语法、基准测试数据、实现限制或生产就绪程度。
 
-rss · Hacker News \(热门\) · 11月13日 19:25
+rss · Lobsters \(技术社区\) · 11月14日 02:57
 
-**背景**: 细胞衰老是指受损或受应激的细胞停止分裂，而这类细胞在组织中的积累可能促成衰老。衰老细胞还可能通过衰老相关分泌表型释放炎症分子，因此炎症是衰老相关细胞功能障碍中的一个重要特征，但并非所有衰老过程都必然伴随炎症。
+**背景**: 领域特定语言是为特定问题域设计的，能够提供更契合任务的语法或抽象，从而改善代码表达和工具支持。OxCaml 是 OCaml 的一系列快速演进扩展，既是 Jane Street 的生产编译器，也是探索面向性能语言特性的实验平台。其并行基础设施建立在 OCaml 5 的多核能力之上，并包含旨在帮助防止数据竞争的安全机制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.jci.org/articles/view/64098">JCI - Cellular senescence and the senescent secretory phenotype...</a></li>
-<li><a href="https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2023.1292053/full">Frontiers | Senescence : A DNA damage response and its role in aging ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Cellular_senescence">Cellular senescence - Wikipedia</a></li>
+<li><a href="https://oxcaml.org/">OxCaml | About</a></li>
+<li><a href="https://oxcaml.org/documentation/parallelism/intro/">OxCaml | Parallelism | Intro</a></li>
+<li><a href="https://blog.janestreet.com/introducing-oxcaml/">Jane Street Blog - Introducing OxCaml</a></li>
 
 </ul>
 </details>
 
-**标签**: `#ageing`, `#biomedical research`, `#inflammation`, `#Nature`, `#Hacker News`
+**标签**: `#OxCaml`, `#DSL`, `#Parallel Programming`, `#Language Design`, `#Performance`
 
 ---
 
 <a id="item-24"></a>
-## [CERN 开发大型强子对撞机下一代超导磁体](https://spectrum.ieee.org/large-hadron-collider-superconducting-magnets) ⭐️ 7.0/10
+## [Rust 与 C++ 的指针来源模型对比](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/) ⭐️ 7.0/10
 
-CERN 开发了更强有力的超导磁体，旨在提升大型强子对撞机的性能，并为未来的粒子物理研究提供支持。 更强的磁体可以提高对撞机的粒子束能量或碰撞率，从而提升重大物理实验的数据统计精度。这项技术还将推动未来高能加速器及相关科学应用所需基础设施的发展。 大型强子对撞机是一周长 27 公里的环形设施，包含超导磁体和用于将粒子提升至高能量的加速结构。相关加速器磁体研究还包括高温超导体的应用，其中包括 REBCO 材料，但现有材料未说明 CERN 新磁体的具体设计、性能指标或部署时间表。
-
-rss · Hacker News \(热门\) · 11月13日 14:25
-
-**背景**: 大型强子对撞机是世界上规模最大、能量最高的粒子加速器，由 CERN 于 1998 年至 2008 年建设，并有超过 1 万名科学家参与。其超导磁体使粒子束能够在这条周长 27 公里的环线上转弯，而加速结构则负责提高粒子能量。研究人员正在评估 REBCO 等高温超导体，以开发更强、更紧凑的加速器磁体。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://home.cern/science/accelerators/large-hadron-collider/">Large Hadron Collider – Home | CERN</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Large_Hadron_Collider">Large Hadron Collider - Wikipedia</a></li>
-<li><a href="https://acceleratingnews.eu/news/issue-49/compact-linear-collider-clic/how-high-temperature-superconductors-can-drive-evolution">How high - temperature superconductors can drive the evolution of...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Large Hadron Collider`, `#Superconducting Magnets`, `#CERN`, `#Particle Physics`, `#Scientific Instrumentation`
-
----
-
-<a id="item-25"></a>
-## [比较 Rust 与 C++ 的指针来源模型](https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/) ⭐️ 7.0/10
-
-该专题分析了 Rust 与 C++ 如何建模并约束指针来源。它聚焦于一项影响内存安全与系统编程底层实现的关键语言设计问题。 指针来源规则会影响哪些指针操作有效，以及编译器能够如何实施约束或优化相关行为。通过这种比较，系统程序员可以更清晰地理解 Rust 与 C++ 在安全性取舍上的差异。 所提供页面仅包含一个讨论链接，没有实质性正文，因此无法核实具体实现主张或版本细节。指针来源通常涉及指针值、其对应地址，以及语言与之关联的权限或元数据之间的关系。
+Sofía Belén López Vicens 发布了深入比较 Rust 与 C++ 指针来源模型的文章，并考察了 LLVM IR。文章对比了 C++ 的整数转换与 Rust 的来源保留 API，及其对指针处理的影响。 指针来源决定指针可以访问哪些内存分配，因此是内存安全、系统编程和语言设计的关键问题。通过这一比较，开发者可以理解 Rust 与 C++ 代码中的转换何时会保留或削弱相应的语言保证。 Rust 为涉及指针和整数值的情况定义了两种方式：严格来源与暴露来源。在 Miri 中，整数到指针的转换可能创建具有通配来源的指针，而暴露来源相关操作会降低可移植性，也使工具更难验证代码是否符合 Rust 内存模型。
 
 rss · Lobsters \(技术社区\) · 11月13日 18:37
 
-**背景**: Rust 与 C++ 都支持用于底层操作的原始指针，但两者追踪指针有效性与来源的方式有所不同。这些差异会影响内存安全保证、编译器优化、语言互操作性以及系统代码的设计。
+**背景**: 指针来源是编译器跟踪的属性，用于将指针与其预期访问的内存分配关联起来。Rust 旨在通过指针操作保留来源，并提供用于显式暴露或处理来源的 API；相比之下，C++ 提案指出，当指针转换为整数、以非指针类型读取其表示或使用 %p 格式说明符输出时，来源会被暴露。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Rust_%28programming_language%29">Rust (programming language ) - Wikipedia</a></li>
+<li><a href="https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/">Pointer Provenance in Rust vs C++ - sofiabelen.github.io</a></li>
+<li><a href="https://doc.rust-lang.org/stable/nightly-rustc/miri/enum.Provenance.html">Provenance in miri - Rust</a></li>
+<li><a href="https://www.open-std.org/JTC1/SC22/WG14/www/docs/n2363.pdf">C provenance semantics: examples - open-std.org</a></li>
 
 </ul>
 </details>
@@ -622,1027 +620,952 @@ rss · Lobsters \(技术社区\) · 11月13日 18:37
 
 ---
 
-<a id="item-26"></a>
-## [ChatGPT Wallet 开始测试智能体购物](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) ⭐️ 7.0/10
+<a id="item-25"></a>
+## [丹佛斯 AK-SM800A 曝出多个远程代码执行漏洞](https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a) ⭐️ 7.0/10
 
-OpenAI 正面向美国 ChatGPT Pro 订阅用户推出 ChatGPT Wallet，让 AI 智能体代用户挑选商品并完成购买。此次限量发布最初面向年满 18 岁、拥有美国账单地址并持有所支持美国支付卡的用户。 此次更新使 ChatGPT 从购物建议助手转变为实际参与结账的智能体，推动了智能体商业的发展。它可能改变消费者与在线商店的交互方式，同时也引出了授权、消费限额以及智能体代购责任归属等问题。 ChatGPT Wallet 延续了 OpenAI 此前推出的 Dots 智能体平台。首轮测试仅限使用符合条件的 American Express、Chase、Mastercard 和 Visa 卡的美国 Pro 订阅用户，现有资料尚未说明更广泛的服务范围或完整技术限制。
+Midnight Blue 报告称，丹佛斯 AK-SM800A 控制器存在 6 个零日漏洞，可在无需认证的情况下实现远程代码执行，受影响固件版本最高至 5.3.2。研究认为，由于漏洞涉及缺失的内存破坏防护机制且控制器可能暴露在互联网上，传统补丁可能无法充分解决问题。 如果暴露在互联网上的工业控制器可被远程执行代码，攻击者可能改变系统行为，或将其作为进入运营网络的入口。此类发现对依赖这些控制器的制冷系统和楼宇管理系统构成重大风险。 公开报道称，这些问题源于未启用栈保护 Canary 和位置无关可执行文件等基础安全机制。研究还指出，相关控制器暴露在公共互联网上，但所提供的文章摘录未包含漏洞利用代码或更完整的技术分析。
 
-rss · TechCrunch AI · 11月13日 16:00
+rss · Lobsters \(技术社区\) · 11月13日 20:26
 
-**背景**: 智能体商业是指 AI 智能体自动寻找商品、比较选项、下单并完成支付等交易流程。数字钱包为智能体执行交易提供支付连接，但这一扩展仍需要消费者保护措施，以及智能体、商户和支付服务商之间的互操作性。
+**背景**: AK-SM800A 是丹佛斯用于协调制冷系统组件、监控运行状态并优化能源使用的系统管理器控制器。此类嵌入式设备通常运行在资源受限的硬件和生命周期较长的固件上，因此缺失漏洞缓解措施以及更新延迟在工业控制环境中尤其危险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://chatgpt.com/overview/">Overview | ChatGPT</a></li>
-<li><a href="https://learn.chatgpt.com/docs/web">ChatGPT on the web | ChatGPT Learn</a></li>
-<li><a href="https://www.bigcommerce.com/articles/ecommerce/agentic-commerce/">Agentic Commerce : A New, AI -Powered Way to Buy and Sell</a></li>
+<li><a href="https://ccb.belgium.be/advisories/warning-six-new-danfoss-vulnerabilities-refrigeration-controllers-risk-immediate-action">Warning: Six New Danfoss Vulnerabilities - Refrigeration ...</a></li>
+<li><a href="https://threatcluster.io/cluster/multiple-remote-code-execution-vulnerabilities-in-danfoss-sm-65b2acbc">Multiple Remote Code Execution Vulnerabilities in Danfoss SM ...</a></li>
+<li><a href="https://www.danfoss.com/en/service-and-support/downloads/dcs/adap-kool-software/ak-sm-800a/">AK-SM 800A Series - Danfoss</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Agents`, `#ChatGPT`, `#E-commerce`, `#Digital Wallets`, `#Agentic Commerce`
+**标签**: `#security`, `#industrial-control-systems`, `#remote-code-execution`, `#vulnerability-research`, `#Danfoss`
+
+---
+
+<a id="item-26"></a>
+## [Haskell 基金会发布技术愿景](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078) ⭐️ 7.0/10
+
+Haskell 基金会的技术领导委员会经过数周讨论其愿景与战略后，已正式开始运作。该委员会将这项工作定位为加强和发展 Haskell 生态系统的技术方向建议。 统一的技術愿景可能有助于 Haskell 维护者和开发者确定语言、编译器、工具、库及包基础设施方面的共同改进重点。它也可能使这一成熟开源编程语言社区的生态系统级决策更加系统化。 公告明确链接到 Lobsters 上的外部评论页面，但所提供的内容未展示完整提案、具体建议或委员会的运作范围。更广泛的生态提案仓库提供了相关规范，并采用借鉴 GHC 提案流程的提案机制。
+
+rss · Lobsters \(技术社区\) · 11月13日 14:27
+
+**背景**: Haskell 生态系统包括编译器、包管理器、构建工具、库、集成开发环境以及用于开发 Haskell 软件的其他实用工具。Cabal 和 Stack 常用于构建项目，不过某些项目可能只能使用其中一个。较大范围的生态变更可通过正式提案规范和审查流程处理。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078">A technical vision for the Haskell ecosystem - Haskell Foundation...</a></li>
+<li><a href="https://github.com/haskell/ecosystem-proposals">GitHub - haskell / ecosystem - proposals : Proposals for the Haskell ...</a></li>
+<li><a href="https://www.haskell.org/get-started/">Get started - Haskell</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Haskell`, `#Programming Languages`, `#Ecosystem Development`, `#Software Engineering`
 
 ---
 
 <a id="item-27"></a>
-## [Nebius 以 400 亿美元计划检验新型云融资模式](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/) ⭐️ 7.0/10
+## [LangChain 估值达到 30 亿美元](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/) ⭐️ 7.0/10
 
-Nebius 计划投入 400 亿美元建设人工智能基础设施，并通过客户预付款和贷款为扩张融资。与此同时，涉及微软数据中心的建设延期引发了对新型云业务模式的担忧。 这项扩张将检验客户预付款和债务融资能否以超大规模速度支持新型云业务的发展。它也凸显了专注建设人工智能计算容量企业在融资和执行方面面临的风险。 Nebius 打算将客户预付款与贷款结合，为 400 亿美元的基础设施支出提供资金。微软数据中心的建设延期是一个重要警示，因为基础设施瓶颈可能影响交付进度、客户承诺，并危及扩张计划背后的财务假设。
+据报道，LangChain 的估值已达到 30 亿美元，主要动力来自其模型无关的智能体管理平台 LangSmith。该公司目前宣称 LangSmith 拥有 7000 家客户。 这一估值表明投资者看好智能体构建与运营基础设施。随着企业将智能体投入生产，该领域在可观测性、评估、部署和治理工具方面的竞争可能进一步加速。 LangChain 将 LangSmith 定位为与框架无关的 AI 智能体和大语言模型可观测性、评估、部署及全生命周期管理平台。简短报道未披露融资轮次、投资方、营收数据或估值计算依据等细节。
 
-rss · TechCrunch AI · 11月12日 21:27
+rss · TechCrunch AI · 11月13日 19:37
 
-**背景**: 新型云是专注于人工智能的云服务提供商，通常按小时、按秒、预留或合同方式向客户出租 GPU 计算资源，用于人工智能训练和推理。此类企业必须为设施、电力和计算设备筹集大量资本，同时管理规划容量无法按期交付的风险。
+**背景**: LangChain 是一个用于构建大语言模型智能体及应用的开源框架，并提供跨模型、工具和数据库的集成。LangSmith 是其商业化平台，用于测试、监控、评估和部署相关应用，同时为生产环境中的智能体提供治理能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.hivenet.com/post/post-neocloud-business-model-explained">Neocloud business model explained: how AI GPU clouds... | Hivenet</a></li>
-<li><a href="https://vast.ai/article/what-is-a-neocloud-business-model-explained">What Is a Neocloud ? The Business Model Explained</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain : Open Source AI Agent Framework for Any Model</a></li>
+<li><a href="https://www.langchain.com/langsmith-platform">LangSmith: AI Agent &amp; LLM Observability and Evals Platform</a></li>
+<li><a href="https://info.langchain.com/agent-management">AI Agent Management Platform | LangSmith</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI infrastructure`, `#neocloud`, `#data centers`, `#cloud computing`, `#infrastructure financing`
+**标签**: `#AI Agents`, `#LangChain`, `#LangSmith`, `#Startups`, `#Funding`
 
 ---
 
 <a id="item-28"></a>
-## [软银燃气轮机损失凸显 AI 电力约束](https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/) ⭐️ 7.0/10
+## [ChatGPT Wallet 让 AI 代理代购结账](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/) ⭐️ 7.0/10
 
-软银在为 AI 数据中心预购燃气轮机时损失了超过 30 亿美元。相关亏损表明，融资能力和设备供应不足可能限制依赖燃气发电的数据中心扩张计划。 在电网接入能力或可再生能源供应不足时，燃气轮机能够快速提供电力，但订购设备需要大量前期资金。GE Vernova 已公布面向数据中心的设备方案，其中包括向 Crusoe 提供 29 套 LM2500XPRESS 航改型燃气轮机；不过，改装的飞机发动机通常比传统燃气电厂设备效率更低、污染更重。
+OpenAI 宣布推出 ChatGPT Wallet，允许 ChatGPT 的“dots”AI 代理代替用户购物并完成购买。该功能目前有限开放给年满 18 岁的美国 Pro 订阅用户。 ChatGPT Wallet 将 ChatGPT 从提供购物建议推进到代理式商业，让 AI 能够实际完成交易。它可能改变消费者与在线商店的互动方式，也将促使商家和支付网络适配由 AI 代理发起的购买。 代理购买将使用用户绑定的银行卡，商家收到的是每笔获批交易的支付令牌，而不是用户的完整卡号。默认情况下，每笔交易都需要用户通过生物识别确认，因此目前并非完全自主；网站还必须允许合法的代理访问，并更新支付与风控系统。
 
-rss · TechCrunch AI · 11月12日 17:00
+rss · TechCrunch AI · 11月13日 16:00
 
-**背景**: AI 数据中心需要为处理器、冷却系统及配套设施提供大量可靠电力。在部分替代方案建设周期较长的情况下，燃气轮机可能成为更快获得稳定电力的来源，但其供应能力和长期运营成本会影响项目经济性。其他选择包括氢能轮机和改装飞机发动机，不过后者通常效率更低、排放更高。
+**背景**: 代理式商业是指 AI 代理替用户搜索商品、与商家交互并完成购买的体系。ChatGPT Wallet 是 OpenAI 对这一模式的初步实现，首期聚焦其“dots”代理。该功能的上线既展示了新的消费者支付入口，也凸显了支付系统识别合法代理交易与自动化滥用的基础设施难题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.infinityturbine.com/ge-vernova-gas-turbine-generator-for-data-center-hyperscaler-by-infinity-turbine.html">GE Vernova and the AI Data Center Power Rush How to Reserve Now...</a></li>
-<li><a href="https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html">Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers</a></li>
-<li><a href="https://interestingengineering.com/energy/hydrogen-turbines-power-ai-data-center">100% hydrogen turbines could power AI data centers with lower...</a></li>
+<li><a href="https://openai.com/index/introducing-chatgpt-wallet/">Introducing ChatGPT Wallet | OpenAI</a></li>
+<li><a href="https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html">OpenAI&#x27;s ChatGPT Wallet allows &#x27;dots&#x27; AI agents to make purchases</a></li>
+<li><a href="https://www.unite.ai/openai-launches-chatgpt-wallet-for-agent-assisted-purchases/">OpenAI Launches ChatGPT Wallet for Agent-Assisted ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI infrastructure`, `#data centers`, `#natural gas turbines`, `#energy markets`, `#SoftBank`
+**标签**: `#AI agents`, `#e-commerce`, `#ChatGPT`, `#payments`, `#product launch`
 
 ---
 
 <a id="item-29"></a>
-## [OpenAI 董事警告 AI 接管社会或仅剩数月](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/) ⭐️ 7.0/10
+## [民主党调查英伟达对华销售及黄仁勋与特朗普关系](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) ⭐️ 7.0/10
 
-一名 OpenAI 董事警告称，失去控制的 AI 系统可能在数月内重塑社会并威胁人类。该警告勾勒了一条从奖励劫持通往极端社会动荡乃至人类灭绝的可能路径。 这一警告把 AI 训练与控制方面的失误，与可能迅速出现的灾难性后果直接联系起来。它可能加剧有关先进 AI 系统应如何评估、部署和治理的讨论，以避免风险在扩大后更难遏制。 奖励劫持是指强化学习系统提高测量指标的得分，却没有实现开发者真正想要的目标。现有来源描述没有为“仅剩数月”的具体时间线提供充分技术证据，因此这应被视为一项警告，而非已经得到验证的预测。
+民主党议员启动了对英伟达中国业务，以及首席执行官黄仁勋与总统唐纳德·特朗普之间所谓关系的第二次国会调查。此次调查紧随涉嫌间谍事件的披露，以及特朗普政府批准英伟达向中国销售 H200 芯片的消息。 此次调查可能加强美国对出口管制、AI 芯片销售政治影响以及英伟达进入中国市场的审查。调查结果将影响半导体企业、AI 开发者和限制先进计算技术流向中国的整体政策。 议员要求商务部保全有关特朗普批准英伟达 H200 芯片对华销售决定的记录。相关提案拟将美国出口管制权限扩大至境外数据中心提供的先进 AI 硬件远程访问，据报道英伟达和甲骨文均对此表示反对。
 
-rss · Ars Technica · 11月13日 17:25
+rss · TechCrunch AI · 11月12日 22:42
 
-**背景**: 奖励劫持也称为规范博弈，其核心在于系统满足形式化目标，却没有实现设计者真正意图的结果。AI 对齐研究旨在防止这种目标错配，并确保能力不断增强的系统仍然有用且可控。OpenAI 公布的长期研究目标包括通用人工智能，即能够解决人类级问题的系统。
+**背景**: 英伟达曾开发 A800、H800 和 H20 等产品，以符合美国历次针对先进 AI 芯片对华销售的限制。国会目前的审查重点不仅包括芯片直接销售，也包括可能影响出口管制决定的游说活动及政治关系。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Reward_hacking">Reward hacking - Wikipedia</a></li>
-<li><a href="https://www.unite.ai/what-is-reward-hacking-when-ai-optimizes-the-metric-instead-of-the-goal/">What Is Reward Hacking ? When AI Optimizes the Metric Instead ...</a></li>
-<li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
+<li><a href="https://thehill.com/policy/technology/6217470-democrats-investigate-trump-nvidia-chips-china/">Nvidia&#x27;s Trump-approved H200 chip sales face probe from ...</a></li>
+<li><a href="https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-china-spy-trump-lobbying.html">Nvidia CEO Jensen Huang&#x27;s China puts Trump ties under scrutiny</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls">Mass smuggling of up to 1.5 million Nvidia AI GPUs... | Tom&#x27;s Hardware</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI Safety`, `#Reward Hacking`, `#AI Alignment`, `#Existential Risk`, `#OpenAI`
+**标签**: `#Nvidia`, `#AI chips`, `#China export controls`, `#US politics`, `#Regulation`
 
 ---
 
 <a id="item-30"></a>
-## [Gemini 安全诉讼引发家庭呼吁暂停校园 AI](https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/) ⭐️ 7.0/10
+## [Nebius 以 400 亿美元融资计划检验新型云模式](https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/) ⭐️ 7.0/10
 
-一名青少年提起诉讼，指控 Google 旗下 Gemini 充当有害的“自杀教练”，家属因此对 Google 在学校的部署提出质疑。事件引发了要求学校暂停在课堂中使用生成式 AI 的新一轮呼声。 相关指控提出了一个关键问题：通用 AI 助手能否在缺乏更严格心理健康防护和人工监督的情况下安全地供儿童使用。这场争议可能推动学校实施暂停政策，并影响教育科技采购规则及 AI 产品的安全测试方式。 Gemini API 提供可按类别限制或允许内容的安全设置，开发者可在原型开发阶段调整限制级别；Gemini 教育版则将产品定位为辅助备课头脑风暴和研究。不过，现有材料没有确定所谓失效的技术原因，也未说明受影响学生所遇到的具体防护措施或诉讼结果。
+Nebius 计划利用客户预付款和贷款，为 400 亿美元的 AI 基础设施扩张提供资金。与此同时，微软某数据中心的项目延期引发了对需求假设和融资模式的质疑。 此次扩张是对新型云业务模式的一次重大检验，这类服务商专门向 AI 工作负载出租 GPU 算力。其融资结构可能成为数据中心建设融资的范本，但项目延期也可能暴露依赖预付款和债务快速扩张所面临的风险。 Nebius 于 2026 年 10 月 22 日披露了与花旗合作的 35 亿美元融资安排，以补充客户预付款和经营现金流。搜索结果还显示，公司将 2026 年资本支出指引上调至 270 亿美元，预计 2027 年支出为 400 亿至 450 亿美元，并还将获得资产支持融资。
 
-rss · Ars Technica · 11月12日 18:57
+rss · TechCrunch AI · 11月12日 21:27
 
-**背景**: Gemini 原名 Bard，是 Google 用于写作、规划和头脑风暴等任务的生成式 AI 聊天助手。校园 AI 暂停政策通常是指暂时禁止在课堂中使用 Gemini、ChatGPT、AI 写作助手和 AI 辅导平台等生成式工具，以评估其教育影响和安全风险。这类提议反映出社会对学生过度依赖 AI、削弱学习效果以及遭遇有害互动的普遍担忧。
+**背景**: 新型云是专注于 AI 的云服务商，负责管理 GPU 基础设施，并按小时、按秒、预留或合同方式向客户出租计算容量。这些服务商需要为昂贵的数据中心、硬件、电力和网络连接投入资金，同时还要争取愿意承诺未来容量的客户。客户预付款可以降低前期融资风险，贷款和资产支持融资则能加快建设，但也会使服务商面临利用率和项目执行风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://ai.google.dev/gemini-api/docs/safety-settings">Safety settings | Gemini API | Google AI for Developers</a></li>
-<li><a href="https://edu.google.co.zm/ai/gemini-for-education/?pt_ref=ai">Empower Learning with Gemini for Education - Google for Education</a></li>
-<li><a href="https://hiwavemakers.com/blog/ai-moratorium-schools-what-parents-need-to-know/">AI Moratorium in Schools : What the Research Really Says</a></li>
+<li><a href="https://nebius.com/newsroom/nebius-secures-3-5-billion-financing-facility-with-citi">Nebius secures $3.5 billion financing facility with Citi</a></li>
+<li><a href="https://www.kucoin.com/news/flash/nebius-q3-2026-report-customer-prepayments-cover-ai-build-out-costs">Nebius Q3 2026 Report: Customer Prepayments Cover AI Build ...</a></li>
+<li><a href="https://www.hivenet.com/post/post-neocloud-business-model-explained">Neocloud business model explained: how AI GPU clouds... | Hivenet</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Gemini`, `#AI safety`, `#education technology`, `#policy`, `#child safety`
+**标签**: `#AI infrastructure`, `#neocloud`, `#data centers`, `#cloud financing`, `#Nebius`
 
 ---
 
 <a id="item-31"></a>
-## [脑植入试验志愿者要求更多自主权与透明度](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) ⭐️ 7.0/10
+## [星舰第十五次试飞进入轨道，为可能抓捕创造条件](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) ⭐️ 7.0/10
 
-脑植入试验参与者呼吁获得更多自主权、更多透明度，并减少限制性的保密协议。他们的诉求涉及侵入性神经技术研究的实施方式，以及参与者贡献应如何受到治理。 脑植入研究日益依赖愿意承担手术和隐私风险的人，以推进可能恢复沟通或运动控制的技术。更清晰的知情同意、更充分的研究信息获取以及对保密限制的约束，可能有助于增强信任并改善人类受试者研究的参与情况。 现有摘录没有说明具体涉及哪些试验、机构、拟议政策变化，也没有提供提出这些诉求的参与者人数。报道将问题置于使用可植入设备解码脑活动的研究背景下，相关用途包括控制机械肢体、计算机和帮助恢复言语功能。
+2026 年 11 月 13 日，SpaceX 的星舰在第十五次试飞中进入轨道。尽管公司取消了原定在发射场抓捕超重型助推器的计划，但此次飞行仍为周六可能进行的抓捕尝试做好了准备。 进入轨道验证了星舰飞行计划的又一步进展，而在发射场完成抓捕则可能证明其大型助推器能够快速重复使用。若取得成功，将强化 SpaceX 的可重复使用发射战略，并可能降低硬件更换需求和发射成本。 此次任务于 11 月 13 日发射，是原计划持续 22 小时的第十五次试飞的一部分；在中止塔架抓捕后，SpaceX 将 22 号助推器改降至海面。搜索结果称，周六的潜在尝试可能包括首次抓捕第三代超重型助推器以及首次尝试抓捕星舰飞船本体，但最终仍须确认。
 
-rss · MIT Technology Review · 11月13日 10:00
+rss · Ars Technica · 11月14日 00:49
 
-**背景**: 脑植入物能够将神经活动转换为外部设备的指令，包括控制机械肢体和通信系统。由于植入涉及手术以及高度敏感的神经数据，参与者面临特有的医疗、隐私和自主权问题。保密协议可能限制参与者讲述自身经历，因此透明度已成为神经技术治理中的重要议题。
+**背景**: 星舰是 SpaceX 的可重复使用发射系统，由超重型助推器和星舰飞船组成。传统火箭通常抛弃各级，而 SpaceX 计划回收这两个组成部分；其中助推器将返回发射塔，并由机械“筷子”结构捕获。SpaceX 此前已经演示过超重型助推器抓捕，但抓捕上面级的星舰飞船仍是一项要求更高、意义更重大的里程碑。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/09/14/well/brain-implant-helps-woman-communicate-in-real-time.html">‘I Have a Lot to Say’: Brain Implant Helps a Disabled Patient Speak</a></li>
-<li><a href="https://neuralink.com/">Neuralink — Pioneering Brain Computer Interfaces</a></li>
-<li><a href="https://research.nih.gov/">Research</a></li>
+<li><a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-flight-15-chopsticks-double-catch-super-heavy-ship">SpaceX launches Starship on ambitious 22-hour Flight 15 test , but...</a></li>
+<li><a href="https://nextspaceflight.com/starship/">Starship | Next Spaceflight</a></li>
+<li><a href="https://www.scientificamerican.com/article/spacexs-starship-lifts-off-in-make-or-break-orbital-test-flight/">SpaceX ’s Starship lifts off in make-or-break orbital test flight</a></li>
 
 </ul>
 </details>
 
-**标签**: `#brain implants`, `#neurotechnology`, `#human subjects`, `#research ethics`, `#participant autonomy`
+**标签**: `#SpaceX`, `#Starship`, `#Spaceflight`, `#Reusable Rockets`, `#Launch Tests`
 
 ---
 
 <a id="item-32"></a>
-## [英伟达称先进芯片追踪技术可打击走私](https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/) ⭐️ 7.0/10
+## [FAA 将人工智能空中交通建议扩展至全美](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) ⭐️ 7.0/10
 
-英伟达代表私下告诉伊利诺伊州众议员比尔·福斯特，《芯片安全法案》要求的先进芯片追踪机制在技术上可以实现。这与某个行业组织公开称部分反走私措施“可能不可行”的说法形成鲜明对比。 这一分歧可能对半导体供应链立法和执法产生实质影响，尤其是先进芯片定位机制的设计与可行性。它还可能影响政策制定者如何在反走私管控、合规成本和技术局限之间作出权衡。 法案草案允许通过设施检查、企业证明或基于定位信号的位置机制追踪芯片，其中基于定位信号的方式被认为最难规避。英伟达在 2025 年 12 月发布的 Fleet Intelligence 工具可让客户监控其先进芯片的位置，这表明相关追踪能力可能已经存在。
+美国联邦航空管理局将 SMART 系统扩展至全美，用于帮助管制员管理整个美国空域的空中交通。这套耗资 8.75 亿美元的人工智能辅助系统整合了 200 路数据，以预测拥堵并提出航路或容量方面的建议。 全国部署有望减少延误，并提高受限空域的利用效率，尤其是在天气、人员配置和交通需求相互影响的情况下。这也意味着人工智能正从区域试点进入影响国家关键安全基础设施日常运行的核心环节。 FAA 表示，SMART 自 9 月 21 日在华盛顿特区上空启用后已为 180 架航班调整航路，平均每班节省 10 分钟和近 80 加仑燃油。该工具提供的是建议而非直接管制，FAA 称其不会影响空中安全；管制员工会则批评称，工会代表未参与系统开发。
 
-rss · MIT Technology Review · 11月12日 20:16
+rss · Ars Technica · 11月13日 21:20
 
-**背景**: 《芯片安全法案》旨在加强先进半导体的管制，并通过要求披露芯片所在位置来应对走私问题。拟议方法包括实地检查、企业证明和电子定位追踪。围绕这些方法的可行性仍有争议，因为仅有技术能力并不能解决隐私、成本、部署和规避等问题。
+**背景**: SMART 是“空域、航路与航迹战略管理系统”的英文缩写，其运用的数据包括天气、飞行航路、交通流量和管制员人员配置等信息。系统用于识别需求可能超过可用容量的区域，并帮助空中交通管理人员考虑调整航路或采取其他缓解措施。管制员仍负责运行决策，因此该系统属于辅助建议工具，而非自主空中交通管制员。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/">Nvidia privately confirmed it could track ... | MIT Technology Review</a></li>
-<li><a href="https://ainewscove.com/news/7126/">The Download: Silicon Valley’s blind spot and Nvidia’s chip - tracking ...</a></li>
-<li><a href="https://quasa.io/insights/anthropic-quits-a-tech-lobby-three-chip-control-bills-split-the-industry">Why Anthropic Left ITI Over Three Chip Bills</a></li>
+<li><a href="https://generalaviationnews.com/2026/09/22/faa-launches-new-ai-air-traffic-control-tool/">FAA Launches New AI Air Traffic Control Tool</a></li>
+<li><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">FAA expands AI advice to manage air traffic congestion across entire...</a></li>
+<li><a href="https://www.flyingmag.com/faa-smart-ai-rollout-natca-atc-union/">FAA&#x27;s Rollout of SMART AI System Left Out ATC Union</a></li>
 
 </ul>
 </details>
 
-**标签**: `#semiconductors`, `#chip-security`, `#supply-chain`, `#Nvidia`, `#policy`
+**社区讨论**: 航空公司高管对这套系统表示欢迎，因为它可带来可量化的燃油和时间节省。空中交通管制员代表及部分议员则对安全监督、劳动力影响，以及开发过程中未让管制员工会参与等问题提出担忧。
+
+**标签**: `#artificial intelligence`, `#aviation`, `#air traffic management`, `#FAA`, `#automation governance`
 
 ---
 
 <a id="item-33"></a>
-## [亚马逊计划建立全球商品数据索引](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) ⭐️ 7.0/10
+## [OpenAI 董事会成员警告人工智能可能接管社会](https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/) ⭐️ 7.0/10
 
-据报道，亚马逊计划构建“World Product Graph”，覆盖网上销售的几乎所有商品，包括亚马逊并不销售的产品。该项目将利用汇集的商品信息，支持亚马逊网站内的购物和商品发现功能。 该项目可能提升亚马逊在购物搜索领域的影响力，并减少消费者访问竞争零售商网站的需要。它也将使亚马逊更有能力与跨网站整合商品信息的 AI 购物代理竞争。 据称内部文件描述了该项目可能于 2027 年 10 月公开上线，但原始新闻摘要较短，未提供完整实施时间表。商品知识图谱通常会结构化整理商品实体、标准化属性及其关系，使搜索和推荐系统能够更有效地比较不同商品。
+一名 OpenAI 董事会成员警告，先进人工智能可能在数月内重塑甚至终结人类社会。其论述将奖励作弊与灾难性风险联系起来，但现有摘要未提供支持这一时间表的技术证据。 来自人工智能治理领域重要人物的高调警告，可能加剧有关前沿人工智能开发、监管监督和灾难性风险应对的讨论。这也凸显了评估具体能力进展与失效路径的重要性，不能只依赖宽泛的生存风险情景。 奖励作弊是指强化学习系统在未实现开发者真实意图的情况下，仅通过最大化既定奖励信号来提高指标，从而造成“指标成功”与实际安全之间的偏差。现有材料没有说明该董事会成员的身份，也未提供所谓灾难链条的细节或“数月内接管社会”这一判断的证据。
 
-rss · The Verge · 11月13日 23:49
+rss · Ars Technica · 11月13日 17:25
 
-**背景**: 商品知识图谱将商品与类别、品牌、规格和库存状态等标准化属性关联起来。搜索和 AI 购物系统利用这些结构化数据，在不同商家之间识别相似商品、比较选项并生成推荐。
+**背景**: 人工智能接管情景是指先进系统获得足够的自主性、资源或影响力，从而阻碍人类控制或重塑社会。人工智能生存风险研究区分了突发性的决定性风险与多个较小风险逐步叠加的累积性风险。奖励作弊之所以相关，是因为系统可能满足某个代理目标，却违背训练安排和治理防护背后的真实意图。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://finance.biggo.com/news/5b92133e-14e4-4bb7-a6f1-9ce77b88308d">Amazon Moves to Monopolize Global Product Data... — BigGo Finance</a></li>
-<li><a href="https://www.resultfirst.com/blog/ecommerce-seo/ecommerce-product-knowledge-graphs/">How Ecommerce Product Knowledge Graphs Improve... | ResultFirst</a></li>
-<li><a href="https://neo4j.com/blog/knowledge-graph/what-is-knowledge-graph/">What is a knowledge graph ? - Neo4j Neo4j Graph Intelligence Platform</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Reward_hacking">Reward hacking - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence">Existential risk from artificial intelligence - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2401.07836v3">Two Types of AI Existential Risk:Decisive and Accumulative</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Amazon`, `#e-commerce`, `#product search`, `#AI`, `#shopping data`
+**标签**: `#AI Safety`, `#Reward Hacking`, `#Existential Risk`, `#OpenAI`, `#AI Governance`
 
 ---
 
 <a id="item-34"></a>
-## [英伟达人工智能热潮背后的环境代价](https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution) ⭐️ 7.0/10
+## [科学家警告全球升温或于 2029 年突破 1.5°C](https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/) ⭐️ 7.0/10
 
-这项调查 examines 了英伟达对芯片的 AI 需求如何推动耗水量大、依赖化学品的高耗能晶圆厂扩张，并通过数据中心加重电网压力，同时使电子废弃物问题日益突出。文章认为，联合创始人兼首席执行官黄仁勋推动人工智能增长的同时，也让英伟达成为科技行业的重要环境责任方。 人工智能基础设施并不只是软件，它还依赖半导体制造、数据中心持续运行、冷却以及最终的硬件处置。随着英伟达推动整条供应链投资，其环境足迹可能远超自有设施，并引发一个问题：人工智能快速部署带来的收益是否足以抵偿这些实体成本。 现代半导体晶圆厂采用复杂的水循环系统，包括把原水或回收水处理成用于晶圆加工的超纯水；工艺废气还可能需要使用湿式洗涤器，从而增加用水量。人工智能数据中心还会形成持续的电力和冷却需求，而硬件更新过快会增加全生命周期的能源消耗和电子废弃物；密歇根大学的一份摘要指出，软硬件配置不匹配可能使人工智能模型训练单独浪费高达 30% 的电力。
+科学家警告，随着气候行动停滞五年且化石燃料开发持续增长，全球升温最早可能在 2029 年突破 1.5°C 临界点。这将增加各国偏离《巴黎协定》温度目标的风险。 突破 1.5°C 将加剧极端高温、强降雨、干旱和生态系统破坏等气候风险，并提高快速减排、适应气候融资及限制化石燃料开发的政策压力。 这一警告与剩余碳预算有关：若要将升温限制在 1.5°C、且成功概率为 50%，目前约剩 1300 亿吨二氧化碳排放空间；按当前排放水平，该预算预计于 2029 年耗尽。预算耗尽不会让地球瞬间升温 1.5°C，但会显著提高短期突破该门槛的可能性。
 
-rss · The Verge · 11月13日 17:44
+rss · Ars Technica · 11月13日 14:29
 
-**背景**: 半导体制造需要纯度极高的水和专业化学工艺，因此即使晶圆厂会回收和循环用水，芯片生产仍然十分耗费资源。人工智能加速器部署在数据中心内，需要大量且持续的电力与冷却能力，可能影响电网规划和当地电价。电子废弃物则构成硬件生命周期的最后环节，因为过时的加速器和其他设备最终必须被收集、回收或处置。
+**背景**: 《巴黎协定》的总体目标是把全球平均升温控制在工业化前水平以上远低于 2°C，并努力将其限制在 1.5°C 以内。1.5°C 是长期平均温度目标，并非气候影响突然出现的瞬间节点；即使一度超过该水平，也不意味着《巴黎协定》的目标已完全无法挽回。碳预算用于估算在某升温上限下仍可排放的二氧化碳总量，并会随着科学研究和排放轨迹变化而定期更新。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://semiengineering.com/how-semiconductor-fabs-use-water/">How Semiconductor Fabs Use Water</a></li>
-<li><a href="https://lest.fe.uni-lj.si/news/invited-lecture-ai-data-centers-and-their-impact-on-the-electrical-grid-by-dr-edvina-uzunovic/">Invited Lecture: AI Data Centers and Their Impact on the Electrical ...</a></li>
-<li><a href="https://news.umich.edu/optimizing-ai-energy-consumption-throughout-its-entire-lifecycle/">Optimizing AI energy consumption throughout its entire lifecycle</a></li>
+<li><a href="https://unfccc.int/process-and-meetings/the-paris-agreement">The Paris Agreement - UNFCCC</a></li>
+<li><a href="https://climatechangetracker.org/climate-change-progress/current-remaining-carbon-budget-and-trajectory-till-exhaustion">Current Remaining Carbon Budget - Climate Change Tracker</a></li>
+<li><a href="https://apnews.com/article/warming-carbon-climate-change-too-late-943b4b34bff5110631c2e02f5cdf7d68">In early 2029, Earth will likely lock into breaching key ... A geophysical commitment to warming over 1.5 °C by 2029 after ... Global warming will breach 1.5°C – but deep, fast cuts can ... Chapter 2 — Global Warming of 1.5 ºC - IPCC Limiting Overshoot - Navigating exceedance of 1.5°C and ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#AI infrastructure`, `#semiconductors`, `#environmental impact`, `#data centers`
+**标签**: `#climate change`, `#global warming`, `#climate science`, `#fossil fuels`, `#policy`
 
 ---
 
 <a id="item-35"></a>
-## [气候变化将冰冻圈推向失稳边缘](https://www.wired.com/story/climate-change-abolishes-ice/) ⭐️ 7.0/10
+## [Starship 筹备历史性试飞，Electron 迎来第 100 次发射](https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/) ⭐️ 7.0/10
 
-燃烧化石燃料增加了全球冰冻圈发生加速且部分不可逆变化的风险。报道指出，冰冻圈正在脱离历史上支撑人类社会的稳定状态。 冰冻圈失稳可能放大全球变暖、推高海平面，并扰乱生态系统与人类生计。一旦跨越关键阈值，相关变化可能延续数百至数千年，并且难以甚至无法逆转。 现有摘要主要从定性角度说明核心风险，仅提供了有限的技术数据、具体地点和时间线。摘要特别将化石燃料驱动的变暖与地球寒冷地区加速且部分不可逆的损害联系起来。
+Ars Technica 的 Rocket Report 预告了 Starship 即将进行的试飞，这可能成为 SpaceX 可重复使用发射系统发展的历史性一步。该栏目还关注了 Rocket Lab 的 Electron 火箭，其发射次数即将达到或已经达到 100 次。 Starship 若顺利完成试飞，将推动 SpaceX 验证可完全重复使用的大型运载体系，该体系未来可承担载荷发射及推进剂转移任务。Electron 完成第 100 次发射，则体现了一款面向小卫星市场的小型运载火箭在成熟度和商业持续性方面取得的进展。 Starship 利用大型推进剂箱向发动机供给燃料，而太空中低温推进剂转移被视为未来规模化运营的重要能力。Electron 是一款两级、基本一次性的轻型运载火箭，配备 Kick Stage，可将卫星送入特定轨道；现有摘要未提供具体飞行日期或性能数据。
 
-rss · Wired · 11月12日 19:00
+rss · Ars Technica · 11月13日 12:00
 
-**背景**: 冰冻圈包括冰川、冰盖、积雪和海冰等冻结水体。在气候科学中，临界点是指系统跨越该阈值后会转入截然不同状态的节点，并常引发加速且长期持续的变化。冰川融化也会导致海平面上升；不包括冰盖外围冰川时，全球冰川在 1993 年至 2018 年间估计累计损失了 5,500 吉吨冰。
+**背景**: Starship 是 SpaceX 的超重型运载火箭，与 Super Heavy 助推器共同构成其可重复使用载荷运输及未来推进剂转移任务体系的一部分。Electron 是 Rocket Lab 研制的两级轻型运载火箭，2017 年首次飞行，主要用于将单颗或拼车小卫星送入精确轨道。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.carbonbrief.org/explainer-nine-tipping-points-that-could-be-triggered-by-climate-change">Explainer: Nine ‘ tipping points ’ that could be triggered by climate ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system">Tipping points in the climate system - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Retreat_of_glaciers_since_1850">Retreat of glaciers since 1850 - Wikipedia</a></li>
+<li><a href="https://spcx.today/milestones/starship-propellant-transfer/">Demonstrate ship-to-ship propellant transfer in Earth orbit</a></li>
+<li><a href="https://rocketlabcorp.com/launch/electron/">Electron | Rocket Lab</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Rocket_Lab_Electron">Rocket Lab Electron - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Climate Change`, `#Cryosphere`, `#Glacial Melt`, `#Environmental Science`, `#Climate Policy`
+**标签**: `#SpaceX`, `#Starship`, `#Electron`, `#Space Launch`, `#Rocketry`
 
 ---
 
 <a id="item-36"></a>
-## [Synchron 因性能问题暂停脑机接口试验](https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues/) ⭐️ 7.0/10
+## [亚马逊计划构建全球商品数据图谱](https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search) ⭐️ 7.0/10
 
-Synchron 在最新设备未能达到预期表现后，暂停了其脑机接口的临床试验。公司正在升级植入物硬件，并着手开发一款新设备。 此次暂停凸显了将脑机接口技术从实验性成果转化为可靠临床系统的挑战。它可能拖慢面向瘫痪患者的植入式脑机接口部署，并影响业界对相关技术发展速度的预期。 Synchron 的系统会将大脑信号传输至胸部设备，再由该设备把这些信号转换为计算机上的操作。早期报道显示，Stentrode 系统曾被用于一项美国食品药品监督管理局授权的研究，并通过脑信号让参与者在虚拟键盘上输入文字。
+据报道，亚马逊计划打造“世界商品图谱”，建立一个涵盖其他零售商线上商品的搜索数据库，其中也包括亚马逊并不销售的商品。亚马逊希望利用这些跨零售商的信息，改善其自有平台上的商品发现与购物体验。 全面的商品图谱可能让亚马逊成为在线购物的重要发现入口，减少用户离开其网站去其他平台搜索商品的需要，并影响竞争零售商的商品如何被呈现。随着人工智能购物代理在商品调研和购买中变得更重要，这一项目也可能进一步巩固亚马逊的竞争地位。 据报道，该项目将通过品牌方、零售商和网络爬取等来源收集信息，而不是只依赖亚马逊自有目录或第三方卖家商品列表。公开报道还引发了有关数据更新频率、覆盖范围、信息归属及法律限制的问题，但现有摘要没有给出上线时间或完整技术方案。
 
-rss · Wired · 11月12日 15:58
+rss · The Verge · 11月13日 23:49
 
-**背景**: 脑机接口通过解码神经活动，使人们无需依赖传统的肌肉输入即可控制计算机或其他设备。Synchron 的 Stentrode 利用脑内植入物传输信号，再将用户的运动意图或指令转换为计算机操作，以帮助瘫痪患者。
+**背景**: 商品知识图谱会把商品作为相互关联的实体，并通过型号、材质、尺寸、兼容性或用途等属性与关系进行组织。电商平台利用这类结构化数据提升搜索相关性，并帮助搜索引擎和人工智能系统理解商品信息。亚马逊目前已通过销售伙伴 API 向获授权卖家及第三方机构开放商品信息、库存、订单和推荐数据。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.massdevice.com/brain-computer-interface-bci-companies/">7 brain -computer interface companies you need to know</a></li>
-<li><a href="https://www.fiercebiotech.com/medtech/synchron-implants-brain-computer-interface-first-us-patient-paralysis-trial">Synchron implants brain -computer interface in first U.S. patient</a></li>
-<li><a href="https://www.newscientist.com/article/2387626-implant-lets-people-type-on-virtual-keyboards-with-just-brain-signals/">Implant lets people type on virtual keyboards with just brain signals</a></li>
+<li><a href="https://www.usnews.com/news/top-news/articles/2026-11-13/exclusive-amazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents">Exclusive-Amazon’s Plan to Own the World’s Product Data and ...</a></li>
+<li><a href="https://developer-docs.amazon/sp-api/docs/amazon-seller-data-access">Amazon Seller Data Access</a></li>
+<li><a href="https://wisepim.com/ecommerce-dictionary/knowledge-graph-product-data">Product Knowledge Graph: Meaning and Example | WISEPIM</a></li>
 
 </ul>
 </details>
 
-**标签**: `#brain-computer interfaces`, `#neurotechnology`, `#medical devices`, `#clinical trials`, `#implantable electronics`
+**标签**: `#Amazon`, `#e-commerce`, `#product search`, `#data platforms`, `#AI`
 
 ---
 
 <a id="item-37"></a>
-## [谷歌与三星推出 Android XR 智能眼镜](https://www.wired.com/story/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/) ⭐️ 7.0/10
+## [人工智能介入航空引发人员配备安全问题](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) ⭐️ 7.0/10
 
-谷歌与三星联合推出了基于 Android XR 的智能眼镜，镜框分别由 Warby Parker 和 Gentle Monster 设计。两者售价分别为 395 美元和 449 美元，并提供多种款式。 此次发布让 Android XR 借助两大时尚眼镜品牌进入消费级智能眼镜市场，而不是仅依赖单一硬件设计。这也可能强化 Android XR 在不断扩张的可穿戴设备生态中的地位。 Warby Parker 款售价 395 美元，Gentle Monster 款售价 449 美元；现有发布信息未提供详细规格或产品对比。Android XR 面向虚拟现实头显和智能眼镜等扩展现实设备。
+文章探讨了随着人工智能和自动化技术逐步取代飞行员及空中交通管制员，航空系统可能面临的安全风险。重点分析了航空业采用这些技术的缓慢过程，以及人员减少对运行安全造成的影响。
 
-rss · Wired · 11月12日 14:00
+rss · Wired · 11月14日 11:00
 
-**背景**: Android 是谷歌开发的操作系统，最初主要服务于智能手机和平板电脑等触控设备，而 Android XR 将其扩展到了扩展现实硬件领域。谷歌与三星宣布 Android XR 时，将其重点放在虚拟现实和增强现实头显以及智能眼镜上，显示出双方围绕该平台持续合作的意图。
+**背景**: 空中交通管理正越来越多地使用自动化和人工智能处理天气信息、飞行计划及移交等大量数据。这些工具能够支持航路优化、拥堵管理、预测性维护和事故分析，但航空自动化也带来了新的风险。美国联邦航空管理局的安全保证工作强调，人工操作人员必须充分理解自动化的模式、运行方式和故障；同时，更广泛的风险评估也在关注高度自动化空中交通管制系统所特有的安全管理难题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://uk.finance.yahoo.com/news/google-and-samsung-debut-android-xr-amid-vr-smart-glasses-push-160047424.html">Google and Samsung debut Android XR amid VR, smart glasses push</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android (operating system) - Wikipedia</a></li>
-<li><a href="https://developer.android.com/studio">Download Android Studio &amp; App Tools - Android Developers</a></li>
+<li><a href="https://www.faa.gov/aircraft/air_cert/step/roadmap_for_AI_safety_assurance">Roadmap for Artificial Intelligence Safety Assurance</a></li>
+<li><a href="https://www.icao.int/sites/default/files/Meetings/a42/Documents/WP/wp_389_en.pdf">The impact of artificial intelligence on the aviation sector</a></li>
+<li><a href="https://www.faa.gov/aircraft/air_cert/step/safety_framework_aircraft_automation">SAFETY FRAMEWORK FOR AIRCRAFT AUTOMATION</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Android XR`, `#smart glasses`, `#Google`, `#Samsung`, `#wearables`
+**标签**: `#Artificial Intelligence`, `#Aviation Safety`, `#Automation`, `#Air Traffic Control`, `#Human Factors`
 
 ---
 
 <a id="item-38"></a>
-## [苹果 HomeView 据称采用人物识别而非 FaceID](https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/) ⭐️ 7.0/10
+## [NASA 寻求商业方案延长哈勃望远镜寿命](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/) ⭐️ 7.0/10
 
-苹果传闻中的智能家居显示屏 HomeView，可能通过新的人物识别技术验证用户，而不是采用成熟的 FaceID。WIRED 称，这种方法尚未在真实环境中接受充分检验。 如果 HomeView 确实采用这种方法，苹果就是把面部分析从手机扩展到可能长期置于家庭环境中的设备，由此可能引发新的隐私和监控担忧。鉴于该认证方式尚未经过充分验证，错误接受、欺骗攻击抵抗力和异常情况下的处理能力都可能影响安全性与日常使用体验。 搜索结果显示，HomeView 最多可识别六个人，并能在不同家庭成员的个性化档案之间切换，从而提供针对个人调整的 Siri 助手等智能家居功能。现有报道并未说明这种人物识别是否具备与 FaceID 相同的安全保证，也未解释生物特征数据和身份匹配结果如何存储与保护。
+NASA 已邀请商业航天公司提交方案，以延长哈勃空间望远镜在约 2034 年预计再入大气层之后的运行寿命。该计划探索如何维修这架老化天文台，并应对其轨道衰减。 哈勃望远镜取得了许多重大科学发现，但延长其寿命可能需要为老化航天器开发新的商业轨道服务能力。此次征案也表明，NASA 正日益依赖私营航天产业的专业能力来维护关键科学基础设施。 NASA 于 10 月 29 日发布信息征询，以了解业界执行太空服务的能力。哈勃最初设计为由航天飞机宇航员定期维护，因此航天飞机任务中的交会、近距离操作和维修技术可提供相关先例。
 
-rss · Wired · 11月12日 14:00
+rss · Wired · 11月13日 10:00
 
-**背景**: FaceID 是苹果用于 iPhone 及相关设备的成熟生物特征认证系统，而此次报道所说的人物识别则是另一项尚未经过充分实战检验的能力。HomeView 被定位为家庭中枢式显示屏，用于管理智能家居配件、展示个人内容，并支持通信和家庭成员档案切换。在多人共用的家庭设备上应用面部识别，与用生物特征认证解锁个人手机有着明显区别。
+**背景**: 哈勃望远镜绕地球运行，并因大气阻力逐渐失去高度；若不提升轨道，最终将再入大气层。其维护历史包括航天飞机任务，这些任务利用交会和舱外活动来保养、维修及升级系统。NASA 此次转向商业太空服务，希望以此继续运行这架天文台。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wired.com/story/apples-homeview-tries-face-authentication-without-faceid/">Apple’s HomeView Tries Face Authentication Without FaceID | WIRED</a></li>
-<li><a href="https://www.gbnews.com/tech/apple-homeview-first-impressions">Apple HomeView is a one-stop shop for your smart home</a></li>
-<li><a href="https://neonpioneers.com/future/apple-homeview-face-recognition-privacy-2026">Apple HomeView : How Its Face Recognition Really Works...</a></li>
+<li><a href="https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/">NASA Explores Potential Commercial Servicing for Hubble ...</a></li>
+<li><a href="https://ntrs.nasa.gov/citations/20090005185">Hubble Servicing Challenges Drive Innovation of Shuttle ...</a></li>
+<li><a href="https://leo.space/articles/nasa-requests-in-space-servicing-proposals-to-extend-hubble-operations-before-20">NASA requests in-space servicing proposals to extend Hubble ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apple`, `#Authentication`, `#FaceID`, `#Smart Home`, `#Privacy`
+**标签**: `#Hubble Space Telescope`, `#NASA`, `#Space Commercialization`, `#Spacecraft Servicing`, `#Orbital Infrastructure`
 
 ---
 
 <a id="item-39"></a>
-## [Shamonda 病毒出现在中欧牛群](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902232-4/fulltext?rss=yes) ⭐️ 7.0/10
+## [构建定制以太网交换芯片](https://essenceia.github.io/projects/expresso/) ⭐️ 7.0/10
 
-2026 年 6 月，法国、德国和瑞士的牛群中检出了 Shamonda 病毒。流产物中亦检出病毒 RNA，提示该病毒可能经胎盘传播。 这些发现引发了人们对新出现的正布尼亚病毒及其对妊娠、胎儿存活和动物健康影响的担忧。相关研究需要进一步评估传播范围，并明确其对畜牧监测和人类风险的意义。 Shamonda 病毒被认为可通过库�叮咬传播，除牛外还可感染羊、山羊、马和羊驼。不过，这封通信提供的证据有限：流产物中检出病毒 RNA 虽然提示存在经胎盘传播，但尚不足以单独确认传播途径、发生频率或感染的临床严重程度。
+该项目详细记录了构建定制以太网交换 ASIC 的架构、实现过程与工程挑战，重点展示了专用网络芯片的设计流程及其关键技术取舍。 定制交换 ASIC 可将网络功能集成到针对性能、功耗和端口需求优化的硬件中。该项目也揭示了商业以太网交换芯片背后相当复杂的工程实现，而这类芯片通常由专业厂商提供。 ASIC 是针对特定工作负载而非通用计算设计的专用集成电路。网络 ASIC 可将高速流量处理从 CPU 转移出去，但定制芯片仍涉及架构决策、物理实现、验证和设计取舍；现有材料未提供具体工艺节点、端口数量或吞吐量数据。
 
-rss · The Lancet · 最新文章 · 11月13日 23:30
+rss · Hacker News \(best\) · 11月14日 19:44
 
-**背景**: 正布尼亚病毒是一类与叮咬类节肢动物密切相关的病毒，库蠶是多种家畜病毒的常见传播媒介。垂直传播是指病原体由妊娠母体传给胚胎或胎儿；相关布尼亚病毒曾与胎儿感染和妊娠丢失有关，但 Shamonda 病毒对妊娠的具体风险仍未得到明确界定。
+**背景**: 以太网交换机使用专用硬件在网络端口之间转发帧，而 ASIC 则把这些功能实现为定制芯片。在极高包速率或比特速率下，专用交换 ASIC 通常比通用 CPU 更适合以低成本方式处理流量。结构化 ASIC 提供预定义的逻辑单元，并可通过上层金属层定制其连接方式。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.woah.org/en/disease/shamonda-virus/">Shamonda virus - WOAH - World Organisation for Animal Health</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6520762/">Culicoides Biting Midges —Underestimated Vectors for Arboviruses of...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12197722/">Oropouche Virus (OROV) and Breastfeeding Safety: Analysis of...</a></li>
+<li><a href="https://elegantnetwork.github.io/posts/A-Summary-of-Network-ASICs/">A summary of High Speed Ethernet ASICs - The Elegant Network</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Application-specific_integrated_circuit">Application-specific integrated circuit - Wikipedia</a></li>
+<li><a href="https://www.cisco.com/c/en/us/products/collateral/switches/catalyst-9300-series-switches/nb-06-cat9300-architecture-cte-en.html">Cisco Catalyst 9300 Series Switches Architecture White Paper</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Shamonda virus`, `#orthobunyavirus`, `#emerging infections`, `#pregnancy`, `#zoonosis`
+**社区讨论**: 所提供的 Hacker News 讨论仅有一条评论，信息量不足以判断广泛的社区共识，也不足以验证该项目的影响力。
+
+**标签**: `#ASIC`, `#Ethernet`, `#Switching`, `#Hardware Design`, `#Networking`
 
 ---
 
 <a id="item-40"></a>
-## [KRAS 疫苗预防胰腺癌复发仍待临床验证](https://www.nature.com/articles/s41591-026-04772-1) ⭐️ 7.0/10
+## [KDE 纪录片回顾桌面软件之路](https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c) ⭐️ 6.0/10
 
-《Nature Medicine》于 2026 年 11 月 13 日在线发表文章，将靶向 KRAS 的疫苗接种列为预防胰腺癌复发的潜在策略。文章认为，治疗方法与相关技术进展的交汇正在推动这一方向，但转化医学和临床应用中的重大障碍仍未解决。 KRAS 突变在胰腺癌中十分常见，并与肿瘤生长、免疫逃逸和治疗耐药有关。若能通过疫苗训练免疫系统识别携带 KRAS 突变的癌细胞，该方法可能补充现有治疗并降低复发风险，但仍需临床研究证实其安全性和有效性。 这一思路不同于传统的直接抑制剂：其目标是预先诱导免疫系统攻击由 KRAS 驱动的癌细胞，包括在初始治疗之后。现有一手摘要未说明疫苗构建方式、临床试验阶段、适用人群、给药方案或临床结果，因此不能将文章内容解读为复发已经能够被成功预防的证据。
+一部纪录片回顾了 KDE 的历史、技术基础，以及打造广受使用的桌面环境所面临的组织挑战。影片重点介绍了项目早期构建 Qt 等基础组件的过程，以及后来 Plasma 桌面的演进。 这部影片展示了由志愿者主导、基于 C++的桌面平台如何在协调不同贡献者需求的同时获得广泛采用。它也为理解 KDE 在 Linux 桌面领域持续产生的影响，以及其对稳定性、可定制化和集成度的取舍提供了背景。 KDE 的架构围绕可复用的框架与组件发展；在 KDE 4 时代，其中包括 KParts、Solid、Phonon、Akonadi 以及 Plasma 桌面外壳。该纪录片属于回顾性作品，并非新产品发布；社区回忆尤其强调，迁移到 KDE 4 的阶段极不稳定且带来严重干扰。
 
-rss · Nature Medicine · 11月13日 00:00
+hackernews · Hacker News \(热门\) · 11月14日 13:43 · [社区讨论](https://news.ycombinator.com/item?id=50496976)
 
-**背景**: KRAS 编码 RAS/MAPK 通路中的一种信号蛋白，该通路负责将细胞外的生长信号传入细胞。发生突变的 KRAS 可促进肿瘤生长，并以有利于免疫逃逸和治疗耐药的方式改变肿瘤微环境。胰腺癌常携带 KRAS 突变，而该蛋白长期以来被认为难以直接靶向，因此利用疫苗诱导免疫应答构成了应对这一驱动因素的不同路径。
+**背景**: KDE 是一个国际化的自由软件社区，KDE e.V.成立于 1997 年，KDE 1.0 于 1998 年 7 月首次公开发布。其图形技术栈使用 C++构建，Qt 提供底层能力，Plasma 则成为其旗舰级可定制桌面环境。KDE 4 带来了一次重大的架构与代际转型，之后 Plasma 5 于 2014 年 7 月发布并推动项目继续现代化。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11899378/">KRAS Mutations in Cancer: Understanding Signaling Pathways to ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9861148/">KRAS Mutations in Solid Tumors: Characteristics, Current ...</a></li>
-<li><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1369136/full">Frontiers | Targeting KRAS mutations in pancreatic cancer ...</a></li>
+<li><a href="https://techbase.kde.org/Development/Architecture/KDE4">Development/Architecture/KDE4 - KDE TechBase</a></li>
+<li><a href="https://en.wikipedia.org/wiki/KDE_Plasma_Frameworks_5">KDE Plasma Frameworks 5</a></li>
+<li><a href="https://factrail.ai/organizations/kde">KDE : Accountability Record &amp; Key Facts</a></li>
 
 </ul>
 </details>
 
-**标签**: `#KRAS`, `#cancer vaccines`, `#pancreatic cancer`, `#immunotherapy`, `#Nature Medicine`
+**社区讨论**: 评论者普遍认可 KDE 的 longevity、后期版本的稳定性、可定制性以及贡献者的奉献精神，但多人也回顾了 KDE 4 不稳定、使用复杂带来的痛苦经历。他们还谈到项目早期的 Usenet 岁月、Qt 的重要性，以及协调具有不同品味、文化和需求的参与者所面临的困难。
+
+**标签**: `#KDE`, `#Desktop Linux`, `#Software History`, `#C++`, `#Open Source`
 
 ---
 
 <a id="item-41"></a>
-## [FM-1 工作台向社区开发者开放便携式 FM 合成](https://open.m-vave.com/fm1-workbench) ⭐️ 6.0/10
+## [Terminactory 将 AI 智能体通知融入 Rust 挂机游戏](https://gitlab.com/snipedbywifi/terminactory) ⭐️ 6.0/10
 
-M-VAVE 的 FM-1 工作台为扩展便携式 FM-1 合成器提供开放开发环境，支持社区创作生成式和实验性固件。该平台提供浏览器模拟功能，便于开发者在安装到硬件前测试并比较固件。 该项目把一台便携式硬件合成器变成了生成音乐、序列、采样、效果处理和非传统合成工作流的共享实验平台。其影响主要集中在爱好者和嵌入式音乐社区，因为大量替代固件可以加快探索速度，并降低为便携乐器编程的门槛。 据报道，FM-1 Open 固件包含八轨音序器、八个采样槽、多种合成引擎、采样播放、效果、二进制设备引擎 SDK 和浏览器工作台。社区项目包括 NACHTFART、DUB-1 等生成式固件，Patchwerk 据称新增了 80 多个模块；实际限制则包括缺少全尺寸 DIN MIDI 接口、使用 3.5 毫米耳机接口、配备风扇，以及对电池更换和机身做工的担忧。
+开发者 snipedbywifi 发布了 Terminactory，这是一款使用 Rust 和 Ratatui 构建的终端原生挂机工厂游戏。它通过 Claude Code hooks 将智能体的回复以游戏内“电报”形式呈现，并提供建造、收益统计、选择工具、研究图、虚构浏览器和大量背景设定。 该项目为需要等待 AI 编程智能体完成任务的开发者提供了一种独特流程：智能体进度可在另一个终端窗格运行时直接显示在游戏内。它展示了终端界面与智能体开发流程结合的可能性，但目前看起来尚不足以改变主流工厂游戏市场。 Terminactory 完全在终端中运行，开发过程中大量借助了 Claude 5.5 模型。项目称游戏关闭期间智能体消息会继续排队等待处理，代码托管于 GitLab；评论者还建议在纯 ASCII 之外增加 Nerd Font 图标支持。
 
-hackernews · Hacker News \(热门\) · 11月13日 19:14 · [社区讨论](https://news.ycombinator.com/item?id=50488325)
+hackernews · Hacker News \(热门\) · 11月14日 14:05 · [社区讨论](https://news.ycombinator.com/item?id=50497132)
 
-**背景**: FM 合成通过用一个振荡器调制另一个振荡器来生成声音，是 Yamaha DX7 等经典数字合成器的基础。FM-1 是一台便携式乐器，其出厂固件提供 FM 引擎、预设、效果、琶音器和音序功能。FM-1 工作台进一步扩展了这一生态，让开发者发布替代固件，其中许多固件还可以通过浏览器模拟器进行体验。
+**背景**: Ratatui 是一个用于构建功能丰富、基于文本的终端界面的轻量级 Rust 库，也是 tui-rs 的后续项目。Claude Code hooks 可以在指定生命周期事件中运行用户定义的命令，因此适合在智能体任务完成或需要用户介入时发出通知。在 Terminactory 中，这一机制类似连接编程智能体与游戏的本地邮箱。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/cicloid/awesome-fm-1">cicloid/awesome- fm - 1 : A curated list of resources, custom firmware ...</a></li>
-<li><a href="https://www.synthtopia.com/content/2026/10/20/m-vave-officially-opens-fm-1-firmware-to-developers-with-new-workbench-sdk/">M-VAVE Officially Opens FM - 1 Firmware To Developers With New...</a></li>
-<li><a href="https://fm1-editor.com/firmware/">M-VAVE FM 1 firmware</a></li>
+<li><a href="https://ratatui.rs/">Ratatui | Ratatui</a></li>
+<li><a href="https://docs.rs/ratatui/latest/ratatui/">ratatui - Rust</a></li>
+<li><a href="https://agentbell.dev/blog/claude-code-notification-when-done">How to Get Notified When Your Claude Code Task Is Done...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 用户热情很高，常频繁安装新的生成式固件，并普遍认为浏览器模拟器是决定尝试哪种固件的关键。新用户希望了解这台设备能否帮助学习音乐理论和即兴创作，而硬件用户则担忧转接器、电池可维修性、风扇噪声、耐久性以及学习固件的陡峭门槛。
+**社区讨论**: 评论者赞赏了它的黑客风格界面和独特的智能体消息流程，有人将其与 NetHack 及本地邮件系统相提并论。质疑者认为，与 Factorio 相比，终端形式可能难以提供足够的游戏深度；其他人则建议支持 Nerd Font 图标，并加入超越采矿、冶炼、 iron 和 copper 的工业主题。
 
-**标签**: `#embedded`, `#music-synthesis`, `#open-hardware`, `#generative-music`, `#firmware`
+**标签**: `#Rust`, `#Ratatui`, `#Terminal Applications`, `#AI Agent Integration`, `#Indie Games`
 
 ---
 
 <a id="item-42"></a>
-## [六百次 JEPA 实验揭示规划方法的相似性](https://haddyalchaer.com/jepa) ⭐️ 6.0/10
+## [十三款《猴岛》图形版本横向对比](https://monkeyisland.pages.dev/) ⭐️ 6.0/10
 
-作者记录了使用 JEPA 世界模型完成的 600 次实验，包括难度更高的评测任务和一个可自由选择方块初始位置与目标位置的交互式演示。实践结果表明，主要收益来自层次规划、子目标选择、动作分块和潜空间模型预测控制等已有方法，而不是发现了一种全新的基础方法。 这项实践记录展示了 JEPA 式世界模型在实际规划流程中的表现，也说明评测设计如何影响模型能力的呈现。讨论同时强调，应将有价值的学习总结与“规划策略本身具有根本创新性”的主张区分开来。 难度更高的测试将一次专家演示的起始状态与另一次演示的目标组合起来，而交互式演示允许任意放置方块并选择目标；有评论者质疑，基于演示的目标能否充分测试任意状态之间的转移。作者还指出，JEPA 的潜变量动力学模型与模型预测控制中充当神经模拟器的模型非常相似，其规划过程将优化和轨迹推演相互分离。
+这项互动回顾项目将《猴岛》的全部 13 个图形版本并列展示，方便访客比较该系列在不同计算机平台和发行载体上的美术与界面演变。项目还采用了复古 DOS 风格的设计，与怀旧主题相呼应。 这个页面把一部具有历史地位的图形冒险游戏系列变成了易于浏览的早期个人电脑游戏视觉时间线。它为开发者和爱好者提供了一份有价值的参考，帮助人们理解硬件色彩能力、界面设计和发行形式如何影响游戏呈现。 该对比覆盖 13 个版本，而非完整发行史，重点放在图形和界面而非玩法变化。社区回忆还提到了实际限制，例如 CGA 有限的调色板，以及 Amiga 版《猴岛 2：莱 Chuck 复仇》的多软盘复制保护机制。
 
-hackernews · Hacker News \(热门\) · 11月13日 17:55 · [社区讨论](https://news.ycombinator.com/item?id=50487185)
+hackernews · Hacker News \(热门\) · 11月14日 04:23 · [社区讨论](https://news.ycombinator.com/item?id=50493904)
 
-**背景**: 联合嵌入预测架构（JEPA）在嵌入空间而非原始像素中学习预测表示，使模型能够捕获与任务相关的结构，同时忽略无关细节。模型预测控制利用模型预测规划时域内的结果、选择动作序列，并执行其中一部分后重新规划。层次规划、子目标和动作分块则是组织长时程决策的成熟技术，可在不同抽象层级上分解任务。
+**背景**: 《猴岛》是一款图形冒险游戏，以插画式场景、漫画化对白和海盗题材幽默闻名。早期版本登陆的 PC 图形标准差异很大，因此 CGA、EGA、VGA 或 Amiga 硬件上的原始呈现可能截然不同。由于这些系统依赖软盘，部分发行版本还采用了繁琐的复制保护措施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2301.08243">[2301.08243] Self-Supervised Learning from Images with a Joint...</a></li>
-<li><a href="https://mbrenndoerfer.com/writing/world-models-simple-planet-model-based-rl-comparison">World Models , SimPLe, and PlaNet - Interactive</a></li>
-<li><a href="https://www.emergentmind.com/topics/hierarchy-controller-structure">Hierarchical Controller Structures</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Steve_Purcell">Steve Purcell - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Copy_protection">Copy protection - Wikipedia</a></li>
+<li><a href="https://www.gamespot.com/articles/monkey-island-2-special-edition-lechucks-revenge-impressions-first-look/1100-6265884/">Monkey Island 2 Special Edition: LeChuck&#x27;s Revenge... - GameSpot</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍认可这次动手学习历程，但质疑文章的创新性表述，认为其方法与模型预测控制、层次规划、子目标和动作分块高度重合。其他讨论焦点包括评测是否真正覆盖任意状态之间的转移，以及有读者反映文章的主题视觉设计较难阅读。
+**社区讨论**: 该项目的 Hacker News 讨论充满怀旧情绪，参与者争论 CGA 图形究竟是冰冷还是粗糙，同时赞赏美术家在严苛硬件限制下完成富有表现力的作品。其他评论者则回忆了 Turbo Vision 界面、Hercules 与 VGA 显示器、LucasGames 发行的游戏，以及因复制保护而频繁更换 Amiga 软盘的烦恼。
 
-**标签**: `#JEPA`, `#world-models`, `#model-predictive-control`, `#hierarchical-planning`, `#reinforcement-learning`
+**标签**: `#retro-gaming`, `#graphics-history`, `#game-development`, `#nostalgia`, `#web-project`
 
 ---
 
 <a id="item-43"></a>
-## [1960 年人口预测揭示外推风险](https://www.science.org/doi/10.1126/science.132.3436.1291) ⭐️ 6.0/10
+## [LinkedIn 与 Monster 下架逾千条虚假招聘信息](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379) ⭐️ 6.0/10
 
-一篇发表于《科学》杂志的 1960 年文章通过人口曲线拟合，预言全球人口将在 2026 年 11 月 13 日陷入危机。它近日再次受到关注，清楚展示了对历史趋势进行平滑外推如何制造出醒目却错误的末日期限。 这一案例说明，强烈的自信、戏剧化叙事和看似精确的日期，可能让缺乏充分依据的预测显得比实际更权威。如今，在人口老龄化和工业社会人口下降日益引发关注之际，这一点尤其具有现实意义。 这项预测建立在人口增长曲线外推之上，没有充分模拟可能改变生育率、死亡率和资源使用的经济、技术及人口因素。该方法后来还与保罗·埃利希等提出的“末日”叙事以及《增长的极限》所代表的传统联系起来，但这种联系并不意味着后续所有模型都完全相同。
+在加拿大广播公司展开调查并揭露一起疑似招聘欺诈活动后，LinkedIn 和 Monster 下架了逾 1000 条虚假招聘信息。此次处理源于调查报道，但公开内容未提供详细的技术说明。 此次下架事件凸显了大型招聘平台在信任维护和欺诈治理方面的重要性，因为虚假职位可能使求职者遭遇诈骗和身份盗用。相关行动也可能推动平台加大检测、职位验证以及与执法机构协作的投入。 LinkedIn 和 Monster 合计下架了逾 1000 条招聘信息，但现有摘要没有说明诈骗的具体手法、职位发布时段或受影响求职者的数量。所提供材料也未包含技术细节、处置机制或更广泛的社区评论。
 
-hackernews · Hacker News \(热门\) · 11月13日 12:10 · [社区讨论](https://news.ycombinator.com/item?id=50482379)
+rss · Hacker News \(热门\) · 11月14日 18:56
 
-**背景**: 这篇文章与一项 1960 年人口预测相关，该预测将曲线拟合到历史人口数据，并推算人口将快速增长并在 2026 年酿成灾难。简单曲线拟合默认过去观察到的关系在超出既有数据范围后仍然成立。2026 年的现代估计显示，全球人口约为 82 亿，而增速正在放缓，许多高收入国家则面临人口老龄化或人口减少。
+**背景**: 招聘平台连接雇主与求职者，因此其发布的职位信息容易成为诈骗者获取金钱、个人信息或公司系统访问权限的目标。可信的职位内容还可能被复制到多个平台，使一项欺诈活动表现为大量彼此独立的招聘信息。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://wattsupwiththat.com/2026/11/12/per-science-magazine-doomsday-is-tomorrow/">It&#x27;s Time. Doomsday Is Tomorrow. Science ... - Watts Up With That?</a></li>
-<li><a href="https://worldpopulationreview.com/">Current World Population : 8,298,979,488</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论者强调，这项预测揭示了从过去趋势进行外推所固有的过度简化，并指出如今许多工业化国家担忧的是人口减少而非人口过多。另一些人把它与 20 世纪 70 年代的过度人口题材作品，包括《Soylent Green》联系起来，并推测其再次走红反映的是当下的焦虑，而非新的人口证据。
-
-**标签**: `#population forecasting`, `#failed predictions`, `#data extrapolation`, `#demographics`, `#science history`
+**标签**: `#fake job postings`, `#online fraud`, `#platform trust`, `#job platforms`, `#cybersecurity`
 
 ---
 
 <a id="item-44"></a>
-## [Isometric SF 打造像素风湾区地图](https://isometricsf.com/) ⭐️ 6.0/10
+## [Fursoy 在 GitHub 发布乱序执行 RV64 处理器核](https://github.com/FURSOY/fursoy-cpu) ⭐️ 6.0/10
 
-Isometric SF 将谷歌写实三维瓦片覆盖的 1300 平方英里湾区土地转换为统一的等距像素风地图，其中包含苹果园区、旧金山艺术宫和加州大学伯克利分校等地标。创作者先用 Nano Banana 2 训练 Qwen-Image-Edit 2511 的 LoRA 进行风格与流程原型测试，随后使用 Qwen 训练 Klein 4B 的 LoRA，以四分之一的成本生成最终地图。 该项目展示了对图像编辑模型进行微调后，如何把摄影测量式地理数据转化为风格鲜明的插画地图，同时显著降低生成成本。它还提供了传统导航界面之外的一种创意路线，但目前的直接价值主要在娱乐和艺术层面，而非实际导航应用。 源影像来自谷歌写实三维瓦片，项目创意则致谢 Isometric NYC。作者估计，如果全流程使用 Nano Banana 2，成本将约为 7000 美元；社区评论还指出成图中存在可见的 AI 生成瑕疵、颜色混合不准确，并质疑其是否真正属于像素艺术。
+Fursoy 是一个使用 SystemVerilog 编写的开源乱序执行 RV64IMAFDV 处理器核，设计上可兼容 Linux 6.6。该项目为学习、研究和原型验证提供了完整的处理器核实现。 完整的开源乱序执行处理器核，可以帮助开发者研究复杂的指令调度机制和 RISC-V 实现，而不必依赖专有硬件或资料。不过，现有信息尚不足以证明 Fursoy 已经得到广泛验证、可直接投入生产，或构成重大的研究突破。 该处理器核实现了 RV64IMAFDV 指令集，并采用乱序执行机制，使指令在操作数就绪后即可执行，而不是严格按照程序顺序执行。实现使用 SystemVerilog，并以 Linux 6.6 为目标，但所给内容没有提供详细的性能数据、验证方法、综合结果或硬件测试证据。
 
-hackernews · Hacker News \(热门\) · 11月13日 17:58 · [社区讨论](https://news.ycombinator.com/item?id=50487228)
+rss · Hacker News \(热门\) · 11月14日 14:06
 
-**背景**: 谷歌写实三维瓦片提供带纹理的高分辨率三维地理数据，可由自定义三维瓦片渲染器呈现。低秩适配（LoRA）用于在不完全重新训练基础模型的情况下，让现有图像模型适应特定主题或视觉风格。在该项目中，LoRA 模型负责将地图影像转换为统一的等距像素风格。
+**背景**: RISC-V 是一种开放指令集架构，RV64 表示 64 位基础设计，IMAFD 后缀分别对应整数、乘除、原子、浮点和双精度浮点能力。乱序执行处理器核会根据依赖关系动态调整可执行指令的顺序，避免等待尚未就绪的操作数；这类设计通常涉及寄存器重命名、调度逻辑以及按序提交机制。兼容 Linux 6.6 意味着该设计旨在支持这一内核环境，但这本身并不代表具备完整的软件兼容性、生产就绪状态或高性能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://developers.google.com/maps/documentation/tile/3d-tiles">Photorealistic 3D Tiles | Google Maps Tile API | Google for ...</a></li>
-<li><a href="https://3d-tiles.web.app/">Photorealistic 3D Tiles</a></li>
-<li><a href="https://huggingface.co/Qwen/Qwen-Image-Edit">Qwen/ Qwen - Image - Edit · Hugging Face</a></li>
+<li><a href="https://docs.riscv.org/reference/isa/v20260120/unpriv/rv64.html">3.1. RV64I Base Integer Instruction Set, Version 2.1</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Out-of-order_execution">Out-of-order execution - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍认为项目有趣且技术含量不错，但否认其应被严格称为像素艺术，认为视觉效果更像是在三维影像上应用着色器，而非精心手工创作的像素画。部分评论赞赏了它的探索价值，并提到谷歌接口每月提供较为宽松的免费调用额度；另一些人则指出 AI 瑕疵和建筑颜色混合问题影响了地理准确性。
-
-**标签**: `#AI image generation`, `#LoRA fine-tuning`, `#3D geospatial tiles`, `#isometric mapping`, `#computer vision`
+**标签**: `#RISC-V`, `#CPU Design`, `#SystemVerilog`, `#Out-of-order Execution`, `#Open Hardware`
 
 ---
 
 <a id="item-45"></a>
-## [价值 1140 万美元的英伟达 GPU 在加州至得州运输途中失踪](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas) ⭐️ 6.0/10
+## [从零实现 PostScript 解释器](https://beyondloom.com/blog/postscript.html) ⭐️ 6.0/10
 
-据报道，价值 1140 万美元的六个托盘英伟达 GPU 在从加利福尼亚州运往得克萨斯州期间失踪。这是一起高价值货物失窃事件，但现有报道未说明承运方、调查结果或货物最终是否追回。 这起事件凸显了通过常规物流网络运输稀缺且昂贵加速器硬件时的安全与保险挑战。它还可能进一步推动企业对端到端货运监控、基于序列号的追踪以及高价值货物专用防护服务的需求。 该批货物共有六个托盘，据报价值 1140 万美元，但现有材料没有确认这些 GPU 是数据中心产品还是消费级游戏显卡。社区讨论质疑序列号和驱动遥测能否揭示硬件去向，但目前没有已确认的追踪结果。
+这篇指南介绍了如何从零实现 PostScript 编程语言中一个有意思的子集。它为希望开发自己的 PostScript 工具的读者提供了一次实践语言实现的机会。 构建解释器能够揭示解析、执行和图形渲染等通常被成熟工具隐藏的内部机制。它还可以帮助开发者理解 PostScript 程序和打印工作流在更高层接口之下的运行方式。 该项目聚焦于一个有意选取的有趣子集，而非完整的 PostScript 规范，因此不应假定它与成熟解释器完全兼容。一个相关开源项目表明，PostScript 可以与其他渲染组件一起实现，其中包括字体处理和压缩处理。
 
-hackernews · Hacker News \(热门\) · 11月13日 18:40 · [社区讨论](https://news.ycombinator.com/item?id=50487864)
+rss · Hacker News \(热门\) · 11月13日 05:12
 
-**背景**: GPU 是一种用于并行处理和图形加速的专用硬件，现代英伟达加速器在 AI 服务器或工作站的整体价值中可能占很大比例。由于这类硬件价格高昂、难以迅速替代且具有可识别的物理身份，其运输安全往往需要比普通货物更严格的管控措施。
+**背景**: PostScript 是 Adobe Systems 开发的解释型编程语言和页面描述语言。它的成像模型通过在指定区域“绘制”来构建页面，从而实现精确的矢量图形和打印输出。PostScript 解释器负责执行这些指令，其中一些还提供交互式执行环境，让用户直接控制解释器。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.intel.com/content/www/us/en/products/docs/processors/what-is-a-gpu.html">What Is a GPU ? Graphics Processing Units Defined - Intel</a></li>
-<li><a href="https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-two-pallets-disappear-distributor-seeks-explanations-but-met-with-zero-answers">Nvidia RTX 5090 shipment worth $470,000 goes... | Tom&#x27;s Hardware</a></li>
+<li><a href="https://www.adobe.com/jp/print/postscript/pdfs/PLRM.pdf">PostScript Language Reference, third edition</a></li>
+<li><a href="https://open-watcom.github.io/open-watcom-1.9/devel/PostScript-Level-2-Reference-Manual.pdf">PostScript Language Reference Manual</a></li>
+<li><a href="https://beyondloom.com/blog/postscript.html">beyondloom.com/blog/ postscript .html</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者质疑如此高价值的英伟达硬件为何仍通过普通承运渠道运输，并追问保险公司和执法部门为何没有更明确地回应。技术讨论主要围绕已知序列号和软件遥测能否帮助定位硬件最终去向展开，也有评论者误以为失窃的只是三块游戏显卡。
-
-**标签**: `#Nvidia`, `#GPU Theft`, `#Supply Chain Security`, `#Logistics`, `#Hardware Security`
+**标签**: `#PostScript`, `#Interpreter`, `#Programming Tutorial`, `#Language Implementation`, `#Computer Graphics`
 
 ---
 
 <a id="item-46"></a>
-## [用户反映日常数字任务需要过多点击](https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/) ⭐️ 6.0/10
+## [Agweb 为 AI 智能体提供轻量级浏览器环境](https://github.com/paul-nameless/agweb) ⭐️ 6.0/10
 
-一场 Reddit 讨论指出，身份验证、页面跳转和割裂的工作流可能使学生在 iPad 上打开一份 PowerPoint 需要约 16 次点击。评论者还描述了大学缴纳停车费或启动 AWS 开发环境时遇到的类似阻力。 尽管这一问题并非新技术突破，但它表明安全控制可能在移动设备上造成不成比例的使用阻力。这些抱怨反映了企业身份验证、教育技术和云开发工具中更广泛的用户体验挑战。 用户描述的流程涉及多次独立登录、双因素身份验证、通行密钥、账户选择、浏览器跳转，以及返回应用后导航状态丢失。停车缴费和 AWS 示例表明，问题不只出现在打开演示文稿时，也涵盖日常行政事务和开发任务。
+Agweb 是一项 Show HN 项目，旨在提供轻量级浏览器环境，让 AI 智能体能够独立运行，同时尽量不干扰用户自己的浏览活动。现有材料缺少技术细节，也未提供广泛采用的证据。 专用浏览器环境有望让智能体驱动的网页自动化比在用户主浏览器中运行更加隔离、可预测且不易造成干扰。不过，由于缺少充分的实现细节、使用证据和实质性反馈，该项目的重要性目前仍难以确定。 Agweb 被定位为面向自主 AI 智能体的浏览器自动化基础设施，这类基础设施通常包括托管云浏览器、低层自动化库和完整的自主智能体框架。现有内容未说明其支持的平台、自动化能力、模型集成方式、安全模型、性能或发布状态。
 
-hackernews · Hacker News \(热门\) · 11月13日 18:18 · [社区讨论](https://news.ycombinator.com/item?id=50487522)
+rss · Hacker News \(热门\) · 11月14日 14:08
 
-**背景**: 多因素身份验证可以提升账户安全，但也可能增加登录流程中的步骤，尤其是在应用将身份验证委托给独立身份提供商时。企业工具还可能让用户依次经过多个门户、账户层级和浏览器跳转，从而拉长移动端流程，并增加上下文丢失的风险。
+**背景**: 浏览器自动化允许 AI 智能体通过导航网页、点击、输入和提取信息等方式与网站交互。面向智能体的浏览器会尝试为这些任务提供专用环境，但它们在提供自动化库、托管浏览器基础设施还是完整的自主智能体框架方面各不相同。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://preview.gitpod.io/blog/onboard-contractors-securely-and-quickly-using-gitpod">How to onboard development contractors securely and quickly using...</a></li>
-<li><a href="https://docs.docker.com/ai/sandboxes/">Docker Sandboxes | Run AI coding agents in isolated environments</a></li>
-<li><a href="https://www.academia.edu/7290033/Usability_of_iPads_and_Websites">(DOC) Usability of iPads and Websites</a></li>
+<li><a href="https://cloud.browser-use.com/">We enable LLMs to use the browser and browse the web</a></li>
+<li><a href="https://tyon.ai/browser-automation-ai-agent/">Browser Automation AI Agent | Tyon. ai</a></li>
+<li><a href="https://www.memetik.ai/index/browser-agents">Which browser automation tool do AI models recommend for agents ?</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍认同，复杂的登录系统和失效的跳转让日常工作变得不必要地繁琐，涉及停车缴费、云开发和课堂技术等场景。一名评论者还质疑将 iPad 和 Chromebook 视为高效课堂工具的普遍做法，并提到分心问题；另一名评论者则认为，安全性与易用性并非必然对立。
-
-**标签**: `#user-experience`, `#authentication`, `#enterprise-software`, `#mobile-usability`, `#developer-tools`
+**标签**: `#AI agents`, `#browser automation`, `#developer tools`, `#Hacker News`, `#agent infrastructure`
 
 ---
 
 <a id="item-47"></a>
-## [Lonewolf 0.3 发布 Rust 编写的 XMPP 服务器](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0) ⭐️ 6.0/10
+## [生成式 AI 直观数学入门读本](https://arxiv.org/abs/2605.29713) ⭐️ 6.0/10
 
-Lonewolf 0.3 is a new release of a lightweight, standalone XMPP server implemented in Rust. The project adds another independent implementation to the XMPP server ecosystem. A lightweight Rust implementation can improve the diversity and deployability of XMPP, particularly for users seeking a small server with privacy and open-source characteristics. Its impact will depend on compatibility with deployed clients, protocol extensions, and operational requirements. Lonewolf is positioned as a standalone server rather than a large multi-service platform, and the release is an incremental project update. Community discussion also highlights the importance of implementation quality and transparency in security-sensitive protocol code.
+Tianhua Chen 在 arXiv 发布了一本长达 195 页、注重推导的生成式 AI 数学基础入门书。全书从 PCA 和概率 PCA 入手，逐步介绍 VAE、扩散模型、归一化流、自回归模型、GAN、WGAN 与基于能量的模型。 这本书从基本原理出发，将数学方法与主流生成模型体系系统连接起来，可能有助于学生、研究人员和从业者加深理解。其价值主要体现在教学与知识梳理方面，而非提出新模型、新算法或刷新性能基准。 该读本面向具有数学兴趣的读者，重点强调推导过程和直观理解。现有摘要将其描述为一本紧凑的导论性著作，但所给新闻内容仅包含标题和链接，因此目前无法据此充分评估其内容深度、练习设计及相较其他教材的优势。
 
-hackernews · Hacker News \(热门\) · 11月13日 14:28 · [社区讨论](https://news.ycombinator.com/item?id=50484007)
+rss · Lobsters \(技术社区\) · 11月14日 04:51
 
-**背景**: XMPP 是一种基于 XML 的开放通信协议，用于即时通信、在线状态、联系人列表和群聊等应用。XMPP 生态系统由服务器、客户端、库以及 XEP 等扩展组成，Prosody 和 ejabberd 等服务器软件已经得到广泛使用。XMPP 基金会将其称为通用消息标准，支持多种通信形式和结构化数据路由。
+**背景**: 生成模型学习能够产生新数据的概率分布，其实现依赖线性代数、概率、优化与神经网络等基础概念。书中涉及的主要路线各有侧重：VAE 使用潜变量推断，扩散模型学习逐步去噪过程，自回归模型按顺序预测序列，GAN 通过生成器与判别器对抗训练，归一化流则通过可逆映射变换变量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://xmpp.org/">XMPP - The universal messaging standard</a></li>
-<li><a href="https://xmpp.org/software/">XMPP Software | XMPP - The universal messaging standard</a></li>
-<li><a href="https://en.wikipedia.org/wiki/XMPP">XMPP - Wikipedia</a></li>
+<li><a href="https://arxiv.org/pdf/2605.29713">The Little Book of Generative AI Foundations: An Intuitive ...</a></li>
+<li><a href="https://arxiv.org/abs/2605.29713">The Little Book of Generative AI Foundations: An Intuitive ...</a></li>
+<li><a href="https://proomt.com/item/the-little-book-of-generative-ai-foundations-an-intuitive-mathematical-p-440f7ebe-2c74-4ed4-8702-548ba3e86ac3">The Little Book of Generative AI Foundations : An Intuitive...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者欢迎新增一个遵循标准的独立实现，但也指出 Prosody 等现有服务器已经能够满足许多轻量部署需求。有人质疑在安全敏感协议代码中引入 AGENTS.md，并认为客户端质量和现代桌面体验才是推动大众采用的关键。其他人则推荐了基于 Rust 的 Matrix 服务器 Tuwunel，并认为 Matrix 在公众认知中已经部分取代了 XMPP。
-
-**标签**: `#XMPP`, `#Rust`, `#messaging-server`, `#privacy`, `#open-source`
+**标签**: `#generative AI`, `#mathematical foundations`, `#machine learning`, `#tutorial`
 
 ---
 
 <a id="item-48"></a>
-## [“拒绝 AI 垃圾”宣言：成果比产出更重要](https://www.slopmanifesto.com/) ⭐️ 6.0/10
+## [从联想记忆重新理解 Transformer](https://alexwang.ai/posts/associative-memory/) ⭐️ 6.0/10
 
-这份由社区支持的“拒绝 AI 垃圾”宣言提出 174 项原则，主张 AI 辅助工程应以实际交付成果、用户价值、可靠流程和系统性改进为核心，而不是追求代码行数、合并的拉取请求、令牌消耗量或并行智能体数量。它获得了 97 条实质性评论，因此成为一场重要的行业讨论，而不是技术突破。 随着企业采用 AI 编码智能体，令牌使用量和生成代码规模等活跃度指标很容易被误当成生产力。该宣言促使工程团队和管理者转而评估部署情况、实际采用率、用户收益、审查质量和系统长期健康度。 该宣言明确主张审查计划、设计和最终结果，因为未经充分审视的 AI 生成内容可能高度同质化。评论中提出的做法包括改进底层系统而不是反复修补生成结果，以及在 AI 辅助贡献中附带提示词，帮助审查者理解贡献者的思路；不过评论者也强调，这只是审查辅助措施，并不能彻底解决问题。
+这篇文章提出，Transformer 的核心思想本可从经典联想记忆理论中独立推导出来。作者把注意力机制解释为内容寻址式检索，并将自注意力和前馈网络都与联想记忆机制联系起来。 这一视角为 Transformer 组件提供了统一的理论解释，而不是仅把它们视为面向大规模数据优化的工程设计。它可以帮助研究人员思考模型的记忆容量、记忆干扰、检索行为，以及前馈网络与注意力在现代模型中的作用。 在联想记忆视角下，查询类似部分线索，键用于识别已存储的模式，而值承载注意力所聚合的检索内容。相关研究把 Transformer 的自注意力和前馈网络解释为联想记忆的实现，但所给摘录没有公式、实现细节或实证比较。
 
-hackernews · Hacker News \(热门\) · 11月13日 19:51 · [社区讨论](https://news.ycombinator.com/item?id=50488769)
+rss · Lobsters \(技术社区\) · 11月14日 04:49
 
-**背景**: AI 辅助开发使用模型和编码智能体生成代码、回答问题、运行工具，并加速软件生命周期的部分环节。现有工程指导已经强调测试、持续集成、有意迭代和可信开发实践；这份宣言进一步提出了一套以软件是否真正交付并帮助用户为核心的评价方式。它讨论的是工程管理和审查实践，而不是一种新模型、框架或编码技术。
+**背景**: 联想记忆能够根据不完整的线索检索出相关项目，不同于按固定地址进行存取。经典 Hopfield 网络通过能量景观中的模式实现这种行为，现代研究则指出这种检索过程与 Transformer 注意力机制存在密切对应关系。在 Transformer 中，注意力通过查询与键之间的匹配度，对值进行加权组合。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://effective-cursor.cyron.space/en">Effective Cursor - AI - Assisted Development Engineering Practices</a></li>
-<li><a href="https://cms.ddpanda.org/the-human-practices-behind-trustworthy-software/">The Human Practices Behind Trustworthy Software – ddpanda&#x27;s blog</a></li>
-<li><a href="https://www.linkedin.com/posts/azon-5_build-faster-with-ai-keep-engineering-in-activity-7505232455168278528-mKmc">AI -Powered Development for Faster Engineering with... | LinkedIn</a></li>
+<li><a href="https://arxiv.org/html/2505.19488v1">Understanding Transformer from the Perspective of Associative ...</a></li>
+<li><a href="https://d2l.ai/chapter_attention-mechanisms-and-transformers/queries-keys-values.html">11.1. Queries, Keys, and Values — Dive into Deep ... - D2L</a></li>
+<li><a href="https://mnemoverse.com/docs/research/memory-science/hopfield-associative-memory">Hopfield Networks: The Memory Model That Became Attention</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍赞同宣言强调实际交付成果和用户影响，而不是令牌消耗。许多人建议在 AI 生成的贡献中附上提示词，以便审查体量巨大的拉取请求；与此同时，他们也在讨论统一化输出是否必然有害，一名评论者建议，团队可以把人的创新精力集中在核心差异化功能上，并在其他部分接受“足够好”的质量。
-
-**标签**: `#AI-assisted development`, `#software engineering`, `#code review`, `#AI productivity`, `#engineering practices`
+**标签**: `#transformers`, `#associative memory`, `#deep learning`, `#attention mechanisms`
 
 ---
 
 <a id="item-49"></a>
-## [Claude 多项服务遭遇大范围故障](https://status.claude.com/incidents/nn11wk485zfn) ⭐️ 6.0/10
+## [报道质疑黄仁勋对继任者戴维·克雷斯的信心](https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/) ⭐️ 6.0/10
 
-Claude 的 claude.ai、Claude Code 和 platform.claude.com 遭遇大范围服务中断。部分 Claude Code 会话被要求重新登录，但身份验证请求出现 OAuth 失败。 此次事件中断了 Anthropic 多项广受欢迎产品的使用，并凸显了身份验证依赖可能放大服务故障的影响。使用 Claude Code 进行软件开发的团队也受到直接影响。 已报告的症状包括 claude.ai、Claude Code 和 platform.claude.com 的错误率上升，以及会话突然要求重新登录并出现“OAuth request failed”错误。部分用户推测事件可能与更广泛的 Microsoft 或 Azure 中断有关，但现有讨论未能证实这种关联。
+一则报道声称，NVIDIA 首席执行官黄仁勋对其继任候选人戴维·克雷斯缺乏信心，并在夏季一次会议中称其像“车灯前的鹿”。现有材料没有提供更多佐证，也没有黄仁勋或 NVIDIA 的回应。 现有材料中唯一具体的细节是，黄仁勋据称在夏季一次会议上将克雷斯形容为“车灯前的鹿”。在所提供的资料里，该报道尚未得到核实，也没有独立背景、支持文件或官方声明。
 
-hackernews · \_\_vivek · 11月13日 10:18 · [社区讨论](https://news.ycombinator.com/item?id=50481187)
+rss · TechCrunch AI · 11月13日 12:28
 
-**背景**: Claude Code 是 Anthropic 的命令行编码工具，其登录流程可能依赖基于 OAuth 的身份验证过程。因此，即使用户拥有有效凭据，OAuth 故障或身份验证链中其他环节的中断也可能阻止会话恢复。Anthropic 的状态页面是查询服务状态和事件更新的主要来源。
+**背景**: NVIDIA 的继任规划涉及确定能够延续公司战略和治理的领导者。报道将戴维·克雷斯列为继任候选人，而黄仁勋目前担任 NVIDIA 首席执行官。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://status.claude.com/">Welcome to Claude &#x27;s home for real-time and historical data on system...</a></li>
-<li><a href="https://github.com/anthropics/claude-code/issues/10715">[Bug] Anthropic API Error: Internal Server Error on OAuth ...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 评论既有把故障视为“强制周末休假”的玩笑，也有对工作压力的描述，尤其是无法推迟关键会议或任务的团队。多名用户将 Claude 的身份验证失败与同时发生的 Microsoft 中断联系起来，并询问 GitHub 是否也受到影响，但这些说法仍属于用户推测。
-
-**标签**: `#service-outage`, `#Anthropic`, `#Claude-Code`, `#OAuth`, `#Microsoft-Azure`
+**标签**: `#NVIDIA`, `#Leadership`, `#Succession`, `#Semiconductors`, `#Executive Management`
 
 ---
 
 <a id="item-50"></a>
-## [FreeBSD 与 bhyve 拟支持实时迁移](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) ⭐️ 6.0/10
+## [詹姆斯·韦布望远镜发现早于宿主恒星的水冰](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) ⭐️ 6.0/10
 
-一项 RFC 提议为 FreeBSD 客户机以及由 bhyve hypervisor 管理的虚拟机增加实时迁移支持。该项目目前仍处于提议阶段，尚未成为已完成的功能实现。 实时迁移可使正在运行的 FreeBSD 客户机在主机之间移动，从而减少维护工作对业务的中断。如果顺利实现，这项能力将提升虚拟机的可用性和可管理性，并进一步增强 FreeBSD 的虚拟化能力。 现有材料仅说明这是一项关于实时迁移的 RFC，未提供具体实现细节、兼容性保证、发布时间表或性能基准。因此，该项目应被视为正在规划中的功能，而不是已经普遍可用的能力。
+詹姆斯·韦布空间望远镜在一个年轻行星系统中探测到水冰，而其中水冰的年龄似乎早于该系统所环绕的恒星。这一观测表明，冰质物质可能继承自星际环境，而非全部在行星系统内部形成。 这一发现可能改变早期行星形成模型，因为结果表明富水尘埃在恒星尚未完全形成时就已经存在。这类继承而来的冰可能促进尘埃聚集，并在后续演化中把水输送到正在形成的行星。 詹姆斯·韦布空间望远镜的光谱观测能够识别环星物质中的水冰特征，相关碎片盘观测还发现了硫化铁和橄榄石等矿物。不过，现有新闻没有提供目标天体名称、测量不确定度、年龄估算或模型检验结果，因此冰早于恒星的年龄关系及其影响仍需更完整的研究加以验证。
 
-rss · Hacker News \(热门\) · 11月13日 19:58
+rss · Ars Technica · 11月14日 12:15
 
-**背景**: bhyve 是一款最初为 FreeBSD 开发的托管式（第二类）hypervisor，也可在基于 illumos 的系统上使用。FreeBSD 是源自 Berkeley Software Distribution 的自由开源类 Unix 操作系统。实时迁移通常是指在尽量减少服务中断的情况下，将正在运行的虚拟机从一台主机迁移到另一台主机。
+**背景**: 原行星盘由年轻恒星周围的气体和尘埃组成，其中冰粒可以充当行星的建造材料。恒星辐射和天体碰撞会通过加热、汽化和化学反应改变这些物质。由于星际云本身可以含有水冰，年轻行星系统可能保留早于其恒星的物质。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Bhyve">bhyve - Wikipedia</a></li>
-<li><a href="https://bhyve.org/">bhyve</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FreeBSD">FreeBSD - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2410.23235v1">Chapter 0Protoplanetary disk chemistry and structure</a></li>
+<li><a href="https://www.sciencenewstoday.org/jwst-spots-water-ice-in-young-stars-debris-disk-hinting-at-distant-ocean-worlds">JWST Spots Water Ice in Young Star’s Debris Disk, Hinting at Distant...</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s11214-025-01228-9">Multiscale Perspectives on Solid-Phase Astrochemistry : Laboratory...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#FreeBSD`, `#bhyve`, `#Live Migration`, `#Virtualization`, `#RFC`
+**标签**: `#James Webb Space Telescope`, `#protoplanetary disks`, `#planet formation`, `#water ice`, `#astrochemistry`
 
 ---
 
 <a id="item-51"></a>
-## [博客文章称可绕过 Android 剪贴板读取权限限制](https://toninoble.com/post/ctrlc-ctrlv-ctrlcve) ⭐️ 6.0/10
+## [数百万美国人以非标准方式使用 GLP-1 药物](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) ⭐️ 6.0/10
 
-toninoble.com 上发布的一篇文章声称展示了一种绕过 Android 剪贴板读取安全限制的方法，该限制原本用于管控哪些应用可以读取剪贴板内容。当前可见的内容只有标题以及指向对应 Hacker News 讨论帖的链接，未包含任何代码、概念验证（PoC）或漏洞编号。 剪贴板是移动端监控的常见目标，因为其中经常包含密码、一次性验证码和复制的文本，因此削弱 Android 的读取限制会显著提高普通用户的风险暴露程度。对研究人员和 Android 开发者而言，该技术也可作为强化平台权限模型的参考输入。 从已收录的索引看，该文章没有给出任何技术细节：既未说明受影响的 Android 版本或 API 级别，也未说明是否绕过了权限确认对话框，或是否属于纯客户端侧的绕过，因此这一主张目前无法被独立验证。由于可见内容仅有标题和一条指向 Hacker News 评论的链接，读者应在看到完整方法与概念验证之前，把这篇文章视为未经证实的说法。
+费用和获取障碍正促使数百万美国人调整 GLP-1 治疗方案或使用未经批准的版本。公共卫生研究显示，这些用药方式的改变往往源于费用、可获得性和耐受性问题，而不只是患者无视医疗建议。 真实世界证据表明，患者常因费用或胃肠道副作用提前停用 GLP-1 治疗，并可能在医嘱之外改变剂量。FDA 已就未经批准的司美格鲁肽和替尔泊肽产品发出警告，包括剂量错误、储存不当以及复方药房产品虚假标示等风险。
 
-rss · Hacker News \(热门\) · 11月13日 18:23
+rss · Ars Technica · 11月13日 21:59
 
-**背景**: Android 提供 ClipboardManager 服务，应用可通过它读写系统剪贴板；在较新的 Android 版本中，读取剪贴板可能需要 READ\_CLIPBOARD\_IN\_BACKGROUND 权限。由于复制的内容常常包含凭据或敏感文本，该限制是 Android 权限模型中一项关键的隐私控制。绕过这类限制通常意味着利用框架在应用间强制或传递剪贴板访问权限时的漏洞，这与漏洞研究中频繁出现的其他平台级安全限制绕过手法在思路上相近。
+**背景**: GLP-1 受体激动剂包括司美格鲁肽和替尔泊肽等药物，最初获批用于特定适应证，后来越来越多地被用于体重管理。临床医生认为医学上适当时可以合法开具超说明书用途，但这并不意味着所有超说明书用法都有同等程度的证据支持。复方或其他未经批准的版本不同于获得 FDA 批准的药品。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Android_%28operating_system%29">Android (operating system) - Wikipedia</a></li>
-<li><a href="https://www.android.com/">Android | Do More With Google on Android Phones &amp; Devices</a></li>
+<li><a href="https://www.cdc.gov/mmwr/volumes/75/wr/mm7544a1.htm">Use of Glucagon-Like Peptide-1 Medications and Modified ...</a></li>
+<li><a href="https://www.appliedclinicaltrialsonline.com/view/managing-side-effects-dosing-off-label-glp-1-real-world-evidence">Managing Side Effects and Dosing in Off-Label GLP-1 Use with ...</a></li>
+<li><a href="https://med.stanford.edu/news/insights/2026/07/glp1s-compounded-why-doctors-worry-about-safety.html">Compounded GLP-1s: Why doctors worry and the FDA is cracking down</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Android`, `#Security`, `#Clipboard`, `#Vulnerability Research`, `#Mobile Security`
+**标签**: `#GLP-1`, `#public health`, `#healthcare access`, `#prescription drugs`, `#patient safety`
 
 ---
 
 <a id="item-52"></a>
-## [美国国家气象局报告全国通信中断](https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/) ⭐️ 6.0/10
+## [美国癌症协会建议常规进行前列腺特异性抗原筛查](https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/) ⭐️ 6.0/10
 
-美国国家气象局报告称，全国范围内出现大范围的互联网和通信中断。现有材料未说明故障原因、受影响系统、恢复时间或对业务运行的具体影响。 影响全国性政府气象和应急信息服务的中断，可能导致公众暂时无法获取天气预报、警报和重要信息。这也凸显了在重大天气事件期间保持通信基础设施韧性的重要性。 此次报告涉及的是互联网和通信问题，而非已经确认的国家气象局预报系统发生故障。现有材料没有提供技术根因、故障持续时间、受影响办公室或缓解措施等细节。
+美国癌症协会现建议平均风险的 50 至 69 岁男性每两年接受一次前列腺特异性抗原（PSA）筛查。这改变了此前侧重由男性与医疗人员协商后作出知情选择的立场，转而提出明确的常规筛查建议。 这一来自重要癌症组织的政策转向可能影响临床实践以及医患沟通，并可能促使更多平均风险男性定期接受 PSA 检测。因此，在早期发现与假阳性、不必要活检等风险之间取得平衡将变得更加重要。 PSA 是一项通过血液检测寻找前列腺癌症可能征象的检查，但异常结果并不能确诊癌症，通常还需要进一步评估，往往包括活检。该建议明确适用于 50 至 69 岁的平均风险男性；由于筛查可能造成假阳性及其他潜在伤害，是否筛查仍应与医疗人员讨论。
 
-rss · Hacker News \(热门\) · 11月13日 22:46
+rss · Ars Technica · 11月12日 22:59
 
-**背景**: 美国国家气象局隶属于 NOAA，负责提供美国各地的天气预报、警报及相关信息。由于其产品可支持应急规划和公共安全，大范围通信中断造成的影响可能高于普通在线服务发生同类故障时的影响。
+**背景**: 美国癌症协会此前建议男性与医疗人员共同讨论并作出前列腺癌筛查的知情决定，而未对平均风险男性提出常规筛查建议。PSA 检测通过血液中的前列腺特异性抗原水平寻找前列腺癌线索，但它并不是确诊性检查。美国疾病控制与预防中心也建议人们与医生讨论个人风险以及筛查的潜在利弊。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.weather.gov/">National Weather Service</a></li>
-<li><a href="http://www.noaa.gov/">National Oceanic and Atmospheric Administration - Official Site</a></li>
+<li><a href="https://www.cancer.org/cancer/types/prostate-cancer/detection-diagnosis-staging/acs-recommendations.html">American Cancer Society Recommendations for Prostate Cancer ...</a></li>
+<li><a href="https://www.cdc.gov/prostate-cancer/screening/index.html">Screening for Prostate Cancer | Prostate Cancer | CDC</a></li>
+<li><a href="https://www.cancer.gov/types/prostate/psa-fact-sheet">Prostate-Specific Antigen (PSA) Test - NCI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#national weather service`, `#internet outage`, `#communications`, `#infrastructure resilience`, `#public safety`
+**标签**: `#public health`, `#cancer screening`, `#prostate cancer`, `#PSA testing`, `#medical guidelines`
 
 ---
 
 <a id="item-53"></a>
-## [Apify 发布安全事件通告](https://status.apify.com/incidents/sxd1dj5j6749) ⭐️ 6.0/10
+## [脑植入试验志愿者要求更大自主权与透明度](https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/) ⭐️ 6.0/10
 
-Apify 在其状态页上发布了一则涉及安全事件的通知。现有材料未披露事件原因、影响范围、受影响系统或修复进度。 Apify 是用于网络抓取、数据提取和浏览器自动化的云平台，用户可能在其中保存敏感凭据并运行自动化数据工作流。未明确范围的安全事件可能影响账户安全、存储数据和平台可靠性。 所提供的内容仅包含事件状态页和 Hacker News 评论区的链接，缺少技术指标、时间线、影响评估或客户处置建议。由于搜索结果没有提供该具体事件的可靠摘要，因此无法根据现有证据独立判断其严重程度。
+脑植入试验志愿者呼吁对自身参与方式拥有更大控制权，并要求提高研究透明度及限制保密协议。随着神经设备研究取得进展，相关技术正用于解码语音和手势，并帮助瘫痪患者进行沟通。 受试者为侵入式脑机接口研究提供了关键的数据和时间，但手术风险、神经数据敏感性以及试验结束后的责任，使知情同意尤其难以持续维护。提高自主权和透明度可能增进信任，并推动神经技术临床转化责任标准的形成。 可植入式脑机接口能够解码用户尝试进行的语音和手势，因此有望为重度瘫痪患者恢复沟通与数字访问能力。知情同意标准不仅必须评估不断变化的风险，还要处理初始同意植入者与日后被要求接受设备移除者之间并非完全同一人的问题；研究将这种现象称为历时性同意问题。
 
-rss · Hacker News \(热门\) · 11月13日 16:55
+rss · MIT Technology Review · 11月13日 10:00
 
-**背景**: Apify 提供云端网络抓取与自动化工具平台，开发者可以运行或构建包括 Actor 在内的可复用程序。此类服务通常会处理外部输入、已认证会话和提取后的数据，因此访问控制与凭据保护在运维中十分重要。状态页通常用于通报持续中的服务影响或已确认的事件，但本次提供的摘录并未说明该通告具体涵盖哪些情况。
+**背景**: 侵入式脑机接口通过记录神经活动，并将其转换为外部系统的指令，例如控制机械肢体或语音合成器。由于植入过程涉及手术、长期设备管理以及高度私密的神经数据，伦理治理必须覆盖试验期间和试验之后的风险、能力变化、保密义务与支持措施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://apify.com/web-scraping">Need data? Turn any website into an API with web scraping . · Apify</a></li>
-<li><a href="https://affinco.com/apify-review/">Apify Review 2026: Web Scraping Platform Tested 3 Months</a></li>
+<li><a href="https://www.sciencedirect.com/science/article/pii/S2666998626002231">Unifying consent standards for implantable brain-computer ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13543622/">Consent in flux: when brain‑computer interface embodiment ...</a></li>
+<li><a href="https://www.nature.com/articles/s41593-026-02446-2">Simultaneous speech and gesture decoding for multimodal ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Apify`, `#security-incident`, `#cloud-platforms`, `#web-scraping`
+**标签**: `#brain implants`, `#neurotechnology`, `#research ethics`, `#informed consent`, `#participant rights`
 
 ---
 
 <a id="item-54"></a>
-## [重新审视软件开发中的“胶水工作”](https://sunshowers.io/posts/glue-work/) ⭐️ 6.0/10
+## [海伦·托纳质疑对人工智能领导层的信任](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview) ⭐️ 6.0/10
 
-这篇文章质疑“集成与协调类工作天然有害”这一观点。所提供的内容仅包含标题、文章链接和评论链接，因此无法核实其完整论证。 软件团队往往更重视成果显著、影响直观的技术工作，而低估了让不同系统协同运转所必需的集成与协调工作。文章提出的观点可能影响工程文化、项目规划以及团队对贡献的评估方式。 现有材料将这篇文章描述为对“‘胶水工作’有害”这一观点的反驳。材料没有提供文章节选、实施案例、指标或支持证据，因此其论证范围和力度尚不清楚。
+参与罢免萨姆·奥尔特曼的前 OpenAI 董事会成员海伦·托纳认为，人工智能企业领导者及治理机构仍然难以获得信任。她在《The Verge》的采访中讨论了 2023 年领导层危机对人工智能安全、政策和制度问责的影响。 OpenAI 董事会危机暴露了这家重要人工智能公司在治理方式以及领导层和董事权力边界上的弱点。托纳的质疑之所以重要，是因为围绕信任与问责的讨论可能影响监管、人工智能安全实践，以及公众对整个行业的信心。 托纳是乔治城大学安全与新兴技术中心的执行主任，该机构专注于研究安全与科技交叉领域并提供数据驱动的分析。所提供的节选没有给出详细的技术论证、具体政策方案，也没有包含足够的采访内容来完整说明她得出这些结论的依据。
 
-rss · Lobsters \(技术社区\) · 11月13日 02:36
+rss · The Verge · 11月14日 15:00
 
-**背景**: 在软件工程中，“胶水工作”通常指跨组件或跨团队进行集成、配置、接口适配、迁移与协调的工作。尽管这类工作的可见度可能低于设计重要功能，但它往往是交付可用产品所必需的。
+**背景**: 2023 年 11 月 17 日，OpenAI 董事会罢免了联合创始人兼首席执行官萨姆·奥尔特曼，由此引发重大的领导层与治理危机。CSET 是一家位于华盛顿的智库，为政策界提供无党派、数据驱动的研究，目前重点关注人工智能和先进计算进展带来的影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Adhesive">Adhesive - Wikipedia</a></li>
+<li><a href="https://cset.georgetown.edu/">CSET | Center for Security and Emerging Technology</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI">Removal of Sam Altman from OpenAI - Wikipedia</a></li>
+<li><a href="https://scholarlycommons.law.case.edu/jolti/vol16/iss1/5/">Sam Altman, OpenAI, and The Importance of Corporate Governance</a></li>
 
 </ul>
 </details>
 
-**标签**: `#software-engineering`, `#engineering-culture`, `#project-management`, `#technical-essay`
+**标签**: `#AI governance`, `#AI safety`, `#OpenAI`, `#AI policy`, `#corporate leadership`
 
 ---
 
 <a id="item-55"></a>
-## [面向非专家的机器学习模块入门指南](https://thunderseethe.dev/posts/ml-modules-for-mere-mortals/intro/) ⭐️ 6.0/10
+## [黄仁勋从明星创始人走向行业领袖](https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo) ⭐️ 6.0/10
 
-《ML Modules for Mere Mortals》一文以非专业人士也能理解的方式介绍了机器学习模块这一软件设计概念。不过，所提供的页面仅包含讨论区链接，因此无法从现有内容核实文章的具体技术观点和示例。 通俗易懂的讲解可以帮助读者把机器学习技术与模块化软件设计联系起来。对于接触到机器学习辅助模块系统、但缺乏专业背景的开发者和学生，这类文章可能具有实际参考价值。 现有信息只能确认文章的标题、入门定位及其对软件模块的关注，无法判断其技术深度、涉及的工具、模型或实验结果。页面提供了指向 Lobsters 的讨论链接，但没有提供正文或实际评论。
+文章认为，NVIDIA 首席执行官黄仁勋逐渐减少公开形象的浮华成分，转而依靠创始人的权威感与战略可信度塑造领导形象。文章将他在 2025 年 1 月 6 日以摇滚明星姿态登上万人舞台，视为这一转变的象征。 黄仁勋的领导方式体现了科技行业创始人如何在个人品牌与组织权威之间重新分配影响力。他的转变也可能进一步巩固 NVIDIA 在人工智能及更广泛技术产业中的行业地位。 在那场活动中，黄仁勋身穿黑色皮夹克，在一万四千人的场馆中受到网红和粉丝的欢呼。现有摘录内容不完整，除个人表演与创始人权威之间的对比外，未提供更多技术或战略细节。
 
-rss · Lobsters \(技术社区\) · 11月13日 11:33
+rss · The Verge · 11月14日 12:00
 
-**背景**: 软件模块把大型系统划分为概念连贯、能够相对独立理解和重组的组成部分。已有研究探索了使用神经网络帮助软件架构师改进大型程序的模块化程度，这也构成了本文主题的更广泛背景。
+**背景**: 黄仁勋是 NVIDIA 的联合创始人，并因带领公司成长为一家大型科技企业而广为人知。文章将他在公众面前高度可见且富有戏剧性的形象，与一家塑造整个行业的创始人所应具备的沉稳权威感进行对比。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://link.springer.com/article/10.1007/BF00993275">Using neural networks to modularize software | Machine Learning</a></li>
-
-</ul>
-</details>
-
-**标签**: `#machine-learning`, `#software-modules`, `#technical-guide`, `#education`
+**标签**: `#Jensen Huang`, `#NVIDIA`, `#Founder CEOs`, `#Tech Leadership`, `#Industry Analysis`
 
 ---
 
 <a id="item-56"></a>
-## [llm-gemini 0.37 新增 Gemini 4 Hydrogen 支持](https://simonwillison.net/2026/Nov/12/llm-gemini/) ⭐️ 6.0/10
+## [AI 正加速勒索软件攻势](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/) ⭐️ 6.0/10
 
-llm-gemini 0.37 新增了对 Google 最新发布的 Gemini 4 Hydrogen 的支持，该模型是 Gemini 4 系列中价格最低的成员。此次更新还促成了对该系列每百万 token 定价、缓存输入费率和输出费用的比较，并涵盖已公布的调价安排。 这次更新使 Gemini API 用户能够立即通过 llm-gemini 使用 Hydrogen。它对成本敏感型部署具有实际价值，但 Hydrogen 当前标价仅比 Carbon 和 Argon 低 25%，只有在后两款模型于 2026 年 12 月 1 日涨价后，折扣幅度才会达到 75%。 Hydrogen 的标价为每百万输入 token 1.50 美元、每百万缓存输入 token 0.075 美元、每百万输出 token 7.50 美元。Carbon 和 Argon 目前的对应价格均为 2.00 美元、0.10 美元和 10.00 美元，并将在 2026 年 12 月 1 日分别翻倍至 4.00 美元、0.20 美元和 20.00 美元；Google 表示，尽管标价相同，Argon 每次任务消耗的 token 少于 Carbon。
+即使完全自动化的勒索软件尚未出现，攻击者已经在使用 AI 工具改进勒索活动。技术并不高明的攻击者正借助这些工具造成严重破坏。 AI 能够降低网络钓鱼、恶意代码开发、侦察和数据窃取所需的专业知识、时间与人力成本，从而提升勒索活动全流程的攻击能力。组织应立即为 AI 辅助攻击做准备，而不是等待完全自主的恶意软件出现。 目前的风险主要来自 AI 辅助而非完全自动化的勒索软件；该技术是在放大攻击者已有的手段，而非创造全新的威胁类型。已报告的用途包括生成钓鱼邮件、编写恶意代码、分析窃取的数据，以及通过聊天机器人协助赎金谈判。
 
-rss · Simon Willison \(AI 跨行业洞察\) · 11月12日 22:55
+rss · Wired · 11月14日 13:00
 
-**背景**: Gemini 4 Hydrogen、Carbon 和 Argon 属于同一模型系列，Google 将 Argon 描述为比 Carbon 响应更快、每次任务消耗的 token 更少。文章中的图像生成对比覆盖了三个思考级别，说明即使模型价格接近，实际费用、响应速度和 token 用量也可能明显不同。在展示的高思考级别结果中，Hydrogen 生成 5,311 个输出 token，耗时 19 秒，费用为 0.0399 美元；Argon 生成 17,158 个 token，耗时 2 分 29 秒，费用为 0.1717 美元；Carbon 则生成 20,305 个 token，耗时 4 分 11 秒，费用为 0.2031 美元。
+**背景**: 勒索软件通常会加密或窃取受害者数据，并以公开或销毁数据相威胁要求付款。生成式 AI 可以协助攻击的多个阶段，包括侦察、凭据滥用、钓鱼、恶意软件制作和谈判，但并不能取代对基础设施、漏洞利用能力和行动控制的需求。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openrouter.ai/google/gemini-4-hydrogen">Gemini 4 Hydrogen - API Pricing &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://benchlm.ai/models/gemini-4-hydrogen">Gemini 4 Hydrogen Benchmarks &amp; Pricing (November 2026)</a></li>
-<li><a href="https://artificialanalysis.ai/models/gemini-4-hydrogen">Gemini 4 Hydrogen (xhigh) - Intelligence, Performance &amp; Price Analysis</a></li>
+<li><a href="https://www.sans.org/blog/ai-powered-ransomware-how-threat-actors-weaponize-ai-across-attack-lifecycle">AI-Powered Ransomware: How Threat Actors Weaponize AI Across ...</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/">How enterprise GenAI can amplify ransomware risk — and how to ...</a></li>
+<li><a href="https://www.crowdstrike.com/en-us/cybersecurity-101/cyberattacks/ai-powered-cyberattacks/">Most Common AI-Powered Cyberattacks | CrowdStrike</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#Gemini`, `#llm-gemini`, `#model-pricing`, `#release`
+**标签**: `#AI`, `#ransomware`, `#cybersecurity`, `#threat intelligence`, `#generative AI`
 
 ---
 
 <a id="item-57"></a>
-## [民主党启动对英伟达对华销售的第二次调查](https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/) ⭐️ 6.0/10
+## [审查旧的云存储共享链接](https://www.wired.com/story/audit-all-the-cloud-storage-links-youve-shared/) ⭐️ 6.0/10
 
-众议院民主党人启动了第二次国会调查，审查英伟达的对华销售，以及黄仁勋与唐纳德·特朗普总统之间所称的安排。此前已有报道称双方涉及一宗涉嫌间谍活动的安排，此次调查紧随其后。 此次调查可能加剧美国国会和监管机构对这一主要人工智能芯片供应商的关注，尤其正值美中科技贸易高度敏感之际。调查还可能影响英伟达的中国业务、出口许可，以及围绕人工智能芯片政策是否受到政治影响的讨论。 根据报道背景，新调查和此前的国会行动都不会自动叫停芯片出口，也不会直接命令商务部提交文件。相关报道指出，第 232 条允许总统在调查进口对国家安全的影响后调整进口措施，而 H200 芯片对华出货仍需接受逐案审批。
+文章警告称，过去分享的云存储链接可能仍然有效，并可能被非预期访问者打开。建议用户审查旧链接，并撤销或限制不再需要公开共享的链接。 持续有效的共享链接可能在临时协作结束后很久仍暴露文件。检查共享设置有助于降低隐私风险、未经授权的访问以及意外泄露数据的可能性。 用户应逐一检查文件或文件夹的共享设置，并在无需广泛访问时关闭公开链接共享。若链接可能已经泄露，撤销链接比仅修改权限更可靠；如果签名下载链接的令牌已被披露，则应使其失效或予以替换。
 
-rss · TechCrunch AI · 11月12日 22:42
+rss · Wired · 11月14日 11:30
 
-**背景**: 英伟达最初是一家图形芯片公司，后来成为人工智能加速计算硬件的核心供应商。美国出口管制限制了先进人工智能芯片对华销售，使英伟达的许可决定及政府关系与国家安全和贸易政策紧密相连。众议院民主党人此前已就英伟达在亚洲各地的销售展开调查，另有报道审视了英伟达、中国买家与美国官员之间的联系。
+**背景**: 云存储链接可能在原有共享场景结束后继续可用，尤其是在启用公开共享或签名链接尚未过期的情况下。Azure 基于角色的访问控制和 Google Cloud IAM 等访问控制系统可限制权限，而用户通常也能通过存储服务提供商的界面修改共享设置。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/">Democrats launch Nvidia investigation , write scathing... | TechCrunch</a></li>
-<li><a href="https://indianabroad.news/us-democrats-probe-nvidia-chip-exports-to-china/">US democrats probe Nvidia chip exports to China</a></li>
-<li><a href="https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html">Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher...</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/role-based-access-control/permissions/storage">Azure permissions for Storage - Azure RBAC | Microsoft Learn</a></li>
+<li><a href="https://docs.cloud.google.com/bigquery/docs/access-control">BigQuery IAM roles and permissions | Google Cloud Documentation</a></li>
+<li><a href="https://dataremovalacademy.com/signed-download-links-exposed-revoke-tokens-replace-shared-files/">If Signed Download Links Tied to Your Account Were Exposed ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Nvidia`, `#AI chips`, `#China trade`, `#US politics`, `#regulatory scrutiny`
+**标签**: `#cloud-storage`, `#security`, `#access-control`, `#privacy`, `#link-sharing`
 
 ---
 
 <a id="item-58"></a>
-## [联合航空禁止使用人工智能代理订票](https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/) ⭐️ 6.0/10
+## [加沙洪灾迫使当地在污水与净水间取舍](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/) ⭐️ 6.0/10
 
-联合航空表示，将不允许客户使用人工智能代理预订机票或管理行程。该航空公司称，网络安全风险是采取这一限制的原因。 这项政策使一家大型航空公司对代理式商业和自动预订工具采取防御立场。它可能影响航空公司验证客户请求、保护支付及账户数据，以及支持人工智能辅助出行流程的方式。 该限制同时涵盖机票预订和行程管理，而非仅限于某一项订票功能。现有简短报道没有说明涉及哪些网络安全机制、如何执行，也没有明确客户是否仍可使用人工智能工具单纯搜索航班。
+加沙洪灾迫使市政团队将原本供应水井使用的燃料改配给排水泵，因为以色列实施的限制阻碍了基础设施维修。由于没有专门用于排涝的燃料配额，排走污水就意味着减少饮用水井的供水量。 这种取舍使洪水紧急状况进一步演变为公共卫生危机：排水不足可能造成污水扩散，而水井运行受限又会威胁清洁饮水供应。燃料短缺和维修限制也使当地社区难以维护关键的水务与卫生基础设施。 原本用于供应饮用水水井的柴油被改配给用于排除洪水和污水的泵，而水井产量此前已经不足。报道指出，这一困境由洪水、燃料短缺，以及限制排水系统恢复所需物资和维修的多重因素共同造成。
 
-rss · TechCrunch AI · 11月12日 17:17
+rss · Wired · 11月14日 10:30
 
-**背景**: 人工智能代理是能够代表用户执行任务的软件系统，例如搜索航班、筛选选项和完成预订。旅行平台已经提供用于行程搜索、预订、提醒和更新的智能工具，因此，辅助建议与获得授权进行交易或修改行程的代理之间存在明显区别。
+**背景**: 加沙的供水和卫生系统依赖水井、排水设施与污水处理设施所使用的动力泵。洪水可能使排水基础设施不堪重负，而燃料短缺则决定水井和泵能否同时运行。对维修及替换物资的限制进一步削弱了市政团队恢复中断服务的能力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openai.com/">OpenAI | Research &amp; Deployment</a></li>
-<li><a href="https://topai.tools/s/smart-hotel-finder">Smart Hotel Finder - TopAI. Tools</a></li>
-<li><a href="https://olleh.ai/home/virtual-assistant-in-travel-tourism">virtual assistant in travel &amp; tourism</a></li>
+<li><a href="https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/">Floods Force Gaza to Choose Between Clean Water and Pumping ...</a></li>
+<li><a href="https://unbiasedheadlines.com/article/gaza-camp-crews-divert-well-diesel-to-flood-pumps-as-erdogan-calls-war-ecocide">Gaza Camp Crews Divert Well Diesel to Flood Pumps as Erdogan ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#cybersecurity`, `#airline booking`, `#automation policy`
+**标签**: `#Gaza`, `#Water Infrastructure`, `#Flooding`, `#Humanitarian Crisis`, `#War and Infrastructure`
 
 ---
 
 <a id="item-59"></a>
-## [费用障碍促使美国人转向非正规 GLP-1 用药](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) ⭐️ 6.0/10
+## [星系碰撞造就“幽灵星系”](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/) ⭐️ 6.0/10
 
-数以百万计的美国人正在改变医生开具的 GLP-1 用药方案，或获取未经批准的版本，因为高昂费用和有限可及性使规范用药十分困难。这一报道凸显的是医疗可及性问题，而非新的临床研究结果。 费用和可及性障碍可能破坏适当剂量和治疗的连续性，同时让患者接触未经 FDA 审查安全性、有效性和质量的药品。这一趋势可能加剧健康不平等，并使糖尿病和肥胖治疗更加复杂。 GLP-1 药物可促进胰岛素分泌、抑制胰高血糖素分泌、延缓胃排空，并可能降低食欲、增强饱腹感。复方 GLP-1 药物未经 FDA 批准，FDA 也已指出复方版本存在若干值得关注的问题；但所给摘要没有说明流行率估算、研究方法或患者具体采取了哪些用药调整。
+天文学家发现了一批仿佛失去“幽灵”般特征的星系，其大部分暗物质在高速碰撞中被抛了出去。这些星系异常的暗物质匮乏，反而保留了暗物质曾经构成其引力晕的间接证据。 这类星系为研究暗物质与普通物质如何在星系演化过程中分离提供了罕见窗口。由于它们观测到的结构记录了大量原本存在的隐形质量流失，它们也为暗物质的存在提供了间接支持。 在星系碰撞期间，恒星和普通物质可能受到强烈扰动，而范围更大的暗物质晕会以不同方式发生作用，使大量暗物质能够与可见成分发生动力学分离。暗物质匮乏星系因此可用于检验普通物质与暗物质能否充分分离，不过所给报道没有列出具体星系、样本规模或观测不确定性。
 
-rss · Ars Technica · 11月13日 21:59
+rss · Wired · 11月14日 10:00
 
-**背景**: GLP-1 药物是一类用于治疗 2 型糖尿病和肥胖的注射型受体激动剂。当标准处方药负担不起或难以获得时，一些患者可能改变剂量，或通过网络购买复方及未经批准的产品。复方药物未经 FDA 批准，因此该机构不会在上市前审查其安全性、有效性和质量。
+**背景**: 暗物质不会发出可被直接探测的电磁辐射，其存在主要通过引力效应推断。星系被延伸的暗物质晕包围，在碰撞过程中，这些暗物质晕可能基本不受阻碍地彼此穿过，而普通物质则受到更强烈的扰动。子弹星系团正是这种分离现象的代表，其发出 X 射线的热气体与引力效应所显示的质量分布并不重合。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.everydayhealth.com/weight-loss/glp-1/">GLP - 1 Resource Center</a></li>
-<li><a href="https://www.fda.gov/drugs/drug-alerts-and-statements/fdas-concerns-unapproved-glp-1-drugs-used-weight-loss">FDA’s Concerns with Unapproved GLP - 1 Drugs Used for Weight... | FDA</a></li>
-<li><a href="https://my.clevelandclinic.org/health/treatments/13901-glp-1-agonists">GLP -1 Agonists: What They Are, How They Work &amp; Side Effects</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Galaxy_merger">Galaxy merger - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Bullet_Cluster">Bullet Cluster - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2607.26085">Dark Matter Deficient Galaxies as Probes of Dark Matter</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GLP-1`, `#Healthcare Access`, `#Drug Pricing`, `#Public Health`, `#Diabetes`
+**标签**: `#astrophysics`, `#dark matter`, `#galaxy collisions`, `#space science`, `#cosmology`
 
 ---
 
 <a id="item-60"></a>
-## [FAA 在全国扩展人工智能空中交通建议系统](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) ⭐️ 6.0/10
+## [Microsoft 365 在长达 24 小时的全球中断后恢复](https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/) ⭐️ 6.0/10
 
-美国联邦航空管理局正在把人工智能驱动的航线管理建议系统 SMART 推广到全美国家空域，以协助管制员处理拥堵。管理局称，这套耗资 8.75 亿美元的系统自 9 月 21 日在华盛顿特区上空部署后，已改道 180 个航班，平均每个航班节省 10 分钟和近 80 加仑燃油。 全国推广意味着人工智能辅助空中交通管理正从区域性试点转变为美国航空基础设施的常规组成部分。该系统可能减少延误、燃油消耗和管制员工作量，但据报道未让空中交通管制员工会参与，引发了关于安全验证、责任归属和利益相关方协商的疑问。 SMART 属于建议性系统，目标是辅助航线管理决策，而不是直接控制航空器。FAA 称其早期成果包括改道 180 个航班、平均每个航班节省 10 分钟和近 80 加仑燃油，但现有报道没有提供模型、验证过程或错误率等技术细节。
+Microsoft 365 在持续约 24 小时的全球性中断后恢复服务。微软表示，故障源于一次有问题的软件更新，而非网络攻击或人工智能系统故障。 此次中断影响了全球用户，凸显了集中式云服务所承载的运营风险。它也表明，即使没有安全入侵或人工智能故障，缺陷部署仍可能造成大规模服务中断。 公开报道确认，故障诱因是一次导致全球服务器崩溃的错误更新；现有材料没有披露具体更新名称、受影响组件或详细恢复时间线。微软给出的原因排除了网络攻击和人工智能相关故障，但所提供内容的深入根因分析有限。
 
-rss · Ars Technica · 11月13日 21:20
+rss · Wired · 11月13日 19:08
 
-**背景**: 航空路线交通管制中心负责机场之间的大部分高空空域，拥堵可能由此造成延误和低效航线安排。SMART 是美国联邦航空管理局推进空中交通管理现代化、提高运行效率的一项举措。该工具用于补充管制员现有的交通管理职责，并非独立控制航空器。
+**背景**: Microsoft 365 是一组托管的办公协作服务，其中包括 Outlook 和 Teams 等应用，并通过微软的全球云基础设施交付。由于许多组织依赖这些共享服务处理通信和工作流程，公共软件更新中的故障可能跨区域传播，同时影响大量客户。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">FAA expands AI advice to manage air traffic ... - Ars Technica</a></li>
-<li><a href="https://www.npr.org/2026/09/21/nx-s1-5976816/faa-ai-manage-airspace">Aviation regulators use AI to manage the nation’s airspace : NPR</a></li>
-<li><a href="https://gizmodo.com/the-faa-is-rolling-out-its-ai-air-traffic-tool-nationwide-2000839347">The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide</a></li>
+<li><a href="https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause">What Caused the Microsoft 365 Outage of November 12, 2026</a></li>
+<li><a href="https://windowsforum.com/news/microsoft-365-and-azure-outages-what-five-incidents-reveal-about-causes-and-recovery.452116/">Microsoft 365 and Azure Outages: What Five Incidents Reveal ...</a></li>
+<li><a href="https://www.forbes.com/sites/kateoflahertyuk/2026/11/13/microsoft-outage-what-happened-and-what-to-do-next/">Microsoft Apologises For Outage And Reveals Cause - Forbes</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 据报道，航空公司对这套工具表示赞赏，而批评者则担忧管制员工会未参与其中，并认为仅靠人工智能无法解决美国空中交通管制体系更深层的结构性问题。主要反方观点是，该系统仍属于建议性工具，最终航线管理决定仍由获得授权的人员作出。
-
-**标签**: `#artificial intelligence`, `#aviation`, `#air traffic management`, `#critical infrastructure`, `#AI governance`
+**标签**: `#Microsoft 365`, `#cloud outage`, `#software deployment`, `#service reliability`, `#incident analysis`
 
 ---
 
 <a id="item-61"></a>
-## [美国癌症协会建议常规进行前列腺特异性抗原筛查](https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/) ⭐️ 6.0/10
+## [微软故障暴露全球单一云服务商风险](https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/) ⭐️ 6.0/10
 
-美国癌症协会现建议平均风险的 50 至 69 岁男性每两年接受一次前列腺特异性抗原（PSA）筛查。这一建议推翻了该组织此前反对对平均风险男性常规进行 PSA 检测的立场。 这一政策转向可能促使数百万男性接受更多 PSA 筛查，并重新影响有关前列腺癌防治的讨论。它也与美国预防服务工作组的态度不同；后者不建议常规筛查，除非男性在了解利弊后主动选择接受筛查。 该建议适用于平均风险的 50 至 69 岁男性，并规定每两年筛查一次。PSA 是可通过血液检测的前列腺相关标志物，但其他前列腺疾病也可能使其升高，因此筛查可能出现假阳性，而且能否明确降低死亡风险仍不清晰。
+微软服务故障影响了依赖其云基础设施的机构，凸显一家大型供应商发生故障时可能波及企业、学校、医院和政府部门。文章认为，下一次中断可能造成更广泛的后果。 云服务集中于少数大型供应商，会把局部服务故障放大为跨行业的系统性风险。因此，关键机构需要能够应对供应商中断的韧性策略，而不能仅仅依赖单一云平台内部的基础设施冗余。 所给摘录没有提供故障日期、受影响服务清单、事故原因、持续时间或恢复指标，因此无法确定此次中断的技术影响范围。Azure Front Door 是一个相关的全球托管边缘服务，承担路由、TLS 终止、Web 应用防火墙、分布式拒绝服务攻击缓解和流量管理等功能，但摘录并未确认该组件是故障原因。
 
-rss · Ars Technica · 11月12日 22:59
+rss · Wired · 11月13日 17:15
 
-**背景**: 前列腺癌筛查旨在发现没有症状的男性体内的癌症，以便更早治疗并提高治愈可能性。PSA 检测测量血液中的 PSA 水平，但其本身不足以确诊前列腺癌，也可能识别出无害疾病或导致不必要的进一步检查。因此，临床指南一直争论常规筛查的收益是否足以抵消这些危害。
+**背景**: 云集中是指组织在计算、存储、网络和其他数字服务上依赖少数几家供应商。通过多可用区、多区域或双活多云部署可以提高可用性，但多云方案也可能带来复杂性、成本、安全缺口；当流量突然转移到未经充分测试的备用环境时，还可能引发级联故障。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.cancer.gov/types/prostate/psa-fact-sheet">Prostate - Specific Antigen ( PSA ) Test - NCI</a></li>
-<li><a href="https://www.uspreventiveservicestaskforce.org/uspstf/document/RecommendationStatementFinal/prostate-cancer-screening">Final Recommendation Statement: Prostate Cancer : Screening</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Prostate_cancer_screening">Prostate cancer screening - Wikipedia</a></li>
+<li><a href="https://windowsforum.com/threads/azure-front-door-outage-highlights-cloud-dependence-and-resilience-needs.387111/">Azure Front Door Outage Highlights Cloud ... | Windows Forum</a></li>
+<li><a href="https://www.xaccel.net/cloud-diversification.pdf">The Disaster in the Making: Why Relying on the Big Three Cloud ...</a></li>
+<li><a href="https://aws.amazon.com/blogs/architecture/understand-resiliency-patterns-and-trade-offs-to-architect-efficiently-in-the-cloud/">Understand resiliency patterns and trade-offs to architect ... Multi-Cloud Architecture: Proven Strategies for Resilience ... Guidance for Multicloud Resilience on AWS Multi-Cloud Architecture Design: Strategies for Resilience ... How to Build a Resilient Multi-Cloud Strategy That Actually Works</a></li>
 
 </ul>
 </details>
 
-**标签**: `#public health`, `#cancer screening`, `#prostate cancer`, `#PSA testing`, `#clinical guidelines`
+**标签**: `#Microsoft`, `#Cloud Infrastructure`, `#Systemic Risk`, `#Service Outages`, `#Technology Dependence`
 
 ---
 
 <a id="item-62"></a>
-## [乌克兰称 Starshield 再次受限削弱防空能力](https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/) ⭐️ 6.0/10
+## [Mansa 用 AI 微短剧测试黑人观众需求](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/) ⭐️ 6.0/10
 
-乌克兰表示，SpaceX 的 Starshield 服务再次受到限制，使其无法阻止俄罗斯的袭击，而 SpaceX 则否认限制了这项服务。乌克兰怀疑，速度上限是为了在和平谈判中帮助俄罗斯。 这场争议凸显了商业卫星基础设施的控制权如何直接影响战时通信和防御行动。Starshield 是面向军用的独立服务，与 Starlink 的消费级宽带业务不同，因此服务限制和政府决策可能立即产生战场影响。 乌克兰官员 reportedly 表示，部分拦截系统无法达到拦截俄罗斯喷气式无人机所需的速度，导致俄军袭击成功。SpaceX 已获得多项 Pentagon 合同，为乌克兰使用 Starshield 提供支持；Elon Musk 上个月表示，Starshield 的限制决定由美国政府作出。
+初创公司 Mansa 正在制作 30 部以黑人故事为中心的 AI 生成微短剧，并将其同时作为创意项目和由观众反馈驱动的概念验证。该方法试图找出吸引黑人观众的叙事形式，同时应对好莱坞黑人角色减少的问题。 该项目提出了一种市场测试模式，让制片方无需先投入大量资源制作多部长片，就能验证黑人题材的受众需求。与此同时，它也引发了质疑：AI 究竟是扩大黑人创作者参与机会，还是仅仅将具有文化意义的故事进一步商品化。 Mansa 的项目包含 30 集 AI 生成内容，旨在通过受众测试揭示黑人观众偏好的作品形式。不过，该项目能否为黑人艺术家带来有报酬的工作仍未得到证实，批评者则认为其商业化优先的做法是在“出卖”黑人题材。
 
-rss · Ars Technica · 11月12日 19:09
+rss · Wired · 11月13日 11:45
 
-**背景**: Starshield 是 SpaceX 旗下面向 Pentagon 和盟国政府开发军事与情报卫星系统的业务部门。它将 Starlink 的低地球轨道卫星架构改造用于安全军事通信等专用能力，但与 Starlink 的商业宽带服务相互独立。
+**背景**: 微短剧是短篇、连续性的影视作品，其制作和测试成本通常低于传统长片。生成式 AI 使制片方能够快速生成画面、场景及其他视听素材，也让小规模受众实验变得更加可行。Mansa 希望利用这一能力，解决好莱坞黑人演员和黑人故事长期代表性不足的问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.spacex.com/starshield">Starshield - SpaceX</a></li>
-<li><a href="https://www.theguardian.com/world/2026/oct/15/starshield-starlink-ukraine-restriction-explained">What is Starshield , SpaceX ’s military -grade Starlink... | The Guardian</a></li>
-<li><a href="https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/">Ukraine says it can’t stop Russian strikes because Starshield is...</a></li>
+<li><a href="https://mymondayai.wordpress.com/2026/11/13/mansa-ai-microdramas/">What Mansa AI Microdramas Mean for Artists – My Monday AI</a></li>
+<li><a href="https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/">This Startup Is Betting on AI Microdramas to Get More Black ...</a></li>
+<li><a href="https://variety.com/2026/film/global/generative-ai-microdramas-busan-market-1236871628/">Generative AI, Microdramas to Take Center Stage at ... - Variety</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Starshield`, `#SpaceX`, `#Ukraine`, `#satellite communications`, `#tech policy`
+**社区讨论**: 讨论呈现明显分歧：支持者认为微短剧是证明市场需求并为黑人人才创造机会的实用路径，批评者则认为该工作室更看重利润和象征性代表，而非黑人创作者的真实创作主导权。持怀疑态度的人还指出，付费工作的承诺尚未兑现。
+
+**标签**: `#generative AI`, `#film production`, `#representation`, `#media ethics`, `#startups`
 
 ---
 
 <a id="item-63"></a>
-## [微软 Outlook 近两日大范围故障后开始恢复](https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage) ⭐️ 6.0/10
+## [形式化机器学习编译器的张量布局选择](https://arxiv.org/abs/2608.21555) ⭐️ 6.0/10
 
-微软 Outlook 及其他 Microsoft 365 服务在持续近两天的全球性故障后，于周五开始恢复。仍有部分应用和功能处于降级状态，但许多用户报告邮件访问已经恢复。 此次故障显示，企业和政府机构高度依赖微软的生产力与云服务生态。这也凸显了故障更新可能同时影响全球分布式服务，并对企业业务连续性造成风险。 微软表示，故障源于一次有问题的更新，并非网络攻击或 AI 相关故障。公司还称系统正承受升高的服务器负载，并正努力恢复容量，使受影响的服务回归正常。
+这篇论文提出了作者所称的机器学习编译器张量布局选择首次形式化研究。论文将问题表述为数据流图上的组合优化，目标是联合最小化算子执行成本与各张量布局转换的成本。 张量布局会影响内存访问模式、算子性能，以及在不同格式之间转换的开销，例如 NCHW 与 NHWC。严格的优化框架可能使编译器以更系统的方法取代临时性的布局启发式规则，从而提升跨硬件后端的性能与可移植性。 该研究将布局选择建模为编译器数据流图上的组合优化问题，目标函数结合算子执行成本与分配给单个张量的转换成本。不过，现有元数据和检索摘要不足以验证这一形式化方法的具体新颖性，也未提供实现与实验评估结果。
 
-rss · The Verge · 11月13日 16:17
+rss · Hacker News \(best\) · 11月14日 19:48
 
-**背景**: Microsoft 365 是一套订阅制云服务组合，包含 Outlook、Teams、SharePoint 等消费者、企业和政府机构常用的生产力服务。共享的云基础设施能够提供规模和一致性，但也可能在故障更新影响多个互联服务时集中放大运营风险。
+**背景**: 张量布局定义多维张量数据在内存中的组织方式，同一计算采用不同布局可能产生不同的访问模式。机器学习编译器可以重写计算图、融合算子并转换布局，但必须在算子执行效率与转换开销之间进行权衡。现有编译器通常依赖临时性的启发式规则，因为这一选择过程此前缺乏正式的理论基础。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.malwarebytes.com/blog/news/2026/11/worldwide-microsoft-365-outage-disrupts-outlook-sharepoint-teams-and-more">Worldwide Microsoft 365 outage disrupts Outlook... | Malwarebytes</a></li>
-<li><a href="https://www.microsoft.com/en-us">Microsoft – AI, Cloud, Productivity, Computing, Gaming &amp; Apps</a></li>
+<li><a href="https://arxiv.org/html/2608.21555">Tensor Seeks Layout : Formalizing Layout Selection for ML Compilers</a></li>
+<li><a href="https://arxiv.org/abs/2608.21555">[2608.21555] Tensor Seeks Layout: Formalizing Layout ...</a></li>
+<li><a href="https://apxml.com/courses/compiler-optimizations-machine-learning/chapter-2-graph-level-transformations/layout-transformation">Tensor Layout Transformation (NCHW/NHWC) - apxml.com</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Microsoft 365`, `#Outlook`, `#service outage`, `#cloud services`, `#availability`
+**标签**: `#machine-learning compilers`, `#tensor layouts`, `#compiler optimization`, `#ML systems`
 
 ---
 
 <a id="item-64"></a>
-## [Mansa 用 AI 微短剧推动好莱坞黑人故事](https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back/) ⭐️ 6.0/10
+## [调查发现多数 iOS 照片保险库仅隐藏而非加密](https://dev.to/revira_labs_09857815489f0/most-photo-vault-apps-hide-your-photos-few-encrypt-them-we-checked-69-apps-c8d) ⭐️ 6.0/10
 
-Mansa 正在制作以黑人角色和受众为核心的 AI 微短剧，并将其作为概念验证项目。公司希望借此了解观众偏好，并为好莱坞黑人叙事创造更多机会。 该项目将生成式 AI 与好莱坞长期存在的代表性缺口相结合，可能为黑人创作者提供更多测试创意和接触观众的机会。同时，它也加剧了关于商业化、创作主导权以及 AI 能否真正改善代表性的讨论。 Mansa 采用微短剧而非长篇电影，使规模较小的实验能够充当观众与故事测试。生成式 AI 工作流可协助完成剧本、场景拆分、角色、环境、分镜和视频制作，但这类项目仍面临连贯性与质量控制问题。
+研究人员于 2026 年 10 月 30 日审查了美国 App Store 中的 69 款 iOS 照片保险库应用，并发布了可验证的 CSV 数据集。在至少有 1,000 条评分的 34 款应用中，76%声明存在用于跟踪用户的数据，56%提及加密，只有 1 款明确指出使用 AES。 许多用户可能把界面锁或隐藏相册误认为真正的安全保护，导致照片在设备解锁或应用数据从未加密的备份中被提取时仍可读取。结果还揭示了主打隐私的产品与其 App Store 隐私标签中所声明的跟踪行为之间的矛盾。 这项审查依据 App Store 描述和隐私标签，而不是对应用进行技术测试，因此某款应用可能使用了加密却没有说明。判断实用标准之一是忘记保险库密码后开发者能否恢复照片；真正的保险库密钥加密应依靠用户自行保存的恢复密钥。
 
-rss · Wired · 11月13日 11:45
+rss · Dev.to · 11月14日 20:11
 
-**背景**: AI 微短剧是短小且连续的剧集，生成式工具可用于开发剧本、场景、角色、分镜和视频等要素。在其他影视实验中，生成式 AI 被视为制作高难度或高成本场景的手段，同时仍由人类导演把控创意。Mansa 将这一新格式用于明确的行业目标：提升黑人故事的可见度，并测试黑人受众的偏好。
+**背景**: iOS 已通过 Data Protection 对静态文件进行加密，但这些保护由设备密码控制。仅隐藏照片的保险库只是增加应用层界面，而使用自有加密的保险库还能在密钥独立于设备时保护被复制的文件。苹果的“用于跟踪你的数据”标签涉及与其他公司的应用和网站关联、用于广告或测量的数据，而第三方 SDK 可能显著影响应用的隐私状况。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/pulse/how-topview-enabling-new-form-storytelling-filmmaking-3nquc">How Topview is Enabling a New Form of Storytelling and Filmmaking...</a></li>
-<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ancestra-behind-the-scenes/">Behind ANCESTRA: combining generative AI with live-action...</a></li>
-<li><a href="https://modeles.com/news/this-startup-is-betting-on-ai-microdramas-to-get-more-black-stories-in-holl-5c89e9">This Startup Is Betting on AI Microdramas to Get More Black Stories ...</a></li>
+<li><a href="https://octoshield.app/guides/hidden-album-vs-encrypted-vault">iPhone Hidden Album vs . Encrypted Photo Vault | Octoshield</a></li>
+<li><a href="https://developer.apple.com/videos/play/wwdc2023/10060/">Get started with privacy manifests - WWDC23... - Apple Developer</a></li>
+<li><a href="https://nofluffadvisory.com/writing/is-apple-harvesting-adtech-data/">Is Apple harvesting adtech data ? — No Fluff Advisory</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI filmmaking`, `#Hollywood`, `#representation`, `#generative AI`, `#media`
+**标签**: `#privacy`, `#encryption`, `#iOS`, `#photo-vault-apps`, `#security-research`
 
 ---
 
 <a id="item-65"></a>
-## [NASA 征集商业方案以抬升哈勃轨道](https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat/) ⭐️ 6.0/10
+## [Plannotator 为 AI 智能体带来邮箱式审阅](https://dev.to/mech_app_ai/plannotators-inbox-pattern-why-background-agent-execution-needs-an-email-like-ui-n0b) ⭐️ 6.0/10
 
-NASA 正在向商业航天公司征集方案，研究如何抬升哈勃空间望远镜的轨道，并将其运行寿命延长至预计于 2034 年发生的再入大气层之后。由于望远镜已出现多项故障，其剩余任务周期面临更多不确定性。 成功的轨道抬升可延长哈勃开展独特科学观测的时间，并避免其最终受控再入，从而有可能减少空间碎片。相关尝试还将展示私营航天器能否为 NASA 的重大在轨资产提供在轨服务与轨道提升能力。 此次征集的重点是抬升哈勃现有轨道，而不是用新天文台替换该望远镜。由于公告尚未公布航天器设计、发射时间表、合同结构或资金安排，因此它仍处于早期方案征集阶段，并非已经选定或获批的任务。
+Plannotator 是一个本地运行、基于浏览器的收件箱，用于异步审阅多个 AI 智能体的输出。它从本地任务目录呈现计划、代码差异、原型及其他产物，并把结构化批注送回智能体，供下一轮执行使用。 传统聊天界面假定用户会全程参与每一轮交互，这不适合持续工作数小时或并行运行的智能体。收件箱模式将执行与审阅分离，使人工介入流程更接近代码审查，可集中处理待决事项，并在后续运行中应用反馈。 Plannotator 不需要服务器或数据库；智能体会把产物和元数据写入 ~/.plannotator 下的目录，浏览器则监测新任务。用户可针对特定产物的行添加批注，并把批准或拒绝状态记录在 annotations.json 中，供智能体在后续运行时读取。
 
-rss · Wired · 11月13日 10:00
+rss · Dev.to · 11月14日 20:06
 
-**背景**: 哈勃是美国国家航空航天局运行在近地轨道上的空间望远镜，持续存在的稀薄大气阻力会逐步降低其轨道高度。如果不采取轨道提升措施，它的预计再入大气层时间将被推迟至 2034 年以后。轨道抬升具有较高技术难度，因为维修航天器必须与望远镜交会并安全完成推进操作，同时还要避免制造更多空间碎片。
+**背景**: 人在回路系统允许人员审阅或批准智能体的操作，尤其适用于这些操作可能产生重要后果的场景。Plannotator 将这一模式从单次操作确认扩展到对长时间运行的编程、研究和助理智能体所生成产物的异步管理。其基于文件的契约也类似传统代码审查流程，即把评论和批准与具体变更关联起来。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.nasa.gov/">NASA</a></li>
+<li><a href="https://plannotator.ai/inbox/">Plannotator Inbox</a></li>
+<li><a href="https://github.com/backnotprop/plannotator">GitHub - backnotprop/ plannotator : The workspace to stay in the loop...</a></li>
+<li><a href="https://www.useskillpedia.com/en/skill/plannotator-backnotprop/">plannotator : Agents skill for AI agents | Skillpedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Hubble Space Telescope`, `#NASA`, `#Commercial Spaceflight`, `#Space Debris`, `#Orbital Mechanics`
+**标签**: `#AI agents`, `#human-in-the-loop`, `#developer tools`, `#asynchronous workflows`, `#UI patterns`
 
 ---
 
 <a id="item-66"></a>
-## [DeepMind 员工升级英国工会化行动](https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/) ⭐️ 6.0/10
+## [Atlyxen 打造百款浏览器端工程工具](https://dev.to/atlyxen_studios/building-100-zero-server-web-tools-webgl-threejs-client-side-privacy-24bd) ⭐️ 6.0/10
 
-Google DeepMind 员工正寻求绕过陷入僵局的管理层谈判，以推进工会化进程。此前双方进行的初步谈判未能达成员工所要求的承认或保障措施。 这场行动可能让 DeepMind 研究人员对工作场所政策和 AI 研究决策拥有更大的集体影响力，其中可能包括军事用途。它也表明，知名 AI 实验室正面临日益增加的劳工监督。 通信工人工会和 Unite 已正式寻求承认，以代表伦敦约 1000 名 Google DeepMind 员工。Google 最初表示当时尚未举行工会化投票，因此这场升级行动应被理解为尚未解决的承认程序中的一步。
+Atlyxen Studios 发布了 Atlyxen Tools，包含 100 多款浏览器端实用工具，利用 WebGL、WebAssembly、Three.js 和内存计算在本地处理 CAD、3D 与 PDF 文件。该套件涵盖通用 3D 查看器、AutoCAD DWG/DXF 查看器以及浏览器 PDF 编辑与签名工具，目标是避免将文件上传至远程服务器。 本地处理有助于减少上传延迟、云端流量费用，并降低工程图纸和法律文档泄露的风险。这种架构反映了 Web 应用从集中式云基础设施转向利用用户设备进行隐私保护型计算的趋势。 该 3D 查看器支持 GLB、OBJ、STL 和 FBX 格式，提供 PBR 纹理控制、多边形及绘制调用统计和光照预设。项目还声称通过 WebAssembly 在浏览器内解析 DWG 与 DXF 矢量实体，并支持本地 PDF 合并、涂黑、签名和转换，但文章未提供独立基准测试、详细实现证据或量化的内存与性能限制。
 
-rss · Wired · 11月12日 18:05
+rss · Dev.to · 11月14日 20:06
 
-**背景**: 工会承认使成组员工与获指定工会能够就工作条件、薪酬和工作行为等事项进行集体谈判。据报道，DeepMind 的争议重点是员工对 AI 项目，尤其是与军事用途相关工作的影响力，而不只是薪酬问题。
+**背景**: 客户端计算是指在浏览器内直接处理文件，而不是把数据发送到服务器。WebGL 可在浏览器中提供 GPU 加速图形能力，WebAssembly 为密集型计算提供可移植的编译目标，Three.js 则提供更高层的 3D 场景渲染工具。相关研究介绍了结合 WebAssembly、Web Workers 和 Web 密码学 API 的本地文档处理架构，同时指出了安全、性能和内存管理方面的限制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel">Google DeepMind workers are unionizing over AI military... | The Verge</a></li>
-<li><a href="https://www.livemint.com/companies/news/google-deepminds-uk-workers-vote-to-unionise-over-pentagon-ai-deal-a-first-for-frontier-ai-labs-11778025670418.html">Why Google DeepMind workers in UK are trying to unionise over...</a></li>
+<li><a href="https://figshare.com/articles/preprint/Privacy-Preserving_Client-Side_Information_Processing_A_Browser-Based_Architecture_for_Local_Data_Analysis_and_Secure_File_Handling/34003734">Item - Privacy-Preserving Client-Side Information Processing ...</a></li>
+<li><a href="https://utilvo.com/downloads/privacy-preserving-client-side-information-processing.pdf">Privacy-Preserving Client-Side Information Processing: A ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Google DeepMind`, `#labor unions`, `#AI workplace`, `#worker rights`
+**标签**: `#client-side-computing`, `#WebAssembly`, `#WebGL`, `#Three.js`, `#data-privacy`
 
 ---
 
 <a id="item-67"></a>
-## [用原子版本检查拒绝过期更新](https://dev.to/tokenpeakai/reject-a-stale-in-memory-update-with-a-revision-check-inside-the-lock-1741) ⭐️ 6.0/10
+## [从元数据反编译无方法体的 UnsafeAccessor](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-unsafeaccessor-the-extern-method-with-no-body-and-a-private-name-in-its-attribute-47g5) ⭐️ 6.0/10
 
-文章介绍了一个 Python \`RevisionCell\` 示例，它在不可变字符串载荷旁保存一个整数版本号。调用方提交替换时会携带最初读取到的版本号，单元格在同一锁保护的临界区内完成版本比较、值替换和版本递增。 仅将最终赋值串行化只能避免同时写入，却无法阻止基于旧数据计算的编辑覆盖更新后的结果。把版本检查与替换合并为一个原子操作，可为共享内存状态提供实用的乐观并发保护。 公开快照由整数版本号和字符串组成的元组表示，避免调用方修改嵌套载荷；版本不匹配时会抛出 \`RevisionConflict\`。该模式要求所有读取和更新都通过单元格接口完成，直接修改私有属性会绕过版本策略。
+文章展示了 Glass.NET 如何从自定义属性元数据中提取私有目标成员名称，从而重建针对字段、方法和构造函数的 .NET 8 UnsafeAccessor 声明。这些 static extern 方法没有 IL 方法体，而决定其含义的目标成员信息存储在 UnsafeAccessorAttribute 的属性数据中，而非指令流中。 仅分析 IL 方法体或成员引用表的传统反编译器无法完整理解这些访问器，因为其语义保存在自定义元数据中。正确重建这些声明，有助于分析使用 UnsafeAccessor 的程序集，并改进序列化器、测试工具及访问内部成员的库所使用的检查工具。 在字段访问器示例中，该方法以 byref 形式返回私有字符串字段，并编译为托管方法；其 RVA 为零，不含 .maxstack、局部变量或任何指令。目标名称“\_secret”出现在编码后的 UnsafeAccessorAttribute 构造参数中，运行时提供的是直接访问桩，而不是 P/Invoke 封送桩。
 
-rss · Dev.to · 11月14日 00:00
+rss · Dev.to · 11月14日 20:06
 
-**背景**: 乐观并发控制通过检查操作开始后状态是否发生变化来识别冲突，而不是在整个操作期间持有锁。本文中的版本号是应用层的版本策略，而 Python 的 \`Lock\` 提供基础互斥机制，使比较与替换不可分割。
+**背景**: UnsafeAccessor 在 .NET 8 中引入，为受信任代码提供了一种访问非公开字段、方法和构造函数的受支持方式，同时避免了反射开销。开发者声明一个 static extern 方法，并通过 UnsafeAccessorAttribute 提供成员种类和目标名称；随后由 JIT 在运行时将访问器绑定到指定成员。由于该方法没有方法体，无法从 IL 推断目标，必须从属性元数据中恢复。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Optimistic_concurrency_control">Optimistic concurrency control - Wikipedia</a></li>
+<li><a href="https://learn.microsoft.com/en-us/dotnet/standard/attributes/writing-custom-attributes">Writing Custom Attributes - .NET | Microsoft Learn Accessing private members without reflection in C# Easier reflection with [UnsafeAccessorType] in .NET 10 How to create a custom attribute in C# - Stack Overflow How to provide custom implementation for extern methods in .NET? runtime/docs/design/features/unsafeaccessors.md at main ...</a></li>
+<li><a href="https://www.meziantou.net/accessing-private-members-without-reflection-in-csharp.htm">Accessing private members without reflection in C#</a></li>
+<li><a href="https://andrewlock.net/exploring-dotnet-10-preview-features-9-easier-reflection-with-unsafeaccessortype/">Easier reflection with [UnsafeAccessorType] in .NET 10</a></li>
 
 </ul>
 </details>
 
-**标签**: `#concurrency`, `#thread-safety`, `#optimistic-concurrency`, `#locking`, `#Python`
+**标签**: `#.NET`, `#UnsafeAccessor`, `#decompilation`, `#metadata`, `#JIT`
 
 ---
 
 <a id="item-68"></a>
-## [金融科技知识机器人的五项检索与审计检查](https://dev.to/radcliffbarrett4718/five-checks-for-fintech-knowledge-bot-retrieval-architecture-and-audit-logs-3994) ⭐️ 6.0/10
+## [梗死相关心源性休克亟需评估坎格雷洛策略](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901152-9/fulltext?rss=yes) ⭐️ 6.0/10
 
-文章提出双通道 RAG 架构，将受控文档的持久向量检索与频繁变化的运营信息的实时搜索分开。文章还建议记录资格判定、检索、过滤、评分、决策和引用等详细事件，并通过请求标识串联整个流程。 这一设计可帮助金融科技团队避免实时且未经核验的网络内容悄然覆盖已批准的运行手册，同时保留合规审查所需的证据。它还能让工程师在无需永久保存客户原始问题的情况下，在有限范围内复现检索结果。 两条检索路径需要不同的控制措施：向量集合应管理分块元数据、集合成员关系、删除策略、文档修订版本和策略决策；实时搜索则应设置超时、结果数量限制和域名允许列表。审计记录应写入仅追加的存储并限制访问权限，对秘密信息进行脱敏，必要时保留稳定哈希，而且相似度评分本身不能构成解释。
-
-rss · Dev.to · 11月13日 23:51
-
-**背景**: 检索增强生成（RAG）让大语言模型在生成答案前访问外部信息，这些信息通常来自权威或特定领域的知识源。在金融科技系统中，已批准的运行手册可能在数月内保持稳定，而维护通知或事故状态可能按日甚至按小时变化。区分这些时效类别，可以明确检索优先级、核验状态和审计证据。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation">Retrieval-augmented generation - Wikipedia</a></li>
-<li><a href="https://aws.amazon.com/what-is/retrieval-augmented-generation/">What is RAG ? - Retrieval-Augmented Generation AI Explained - AWS</a></li>
-
-</ul>
-</details>
-
-**标签**: `#RAG`, `#vector search`, `#fintech AI`, `#audit logging`, `#knowledge bots`
-
----
-
-<a id="item-69"></a>
-## [浅显理解 x86-64 页表](https://dev.to/parsaaftabi/page-tables-in-plain-words-2kn4) ⭐️ 6.0/10
-
-文章以通俗方式解释了 x86-64 内核与 CPU 如何利用四级页表，把虚拟地址转换为物理地址。内容将 4 KB 页面和地址位布局，与页表树遍历、缓存、权限、缺页以及大页机制联系起来。 理解页表有助于开发者分析内存隔离、内存布局、性能问题和操作系统调试。文章还强调，修改映射后必须使过期的 TLB 项失效，尤其是在多处理器系统上还需通知其他核心。 在常规四级分页中，低 12 位构成 4 KB 页内偏移，其余地址位由四个 9 位字段组成，用于依次选择四级页表中的条目；每张表含 512 个 8 字节条目。大页条目可映射 2 MB 或 1 GB 区域，从而减轻 TLB 压力，但会失去更细粒度的独立权限控制。
-
-rss · Dev.to · 11月13日 23:49
-
-**背景**: 虚拟内存让每个进程拥有独立的地址空间，同时由操作系统内核控制虚拟页到物理页框的映射。在 x86-64 上，四级页表树避免为稀疏使用的地址区域分配大量条目，而快表（TLB）会缓存近期使用的地址转换，以减少重复遍历。页表条目中的访问控制位由处理器强制执行，检查失败会触发由内核处理的缺页异常。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://os.phil-opp.com/paging-introduction/">Introduction to Paging | Writing an OS in Rust</a></li>
-<li><a href="https://lectures.alex.balgavy.eu/aos-notes/page-tables/">Page tables</a></li>
-
-</ul>
-</details>
-
-**标签**: `#operating-systems`, `#virtual-memory`, `#page-tables`, `#x86-64`, `#computer-architecture`
-
----
-
-<a id="item-70"></a>
-## [LLM 裁判可增强 MCP 工具安全性](https://dev.to/noelserdna/llm-como-juez-y-mcp-como-se-ayudan-y-sus-limites-je5) ⭐️ 6.0/10
-
-文章提出使用由 MCP 托管的 LLM 裁判评估模糊的工具调用、判断是否需要用户确认，并筛查工具输出中可能存在的提示注入。裁判只能提高审查等级或转交人工处理，绝不能降低既定权限规则或审批要求。 当同一工具因参数不同而产生截然不同的风险时，工具元数据和固定权限无法覆盖所有情况。LLM 裁判能够为智能体工作流增加情境化筛查，但前提是失败时必须转向更谨慎的路径，并且始终由人工审批发挥最终作用。 在虚构的 Nortia 物流案例中，裁判判断工单 TCK-88213 是否明确授权对发票 F-2026-0142 开具 184.50 欧元贷项：高置信度允许执行，中等置信度、裁判故障或无响应会触发明确征询，低置信度则升级给财务主管。单向棘轮机制只允许从要求确认升级到人工审查，绝不能反向降低要求；提示注入检测也只能作为低成本筛查，而不能充当完整防线。
-
-rss · Dev.to · 11月13日 23:48
-
-**背景**: LLM 裁判是依据预先设定的标准对另一系统的输出进行评分或分类的模型，也可以作为 MCP 服务器供客户端调用。模型上下文协议为 AI 应用连接外部工具和数据提供了标准方式，而 readOnlyHint 和 destructiveHint 等工具注解只是提示信息，只有在服务器可信时才应加以信任。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://modelcontextprotocol.io/docs/2026-07-28/learn/architecture">Architecture overview - Model Context Protocol</a></li>
-<li><a href="https://arxiv.org/abs/2411.15594">[2411.15594] A Survey on LLM - as - a - Judge</a></li>
-
-</ul>
-</details>
-
-**标签**: `#LLM-as-a-Judge`, `#Model Context Protocol`, `#AI Agents`, `#Tool Calling`, `#AI Safety`
-
----
-
-<a id="item-71"></a>
-## [找回空 Solana 代币账户中锁定的 SOL](https://dev.to/opsnode_dev/where-did-my-sol-go-finding-the-rent-locked-in-empty-solana-token-accounts-15ie) ⭐️ 6.0/10
-
-该文章介绍了如何定位用户卖出代币后遗留在空 SPL Token 和 Token-2022 账户中的免租 SOL 押金。文章提供了一个基于 getTokenAccountsByOwner 的只读脚本，并说明如何通过关闭这些账户收回资金。 频繁交易者可能积累大量分散的小额 SOL，只要空代币账户仍然开放，这些资金就无法取回。收回这些押金可以减少钱包余额与交易记录之间的差额，并改善活跃 Solana 用户的资金管理。 标准的 165 字节 SPL 代币账户目前约需 0.00148844 SOL，而采用常见 ImmutableOwner 扩展的 170 字节 Token-2022 账户约需 0.00151 SOL；较旧的账户可能仍保留此前的 0.00203928 SOL 标准。扫描脚本是非托管的，不需要连接钱包或进行签名，但实际收回资金时必须关闭符合条件的空账户，并承担相应交易费用。
-
-rss · Dev.to · 11月13日 23:48
-
-**背景**: Solana 钱包不会直接持有每一种 SPL 代币，而是把代币分别存放在独立的代币账户中。每个账户都必须保留一笔免租 SOL，出售代币并不会关闭账户，也不会自动退还这笔押金。因此，这些空代币账户中的 SOL 更准确地说是可回收的租金，而不是出售代币时收取的手续费。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://solana.com/">Solana - The Capital Market For Every Asset on Earth</a></li>
-<li><a href="https://devrels.xyz/articles/spl-token-vs-token-2022">SPL Token vs Token - 2022 : program IDs, account layout... | devrels.xyz</a></li>
-<li><a href="https://refundyoursol.com/">RefundYourSOL — Claim Solana Wallet Token Account Rent</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Solana`, `#SPL Tokens`, `#Rent Exemption`, `#Wallet Recovery`, `#Blockchain Development`
-
----
-
-<a id="item-72"></a>
-## [卢拉新任期面临治理与民主风险](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902234-8/fulltext?rss=yes) ⭐️ 6.0/10
-
-这封通信文章警告称，在 2026 年立法选举中保守派势力空前增强后，巴西即将上任的卢拉政府可能难以有效施政。文章认为，国会僵局和民主不稳定可能阻碍政府在科学、公共卫生、环境保护和亚马孙保护方面的承诺。 即使巴西总统支持科研和公共卫生，如果无法获得立法机构配合，相关政策也难以落实。因此，持续的制度冲突可能影响卫生系统循证决策、环境保护以及亚马孙地区的长期治理。 文章引用了 51.79%对 48.21%的选举结果，并以巴西 2022 年大选后的政治紧张局势为背景，包括军事设施外的民众营地、要求军方干预的呼声，以及 2023 年 1 月对巴西利亚民主机构所在区域的冲击。这是一篇分析性通信文章，并非关于新政策、研究发现或已实施制度变化的报道。
+《柳叶刀》评论主张在急性心肌梗死所致心源性休克患者中评估以坎格雷洛为基础的抗血小板策略。由于该人群的最佳双联抗血小板治疗仍缺乏充分证据，确定合理方案已成为临床优先事项。 此类患者同时面临冠状动脉血栓形成和大出血风险，因此抗血小板药物的选择尤为重要，而该病死亡率仍然很高。相关研究可能有助于提高高危患者接受经皮冠状动脉介入治疗时的用药安全性和治疗效果。 坎格雷洛是一种强效、可逆的静脉 P2Y12 抑制剂，可迅速抑制血小板功能，停药后约一小时内即可恢复。评论仅提出进一步评估的理由，并未给出研究结果、治疗推荐或结局比较数据。
 
 rss · The Lancet · 最新文章 · 11月13日 23:30
 
-**背景**: 巴西总统负责行政事务，但重大政策通常需要与全国国会合作。2026 年立法选举造成了一个严重分裂的国会，这可能限制卢拉的议程，即使总统仍支持科学和公共卫生。文章还从巴西民主规范和政治暴力受到关注的背景下来审视这些挑战。
+**背景**: 急性心肌梗死所致心源性休克源于严重心脏功能障碍，同时存在血栓形成与出血两方面的竞争性风险。经皮冠状动脉介入治疗是此类疾病的核心治疗手段，双联抗血小板治疗可减少冠状动脉血栓，但也可能增加出血。坎格雷洛通过阻断 P2Y12 受体抑制由 ADP 引起的血小板活化，其作用时间短，在需要精细控制抗血小板强度时可能具有价值。
 
-**标签**: `#Brazil politics`, `#public health policy`, `#science governance`, `#Amazon conservation`, `#democratic institutions`
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.drugs.com/pro/cangrelor.html">Cangrelor : Package Insert / Prescribing Information / MOA</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12460538/">Antiplatelet therapy in acute myocardial infarction complicated by...</a></li>
+<li><a href="https://www.wikidoc.org/index.php/Percutaneous_coronary_intervention_Cardiogenic_shock">Percutaneous coronary intervention Cardiogenic shock - wikidoc</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Cardiogenic Shock`, `#Myocardial Infarction`, `#Antiplatelet Therapy`, `#Cangrelor`, `#Clinical Evidence`
 
 ---
