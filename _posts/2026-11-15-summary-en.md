@@ -5,912 +5,420 @@ date: 2026-11-15
 lang: en
 ---
 
-> From 156 items, 49 important content pieces were selected
+> From 175 items, 52 important content pieces were selected
 
 ---
 
 1. [SpaceX Catches Starship After Flight 15](#item-1) ⭐️ 9.0/10
-2. [FAA Grounds All US Flights After Communications Failure](#item-2) ⭐️ 9.0/10
+2. [Microsoft 365 Outage Linked to Chlorine Poisoning at Hotel](#item-2) ⭐️ 8.0/10
 3. [Should AI-Generated Code Be Open Source?](#item-3) ⭐️ 8.0/10
-4. [Asia Responds to Nvidia CEO Jensen Huang’s Reported Exit](#item-4) ⭐️ 8.0/10
-5. [Nvidia Leadership Shift Could Reshape AI Startup Funding](#item-5) ⭐️ 8.0/10
-6. [NoisyTCP Claims Pre-Auth Linux TCP Memory Corruption](#item-6) ⭐️ 8.0/10
-7. [Italy Fines Meta €805 Million Over Android Gallery Access](#item-7) ⭐️ 8.0/10
-8. [Shamonda Virus Emerges in European Cattle](#item-8) ⭐️ 8.0/10
-9. [Tandem-OLED MacBook Pro PWM Draws Flicker Concerns](#item-9) ⭐️ 7.0/10
-10. [Microsoft 365 Outage Reportedly Blocked Chlorine Safety Alert](#item-10) ⭐️ 7.0/10
-11. [Understanding Positional Embeddings in Modern LLMs](#item-11) ⭐️ 7.0/10
-12. [DRAM Price-Fixing Lawsuit Survives Dismissal Motion](#item-12) ⭐️ 7.0/10
-13. [Lutnick Faces Alleged Conflict Over AI Chip Export Rules](#item-13) ⭐️ 7.0/10
-14. [bhyve Live Migration Moves Running VMs Between FreeBSD Hosts](#item-14) ⭐️ 7.0/10
-15. [Preventing Cross-Service UDP Loops in QUIC](#item-15) ⭐️ 7.0/10
-16. [Designing a Parallel-Programming DSL in OxCaml](#item-16) ⭐️ 7.0/10
-17. [JWST Finds Ice Predating Its Host Star](#item-17) ⭐️ 7.0/10
-18. [FAA Expands AI Air Traffic Advice Nationwide](#item-18) ⭐️ 7.0/10
-19. [AI Lowers the Bar for Ransomware Attacks](#item-19) ⭐️ 7.0/10
-20. [Galaxy Collisions Strip Ghost Galaxies of Dark Matter](#item-20) ⭐️ 7.0/10
-21. [Cuttlefish Brings Android Virtual Devices to Apple Silicon Macs](#item-21) ⭐️ 7.0/10
-22. [U.S. Copyright Office Defines Copyrightability for AI-Generated Works](#item-22) ⭐️ 7.0/10
-23. [Lovable’s Security Scan Misses Permissive Supabase Policies](#item-23) ⭐️ 7.0/10
-24. [Grok 4.7 Launches in AWS GovCloud for Kiro](#item-24) ⭐️ 7.0/10
-25. [Turbo Pascal’s Remarkably Small Footprint](#item-25) ⭐️ 6.0/10
-26. [Emacs Offers a Focused Browser for Static Web Content](#item-26) ⭐️ 6.0/10
-27. [Apollo Grenades Revealed the Moon’s Interior](#item-27) ⭐️ 6.0/10
-28. [How Woz Hand-Programmed Apple I BASIC](#item-28) ⭐️ 6.0/10
-29. [Do 8,900 House Stock Trades Beat the Market?](#item-29) ⭐️ 6.0/10
-30. [Eclipse Mosquitto: A Lightweight Open-Source MQTT Broker](#item-30) ⭐️ 6.0/10
-31. [Clice 1.0 Brings Modern C++ Language Tooling](#item-31) ⭐️ 6.0/10
-32. [A NES Emulator Written in Odin](#item-32) ⭐️ 6.0/10
-33. [Practical Limitations of Recursive Descent Parsers](#item-33) ⭐️ 6.0/10
-34. [The AI Graveyard Tracks Troubled Projects and Startups](#item-34) ⭐️ 6.0/10
-35. [COVID-19 Lockdowns Reduced Global Fire Activity by 12.3%](#item-35) ⭐️ 6.0/10
-36. [Starship Flight 15 Reaches Orbit, Setting Up Possible Catch](#item-36) ⭐️ 6.0/10
-37. [Cost Barriers Drive Unsafe GLP-1 Use](#item-37) ⭐️ 6.0/10
-38. [Apple’s First Smart Glasses Near Production](#item-38) ⭐️ 6.0/10
-39. [Extreme Droughts Could Wipe Out Most Cactus Habitats](#item-39) ⭐️ 6.0/10
-40. [Run SteamOS on Apple Silicon Macs via Virtualization](#item-40) ⭐️ 6.0/10
-41. [AI Aviation Raises Safety Questions as Humans Step Back](#item-41) ⭐️ 6.0/10
-42. [Gaza’s Flooding Creates a Sewage-Water Fuel Dilemma](#item-42) ⭐️ 6.0/10
-43. [Browser-Based Background Removal Keeps Photos Local](#item-43) ⭐️ 6.0/10
-44. [Prevent Duplicate Vector Chunks with Idempotent Ingestion](#item-44) ⭐️ 6.0/10
-45. [Migrating API Keys to WordPress 7.2 Secrets](#item-45) ⭐️ 6.0/10
-46. [Deterministic Testing for Realtime Moderation and Watchlist Ordering](#item-46) ⭐️ 6.0/10
-47. [Three Contracts for Replaceable Open Graph Image Caching](#item-47) ⭐️ 6.0/10
-48. [Rethinking Incentives for Outpatient Clinical Preceptors](#item-48) ⭐️ 6.0/10
-49. [Lula&\#x27;s New Term Faces Severe Congressional Gridlock](#item-49) ⭐️ 6.0/10
+4. [Vulcan Return-to-Flight Failure Loses 40 Amazon Leo Satellites](#item-4) ⭐️ 8.0/10
+5. [Shamonda Virus Emerges in European Cattle, Raises Pregnancy Concerns](#item-5) ⭐️ 8.0/10
+6. [MacBook Pro Tandem OLED Raises PWM Flicker Concerns](#item-6) ⭐️ 7.0/10
+7. [How Modern LLMs Encode Token Positions](#item-7) ⭐️ 7.0/10
+8. [An NES Emulator Written in Odin](#item-8) ⭐️ 7.0/10
+9. [Clice v1.0 Brings Modern C++ Tooling](#item-9) ⭐️ 7.0/10
+10. [Jiff Brings Ergonomic Date-Time Handling to Rust](#item-10) ⭐️ 7.0/10
+11. [Nvidia’s Security Leadership Gap and Insider-Leak Risk](#item-11) ⭐️ 7.0/10
+12. [Tech Executives Urge Nvidia to Reinstatement Jensen Huang](#item-12) ⭐️ 7.0/10
+13. [Asian Governments Assess Nvidia Leadership Exit](#item-13) ⭐️ 7.0/10
+14. [JWST Finds Ice Older Than Its Host Star](#item-14) ⭐️ 7.0/10
+15. [FAA Lifts Third Nationwide Ground Stop After Outage](#item-15) ⭐️ 7.0/10
+16. [Apple’s First Non-AR Smart Glasses Near Launch](#item-16) ⭐️ 7.0/10
+17. [AI Tools Fuel a New Ransomware Boom](#item-17) ⭐️ 7.0/10
+18. [Rebuilding C\# Checked Arithmetic from IL](#item-18) ⭐️ 7.0/10
+19. [U.S. Copyright Office Clarifies Protection for AI-Generated Works](#item-19) ⭐️ 7.0/10
+20. [A Short Guide to How El Niño Works](#item-20) ⭐️ 6.0/10
+21. [Crows Outpace Humans in Rapid Decisions](#item-21) ⭐️ 6.0/10
+22. [Turbo Pascal’s Tiny Footprint in Perspective](#item-22) ⭐️ 6.0/10
+23. [Emacs as a Distraction-Free Web Browser](#item-23) ⭐️ 6.0/10
+24. [Why Apollo Carried Lunar Grenade Launchers](#item-24) ⭐️ 6.0/10
+25. [Old Bitly Links May Be Hijacked](#item-25) ⭐️ 6.0/10
+26. [Self-Hosting Protomaps Has Become Cheap and Easy](#item-26) ⭐️ 6.0/10
+27. [Eclipse Mosquitto: An Open-Source MQTT Broker](#item-27) ⭐️ 6.0/10
+28. [Testing 8,900 House Stock Trades Against the Market](#item-28) ⭐️ 6.0/10
+29. [Survey Examines Memory Management in 40 C Projects](#item-29) ⭐️ 6.0/10
+30. [Google Explains QUIC Cross-Service UDP Loop Prevention](#item-30) ⭐️ 6.0/10
+31. [FreeBSD bhyve Explores Live VM Migration Across Hosts](#item-31) ⭐️ 6.0/10
+32. [Organizing Rust Declarative Macros and Managing Scope](#item-32) ⭐️ 6.0/10
+33. [Datasette LLM Adds OpenAI-Compatible Endpoint Support](#item-33) ⭐️ 6.0/10
+34. [Datasette-vega 0.7 Modernizes Vega-Lite Plugin Support](#item-34) ⭐️ 6.0/10
+35. [Lockdowns Reduced Global Fire Activity by 12.3%](#item-35) ⭐️ 6.0/10
+36. [Congress Seeks Tighter AI Chip Export Rules After Nvidia Spy Scandal](#item-36) ⭐️ 6.0/10
+37. [AI Tamagotchi Gives Everyday Objects Expressive Personalities](#item-37) ⭐️ 6.0/10
+38. [Extreme Droughts Could Wipe Out Most Cactus Habitats](#item-38) ⭐️ 6.0/10
+39. [AI Aviation Meets Staffing and Safety Challenges](#item-39) ⭐️ 6.0/10
+40. [Colliding Galaxies May Have Ejected Their Dark Matter](#item-40) ⭐️ 6.0/10
+41. [Fractales de Ensueño Brings Nine Fractal Families to the Browser](#item-41) ⭐️ 6.0/10
+42. [Environment-Scoped Keys Strengthen License Isolation](#item-42) ⭐️ 6.0/10
+43. [Twenty-Four Searches Expose a Catalog Vocabulary Gap](#item-43) ⭐️ 6.0/10
+44. [AI Executive Assistant Costs €5.6k, Saves €173k a Year](#item-44) ⭐️ 6.0/10
+45. [Full File Coverage Does Not Equal a Complete Security Review](#item-45) ⭐️ 6.0/10
+46. [Model Deletion Orders Demand Training-Data Lineage](#item-46) ⭐️ 6.0/10
+47. [Automating Cassandra Deployment and Commit-Level Verification](#item-47) ⭐️ 6.0/10
+48. [OpenGrok Needs Consistent Project-Level Authorization](#item-48) ⭐️ 6.0/10
+49. [AI Systems Confront the Spin Glass Ground-State Problem](#item-49) ⭐️ 6.0/10
+50. [Reconsidering Incentives for Outpatient Clinical Preceptors](#item-50) ⭐️ 6.0/10
+51. [Lula’s Second Term Faces a More Hostile Congress](#item-51) ⭐️ 6.0/10
+52. [Optimizing Antiplatelet Therapy in Infarction-Related Shock](#item-52) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
 ## [SpaceX Catches Starship After Flight 15](https://www.spacex.com/launches/starship-flight-15) ⭐️ 9.0/10
 
-SpaceX successfully caught the reusable Starship upper stage with its Mechazilla launch tower following Flight 15, after abandoning the planned booster catch. It was the first successful tower catch of the Starship vehicle itself, following SpaceX&\#x27;s earlier chopstick catches of Super Heavy boosters. The catch demonstrates a path toward reusing the entire Starship launch system, potentially reducing refurbishment requirements and lowering the cost of high-cadence spaceflight. It could also improve launch availability and make Starship&\#x27;s large payload capacity more economically useful. Unlike the relatively controlled booster catch, catching the Starship upper stage presents additional propulsion, control, thermal-protection, and timing challenges. The heat shield remains a major concern, and Flight 15 did not yet demonstrate complete reuse, booster catching in the same flight, or orbital propellant transfer.
+SpaceX successfully caught Starship’s reusable upper stage during Flight 15, achieving the first upright landing of a rocket upper stage after reaching orbit. The milestone demonstrates SpaceX’s progress toward a fully reusable launch system. 回收并重复使用上面级飞船有望减少翻修需求、提高发射频率，并降低将载荷送入轨道的成本。这也将推动星舰系统的发展，该系统计划用于将乘员和货物送往地球轨道、月球和火星。 The Flight 15 landing involved the more demanding sequence of orbital flight, atmospheric reentry, a high-speed flip maneuver, and an upright catch by the launch tower. Catching the upper stage was easier than catching the Super Heavy booster in the community’s view, but the heat shield’s durability and the vehicle’s available propellant margin remain important uncertainties.
 
 hackernews · Hacker News \(热门\) · Nov 14, 21:22 · [Discussion](https://news.ycombinator.com/item?id=50500963)
 
-**Background**: Starship is SpaceX&\#x27;s two-stage, fully reusable super-heavy-lift launch vehicle, comprising a Super Heavy booster and a Starship upper stage. Its proposed tower-catch system uses the launch tower&\#x27;s mechanical arms, nicknamed “chopsticks,” to capture descending hardware. Full reuse also requires dependable heat shields, reliable repeated flights, and for many deep-space missions, orbital propellant transfer between Starship vehicles.
+**Background**: Starship is SpaceX’s two-stage, fully reusable super-heavy-lift vehicle under development at Starbase in Texas. SpaceX describes the combined Starship system as designed to carry more than 100 metric tonnes to orbit in a fully reusable configuration. Reusability can lower operating costs, but it depends on vehicles surviving reentry and being able to return, land, service, and fly again reliably.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thespaceroad.com/articles/how-does-starship-catch-work/">How does the Starship catch work? | The Space Road</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Starship_flight_15">Starship flight 15 - Wikipedia</a></li>
+<li><a href="https://tech.yahoo.com/science/articles/spacex-plans-catch-starship-upper-184808496.html">SpaceX Plans to Catch Starship’s Upper Stage for the First ...</a></li>
+<li><a href="https://www.spacex.com/vehicles/starship/technical-specifications">SpaceX - Starship</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment was strongly celebratory, with participants calling the achievement the first reusable upper-stage capture since the Space Shuttle and praising the engineering team. Technical discussion focused on whether the heat shield could withstand repeated flights, the propellant margin needed for a future double catch, and whether full reuse could ultimately offset Starship&\#x27;s uncertain mass fraction.
+**Discussion**: Community members strongly praised the engineering achievement and considered it a clear milestone, comparing it favorably with the space shuttle’s technically successful but expensive and refurbishment-intensive reusable upper stage. Some participants argued that durable heat shielding and eventually reflown vehicles could substantially reduce orbital launch costs, while questions remained about propellant margins, the final mass fraction to orbit, and future economics.
 
-**Tags**: `#SpaceX`, `#Starship`, `#Reusable launch systems`, `#Rocket catching`, `#Aerospace engineering`
+**Tags**: `#SpaceX`, `#Starship`, `#Rocket Reuse`, `#Spaceflight`, `#Aerospace Engineering`
 
 ---
 
 <a id="item-2"></a>
-## [FAA Grounds All US Flights After Communications Failure](https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice/) ⭐️ 9.0/10
+## [Microsoft 365 Outage Linked to Chlorine Poisoning at Hotel](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) ⭐️ 8.0/10
 
-The FAA issued a nationwide ground stop on Friday after a communications failure disrupted air traffic control systems, bringing US air travel to a near standstill. Transportation Secretary Sean Duffy attributed the outage to routine maintenance at a remote FAA facility, where contractors were replacing copper wire with fiber-optic connectivity. The grounding exposed the vulnerability of an aging national air traffic control infrastructure and caused immediate travel, economic, and operational disruptions across the United States. It also raised questions about whether routine infrastructure work is being conducted with sufficient safeguards against cascading failures. Duffy characterized the work as routine maintenance rather than part of the FAA&\#x27;s broader modernization program, but search results reported that an FAA router became overloaded with data and implicated legacy equipment operated by contractor L3Harris. The ground stop was later lifted, although airlines warned that major delays and cancellations would continue while aircraft and crews were repositioned.
+A Microsoft 365 disruption coincided with a chlorine-gas incident at the Phantasialand hotel in Germany, where 15 guests were injured after an automated pool-dosing system over-chlorinated the water. The hotel reportedly did not receive an email alert because the outage disrupted communications, and 40 first responders were deployed for triage, with four people hospitalized. The incident highlights the danger of making safety-critical monitoring and emergency response depend on a single cloud email channel without redundant local controls. It also illustrates broader business-continuity risks associated with outages in widely used communications services such as Outlook and Teams. The initial alarm came from the sauna area&\#x27;s maintenance safety system, but the alert was sent by email and reportedly went unnoticed during the Microsoft disruption. Community members also warned that a faulty chlorine sensor can falsely indicate low or zero chlorine, causing a closed-loop controller to dispense too much; safe operation therefore requires independent measurement, fail-safe behavior, and human oversight.
 
-rss · Wired · Nov 13, 21:42
+hackernews · Hacker News \(热门\) · Nov 15, 18:36 · [Discussion](https://news.ycombinator.com/item?id=50509411)
 
-**Background**: A ground stop instructs aircraft across a defined area not to depart until authorized, so a nationwide order can halt departures even where local airports and airspace remain usable. The FAA has been replacing aging copper-based communications infrastructure with fiber optics as part of efforts to improve the safety, efficiency, and capacity of the National Airspace System, while other legacy components and automation upgrades remain in transition.
+**Background**: Automated chlorination systems regulate the chlorine level in swimming pools using sensor measurements and dosing controls. A cloud email service may be used only to notify staff of abnormal conditions, so loss of that service does not normally disable the physical dosing process; nevertheless, it can delay recognition and response if no independent alarm or local escalation path exists. Cloud outages are inevitable, making disaster recovery planning and redundant communication channels important for organizations that depend on hosted services.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.govexec.com/technology/2026/11/legacy-tech-issue-led-faas-nationwide-ground-stop/417236/">Legacy tech issue led to FAA’s nationwide ground stop</a></li>
-<li><a href="https://www.nytimes.com/2026/11/14/us/politics/ground-stop-air-traffic-faa.html">Ground Stop Highlights Chronic Vulnerabilities in Air Traffic System</a></li>
-<li><a href="https://www.gao.gov/assets/gao-05-331.pdf">GAO-05-331 National Airspace System: FAA Has Made Progress but...</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized">Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel ...</a></li>
+<li><a href="https://www.wired.com/story/the-microsoft-outage-is-a-warning-for-the-world/">The Microsoft Outage Is a Warning for the World | WIRED</a></li>
+<li><a href="https://www.techtarget.com/news/6-steps-to-survive-a-cloud-outage/872712/">6 steps to survive a cloud outage | TechTarget</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FAA`, `#Air Traffic Control`, `#Aviation Safety`, `#Infrastructure Failure`, `#US Travel`
+**Discussion**: Participants broadly rejected the idea that Microsoft alone was responsible, arguing that the hotel and system designers failed to provide resilient, redundant safeguards. One operator stressed that chlorine sensors can fail in ways that cause overdosing, while others noted that relying on email for a hazardous condition is unacceptable and that cloud-independent local alarms and human verification are needed.
+
+**Tags**: `#Microsoft 365 outage`, `#chlorine safety`, `#cloud reliability`, `#safety-critical systems`, `#fault tolerance`
 
 ---
 
 <a id="item-3"></a>
 ## [Should AI-Generated Code Be Open Source?](https://jakub.jankiewicz.org/blog/ai-code-open-source/) ⭐️ 8.0/10
 
-Jakub Jankiewicz argues that all code generated by artificial intelligence should be open source, triggering substantial debate about copyright, ownership, training-data provenance, and incentives for software creation. The proposal extends beyond a licensing rule to a broader question about how generative AI changes authorship and the economics of software development. A broad open-source mandate could increase public access to AI-assisted software while reducing proprietary code advantages and encouraging shared maintenance. It would also require policymakers and courts to resolve difficult questions about the legal status of machine-generated expression, liability for copied training material, and whether existing copyright law can accommodate AI-assisted development. A central complication is that human developers have long learned from open-source code, Stack Overflow, frameworks, and other shared technical knowledge, making it unclear why AI assistance alone should trigger source disclosure. Research on license-compliance benchmarks indicates that LLM-generated code may preserve or reproduce upstream licensing obligations, so copying without notices or source availability could create infringement or contract-compliance risks even if no new legal ownership rule is adopted.
+An article argues that all code produced by artificial intelligence should be distributed as open source, triggering an extensive debate over copyrightability, training-data ethics, and software ownership. The discussion received more than 1,000 votes and 500 comments, with participants drawing heavily on U.S. Copyright Office guidance. The proposal could affect whether AI-assisted software qualifies for copyright protection and how businesses, developers, and users account for code generated from licensed or copyrighted training material. It also raises a broader licensing conflict because proprietary applications may be built with AI systems trained on open-source code. The U.S. Copyright Office guidance cited in the debate states that existing law can resolve AI copyright questions without legislative change, and that using AI to assist rather than replace human creativity does not by itself remove copyright protection from an output. Participants also compared AI with compilers, Stack Overflow, frameworks, and other development resources, while noting that models can reproduce open-source code and violate AGPL terms or attribution requirements.
 
 hackernews · Hacker News \(热门\) · Nov 15, 14:46 · [Discussion](https://news.ycombinator.com/item?id=50507303)
 
-**Background**: Open-source licenses grant users rights to inspect, use, modify, and redistribute software, commonly while requiring preservation of copyright notices and compliance with conditions such as source disclosure. Copyright generally protects expression produced through human authorship, while the U.S. Copyright Office has indicated that questions involving AI can be addressed under existing law; separate legal regimes, including contract law and trade-secret law, may also govern software ownership. AI-generated code additionally intersects with the licenses of code used to train coding models and the possibility that generated output reproduces protected material.
+**Background**: Open-source software is distributed under licenses that grant users rights to inspect, modify, and redistribute the source code, while often imposing conditions such as attribution or source disclosure. Copyrightability generally requires human authorship, so the legal status of code produced with differing degrees of AI involvement depends on how much creative expression can be attributed to humans. Licensing is related but distinct: a work may be copyrightable without being open source, and a developer who trains or uses AI on licensed code must also consider the applicable license terms.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2408.02487v1">A First Look at License Compliance Capability of LLMs in Code ...</a></li>
-<li><a href="https://www.techtarget.com/searchEnterpriseAI/tip/Examining-the-future-of-AI-and-open-source-software">Does AI-generated code violate open source licenses?</a></li>
-<li><a href="https://www.redhat.com/en/blog/ai-assisted-development-and-open-source-navigating-legal-issues">AI-assisted development and open source: legal and cultural ...</a></li>
+<li><a href="https://aimultiple.com/generative-ai-copyright">Generative AI Copyright: Law &amp; Litigation</a></li>
+<li><a href="https://astraea.law/insights/ai-training-data-copyright">AI Training Data Copyright: Fair Use and Licensing</a></li>
+<li><a href="https://ghostarchive.org/archive/01On1">docs: define policy forbidding use of AI code generators ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters challenged the proposal&\#x27;s analogy with conventional software because developers already rely heavily on shared frameworks, Stack Overflow, and open-source code. Others urged lawmakers to create new ownership rules for AI systems, citing their dependence on vast corpora of human knowledge, while an AGPL maintainer reported cases in which generated clones appeared to reproduce protected design and omission of attribution or source availability created practical violations.
+**Discussion**: Commenters disagreed sharply over whether AI is analogous to conventional development tools and whether its use should change ownership or licensing. Some emphasized the U.S. Copyright Office&\#x27;s human-creativity standard, while others argued that engineering direction and product ownership remain substantial human contributions; maintainers additionally reported cases where AI systems copied AGPL implementations without preserving notices or source availability.
 
-**Tags**: `#AI-generated code`, `#open source`, `#copyright law`, `#LLM training data`, `#software policy`
+**Tags**: `#AI-generated code`, `#open source`, `#copyright law`, `#software licensing`, `#AI training data`
 
 ---
 
 <a id="item-4"></a>
-## [Asia Responds to Nvidia CEO Jensen Huang’s Reported Exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) ⭐️ 8.0/10
+## [Vulcan Return-to-Flight Failure Loses 40 Amazon Leo Satellites](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch) ⭐️ 8.0/10
 
-Asian governments are responding to Nvidia CEO Jensen Huang’s reported departure by confirming chip-supply commitments, monitoring local AI and semiconductor projects, and addressing related investigations. The responses follow reported scrutiny of Huang’s professional relationships, including one with an executive at a company suspected of funneling chips to China. Huang’s reported exit could disrupt Nvidia’s leadership and supply relationships at a time when advanced AI chips are central to national industrial and AI strategies. It also increases uncertainty for Asian governments, local infrastructure projects, and debates over US restrictions on advanced-chip exports to China. The supplied excerpts provide few technical details or specific government announcements, so the reported departure and scandal should not be treated as fully established here. Separately, a petition associated with the controversy had collected more than 115,000 signatures by Saturday afternoon, while lawmakers from both US parties were considering tighter AI-chip export rules and possible testimony from Huang and other Nvidia executives.
+United Launch Alliance&\#x27;s Vulcan rocket failed to reach orbit about 10 minutes after liftoff from Cape Canaveral, destroying 40 Amazon Leo satellites. The accident marked ULA&\#x27;s first total mission failure in its 20-year history. The failure is a major setback for Vulcan&\#x27;s return-to-flight campaign and delays Amazon Leo&\#x27;s effort to challenge SpaceX&\#x27;s Starlink. It also raises operational and commercial risks for a major U.S. commercial launch provider. The Vulcan used six solid rocket boosters and failed roughly 10 minutes into flight. The mission followed a nine-month stand-down intended to address issues involving the vehicle&\#x27;s solid rocket boosters, although the supplied reports do not identify the precise technical cause of this latest failure.
 
-rss · TechCrunch AI · Nov 14, 16:34
+rss · Hacker News \(热门\) · Nov 15, 20:37
 
-**Background**: US export controls have sought to limit China’s access to advanced semiconductors, computing equipment, and related AI applications while maintaining American leadership in high-end chips. Nvidia is a major supplier of AI accelerators, making leadership continuity, chip allocations, and compliance with export rules relevant to Asian governments and their local industrial projects.
+**Background**: Vulcan is ULA&\#x27;s expendable launch vehicle, designed to place satellites and other payloads into orbit, and this mission was its first return-to-flight attempt after a nine-month stand-down. Amazon Leo, formerly known as Project Kuiper, is Amazon&\#x27;s low-Earth-orbit broadband constellation and a competitor to SpaceX&\#x27;s Starlink; full-scale deployment began in April 2025.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R48642/R48642.5.pdf">U.S. Export Controls and China: Advanced Semiconductors</a></li>
-<li><a href="https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/">Asian governments react to Nvidia CEO Jensen Huang’s exit</a></li>
-<li><a href="https://www.newsbytesapp.com/news/business/nvidia-s-jensen-huang-departs-amid-personal-scandal-asia-reactions/story">How Asian governments responded to NVIDIA CEO&#x27;s departure</a></li>
+<li><a href="https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/">ULA suffers first outright failure with loss of Vulcan rocket ...</a></li>
+<li><a href="https://aviationweek.com/space/launch-vehicles-propulsion/vulcan-rocket-fails-during-return-flight-carrying-amazon">Vulcan Rocket Fails During Return To Flight Carrying Amazon ...</a></li>
+<li><a href="https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-satellite-rocket-launch-progress-updates">Amazon Leo mission updates: Launch dates set for next missions on...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Nvidia`, `#Semiconductors`, `#AI Chips`, `#Government Policy`, `#Jensen Huang`
+**Tags**: `#Space Launch`, `#ULA Vulcan`, `#Amazon Kuiper`, `#Satellite Internet`, `#Launch Failure`
 
 ---
 
 <a id="item-5"></a>
-## [Nvidia Leadership Shift Could Reshape AI Startup Funding](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/) ⭐️ 8.0/10
+## [Shamonda Virus Emerges in European Cattle, Raises Pregnancy Concerns](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902232-4/fulltext?rss=yes) ⭐️ 8.0/10
 
-Nvidia’s planned leadership transition following Jensen Huang’s reported departure is expected to disrupt the company’s AI-startup investment strategy. Founders and venture capitalists say they expect smaller investment checks and lower startup valuations. Nvidia has become a major source of capital and strategic support for AI startups, so a change in its leadership could affect funding pipelines, partnerships, and access to critical hardware. The impact may spread beyond startups backed directly by Nvidia as investors reassess the broader AI venture ecosystem. Nvidia-backed financing accounted for 27.2% of global venture-capital deal value in 2026 through the reported period. Beyond providing cash, Nvidia investments can provide startup access to its GPU hardware and an important signal of market validation.
+In June 2026, Shamonda virus was identified in cattle in central Europe, including France, Germany, and Switzerland, where it is transmitted by bites of Culicoides midges. Viral RNA was detected in aborted bovine fetuses, suggesting transplacental \(vertical\) transmission of the virus. If a midge-borne orthobunyavirus can cross the placenta in cattle, the same route in humans would be a plausible pathway for fetal infection and adverse pregnancy outcomes, echoing what is now documented for Oropouche virus in Brazil. The detection matters because human exposure to Shamonda virus appears to have been confirmed in France, raising the possibility of a new, poorly understood reproductive health risk in Europe. Shamonda virus is a vector-borne orthobunyavirus in the family Peribunyaviridae and belongs to the Simbu group alongside Schmallenberg and Akabane viruses; it infects cattle as well as sheep, goats, horses and alpacas. The findings remain preliminary — viral RNA in aborted fetuses indicates transplacental transmission but does not yet establish the extent of fetal infection, nor does it demonstrate human pregnancy outcomes.
 
-rss · TechCrunch AI · Nov 13, 22:43
+rss · The Lancet · 最新文章 · Nov 13, 23:30
 
-**Background**: Nvidia’s AI strategy extended beyond selling chips to include tens of billions of dollars in startup investments, often linking emerging companies with its hardware and ecosystem. This made its corporate strategy unusually influential within venture capital. PitchBook reported that Nvidia-backed rounds represented 27.2% of global VC deal value in 2026 year to date, illustrating the scale of the company’s role.
+**Background**: Orthobunyaviruses are bunyaviruses mainly transmitted by biting midges; several members of the Simbu group, such as Schmallenberg and Akabane viruses, are well known for causing abortions and congenital malformations in livestock. Oropouche virus, a related midge-borne orthobunyavirus, was linked to miscarriages, stillbirths and congenital anomalies in Brazil, prompting CDC health advisories on travel and pregnancy. Shamonda virus was long regarded as a livestock pathogen that did not infect humans, but French authorities have since confirmed a human case, making its zoonotic and pregnancy-related implications an open question.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pitchbook.com/news/reports/q4-2026-too-central-to-fail-the-ai-venture-ecosystem-built-around-one-companys-strategy">Too Central to Fail: The AI Venture Ecosystem Built Around ...</a></li>
-<li><a href="https://explore.n1n.ai/blog/nvidia-leadership-transition-ai-startup-funding-2026-11-15">Nvidia Leadership Transition and the Future of AI Startup Funding</a></li>
-<li><a href="https://emergent.sh/news/jensen-huang-exit-shakes-ai-startup-funding">Jensen Huang Exit Shakes AI Startup Funding Landscape</a></li>
+<li><a href="https://www.woah.org/en/disease/shamonda-virus/">Shamonda virus - WOAH - World Organisation for Animal Health</a></li>
+<li><a href="https://www.thehindu.com/sci-tech/health/shamonda-virus-the-livestock-pathogen-detected-in-human-for-the-first-time-explained/article71615063.ece">Shamonda virus , the livestock pathogen detected in... - The Hindu</a></li>
+<li><a href="https://www.cdc.gov/oropouche/symptoms/oropouche-and-pregnancy.html">Complications of Oropouche and Pregnancy | Oropouche | CDC</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI startups`, `#venture capital`, `#Nvidia`, `#Jensen Huang`, `#startup funding`
+**Tags**: `#Shamonda virus`, `#orthobunyavirus`, `#pregnancy`, `#zoonosis`, `#emerging infections`
 
 ---
 
 <a id="item-6"></a>
-## [NoisyTCP Claims Pre-Auth Linux TCP Memory Corruption](https://github.com/V4bel/NoisyTCP) ⭐️ 8.0/10
+## [MacBook Pro Tandem OLED Raises PWM Flicker Concerns](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ⭐️ 7.0/10
 
-The NoisyTCP repository claims a Linux kernel TCP vulnerability, CVE-2026-99288, that could enable unauthenticated remote memory corruption. The supplied material does not include a technical write-up, proof-of-concept details, upstream confirmation, or affected and fixed kernel versions. If validated, a pre-authentication flaw in widely deployed Linux TCP implementations could expose servers to denial of service, information disclosure, or potentially remote code execution. However, the claim currently lacks the corroboration and technical documentation needed to assess its real-world severity or exploitability. The repository labels the issue CVE-2026-99288 and characterizes it as pre-authentication remote memory corruption in the Linux kernel TCP stack. Search results describe a different CVE, CVE-2026-98432, as a critical IPv4 TCP handshake use-after-free with a CVSS score of 9.8, so the two identifiers should not be treated as interchangeable without authoritative clarification.
+The investigation reports that PWM dimming in MacBook Pro tandem-OLED screens may produce perceptible flicker even when the effective modulation rate is relatively high. Measurements discussed in the discussion suggest individual layers may operate around 480 Hz, potentially combining for an effective 960 Hz at most usable brightness levels. Flicker can cause discomfort, eye fatigue, or headaches in sensitive users, making the issue an accessibility concern rather than merely a display specification dispute. It may also affect purchasing decisions and pressure Apple to explain or improve its dimming behavior. PWM controls brightness by rapidly switching the display on and off, with brightness represented by the proportion of each cycle that remains illuminated. The article&\#x27;s 240 Hz interpretation was disputed by commenters, who argued that the measured behavior is more consistent with 480 Hz per layer and phase-offset operation yielding 960 Hz; the affected MacBook Pro model coverage remains unclear.
 
-rss · Hacker News \(best\) · Nov 15, 20:28
+hackernews · Hacker News \(热门\) · Nov 15, 13:15 · [Discussion](https://news.ycombinator.com/item?id=50506719)
 
-**Background**: Linux handles network connections through its kernel networking stack, including the TCP protocol used for reliable transport. A pre-authentication memory-corruption flaw would be especially significant because an attacker could potentially trigger vulnerable kernel code before completing a TCP or application-layer authentication exchange. Claims involving Linux kernel vulnerabilities normally require reproducible research, affected-version analysis, and coordination with the kernel security team before their impact can be established.
+**Background**: PWM dimming is widely used in OLED and other displays, and a nominal or effective frequency does not by itself describe every aspect of temporal brightness variation. Tandem OLED uses multiple emissive layers to improve brightness or efficiency, which can also complicate modulation measurements. Human sensitivity to flicker varies considerably, so a frequency visible to instruments may remain comfortable for some users while being troublesome for others.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.aikido.dev/blog/linux-kernel-tcp-rce-vulnerability-cve-2026-98432">Linux kernel TCP RCE vulnerability ( CVE - 2026 -98432): fix</a></li>
-<li><a href="https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf">Linux &#x27;s October 2026 TCP Use-After-Free: CVE - 2026 -98432 — Atlas</a></li>
-<li><a href="https://www.rescana.com/post/linux-kernel-tcp-cve-2026-98432-use-after-free-prepare-now">Linux Kernel CVE - 2026 -98432: Critical TCP Use-After-Free, Ubuntu...</a></li>
+<li><a href="https://www.oled-info.com/pulse-width-modulation-pwm-oled-displays">Pulse-width modulation (PWM) in OLED displays - OLED-Info What is PWM dimming, and what are the alternatives? What Is Display PWM Dimming? - LaptopJudge How The Brightness of An OLED Screen Can Be Controlled? What Is PWM Display Dimming? - LaptopJudge PWM Dimming: Meaning and How It Works - Consumer Arena</a></li>
+<li><a href="https://forums.macrumors.com/threads/rip-macbook-pro-for-pwm-sensitive-souls-apple-cmon.2493735/">RIP MacBook Pro for PWM -Sensitive Souls... | MacRumors Forums</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux Kernel`, `#TCP`, `#Remote Code Execution`, `#Cybersecurity`, `#CVE-2026-99288`
+**Discussion**: Commenters challenged the original 240 Hz measurement and proposed that two 480 Hz layers, operating 180 degrees out of phase, create an effective 960 Hz pattern at most usable brightness. Others welcomed attention to flicker sensitivity, linked it to headaches, concentration problems, and post-concussion symptoms, and questioned whether all M-series models are affected.
+
+**Tags**: `#MacBook Pro`, `#OLED`, `#PWM dimming`, `#display technology`, `#accessibility`
 
 ---
 
 <a id="item-7"></a>
-## [Italy Fines Meta €805 Million Over Android Gallery Access](https://dev.to/superfunicular/italy-fined-meta-eu805m-over-facebooks-android-gallery-access-the-rule-applies-even-if-nothing-is-36jl) ⭐️ 8.0/10
+## [How Modern LLMs Encode Token Positions](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) ⭐️ 7.0/10
 
-Italy’s data protection authority, the Garante, fined Meta €805 million for accessing Android users’ photos, videos, and metadata without specific consent. Meta has 60 days to disable the gallery-suggestions feature by default and obtain separate, specific consent. The action affects roughly 20 million Android users in Italy and reinforces that reading local media can itself require specific consent, even when no files are uploaded or leave the device. It raises compliance expectations for mobile apps that combine broad media permissions with optional features. The Garante acted under Article 122 of Italy’s privacy code, which implements the EU’s ePrivacy rules, rather than GDPR. Facebook reportedly used one vague, app-wide permission to browse the entire gallery for gallery suggestions; the regulator reserved analysis of Meta’s newer cloud-processing feature for a separate review.
+The article explains how modern large language models implement and learn positional embeddings, connecting their mechanics to the group-representation foundations of methods such as rotary positional embeddings \(RoPE\). It also previews the positional-embedding choices used by open-weight models in 2026. Understanding positional encoding is essential for interpreting how transformers distinguish token order, generalize across sequence lengths, and make design choices among learned, sinusoidal, and rotary methods. The group-theoretic perspective may also help researchers reason about why a particular positional scheme behaves as it does. RoPE applies position-dependent rotations to pairs of model dimensions, combining aspects of absolute and relative positional information. In the representation-theory view, these embeddings are constructed as differentiable group representations, which provides a mathematical basis for parameterizing and learning them.
 
-rss · Dev.to · Nov 15, 20:32
+hackernews · Hacker News \(热门\) · Nov 15, 12:14 · [Discussion](https://news.ycombinator.com/item?id=50506376)
 
-**Background**: Android 13 replaced broad storage access with separate media permissions, while Android 14 introduced partial photo and video access. The system photo picker also allows apps to receive only files selected by the user, and Google Play’s photo and video permissions policy expects apps without a core need for broad library access to use the picker. The Garante’s position is that smartphone contents form part of a person’s private sphere, so on-device reading is not automatically harmless merely because nothing is uploaded.
+**Background**: Transformers process tokens in parallel, so they need an explicit mechanism to represent sequence order and distance. Positional embeddings add this information either as learned vectors, fixed sinusoidal features, or transformations such as the rotations used by RoPE. RoPE was proposed in 2022 and was subsequently adopted in prominent models such as PaLM and LLaMA.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://developer.android.com/about/versions/14/changes/partial-photo-video-access">Grant partial access to photos and videos - Android Developers android - Permissions needed reading picture from gallery ... Required actions to comply with our Photo &amp; Video Permissions ... awake/docs/permissions/storage/read-media-images.md ... - GitHub Android permissions to access media store - Stack Overflow READ_MEDIA_IMAGES - AWAKE</a></li>
-<li><a href="https://developer.android.com/reference/android/provider/MediaStore">MediaStore | API reference | Android Developers</a></li>
+<li><a href="https://magazine.sebastianraschka.com/p/understanding-positional-embeddings">Understanding Positional Embeddings in Modern LLMs</a></li>
+<li><a href="https://apxml.com/courses/how-to-build-a-large-language-model/chapter-13-positional-encoding-variations/rotary-position-embedding-rope">Rotary Position Embedding ( RoPE ) Explained</a></li>
+<li><a href="https://learnopencv.com/rope-position-embeddings/">Inside RoPE : Rotary Magic into Position Embeddings</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#data-privacy`, `#GDPR`, `#Android`, `#Meta`, `#mobile-security`
+**Discussion**: The available comment argues that implementation details alone are insufficient and that positional embeddings should be understood through theory. It specifically characterizes RoPE as a representation of the translation group and connects group representations with differentiable parameterization and learning.
+
+**Tags**: `#LLMs`, `#positional embeddings`, `#RoPE`, `#transformer architecture`, `#representation theory`
 
 ---
 
 <a id="item-8"></a>
-## [Shamonda Virus Emerges in European Cattle](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902232-4/fulltext?rss=yes) ⭐️ 8.0/10
+## [An NES Emulator Written in Odin](https://lucypero.com/lucynes.html) ⭐️ 7.0/10
 
-In June 2026, Shamonda virus was identified in cattle in France, Germany, and Switzerland, marking its reported emergence in central Europe. Viral RNA detected in aborted bovine fetuses provides evidence consistent with transplacental transmission. Transplacental infection may cause pregnancy loss and fetal abnormalities in cattle and raises questions about possible implications for human pregnancy. The findings also signal that midge-borne orthobunyaviruses remain an important veterinary and emerging public-health concern. Shamonda virus is an RNA virus in the Orthobunyavirus genus and is thought to be transmitted among ruminants by bites from Culicoides midges. The evidence presented is detection of viral RNA in aborted fetuses, but the correspondence does not establish the frequency, clinical spectrum, or human pregnancy risks of infection.
+A complete Nintendo Entertainment System emulator was implemented in the Odin programming language, demonstrating that Odin can support a substantial low-level emulation project. The project provides a practical showcase of Odin&\#x27;s systems-programming capabilities and its interoperability with C. The project serves as a real-world test of Odin for systems programming rather than merely a language demonstration. It highlights Odin&\#x27;s potential for emulator development, game tooling, and other performance-sensitive software while encouraging comparison with C, Zig, C3, and Hare. Accurate NES emulation requires reproducing the console&\#x27;s CPU, PPU, memory layout, and timing behavior, including the difficult visual effects produced by games. One community participant noted a practical limitation of Odin: its LLVM version requirements can restrict portability to older or legacy machines.
 
-rss · The Lancet · 最新文章 · Nov 13, 23:30
+hackernews · Hacker News \(热门\) · Nov 15, 12:51 · [Discussion](https://news.ycombinator.com/item?id=50506588)
 
-**Background**: Orthobunyaviruses include livestock viruses that can cross the placenta and cause abortion, congenital malformations, or other reproductive outcomes in ruminants. Shamonda virus primarily infects cattle and other ruminants, while the precise Culicoides species involved in its transmission remain under investigation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.who.int/news-room/questions-and-answers/item/shamonda-virus">Shamonda virus - World Health Organization (WHO)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Shamonda_virus">Shamonda virus - Wikipedia</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10673010/">Biting Midges (Diptera: Ceratopogonidae) as Vectors of ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Shamonda virus`, `#emerging infections`, `#orthobunyavirus`, `#pregnancy`, `#public health`
-
----
-
-<a id="item-9"></a>
-## [Tandem-OLED MacBook Pro PWM Draws Flicker Concerns](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/) ⭐️ 7.0/10
-
-An investigation reports that PWM dimming in tandem-OLED MacBook Pro screens may be uncomfortable for people sensitive to flicker. Measurements and user reports raise concerns that a display marketed as more advanced may trade viewing comfort for image quality. PWM-related flicker can contribute to eye strain, headaches, or migraines for sensitive users, so the issue is an accessibility concern rather than merely a technical specification. It also creates a product-design tradeoff for Apple because the MacBook Pro lacks the display-pulse-smoothing option available on some other Apple devices. Community measurements dispute a reported 240 Hz figure, with one participant suggesting the two tandem-OLED layers may each pulse at 480 Hz and 180 degrees out of phase, potentially producing an effective 960 Hz at most usable brightness. Camera and oscilloscope results can depend on setup and measurement method, so the exact flicker rate and comfort threshold remain important caveats.
-
-hackernews · Hacker News \(热门\) · Nov 15, 13:15 · [Discussion](https://news.ycombinator.com/item?id=50506719)
-
-**Background**: PWM dimming controls brightness by rapidly switching the display&\#x27;s light output on and off. OLED panels emit their own light, but their brightness regulation can still use PWM to preserve color consistency, especially at lower brightness levels. Perceived flicker varies with frequency, modulation depth, brightness, and individual sensitivity, and some users report discomfort even when others notice nothing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://displayman.com/what-is-oled-flickering/">OLED Flicker: PWM, DC Dimming &amp; Testing | DisplayMan</a></li>
-<li><a href="https://www.oled-info.com/pulse-width-modulation-pwm-oled-displays">Pulse-width modulation (PWM) in OLED displays - OLED-Info OLED Eye Strain and PWM Flicker: How to Test and Reduce ... PWM Flicker Test: Check If Your Monitor Uses PWM Dimming PWM Flicker Test - Check Your Screen for PWM Dimming - XBitLabs Help me understand PWM on LCD vs OLED : r/PWM_Sensitive - Reddit</a></li>
-<li><a href="https://daily.dev/posts/the-macbook-pro-s-oled-pwm-problem-when-a-better-display-becomes-worse-to-use-bxu5e2tu9">The MacBook Pro&#x27;s OLED PWM Problem: When a &#x27;Better&#x27;...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Discussion participants generally welcomed attention to flicker sensitivity and shared personal experiences involving eye strain, headaches, and concentration problems. They disagreed over the reported frequency, with one suggesting an effective 960 Hz rather than 240 Hz, while another cited research showing that some people can perceive flicker at frequencies well above a display&\#x27;s refresh rate.
-
-**Tags**: `#display-technology`, `#OLED`, `#PWM-dimming`, `#MacBook-Pro`, `#accessibility`
-
----
-
-<a id="item-10"></a>
-## [Microsoft 365 Outage Reportedly Blocked Chlorine Safety Alert](https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html) ⭐️ 7.0/10
-
-Fifteen guests at a German hotel were treated for chlorine-gas exposure after a Microsoft 365 disruption reportedly prevented delivery of an automated overdose alert from a pool-maintenance safety system. Forty first responders were deployed for triage, and four guests were hospitalized. The incident highlights how routing a safety-critical alert through a single cloud email channel can turn a cloud outage into a public-health risk. It raises broader questions about fault attribution and the need for redundant, independently deliverable alerting for hazards capable of causing mass harm. The affected system automatically monitors chlorine dosing and sends warnings by email through Microsoft Outlook; reports say the warning was generated but not received during the outage. The available reporting does not provide details about the technical cause of the Microsoft 365 disruption, the hotel’s fallback procedures, or the system operator’s exact response.
-
-hackernews · Hacker News \(热门\) · Nov 15, 18:36 · [Discussion](https://news.ycombinator.com/item?id=50509411)
-
-**Background**: Pool chlorine dosing systems can use automated monitoring to detect excessive chemical levels and alert operators before guests are exposed. Chlorine gas exposure can injure the respiratory system and irritate the eyes, nose, and throat, which explains the triage and hospitalization described in the incident.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized">Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel...</a></li>
-<li><a href="https://babnews.org/articles/59888">Microsoft 365 outage leads to chlorine gas poisoning of 15 ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Chlorine_gas_poisoning">Chlorine gas poisoning - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Discussion participants sharply disputed responsibility: some argued that Microsoft should not bear primary fault, while others emphasized that any system capable of mass harm should use redundant and resilient alert delivery. One commenter distinguished the outage as a possible proximate cause rather than the root cause, and another noted their Microsoft affiliation without defending the outage.
-
-**Tags**: `#Microsoft 365`, `#cloud reliability`, `#incident response`, `#safety systems`, `#resilient architecture`
-
----
-
-<a id="item-11"></a>
-## [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings) ⭐️ 7.0/10
-
-The article provides an in-depth explanation of how modern large language models implement positional embeddings, with particular attention to rotary positional embeddings \(RoPE\). It also introduces theoretical context for interpreting these mechanisms rather than focusing only on implementation details. Understanding positional embeddings is essential for interpreting how Transformer models represent token order and sequence length. This knowledge helps developers reason about RoPE, model architecture, and behavior beyond the positions seen during training. RoPE incorporates absolute-position-dependent rotations into the query and key representations, allowing relative position information to emerge through attention. The article emphasizes that implementation details alone are insufficient, since positional embeddings can also be understood through group representations and their parameterization as differentiable, learnable components.
-
-hackernews · Hacker News \(热门\) · Nov 15, 12:14 · [Discussion](https://news.ycombinator.com/item?id=50506376)
-
-**Background**: Transformer models do not inherently preserve the order of input tokens, so positional embeddings provide information about where each token appears in a sequence. Sinusoidal embeddings are one established approach, while RoPE uses rotation matrices indexed by token position and is widely used in modern LLMs. RoPE is often described as position-dependent rotations applied to query and key vectors, with relative offsets influencing attention scores.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://harrisonpim.com/blog/understanding-positional-embeddings-in-transformer-models">Understanding positional embeddings in transformer models</a></li>
-<li><a href="https://apxml.com/courses/how-to-build-a-large-language-model/chapter-13-positional-encoding-variations/rotary-position-embedding-rope">Rotary Position Embedding ( RoPE ) Explained</a></li>
-<li><a href="https://deepwiki.com/huggingface/transformers/5.3-attention-mechanisms-and-positional-embeddings">Positional Embeddings | huggingface/ transformers | DeepWiki</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The leading community comment argues that positional embeddings should be understood theoretically as group representations, which also explains how they can be parameterized to remain differentiable and learnable. It specifically characterizes RoPE as a representation of the translation group, adding a mathematical perspective to the article&\#x27;s implementation-focused treatment.
-
-**Tags**: `#LLMs`, `#positional-embeddings`, `#RoPE`, `#transformers`, `#representation-theory`
-
----
-
-<a id="item-12"></a>
-## [DRAM Price-Fixing Lawsuit Survives Dismissal Motion](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal) ⭐️ 7.0/10
-
-A court denied a motion to dismiss an alleged price-fixing conspiracy involving Samsung, SK Hynix, and Micron. The ruling allows the DRAM pricing litigation to continue rather than ending it at the preliminary stage. DRAM is a core input for PCs, servers, and AI infrastructure, so sustained allegations of price coordination could affect hardware costs, semiconductor competition, and scrutiny of the memory market. The case also revives concerns about whether a concentrated market can support coordinated pricing without explicit agreements. The decision concerns the survival of claims alleging a three-party DRAM price-fixing conspiracy; it does not establish liability or prove that the defendants fixed prices. The discussion highlights extreme RAM and GPU costs for workstation buyers and raises the broader possibility that prior conduct can shape expectations even without new overt collusion.
-
-hackernews · Hacker News \(热门\) · Nov 15, 01:18 · [Discussion](https://news.ycombinator.com/item?id=50502988)
-
-**Background**: DRAM, or dynamic random access memory, is volatile semiconductor memory that stores data temporarily while a computer is running and must be refreshed periodically to retain its contents. Price fixing generally involves competitors coordinating prices, output, or other commercial terms in violation of antitrust laws. DRAM has a history of price-fixing litigation, and previous incidents have shown how such conduct can generate sharp price movements and regulatory scrutiny.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Price_fixing">Price fixing - Wikipedia</a></li>
-<li><a href="https://spectrum.ieee.org/price-fixing-in-the-memory-market">Price Fixing in the Memory Market - IEEE Spectrum</a></li>
-<li><a href="https://www.techtarget.com/news/DRAM-dynamic-random-access-memory/859159/">DRAM ( dynamic random access memory ) | TechTarget</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Community sentiment strongly supports action against alleged price fixing, with users describing severe memory and GPU costs for professional hardware. Some commenters view the market as a three-party prisoners&\#x27; dilemma shaped by past enforcement, while others dispute the antitrust argument by pointing to older DDR generations and potential capacity reallocation; one commenter also questioned the reliability of machine-generated news coverage.
-
-**Tags**: `#DRAM`, `#antitrust`, `#semiconductors`, `#hardware-pricing`, `#AI-infrastructure`
-
----
-
-<a id="item-13"></a>
-## [Lutnick Faces Alleged Conflict Over AI Chip Export Rules](https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html) ⭐️ 7.0/10
-
-The New York Times reported that Howard Lutnick pushed to weaken U.S. chip-export rules that could affect business interests linked to his family’s financial enterprise, Cantor Fitzgerald. The report also said Cantor Fitzgerald has dealt with Southeast Asian data-center companies serving Chinese clients and could be affected by regulations Lutnick was drafting. Export controls on advanced AI chips are a central element of U.S. national-security and technology policy toward China. If a senior official helps shape rules involving companies connected to his family, the episode could raise ethics, influence, and national-security concerns while affecting how companies plan investments and chip sales. The allegations concern proposed export restrictions and Cantor Fitzgerald’s dealings with data-center operators in Southeast Asia that cater to Chinese clients. Additional reporting says Cantor Fitzgerald represented Bitdeer in a stock offering of up to $1 billion this year and helped arrange financing of up to $250 million in 2024; the allegations should not be treated as proof that Lutnick took a specific action for his family’s benefit.
-
-hackernews · Hacker News \(热门\) · Nov 15, 11:40 · [Discussion](https://news.ycombinator.com/item?id=50506180)
-
-**Background**: U.S. semiconductor export controls restrict access to advanced computing products, including Nvidia AI accelerators, as part of efforts to limit China’s access to strategic technologies. The controls also cover advanced semiconductor manufacturing equipment, and their design has implications for global chip companies, data-center operators, and the development of China’s semiconductor industry. Cantor Fitzgerald is an investment firm led by Lutnick for more than three decades before his government service, while his sons now lead it.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html">Lutnick Pushed to Weaken Chip Rules That Overlap With His ...</a></li>
-<li><a href="https://www.aib.vote/en/news/lutnick-cantor-fitzgerald-chip-export-controls">NYT Reports Lutnick Ties Raise Chip-Export Conflict Concerns</a></li>
-<li><a href="https://www.tomshardware.com/tech-industry/policy/new-us-export-controls-reportedly-target-chinese-access-to-remote-ai-servers-trump-admins-cut-down-ai-diffusion-rule-could-be-shared-with-industry-as-soon-as-september">New US export controls reportedly target Chinese... | Tom&#x27; s Hardware</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The Hacker News discussion was overwhelmingly negative, with commenters condemning Lutnick’s ethics and alleged manipulation of export controls for private gain. One commenter made a specific, unverified allegation involving a Malaysian data center and Chinese military access to Nvidia Blackwell systems, while others expressed broader distrust of the administration; the thread offered little rigorous technical analysis.
-
-**Tags**: `#semiconductors`, `#export-controls`, `#conflicts-of-interest`, `#AI-chips`, `#national-security`
-
----
-
-<a id="item-14"></a>
-## [bhyve Live Migration Moves Running VMs Between FreeBSD Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) ⭐️ 7.0/10
-
-The article analyzes the RFC and implementation status of live migration for bhyve on FreeBSD 15.1. A running amd64 guest can move between two hosts over TCP and remains active during the pre-copy phase, pausing only for the final stop-and-copy step. Live migration can move workloads between FreeBSD hosts with little or no guest downtime, improving host maintenance, load balancing, and infrastructure flexibility. It could make bhyve more practical for production environments that require workload continuity. The implementation uses pre-copy memory transfer, dirty-page tracking, and a final stop-and-copy phase to transfer guest CPU and device state. The reported first working state supports an amd64 guest over TCP, but the migration mechanism remains subject to documented limitations.
-
-rss · Lobsters \(技术社区\) · Nov 15, 06:44
-
-**Background**: bhyve is FreeBSD&\#x27;s hypervisor, and live migration means transferring a running virtual machine to another host without fully powering it off. The proposed design tracks memory pages changed during pre-copy, then briefly pauses the guest to synchronize remaining state. Earlier FreeBSD research presented dirty-bit detection and save-and-restore techniques for guest CPU and device state.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://papers.freebsd.org/2019/asiabsdcon/mihalescu-freebsd_live_migration_feature_for_bhyve/">FreeBSD - Live Migration feature for bhyve :: FreeBSD Presentations...</a></li>
-<li><a href="https://papers.freebsd.org/2019/asiabsdcon/mihalescu-FreeBSD_Live_Migration_feature_for_bhyve.files/mihalescu-FreeBSD_Live_Migration_feature_for_bhyve.pdf">FreeBSD - Live Migration feature for bhyve</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The supplied content contains only a link to comments and does not include the comments themselves, so broader community sentiment cannot be assessed.
-
-**Tags**: `#FreeBSD`, `#bhyve`, `#Live Migration`, `#Virtualization`, `#RFC`
-
----
-
-<a id="item-15"></a>
-## [Preventing Cross-Service UDP Loops in QUIC](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic) ⭐️ 7.0/10
-
-Google&\#x27;s Bug Hunters blog explains how cross-service UDP traffic loops can arise in systems using QUIC and describes methods for detecting and preventing them. It also presents general conclusions applicable beyond the specific implementation discussed. Infinite forwarding loops between servers can degrade performance or overload the network, particularly when UDP-based QUIC traffic crosses service boundaries. Effective loop prevention can therefore improve reliability in large distributed infrastructures. The core failure mode involves UDP packets being repeatedly forwarded among services until the loop becomes infinite. The article focuses on practical prevention strategies and general lessons rather than documenting a particular software release or product update.
-
-rss · Lobsters \(技术社区\) · Nov 15, 20:34
-
-**Background**: QUIC, short for Quick UDP Internet Connections, is an encrypted transport protocol designed to improve web performance and security, with HTTP/3 built on top of it. Unlike TCP, UDP does not establish a connection before sending data or verify packet arrival and ordering, although QUIC supplies its own reliability features. Because QUIC operates over UDP, configurations that forward traffic between services can unintentionally create loops.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic">Blog: Preventing Cross - Service UDP Loops in QUIC</a></li>
-<li><a href="https://www.chromium.org/quic/">QUIC , a multiplexed transport over UDP</a></li>
-<li><a href="https://blog.cloudflare.com/the-road-to-quic/">The Road to QUIC | Cloudflare Blog</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#QUIC`, `#UDP`, `#Distributed Systems`, `#Networking`, `#Reliability`
-
----
-
-<a id="item-16"></a>
-## [Designing a Parallel-Programming DSL in OxCaml](https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/) ⭐️ 7.0/10
-
-Jane Street explored using OxCaml’s systems-oriented features to design a domain-specific language for high-performance parallel programming. The article presents the design and implementation of the DSL as a practical case study in combining higher-level abstractions with low-level control. A specialized DSL can let programmers express parallel computations more directly while allowing the compiler to map those abstractions onto efficient execution strategies. The work is relevant to compiler tooling, embedded languages, and safer systems programming, although the provided item does not establish production readiness or performance results. OxCaml supports multicore parallelism through mechanisms including atomics, locks, modes, and capsules, which are intended to help prevent data races. The DSL approach adds problem-specific abstractions on top of this foundation, but the supplied content contains only a link and does not document benchmarks, syntax, implementation scope, or limitations.
-
-rss · Lobsters \(技术社区\) · Nov 14, 02:57
-
-**Background**: A domain-specific language is a programming language tailored to a particular problem domain, and a compiled DSL can translate domain-specific operations into lower-level or architecture-specific code. OxCaml extends the OCaml ecosystem with systems-oriented parallel-programming infrastructure, including higher-level libraries and primitives designed to guard against data races. OCaml distinguishes concurrency, which concerns coordinating multiple tasks, from parallelism, which concerns executing work simultaneously.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://oxcaml.org/documentation/tutorials/intro-to-parallelism-part-1/">OxCaml | Tutorials | Introduction to parallelism, Part 1</a></li>
-<li><a href="https://ocaml.org/manual/parallelism.html">OCaml - Parallel programming</a></li>
-<li><a href="https://svenssonjoel.github.io/thesis/thesis.pdf">Embedded Languages for Data- Parallel</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OxCaml`, `#DSL`, `#Parallel Programming`, `#Compiler Engineering`, `#Systems Programming`
-
----
-
-<a id="item-17"></a>
-## [JWST Finds Ice Predating Its Host Star](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) ⭐️ 7.0/10
-
-James Webb Space Telescope observations indicate that ice in a planetary system existed before the star it now orbits. The finding suggests that radiation and collisions can reshape icy planetary-building materials over time. The result could revise the timeline of when icy material was processed and incorporated into a developing planetary system. It may also improve understanding of how volatile-rich building blocks are inherited, transformed, and delivered during planet formation. The available report is extremely brief and does not identify the observed system, observational method, measurement uncertainties, or publication details. Its central implication is that inherited ice survived an early phase involving intense stellar radiation and collisions rather than being created entirely after star formation.
-
-rss · Ars Technica · Nov 14, 12:15
-
-**Background**: Protoplanetary disks are rotating disks of dense gas and dust surrounding young stars and can supply material for forming planets. Their dust grains can accumulate layers of ice over thousands of years, and those grains may later be incorporated into planets. JWST is an infrared space telescope whose infrared observations can reveal signatures of icy and dusty material.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://science.nasa.gov/asset/webb/ice-formation-in-a-protoplanetary-disk/">Ice Formation in a Protoplanetary Disk - NASA Science</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Protoplanetary_disk">Protoplanetary disk - Wikipedia</a></li>
-<li><a href="https://science.nasa.gov/mission/webb/">James Webb Space Telescope - NASA Science</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#James Webb Space Telescope`, `#astronomy`, `#protoplanetary disks`, `#ice`, `#planet formation`
-
----
-
-<a id="item-18"></a>
-## [FAA Expands AI Air Traffic Advice Nationwide](https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/) ⭐️ 7.0/10
-
-The FAA has expanded its SMART AI advisory system to all 22 U.S. air route traffic control centers, helping controllers anticipate and manage congestion across the national airspace. Airlines have praised the tool, but the air traffic controllers’ union was not consulted before the rollout. This is a significant nationwide application of AI to safety-critical air traffic management and could help reduce delays caused by congestion. The absence of controller-union consultation raises governance concerns about operational safety, worker input, and accountability. SMART, short for Strategic Management of Airspace, Routes and Trajectories, consolidates 200 data streams, including weather, flight paths, traffic flow, and controller staffing metrics, to forecast congestion. It is presented as an advisory system for controllers rather than an autonomous controller, but the report notes criticism over the union’s exclusion.
-
-rss · Ars Technica · Nov 13, 21:20
-
-**Background**: U.S. airspace is divided among 22 air route traffic control centers, which coordinate aircraft movements and respond to changing traffic and weather conditions. SMART was initially launched by the FAA as an AI-supported planning tool intended to forecast congestion and reduce flight delays.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/">FAA expands AI advice to manage air traffic congestion across ...</a></li>
-<li><a href="https://executivegov.com/articles/faa-smart-ai-airspace-management-tool-launch">FAA Launches AI-Supported SMART Airspace Planning Tool</a></li>
-<li><a href="https://www.flyingmag.com/faa-smart-ai-now-active-at-22-artccs-nationwide/">FAA’s SMART AI System Now Active at All 22 ARTCCs</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Airline executives generally welcomed the nationwide deployment, while representatives of the air traffic controllers’ union objected to being left out of the consultation process. The disagreement highlights a broader tension between operational efficiency and frontline-worker participation in AI governance.
-
-**Tags**: `#Artificial Intelligence`, `#Air Traffic Management`, `#FAA`, `#Transportation`, `#AI Governance`
-
----
-
-<a id="item-19"></a>
-## [AI Lowers the Bar for Ransomware Attacks](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/) ⭐️ 7.0/10
-
-Attackers with limited technical sophistication are using AI tools to conduct more effective ransomware campaigns. Fully autonomous ransomware has not yet emerged, but generative AI is already improving attackers’ speed, scale, and operational effectiveness. AI-assisted attacks could enable smaller or less-skilled criminal groups to operate at a scale and effectiveness previously associated with more capable threat actors. Defenders therefore need to address the increased productivity and reach of ransomware campaigns even before fully autonomous malware becomes reality. The available reporting emphasizes AI as an amplifier of established ransomware workflows rather than a new autonomous attack technology. One threat-intelligence report cited a 1,265% increase in AI-powered phishing attempts, highlighting how AI can accelerate an important initial-access stage, though the supplied excerpt provides no figures specific to completed ransomware campaigns.
-
-rss · Wired · Nov 14, 13:00
-
-**Background**: Ransomware attacks typically involve gaining access to systems, stealing or threatening data, encrypting files or disrupting operations, and demanding payment. Generative AI can help attackers draft and refine phishing messages, research targets, and automate repetitive tasks, reducing the skills and time required to mount an attack. This development does not mean that current malware can independently select targets, navigate systems, and execute an entire campaign without human direction.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sans.org/blog/ai-powered-ransomware-how-threat-actors-weaponize-ai-across-attack-lifecycle">AI-Powered Ransomware: How Threat Actors Weaponize AI Across ...</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/">How enterprise GenAI can amplify ransomware risk — and how to ...</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S2214212626001778">Rethinking ransomware defense in the age of generative AI</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI security`, `#ransomware`, `#cybersecurity`, `#generative AI`, `#threat intelligence`
-
----
-
-<a id="item-20"></a>
-## [Galaxy Collisions Strip Ghost Galaxies of Dark Matter](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/) ⭐️ 7.0/10
-
-Astronomers found that collisions appear to have ejected dark matter from certain ghostly galaxies. Their unexpectedly low dark-matter content provides observational evidence that dark matter behaves differently from ordinary matter. Galaxies normally contain far more dark matter than visible matter, so dark-matter-deficient remnants are important tests of how collisions reshape cosmic structures. These systems strengthen the case for dark matter and offer clues about how it separates from stars and gas during major mergers. During galaxy collisions, stars and gas can be dispersed while dark matter is displaced, leaving behind unusually faint “ghost” galaxies. The key evidence is not direct detection of individual dark-matter particles, but the observed distribution and depletion of dark matter in collision remnants.
-
-rss · Wired · Nov 14, 10:00
-
-**Background**: Galaxies consist of stars, gas, and an extended halo of dark matter that supplies much of their gravitational influence. Because stars occupy only tiny, widely separated regions, they often pass through one another during collisions, whereas gas interacts through shocks and is slowed. Previous galaxy-cluster collisions showed that dark matter can separate from visible matter, helping astronomers infer its presence indirectly.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.caltech.edu/about/news/dark-matter-flies-ahead-of-normal-matter-in-mega-galaxy-cluster-collision">Dark Matter Flies Ahead of Normal Matter in Mega Galaxy ...</a></li>
-<li><a href="https://www.independent.co.uk/news/science/the-galaxy-collisions-that-shed-light-on-unseen-parallel-universe-a119096.html">The galaxy collisions that shed light on unseen... | The Independent</a></li>
-<li><a href="https://arstechnica.com/science/2017/02/a-history-of-dark-matter/">A history of dark matter - Ars Technica</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#astronomy`, `#dark matter`, `#galaxy collisions`, `#astrophysics`, `#cosmology`
-
----
-
-<a id="item-21"></a>
-## [Cuttlefish Brings Android Virtual Devices to Apple Silicon Macs](https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/) ⭐️ 7.0/10
-
-Facebook has detailed support for running Android Cuttlefish virtual devices on Apple Silicon Macs. The development extends Cuttlefish beyond its previously documented Linux x86 and ARM64 hosts to a major desktop platform and architecture. Cuttlefish on macOS could give Android developers and automated test infrastructure a more native option for running configurable Android virtual devices on widely used Apple Silicon hardware. It may also bring Android and iOS build-and-test workflows closer to consolidation on shared Mac-based infrastructure. Cuttlefish is a configurable, virtual Android device with hardware profiles and support for local or remote execution. The announcement is distinct from the conventional Android Emulator: Cuttlefish is designed around virtualization, while Apple Silicon support may depend on macOS virtualization capabilities and compatible Android images.
-
-rss · Hacker News \(best\) · Nov 15, 20:30
-
-**Background**: Cuttlefish is Google&\#x27;s virtual Android device framework, intended for development, testing, and scalable deployment of Android software. Google documents local execution on Linux x86 and ARM64 machines as well as remote execution through third-party cloud offerings. Apple&\#x27;s Virtualization framework provides a foundation for lightweight virtual machines on macOS, while the Android Emulator is a separate tool commonly launched through Android Studio.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://source.android.com/docs/devices/cuttlefish">Cuttlefish virtual Android devices | Android Devices</a></li>
-<li><a href="https://macstadium.com/blog/orka-4-0-build-and-test-ios-and-android-on-one-apple-silicon">Orka 4.0: Build and Test iOS and Android on one Apple silicon fleet</a></li>
-<li><a href="https://deepwiki.com/google/android-cuttlefish">google/ android - cuttlefish | DeepWiki</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Android`, `#Cuttlefish`, `#Apple Silicon`, `#Virtualization`, `#Developer Tools`
-
----
-
-<a id="item-22"></a>
-## [U.S. Copyright Office Defines Copyrightability for AI-Generated Works](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) ⭐️ 7.0/10
-
-The U.S. Copyright Office published Part 2 of its copyright and AI report, analyzing whether works created with generative AI qualify for copyright protection. The report reaffirms that copyright protection requires human authorship and examines the degree of human creative input needed when AI assists the creative process. The guidance directly affects creators, AI developers, businesses, and lawyers seeking to register or enforce rights in AI-assisted and AI-generated content. It provides a primary-source framework for distinguishing protectable human expression from material that the Copyright Office will not treat as the product of human authorship. The analysis focuses on the human-authorship requirement, including how prompts, selection, arrangement, and modification of AI outputs may affect registrability. The report is a policy analysis rather than legislation, so it does not itself create new copyright rights or eliminate uncertainty about particular works.
-
-rss · Hacker News \(best\) · Nov 15, 20:17
-
-**Background**: Under U.S. copyright law, the Copyright Office requires human authorship as a condition of copyright protection. Generative AI can produce expressive output from a user&\#x27;s instructions, prompting the question of whether a user may claim rights in that output and what additional creative control is required. This report follows the Office&\#x27;s 2024 Part 1 report on digital replicas and follows the reasoning in the Thaler v. Perlmutter litigation.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf">Copyright and Artificial Intelligence, Part 2 Copyrightability Report</a></li>
-<li><a href="https://www.copyright.gov/ai/ai_policy_guidance.pdf">Copyright Registration Guidance</a></li>
-<li><a href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement">Copyrightability of AI Outputs: U . S . Copyright Office Analyzes Human ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The linked Hacker News discussion contains only one comment and one point, so there is too little community feedback to establish a meaningful consensus or identify substantial disagreement.
-
-**Tags**: `#AI and copyright`, `#intellectual property`, `#US Copyright Office`, `#generative AI`, `#AI policy`
-
----
-
-<a id="item-23"></a>
-## [Lovable’s Security Scan Misses Permissive Supabase Policies](https://dev.to/howlinman24/lovables-security-scan-passed-heres-the-3-query-check-it-doesnt-do-2lj8) ⭐️ 7.0/10
-
-Lovable’s publish-time security scan can mark an application as secure even when Supabase row-level security policies allow unauthenticated users to read or modify sensitive records. The article recommends three targeted queries to test a project’s actual access controls. A passing scan may give developers false confidence that AI-generated applications are protected from public data exposure. Because Supabase’s public API key is intended for client-side use, overly permissive policies can expose data to anyone who can load the application. Enabling RLS is not sufficient: a policy using \`USING \(true\)\` permits every caller to select every row, while similar policies may expose update or delete operations. The proposed check includes an anonymous read request through the REST API and a PostgreSQL query identifying public tables with RLS disabled; tests should be run against the developer’s own project using read-only requests.
-
-rss · Dev.to · Nov 15, 20:31
-
-**Background**: Supabase uses PostgreSQL row-level security to combine table grants with policies that determine which rows and operations a user may access. Lovable automatically runs a basic security scan before publishing and can also provide deeper scans, but its Advisor-based workflow may focus on whether RLS is enabled rather than whether each policy is appropriately restrictive. The article cites a study of 159,041 Lovable projects that found publicly readable sensitive information and estimates from a separate review of 38 public codebases.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://supabase.com/docs/guides/database/postgres/row-level-security">Row Level Security - Supabase Docs</a></li>
-<li><a href="https://supabase.com/docs/guides/observability/advisors">Advisors - Supabase Docs</a></li>
-<li><a href="https://docs.lovable.dev/features/security">Security overview - Lovable Documentation</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#application-security`, `#Supabase`, `#row-level-security`, `#AI-generated-apps`, `#security-testing`
-
----
-
-<a id="item-24"></a>
-## [Grok 4.7 Launches in AWS GovCloud for Kiro](https://dev.to/pklavc/grok-47-ai-model-arrives-on-aws-govcloud-enhancing-secure-ai-development-d1j) ⭐️ 7.0/10
-
-AWS announced on November 13, 2026, that Grok 4.7 is available in the Kiro IDE and CLI within AWS GovCloud \(US\) Regions. The experimental model provides a 500,000-token context window and is intended for extended repository-scale coding and knowledge-work tasks. The launch gives U.S. government agencies and contractors access to an advanced coding model within a cloud environment designed for sensitive workloads and regulated use. Administrator-controlled model gating also allows security teams to conduct controlled pilots before expanding access. Grok 4.7 supports contexts of up to 500,000 tokens; requests up to 200,000 tokens carry a 2.7× credit multiplier, while larger requests carry a 5.4× multiplier. Because support is experimental, teams may encounter instability or incomplete feature parity, and users must update and restart Kiro to select the model.
-
-rss · Dev.to · Nov 15, 20:30
-
-**Background**: AWS GovCloud \(US\) Regions are cloud environments intended for government workloads, with data-residency, operational, and compliance controls relevant to FedRAMP, ITAR, and other U.S. government requirements. A context window is the maximum amount of text a model can process in one request, measured in tokens; larger windows can accommodate more source code and documentation, but they do not by themselves guarantee useful reasoning or long-context performance. AWS has also been expanding model choice in GovCloud through Amazon Bedrock, while Kiro provides an IDE and command-line interface for AI-assisted software development.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://aws.amazon.com/blogs/publicsector/ai-model-choice-is-now-a-mission-advantage-multiple-ai-models-available-in-aws-govcloud-us/">AI Model choice brings Mission Advantage to AWS GovCloud (US ...</a></li>
-<li><a href="https://docs.aws.amazon.com/govcloud-us/latest/UserGuide/govcloud-bedrock.html">Amazon Bedrock in AWS GovCloud (US) - AWS GovCloud (US)</a></li>
-<li><a href="https://kiro.dev/downloads/">Downloads - Kiro</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Grok 4.7`, `#AWS GovCloud`, `#AI coding`, `#government AI`, `#long-context models`
-
----
-
-<a id="item-25"></a>
-## [Turbo Pascal’s Remarkably Small Footprint](https://prog21.dadgum.com/116.html) ⭐️ 6.0/10
-
-This 2011 retrospective humorously compares the tiny size of Turbo Pascal programs with modern Unix utilities, development environments, and even web images. A cited example notes that Borland’s 1986 Turbo Pascal 3.02 executable occupied only 39,731 bytes. The comparison highlights how dramatically software ecosystems have expanded through reusable libraries, portable runtimes, abstraction layers, and developer tooling. It also raises a broader question about whether much of today’s added complexity still delivers enough value to justify its size and operational costs. Turbo Pascal was a Borland compiler and integrated development environment for Pascal, introduced in the 1980s and known for fast compilation. The comparisons are intentionally provocative rather than strictly like-for-like, because binary size depends on architecture, functionality, portability, dependencies, and the tooling assumptions of each environment.
-
-hackernews · Hacker News \(热门\) · Nov 15, 13:44 · [Discussion](https://news.ycombinator.com/item?id=50506894)
-
-**Background**: Turbo Pascal combined a compiler with an integrated editor and other development tools for CP/M and MS-DOS, allowing developers to build and run programs in a compact environment. Code bloat refers to executable or machine code that is unnecessarily long, slow, or wasteful, and modern package-based software can add substantial dependencies. Binary-size comparisons should therefore be read as commentary on changing engineering practices, not as a universal ranking of language quality.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Turbo_Pascal">Turbo Pascal - Wikipedia</a></li>
-<li><a href="https://techbytes.app/posts/things-that-turbo-pascal-is-smaller-than-2011/">Things That Turbo Pascal Is Smaller Than (2011) | Tech Bytes</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Code_bloat">Code bloat - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters praised Anders Hejlsberg and Pascal’s design legacy while expressing surprise that simple Unix commands could occupy more space than Turbo Pascal. Others questioned whether historical binary comparisons are meaningful, argued that modern complexity supports productivity, and expressed curiosity about why Pascal declined despite its influence and popularity.
-
-**Tags**: `#Turbo Pascal`, `#software size`, `#programming languages`, `#Unix`, `#developer productivity`
-
----
-
-<a id="item-26"></a>
-## [Emacs Offers a Focused Browser for Static Web Content](https://joshblais.com/blog/emacs-as-my-browser/) ⭐️ 6.0/10
-
-The article presents Emacs, particularly its built-in EWW browser, as a practical way to read static pages, blogs, and documentation in a text-centric workflow. It also explains why modern commercial sites remain an awkward fit because interactive, JavaScript-dependent experiences are not well supported. This workflow is useful for readers who value readability, low resource use, keyboard-driven operation, or browsing on constrained devices. It also highlights a broader compatibility problem: text-oriented browsers can simplify the web but cannot fully replace mainstream browsers for complex commercial services. EWW loads, parses, and displays pages inside Emacs buffers using Emacs&\#x27;s built-in web-rendering tools, with inline images available when Emacs has the required image support. It supports basic HTML but does not support CSS or JavaScript, so documentation, articles, blogs, and simple static sites work best; embedded WebKit widgets can provide a fuller experience at the cost of greater complexity.
-
-hackernews · Hacker News \(热门\) · Nov 15, 15:21 · [Discussion](https://news.ycombinator.com/item?id=50507553)
-
-**Background**: EWW, short for Emacs Web Wowser, is a lightweight web browser package included with GNU Emacs that focuses on readable, no-frills page display. Unlike a conventional browser, it renders web content into an editable Emacs buffer rather than providing a full graphical browsing experience. Text-mode browsers generally trade visual richness and modern web-platform compatibility for speed, simplicity, and low computational overhead.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.gnu.org/software/emacs/manual/html_mono/eww.html">Emacs Web Wowser - GNU</a></li>
-<li><a href="https://emacsdocs.org/docs/emacs/EWW">Emacs Docs</a></li>
-<li><a href="https://joarvarndt.se/eww.html">Web browsing in Emacs</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Participants generally viewed the approach as effective for static content and constrained hardware, with suggestions such as w3m-mode for tabs and session management and follow-mode-based column layouts for denser reading. They agreed that modern commercial platforms are the main limitation, while noting that embedded WebKit may offer a closer browser-like fallback; the discussion also connected Emacs-based reading to broader concerns about web accessibility and alternatives to HTTP\(S\).
-
-**Tags**: `#Emacs`, `#Web Browsing`, `#Text-mode Web`, `#eww`, `#Developer Productivity`
-
----
-
-<a id="item-27"></a>
-## [Apollo Grenades Revealed the Moon’s Interior](https://space.stackexchange.com/questions/37775) ⭐️ 6.0/10
-
-Apollo lunar modules carried grenade launchers for ALSEP experiments that fired controlled explosions on the Moon. The resulting seismic signals helped researchers probe the Moon’s internal structure. The experiments turned deliberately created lunar shocks into geophysical measurements, revealing how seismic waves propagate through the Moon. This data remains an important resource for understanding the Moon’s crust, mantle, core, and overall interior. The lunar-module mortar package used commands from Earth to arm and fire the grenades, with an arming signal charging circuits that controlled sequential firing. The technique was part of the broader Apollo Lunar Surface Experiments Package deployed at the Apollo 12, 14, 15, and 16 landing sites.
-
-hackernews · Hacker News \(热门\) · Nov 15, 09:06 · [Discussion](https://news.ycombinator.com/item?id=50505271)
-
-**Background**: ALSEP was a suite of scientific instruments placed on the Moon by the five Apollo missions that landed after Apollo 11. Its seismic network included passive seismic stations that recorded moonquakes, meteoroid impacts, and intentional explosions, allowing scientists to compare wave arrivals and infer the Moon’s layered interior.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Apollo_Lunar_Surface_Experiments_Package">Apollo Lunar Surface Experiments Package - Wikipedia</a></li>
-<li><a href="https://ntrs.nasa.gov/api/citations/19730001737/downloads/19730001737.pdf">Apollo Lunar Surface Experiments Package</a></li>
-<li><a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/apollo-lunar-surface-experiments-package">Apollo Lunar Surface Experiments Package - an overview ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters used NASA’s ALSEP Flight System Familiarization Manual as a primary source to clarify how the remote arming and firing circuits worked. They also connected the question to the broader Apollo 12 ALSEP deployment and distinguished it from Soviet survival weapons such as the TP-82.
-
-**Tags**: `#Apollo program`, `#ALSEP`, `#lunar seismic experiment`, `#space history`, `#NASA`
-
----
-
-<a id="item-28"></a>
-## [How Woz Hand-Programmed Apple I BASIC](https://retrocomputing.stackexchange.com/questions/17957) ⭐️ 6.0/10
-
-The discussion recounts how Steve Wozniak wrote the Apple I’s Integer BASIC by hand-assembling MOS 6502 instructions on paper before the computer hardware was available for testing. He converted the resulting opcodes into bytes and entered them directly into the machine. The story illustrates that early personal-computer software was often developed with little more than manuals, opcode tables, paper, and extensive manual calculation. It also highlights the engineering discipline behind Apple I’s user-friendly BASIC implementation and the close coupling between Wozniak’s software and hardware design. Wozniak could not afford a suitable compiler, so he hand-assembled the BASIC interpreter into 6502 machine code. The Apple I shipped with only 4 KB of RAM, preventing inclusion of floating-point support; he instead used a “Sweet 16” virtual machine for 16-bit integer operations, and the original Apple I version was distributed on cassette in 1976.
-
-hackernews · Hacker News \(热门\) · Nov 14, 22:22 · [Discussion](https://news.ycombinator.com/item?id=50501594)
-
-**Background**: The MOS 6502 was an 8-bit processor with a relatively compact instruction set, making manual machine-code programming feasible for experienced hobbyists. Integer BASIC was Wozniak’s integer-focused BASIC interpreter for the Apple I and the original Apple II, distinct from Microsoft BASIC and first distributed to Apple I owners on cassette in 1976. Early programmers commonly referred to compact opcode references, handwritten memory addresses, and hexadecimal byte listings before entering and debugging programs on the target computer.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Integer_BASIC">Integer BASIC - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Apple_I">Apple I - Wikipedia</a></li>
-<li><a href="https://6502.org/tutorials/">6502.org: Tutorials and Primers</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters described hand assembly as the normal method for many 1980s hobbyists because they had only one machine, so they wrote code on paper, entered it, and debugged it in place. They noted that programmers could memorize 30–50 common opcodes and use one-page reference tables for the rest, while some schools and labs used preprinted coding forms or BASIC-based assembly monitors when assembler tools were unavailable.
-
-**Tags**: `#Apple I`, `#Steve Wozniak`, `#6502`, `#retrocomputing`, `#assembly programming`
-
----
-
-<a id="item-29"></a>
-## [Do 8,900 House Stock Trades Beat the Market?](https://arkanumdata.com/research/house-trades) ⭐️ 6.0/10
-
-An empirical analysis examines roughly 8,900 reported stock trades by members of the U.S. House to determine whether their activity outperformed the broader equity market. The study compares disclosed congressional transactions with a market benchmark. The findings could inform scrutiny of congressional financial activity and broader questions about whether politicians possess an informational advantage in markets. Any conclusion would also need to account for disclosure delays, transaction-size estimates, and the limited information available in periodic reports. The sample contains about 8,900 trades and centers on benchmark-relative performance rather than raw gains. Congressional disclosures often cover value ranges rather than exact amounts, while reporting delays can affect how returns are attributed to the dates on which trades actually occurred.
-
-rss · Hacker News \(热门\) · Nov 15, 19:46
-
-**Background**: Members of Congress file periodic transaction reports under the STOCK Act, creating a public record of reported securities trades. Performance studies compare those disclosures with broad-market proxies such as the dividend-adjusted returns of SPY, while significance tests assess whether an apparent advantage is distinguishable from random variation. Analysts must also normalize fields, handle corrections and disclosure delays, and treat estimated transaction metrics as imperfect approximations.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.congressstock.com/about">About: Congressional Stock Trading Data &amp; Methodology ...</a></li>
-<li><a href="https://www.congressconsensus.com/performance/">Congressional Stock Trading Performance | Congress Consensus</a></li>
-<li><a href="https://congressionaltrader.com/congressional-trading-performance">Congressional Trading Performance | Congressional Trader</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#stock-trading`, `#congress`, `#market-analysis`, `#quantitative-research`
-
----
-
-<a id="item-30"></a>
-## [Eclipse Mosquitto: A Lightweight Open-Source MQTT Broker](https://github.com/eclipse-mosquitto/mosquitto) ⭐️ 6.0/10
-
-The highlighted project is Eclipse Mosquitto, an open-source message broker implementing MQTT versions 5.0, 3.1.1, and 3.1. This is a routine introduction to the project rather than an announcement of a new release or technical breakthrough. Mosquitto provides a lightweight broker for connecting resource-constrained devices and servers through MQTT, making it useful for IoT and other event-driven systems. Its open-source implementation gives developers a broadly available option for local, embedded, or self-hosted messaging infrastructure. Mosquitto is licensed under EPL/EDL and supports MQTT 5.0, 3.1.1, and 3.1. It can run on systems ranging from low-power single-board computers and Raspberry Pi to full servers, with optional authentication and authorization plugins; the publicly available test broker is intended for testing but may be unreliable, slow, or experimental.
-
-rss · Hacker News \(热门\) · Nov 15, 18:36
-
-**Background**: MQTT is an OASIS-standard, lightweight publish-subscribe messaging protocol designed for machine-to-machine communication with small code footprints and limited network bandwidth. In this model, clients publish messages to hierarchical topics through a broker, while subscribers receive messages based on their topic subscriptions. MQTT 3.1.1 and 5.0 are the two versions prominently supported by Mosquitto.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://mosquitto.org/">Eclipse Mosquitto</a></li>
-<li><a href="https://mqtt.org/">MQTT - The Standard for IoT Messaging</a></li>
-<li><a href="https://github.com/eclipse-mosquitto/mosquitto">GitHub - eclipse-mosquitto/mosquitto: Eclipse Mosquitto - An ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#MQTT`, `#IoT`, `#Message Broker`, `#Open Source`, `#Publish-Subscribe`
-
----
-
-<a id="item-31"></a>
-## [Clice 1.0 Brings Modern C++ Language Tooling](https://ykiko.me/en/articles/2105384023094834022/) ⭐️ 6.0/10
-
-Clice 1.0 has been released as a modern C++ development tool focused on improving language-tooling workflows. The project is built from scratch on LLVM and Clang, with some components adapted from clangd. The release is significant for C++ developers because Clice targets longstanding pain points in language-server architecture and provides more template-aware code intelligence. Its editor integration may improve navigation, completion, and compilation-context handling in large C++ codebases. Clice supports template-aware completion within generic code, first-class compilation contexts for headers and build configurations, and native C++20 modules support. It is also available through a Visual Studio Code extension, though the supplied article and search results provide no adoption or performance benchmarks.
-
-rss · Hacker News \(热门\) · Nov 15, 17:22
-
-**Background**: A C++ language server supplies editors with semantic code information, including completion, symbol lookup, and navigation. Because C++ combines complex templates with varied build configurations, language servers must accurately understand each header and compilation environment. Clice seeks to redesign these workflows while drawing on the LLVM and Clang ecosystem.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/clice-io/clice">GitHub - clice -io/ clice : A next-generation C++ language server for...</a></li>
-<li><a href="https://marketplace.visualstudio.com/items?itemName=clice-io.clice">Extension for Visual Studio Code - VSCode extension for clice</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#C++`, `#Developer Tools`, `#Static Analysis`, `#Language Tooling`
-
----
-
-<a id="item-32"></a>
-## [A NES Emulator Written in Odin](https://lucypero.com/lucynes.html) ⭐️ 6.0/10
-
-A technical project presents a Nintendo Entertainment System emulator implemented in the Odin programming language. The available item focuses on the project itself but provides little detail about its features, completeness, or release status. The project demonstrates how Odin can be applied to a systems-oriented task that combines CPU emulation, graphics processing, and low-level data handling. It also provides a practical reference for developers interested in Odin or emulator architecture. A typical NES emulator mirrors the console&\#x27;s hardware components, including the CPU and PPU, while accurate PPU emulation is particularly challenging because games use complex techniques to produce split screens and other visual effects. The supplied material does not specify which NES components or games this Odin implementation supports.
-
-rss · Lobsters \(技术社区\) · Nov 15, 12:37
-
-**Background**: The NES is a 8-bit home video game console whose behavior can be reproduced by emulating components such as the Ricoh 2A03/2A07 CPU and the PPU. Odin is a general-purpose systems programming language emphasizing performance, strict typing, and a distinct syntax compared with C.
+**Background**: Odin is a general-purpose systems language focused on performance, explicit typing, and modern data-oriented programming, while retaining C-like systems access and straightforward C interoperability. A NES emulator typically mirrors the original hardware components, including the CPU, picture processing unit, cartridges, and memory. NES development documentation notes that accurately emulating the PPU is particularly difficult because games exploit timing and rendering tricks to produce effects such as split-screen scrolling.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://odin-lang.org/">Odin Programming Language</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Odin_%28programming_language%29">Odin ( programming language ) - Wikipedia</a></li>
 <li><a href="https://www.nesdev.org/NES+emulator+development+guide.txt">nesdev.org/ NES emulator development guide.txt</a></li>
-<li><a href="https://deepwiki.com/fogleman/nes">fogleman/ nes | DeepWiki</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Odin`, `#NES emulation`, `#Emulators`, `#Programming languages`, `#Retro computing`
+**Discussion**: Participants generally praised Odin, citing manual memory management, arena and pool allocators, error handling, support for arrays of structs and SIMD, explicit overloading, defer statements, and C interoperability. The discussion also raised concerns about Odin&\#x27;s documentation and syntax, its Linux-focused ecosystem in the case of Hare, and compatibility with older LLVM versions and legacy machines.
+
+**Tags**: `#Odin`, `#NES emulation`, `#systems programming`, `#emulators`, `#programming languages`
 
 ---
 
-<a id="item-33"></a>
-## [Practical Limitations of Recursive Descent Parsers](https://eli.thegreenplace.net/2009/03/14/some-problems-of-recursive-descent-parsers) ⭐️ 6.0/10
+<a id="item-9"></a>
+## [Clice v1.0 Brings Modern C++ Tooling](https://ykiko.me/en/articles/2105384023094834022/) ⭐️ 7.0/10
 
-This 2009 article examines practical problems and limitations encountered when designing and implementing recursive descent parsers. It provides a technical deep dive rather than announcing a new tool, version, or breakthrough. Understanding these limitations can help developers choose an appropriate parsing strategy and avoid grammar or implementation designs that become difficult to maintain. The analysis remains relevant to compiler, programming-language, and general software-engineering work involving parsers. Recursive descent parsers build a parse tree from the top down, with one procedure, or an equivalent function, for each grammar nonterminal. A major limitation is their difficulty with left-recursive grammars, where a rule invokes itself as its first step; unlike bottom-up parsers, they generally do not perform global ambiguity detection.
+Clice v1.0 has been released as a modern C++ language server and related development-tooling suite. Built on LLVM and Clang, the project aims to provide faster, crash-resistant, project-aware tooling for C and modern C++ codebases. This release marks a significant milestone for C++ developer tooling, especially as modern C++ projects increasingly need reliable code navigation, semantic analysis, and static-analysis integration. Clice could improve editor and IDE workflows for developers working across large, complex codebases. Clice is written from scratch on LLVM/Clang, with selected components ported from clangd, and it redesigns parts of the existing C++ tooling architecture to address longstanding limitations. Its documented features include semantic tokens, hover information, navigation, references, and call and type information, with planned features clearly separated from implemented ones; nightly pre-release builds are available for VS Code, Neovim, and Zed.
 
-rss · Lobsters \(技术社区\) · Nov 15, 19:38
+rss · Hacker News \(热门\) · Nov 15, 17:22
 
-**Background**: A recursive descent parser is a top-down parser constructed from mutually recursive procedures, one for each nonterminal in the grammar. Such parsers are often straightforward to implement, but their behavior depends strongly on how grammar rules and input choices are encoded. Parser combinators also use top-down parsing, although they can leave grammar ambiguities undetected until runtime.
+**Background**: A language server supplies editors with structured information about source code, including symbols, types, references, and diagnostics, allowing features such as completion and go-to-definition to work consistently across different editors. Clice supports C, C++, CUDA, HIP, OpenCL, Objective-C, and Objective-C++ for code reading, and its broader tooling suite is designed around LLVM/Clang. Static-analysis tools such as Cppcheck and clang-tidy complement language servers by identifying bugs, undefined behavior, and potentially risky code patterns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Recursive_descent_parser">Recursive descent parser - Wikipedia</a></li>
-<li><a href="https://blog.jyotiprakash.org/having-fun-with-parsers">Having Fun with Parsers | Jyotiprakash&#x27;s Blog</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Parser_combinator">Parser combinator - Wikipedia</a></li>
+<li><a href="https://github.com/clice-io/clice">GitHub - clice-io/clice: A next-generation C++ language ...</a></li>
+<li><a href="https://docs.clice.io/clice/features/overview">Language Server Overview | clice.io</a></li>
+<li><a href="https://docs.clice.io/clice/">clice.io</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#parsing`, `#recursive-descent`, `#compilers`, `#programming-languages`, `#software-engineering`
+**Tags**: `#C++`, `#language-server`, `#developer-tools`, `#static-analysis`, `#release`
 
 ---
 
-<a id="item-34"></a>
-## [The AI Graveyard Tracks Troubled Projects and Startups](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) ⭐️ 6.0/10
+<a id="item-10"></a>
+## [Jiff Brings Ergonomic Date-Time Handling to Rust](https://burntsushi.net/jiff/) ⭐️ 7.0/10
 
-TechCrunch published a running catalog of AI projects and startups that shut down, faced delays, or failed to meet expectations. The examples include Apple’s repeatedly delayed Siri AI overhaul and OpenAI’s troubled super-app launch. The roundup highlights the gap between ambitious AI announcements and commercially or technically successful delivery. It may help investors, developers, and users assess execution risk as the industry shifts toward AI agents and multipurpose products. Apple’s delays relate to a multiyear effort to rebuild Siri’s intelligence layer using Apple Foundation Models. OpenAI’s super-app concept combines ChatGPT with capabilities such as code generation and live browsing in a unified interface.
+Jiff is a Rust date-time library designed around ergonomic, difficult-to-misuse primitives with reasonable performance. It provides integrated time-zone database support, daylight-saving-time-aware arithmetic and rounding, and lossless formatting and parsing of zoned date-times. Date-time handling is a common source of correctness problems, especially around time zones and daylight-saving-time transitions. Jiff gives Rust developers a modern option designed to reduce misuse while preserving the performance expected from a systems language. Jiff supports automatic integration with the Time Zone Database, DST-aware arithmetic and rounding, and lossless serialization and parsing of zoned date-times. Its design documentation also discusses the reasons for creating another Rust date-time library and for using two distinct duration types.
 
-rss · TechCrunch AI · Nov 14, 17:30
+rss · Lobsters \(技术社区\) · Nov 15, 22:39
 
-**Background**: Siri’s AI overhaul is part of Apple’s effort to modernize its assistant with in-house large language models. OpenAI’s super-app initiative represents a broader industry trend toward consolidating multiple AI functions in one interface, alongside the emergence of AI agents and multipurpose models.
+**Background**: Rust applications often need to represent instants, civil date-times, time zones, and elapsed durations while handling calendar irregularities correctly. Daylight-saving transitions can make naïve arithmetic ambiguous or incorrect, so libraries commonly provide specialized types and operations that preserve that distinction.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.techspot.com/news/111303-apple-delays-siri-ai-upgrades-again-technical-challenges.html">Apple delays Siri AI upgrades again as technical challenges ...</a></li>
-<li><a href="https://getfocuslab.com/openai-super-app-explained/">OpenAI Super App: 5 Bold Things You Need to Know</a></li>
-<li><a href="https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/">Apple finally fixed Siri. So why does it feel anticlimactic?</a></li>
+<li><a href="https://github.com/BurntSushi/jiff">GitHub - BurntSushi/jiff: A datetime library for Rust that ...</a></li>
+<li><a href="https://docs.rs/jiff/latest/jiff/">jiff - Rust - Docs.rs</a></li>
+<li><a href="https://docs.rs/jiff/latest/jiff/_documentation/design/index.html">jiff::_documentation::design - Rust - Docs.rs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI industry`, `#startup failures`, `#product launches`, `#Siri`, `#OpenAI`
+**Tags**: `#Rust`, `#date-time`, `#library`, `#software-development`
 
 ---
 
-<a id="item-35"></a>
-## [COVID-19 Lockdowns Reduced Global Fire Activity by 12.3%](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/) ⭐️ 6.0/10
+<a id="item-11"></a>
+## [Nvidia’s Security Leadership Gap and Insider-Leak Risk](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) ⭐️ 7.0/10
 
-COVID-19 lockdowns reduced global fire activity by 12.3 percent, revealing an unintended environmental consequence of the pandemic. The finding demonstrates how a sudden reduction in human activity can affect fire regimes and may provide useful evidence for climate and remote-sensing research. It also highlights the possibility that temporary changes in human behavior can influence environmental conditions more quickly than commonly assumed. The reported estimate is a 12.3 percent reduction in global fire activity during COVID-19 lockdowns. The available description does not specify the observation period, data source, geographic coverage, definition of fire activity, statistical method, or attribution procedure, so the result&\#x27;s comparability and uncertainty cannot be assessed from the supplied material.
+Nvidia’s security chief reportedly left quietly in August, shortly before scrutiny intensified around CEO Jensen Huang’s relationships, including one with an executive at Megaspeed, a company suspected of funneling chips to China. A former intelligence officer warned that such sensitive information can be leaked through ordinary workplace conversations. The departure may have weakened Nvidia’s ability to identify insider threats and protect sensitive information during a period of heightened scrutiny over its China-related chip relationships. The episode highlights organizational-resilience and export-control risks that could affect Nvidia, its executives, and customers. The reported leak vector is not necessarily a technical breach; former intelligence specialists suggest that office conversations can carry exploitable information for foreign intelligence services. The article provides limited supporting detail and does not establish that a leak occurred or explain the full circumstances of the security chief’s departure.
 
-rss · Ars Technica · Nov 15, 12:07
+rss · TechCrunch AI · Nov 15, 00:08
 
-**Background**: Satellite remote sensing can identify fires across large areas by detecting heat, flames, and combustion signatures. Such observations are commonly used to study wildfire activity and how it varies across regions and over time. Research summarized by ScienceDaily also reported that pandemic-related lockdowns slightly altered pollutant emissions and temporarily warmed the planet, illustrating that reduced societal activity can have measurable atmospheric effects.
+**Background**: Corporate security teams monitor insider threats, including sensitive information that may be disclosed by executives or employees to outside parties. Nvidia is also navigating US semiconductor export controls intended to restrict access to advanced chips by China, which have contributed to the use of complex transactions, shell companies, and alleged smuggling networks. The controversy centers on whether Nvidia’s commercial relationships could create additional legal and security exposure.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sciencedaily.com/releases/2021/02/210202164535.htm">COVID - 19 lockdowns temporarily raised global ... | ScienceDaily</a></li>
-<li><a href="https://science.thewire.in/environment/covid-19-lockdown-india-air-pollution/">The COVID - 19 Lockdown Can Help Devise Measures to Mitigate Air...</a></li>
+<li><a href="https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/">Where was Nvidia&#x27;s security team? | TechCrunch</a></li>
+<li><a href="https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl">How the Nvidia scandal lifted the curtain on a loophole that ...</a></li>
+<li><a href="https://www.atlanticcouncil.org/dispatches/beyond-the-spy-scandal-what-the-nvidia-megaspeed-case-reveals-about-export-controls/">Beyond the spy scandal: What the Nvidia-Megaspeed case ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#COVID-19`, `#wildfires`, `#climate change`, `#remote sensing`, `#environmental impact`
+**Tags**: `#Nvidia`, `#Corporate Security`, `#Insider Threats`, `#Semiconductor Export Controls`, `#China`
 
 ---
 
-<a id="item-36"></a>
-## [Starship Flight 15 Reaches Orbit, Setting Up Possible Catch](https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/) ⭐️ 6.0/10
+<a id="item-12"></a>
+## [Tech Executives Urge Nvidia to Reinstatement Jensen Huang](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) ⭐️ 7.0/10
 
-SpaceX’s Starship Flight 15 reached orbit after launching from Starbase, Texas, on November 13, 2026. The mission also deployed all 26 Starlink V3 satellites and prepared the company to attempt another launch-pad recovery on Saturday. A successful orbital flight provides data on Starship’s performance as an operational launch vehicle, while another tower catch could further validate rapid reuse. Recovering both the booster and orbital upper stage would be especially important for lowering the cost and time required to reuse Starship. Flight 15 achieved stage separation, successful orbital insertion of Ship 42, and deployment of 26 Starlink V3 satellites. The Friday booster recovery did not succeed, but SpaceX had already completed three earlier booster catches, and the Saturday attempt would test catching the returning orbital upper stage.
+Elon Musk and other technology executives signed a petition urging Nvidia to reinstate recently ousted CEO Jensen Huang. The petition had attracted more than 115,000 signatures by Saturday afternoon. The petition represents a large-scale intervention by technology leaders in Nvidia’s leadership dispute, reflecting broad concern about corporate governance and continuity at the company. Nvidia’s leadership is particularly important to the wider AI hardware ecosystem because its GPUs and platform strategy shape the infrastructure used by AI developers and cloud providers. Organizers said the petition included about 50,000 shareholders and 5,000 current Nvidia employees, while Elon Musk and Replit CEO Amjad Masad promoted it on X. The available reports provide limited detail on Nvidia’s stated reasons for Huang’s removal, the petition’s formal demands, and any response from Nvidia’s board.
 
-rss · Ars Technica · Nov 14, 00:49
+rss · TechCrunch AI · Nov 14, 21:41
 
-**Background**: Starship is a two-stage, fully reusable launch system consisting of the Super Heavy booster and the Starship upper stage, known as Ship. Its launch tower uses mechanical arms to catch a returning booster, and later tests sought to extend this recovery method to the orbital upper stage. Catching hardware after orbital flight would demonstrate a more complete form of reusability needed for frequent, low-cost operations.
+**Background**: Jensen Huang is Nvidia’s founder, president, and CEO, and has long been a central figure in the company’s rise as a leading supplier of AI accelerators. A public petition for his reinstatement is an unusual corporate-governance intervention, combining support from executives with large participation from shareholders and employees. The petition reflects demands for leadership accountability and due process, although the supplied reports do not establish the underlying facts of the dispute.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thespaceroad.com/articles/how-does-starship-catch-work/">How does the Starship catch work? | The Space Road</a></li>
-<li><a href="https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/">SpaceX launches milestone Starship flight to... - CBS News</a></li>
-<li><a href="https://www.youtube.com/watch?v=Kus39IK-ZvQ">SPACE X STARSHIP FLIGHT 15 LIVE | First-Ever Orbital ... - YouTube</a></li>
+<li><a href="https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11">Petition to Reinstate Jensen Huang at Nvidia Has... - Business Insider</a></li>
+<li><a href="https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/">Elon Musk, other tech execs sign petition calling on Nvidia ...</a></li>
+<li><a href="https://nvidianews.nvidia.com/multimedia/corporate/corporate-executives">Executives | NVIDIA Newsroom</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#Starship`, `#orbital launch`, `#spaceflight`, `#satellite capture`
+**Tags**: `#Nvidia`, `#Jensen Huang`, `#tech leadership`, `#industry petition`, `#corporate governance`
 
 ---
 
-<a id="item-37"></a>
-## [Cost Barriers Drive Unsafe GLP-1 Use](https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/) ⭐️ 6.0/10
+<a id="item-13"></a>
+## [Asian Governments Assess Nvidia Leadership Exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) ⭐️ 7.0/10
 
-Cost and access barriers are causing millions of Americans to modify prescribed GLP-1 regimens, use the drugs off-label, or obtain unapproved compounded versions. The report identifies an access problem that can undermine both treatment effectiveness and patient safety. GLP-1 receptor agonists are important treatments for type 2 diabetes and obesity, but deviations from approved dosing and products may increase adverse effects and reduce access to reliable care. The issue also highlights broader affordability and regulatory challenges surrounding high-demand chronic medicines. Compounded semaglutide and tirzepatide may use chemical forms that differ from the versions in FDA-approved products, despite containing the same drug names; one cited report specifically notes the use of salt forms such as semaglutide sodium. Because FDA-approved products have tested chemical structures, dosing protocols, and safety profiles, patients should not assume compounded products are interchangeable.
+Asian governments are responding to Jensen Huang’s departure from Nvidia by reaffirming chip-supply commitments, monitoring local semiconductor and AI projects, and addressing related investigations. The available reporting provides no country-by-country details on those responses. Nvidia’s advanced AI chips are central to Asian data-center and semiconductor plans, so uncertainty over its leadership could affect procurement and investment. The issue also intersects with export controls, smuggling investigations, and the broader US-China technology competition. Governments appear to be taking three types of action: reaffirming supply commitments, tracking local projects, and examining investigations. U.S. export controls on Nvidia’s high-end chips and a reported investigation involving a Singapore logistics firm remain important compliance concerns, although the brief report does not link either issue directly to a specific government response.
 
-rss · Ars Technica · Nov 13, 21:59
+rss · TechCrunch AI · Nov 14, 16:34
 
-**Background**: GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists help manage blood glucose and weight and are approved for indications including type 2 diabetes and obesity. Off-label use means taking an approved medicine for a condition or purpose not specified in its labeling, while compounding creates customized medicines rather than using an approved commercial product. Dose escalation can require clinical supervision because benefits and risks vary by agent, dose, and patient population.
+**Background**: Nvidia designs GPUs that support AI computing, high-performance computing, gaming, and other accelerated-computing workloads. Because leading-edge chip production and distribution are geographically concentrated and governed by export rules, leadership changes at Nvidia can carry implications beyond corporate governance. Reported smuggling probes also highlight how AI-chip trade rules are enforced across Asian logistics networks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://med.stanford.edu/news/insights/2026/07/glp1s-compounded-why-doctors-worry-about-safety.html">Compounded GLP-1s: Why doctors worry and the FDA is cracking down</a></li>
-<li><a href="https://www.jabfm.org/content/emerging-and-label-uses-glucagon-peptide-1-receptor-agonists-glp1-ra-and-dual-gipglp1-ras">Emerging and Off-Label Uses Of Glucagon-Like Peptide-1 ...</a></li>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13227224/">Balancing the benefits and risks of GLP - 1 receptor agonists: a clinical...</a></li>
+<li><a href="https://www.businessinsider.com/jensen-huang-fall-could-reshape-anthropic-ipo-ai-chip-race-2026-11">How Jensen Huang &#x27;s Fall Could Reshape Anthropic IPO and AI Chip ...</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling">The Jensen Huang scandal is hardly over | The Verge</a></li>
+<li><a href="https://storychase.co/news/u-s-probes-singapore-logistics-firm-over-alleged-nvidia-ai-chip-smuggling-to-china/">U.S. Probes Singapore Logistics Firm Over Alleged NVIDIA AI Chip ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GLP-1`, `#Public Health`, `#Drug Access`, `#Metabolic Disease`, `#Patient Safety`
+**Tags**: `#Nvidia`, `#Jensen Huang`, `#semiconductors`, `#AI chips`, `#geopolitics`
 
 ---
 
-<a id="item-38"></a>
-## [Apple’s First Smart Glasses Near Production](https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together) ⭐️ 6.0/10
+<a id="item-14"></a>
+## [JWST Finds Ice Older Than Its Host Star](https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/) ⭐️ 7.0/10
 
-Bloomberg’s Mark Gurman reports that Apple is assembling its first smart glasses, with an announcement expected at WWDC in June 2027 and shipments beginning before the end of 2027. 这将标志苹果进入智能眼镜市场，并把其可穿戴设备生态从Apple Watch进一步扩展。首款采用无摄像头、非增强现实设计的设备，也可能为后续功能更强的头显产品确立一条风险更低的路线。 The reported first model, internally called N50, is expected to lack augmented-reality features and may depend on an iPhone and Siri for core functions. The announcement and release schedule remains based on unconfirmed reporting, and the available coverage provides limited technical specifications.
+The James Webb Space Telescope reportedly detected water ice in a protoplanetary disk that formed before the host star. The finding indicates that radiation and collisions can substantially alter icy planetary-building materials. This discovery could improve understanding of how icy solids are inherited, processed, and redistributed during planet formation. It may also help astronomers assess whether water-rich material survives the energetic environment around young stars. Related JWST observations have identified crystalline and deuterated water ice in protoplanetary disks, including the first reported detection of HDO ice in such a disk. The provided material gives no target name, instrument configuration, abundance, or direct evidence that the measured ice predates the star, so those details cannot be independently assessed from this summary.
+
+rss · Ars Technica · Nov 14, 12:15
+
+**Background**: Protoplanetary disks are rings of gas and dust around young stars from which planets form. Water ice can carry information about the material inherited from the molecular cloud, but ultraviolet radiation, cosmic-ray processing, and collisions can alter or destroy ice grains and change their chemistry.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.stsci.edu/files/live/sites/www/files/home/jwst/science-execution/approved-programs/general-observers/cycle-2-go/_documents/jwst-cycle2-general-observer-abstracts.pdf">JWST Cycle 2 Abstract Catalog</a></li>
+<li><a href="https://arxiv.org/html/2606.10888">First detection of HDO ice in a protoplanetary disk</a></li>
+<li><a href="https://www.frontiersin.org/journals/astronomy-and-space-sciences/articles/10.3389/fspas.2024.1523977/full">Frontiers | Nanosilicates and molecular silicate dust species: properties...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#James Webb Space Telescope`, `#astronomy`, `#planetary formation`, `#cosmic ice`, `#space science`
+
+---
+
+<a id="item-15"></a>
+## [FAA Lifts Third Nationwide Ground Stop After Outage](https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/) ⭐️ 7.0/10
+
+The FAA lifted a nationwide ground stop on November 13, 2026, about four to five hours after imposing it amid a communications outage affecting the U.S. air traffic control system. Transportation Secretary Sean Duffy attributed the disruption to obsolete equipment, while reports cited an L3Harris-operated network update as a possible cause. This was only the FAA&\#x27;s third nationwide ground stop in its history, and it delayed or canceled more than 11,000 flights, disrupting airports, airlines, and passengers across the country. It also highlights the resilience and modernization risks facing critical air traffic control infrastructure. The ground stop lasted roughly four to five hours and halted departing flights under an order citing extraordinary circumstances and safety concerns. Investigators were examining a network update that reportedly triggered a reboot, crash, and communications outage; the full cause was not yet conclusively established.
+
+rss · Ars Technica · Nov 13, 23:17
+
+**Background**: A nationwide ground stop is a rare FAA measure that temporarily prevents flights from departing while officials assess extraordinary safety or operational concerns. The disruption affected a communications network used by the air traffic control system. Because the order applied broadly, its effects quickly spread across the national aviation network rather than remaining confined to one airport or region.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights">Flights slowly resume after US aviation agency lifts nationwide ...</a></li>
+<li><a href="https://weather.com/2026/11/13/travel/faa-nationwide-ground-stop-equipment-outage-flights">US air travel schedule should recover from ground stop by Sunday...</a></li>
+<li><a href="https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/">FAA lifts nationwide ground stop that disrupted thousands... - CBS News</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#FAA`, `#aviation`, `#air traffic control`, `#transportation policy`, `#infrastructure`
+
+---
+
+<a id="item-16"></a>
+## [Apple’s First Non-AR Smart Glasses Near Launch](https://www.theverge.com/tech/1033968/apples-first-smart-glasses-are-coming-together) ⭐️ 7.0/10
+
+Apple is reportedly planning to unveil its first non-AR smart glasses at WWDC in June 2027, according to Bloomberg’s Mark Gurman. Shipments are expected to begin before the end of 2027, potentially making the product Apple’s entry into a new wearable category. 苹果入局可能扩大智能眼镜市场，并确立一种以iPhone和苹果软件生态为核心的新型配套设备模式。由于首款产品不具备增强现实功能，苹果或许能先推出更简单、更实用的产品，再开发功能更雄心勃勃的空间计算设备。 The glasses are expected to require a paired iPhone, and reports indicate that Apple is encouraging developers to prepare integrations around features such as App Intents. Privacy safeguards and the exact announcement and release schedule remain important unresolved details.
 
 rss · The Verge · Nov 15, 16:59
 
-**Background**: Smart glasses can combine audio, cameras, sensors, and displays for functions such as voice assistance, contextual computing, and augmented-reality overlays. Apple’s reported first model is expected to omit AR, while later reports suggest it could use Siri and App Intents to control iPhone applications, positioning the glasses as an accessory rather than a standalone computing platform.
+**Background**: Smart glasses can provide voice assistance, camera-based context awareness, and other functions without adding AR graphics to the wearer’s view. The reported Apple product is non-AR and would depend on an iPhone, while later models may build toward Apple’s broader ambitions in AR and spatial computing. WWDC is Apple’s annual developer conference and a common venue for announcing major platform technologies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.macrumors.com/2026/11/15/apple-smart-glasses-hinge-on-siri/">Apple&#x27;s Smart Glasses Strategy Hinges on Siri and iPhone ...</a></li>
-<li><a href="https://vr.org/articles/apple-smart-glasses-wwdc-2027-privacy-camera-decision-2026">Gurman Puts Apple&#x27;s First Smart Glasses at WWDC 2027, and the ...</a></li>
-<li><a href="https://www.pcmag.com/picks/the-best-smart-glasses">The Best Smart Glasses We&#x27;ve Tested for 2026 | PCMag</a></li>
+<li><a href="https://glassalmanac.com/apple-confirms-non-ar-smart-glasses-for-2027-why-it-matters-now/">Apple Confirms Non - AR Smart Glasses For 2027... - Glass Almanac</a></li>
+<li><a href="https://www.techmeme.com/261115/p10?ref=biztoc.com">Techmeme: Sources: Apple plans to unveil smart glasses at WWDC ...</a></li>
+<li><a href="https://www.macworld.com/article/3199653/apple-eyes-wwdc-smart-glasses-launch-with-a-focus-on-privacy.html">Apple eyes WWDC smart glasses launch with a focus on... | Macworld</a></li>
 
 </ul>
 </details>
@@ -919,243 +427,791 @@ rss · The Verge · Nov 15, 16:59
 
 ---
 
-<a id="item-39"></a>
-## [Extreme Droughts Could Wipe Out Most Cactus Habitats](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/) ⭐️ 6.0/10
+<a id="item-17"></a>
+## [AI Tools Fuel a New Ransomware Boom](https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/) ⭐️ 7.0/10
 
-A Nature study projects that more than a quarter of nearly 1,000 cactus species could lose at least 80% of their suitable habitat by 2100. The research finds that intensified severe droughts, alongside climate-change scenarios, sharply worsen the outlook for cacti. The findings show that drought-tolerant plants are not automatically protected against climate change. Severe habitat loss could substantially increase extinction risks, threaten ecosystem functions in drylands, and require conservation plans and future Red List assessments to incorporate extreme drought. Researchers used habitat-suitability modeling to assess how severe drought and climate change could affect the distribution of nearly 1,000 cactus species by 2100. Earlier work based on roughly 400 species found that more than half might face heightened extinction risk under three climate scenarios, highlighting the need to account for drought extremes rather than temperature trends alone.
+Less-sophisticated attackers are using AI tools to automate and amplify ransomware campaigns, increasing their speed and reach. Fully autonomous ransomware attacks have not emerged yet, so AI is currently augmenting human operators rather than replacing them. Generative AI is lowering the operational barrier for ransomware, potentially enabling more frequent and scalable attacks that can target organizations with fewer technical resources. Security teams may therefore need to account for AI-assisted intrusion methods when strengthening detection, preparedness, and incident response. The reported uses of AI span parts of the ransomware lifecycle, including reconnaissance, convincing lures, payload adaptation, and scaling extortion. The important distinction is between AI-assisted campaigns run by people and fully autonomous malware; the latter has not yet appeared.
 
-rss · Wired · Nov 15, 10:30
+rss · Wired · Nov 14, 13:00
 
-**Background**: Cacti are adapted to arid environments through traits such as water storage, reduced leaves, and extensive root systems. Species distribution projections map areas that remain climatically suitable under future conditions, but conventional projections may underestimate risk when unusually severe droughts become more frequent. The new results connect long-term climate scenarios with short-lived extreme events that can cause abrupt ecological damage.
+**Background**: Ransomware is malware that encrypts or steals data and then demands payment, commonly with the threat of publishing sensitive information. AI-powered ransomware can help attackers automate reconnaissance, personalize phishing messages, adapt malicious behavior, and conduct more campaigns at once. The UK National Cyber Security Centre expects AI to make cyber intrusion operations more effective and efficient, increasing both the frequency and intensity of threats.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nature.com/articles/s41477-022-01130-0">Elevated extinction risk of cacti under climate change - Nature</a></li>
-<li><a href="https://iucn.org/press-release/202611/severe-drought-worsens-climate-change-forecasts-cacti">Severe drought worsens climate change forecasts for cacti - IUCN</a></li>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0140196324001629">Potential effects of climate change on cacti distribution and ...</a></li>
+<li><a href="https://www.sans.org/blog/ai-powered-ransomware-how-threat-actors-weaponize-ai-across-attack-lifecycle">AI-Powered Ransomware: How Threat Actors Weaponize AI Across ...</a></li>
+<li><a href="https://keepnetlabs.com/blog/what-is-ai-powered-ransomware-definition-examples-and-prevention">AI-Powered Ransomware: Examples and Prevention - Keepnet</a></li>
+<li><a href="https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027">Impact of AI on cyber threat from now to 2027 | National Cyber ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#climate-change`, `#drought`, `#cactus-conservation`, `#biodiversity`, `#ecology-research`
+**Tags**: `#AI`, `#ransomware`, `#cybersecurity`, `#generative AI`, `#threat intelligence`
+
+---
+
+<a id="item-18"></a>
+## [Rebuilding C\# Checked Arithmetic from IL](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-checked-arithmetic-addovf-convovf-and-rebuilding-the-checked-block-1m61) ⭐️ 7.0/10
+
+The article demonstrates how Glass.NET infers C\# checked and unchecked arithmetic semantics from IL opcodes such as add.ovf and conv.ovf. It explains how these opcode patterns can be reconstructed into the smallest equivalent checked block in source code. C\# does not preserve checked or unchecked scopes as explicit metadata, so decompilers must infer them from individual operation-level instructions. Accurate reconstruction is important because choosing the wrong overflow context can change runtime behavior and potentially turn an overflow into a wrapped result or an exception. In the article&\#x27;s example, checked integer addition compiles to add.ovf, while a checked narrowing conversion from int to byte compiles to conv.ovf.u1. Unchecked operations use their non-overflow-checking opcode variants, and the analysis seeks the smallest source block that exactly reproduces the observed instruction pattern.
+
+rss · Dev.to · Nov 15, 23:07
+
+**Background**: C\# integral arithmetic is unchecked by default, allowing results to wrap silently when they exceed the destination type&\#x27;s range. A checked context instead raises System.OverflowException, and the checked and unchecked keywords can apply either to a block or to an individual expression. At the IL level, these source-level choices are represented by checking and non-checking opcode variants rather than a dedicated metadata flag.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/checked-and-unchecked">The checked and unchecked statements - overflow-checking - C# ...</a></li>
+<li><a href="https://github.com/dotnet/docs/blob/main/docs/csharp/language-reference/statements/checked-and-unchecked.md">docs/docs/csharp/language-reference/statements/checked-and ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#C\#`, `#IL`, `#Decompilation`, `#Arithmetic Overflow`, `#Glass.NET`
+
+---
+
+<a id="item-19"></a>
+## [U.S. Copyright Office Clarifies Protection for AI-Generated Works](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) ⭐️ 7.0/10
+
+On January 29, 2025, the U.S. Copyright Office published Part 2 of its Copyright and Artificial Intelligence report, analyzing whether outputs created with generative AI qualify for copyright protection. The report concludes that copyrightability depends on whether a human contributed sufficient original expression, rather than on whether AI was used at any stage of creation. The report provides an authoritative framework for determining when AI-assisted content can be registered, affecting creators, AI companies, publishers, and legal advisers. It also strengthens the human-authorship requirement while acknowledging that AI may be used to assist in creating copyrightable works. The analysis distinguishes between human-authored expression and AI-generated material: using AI as a tool does not automatically disqualify a work, but a human must control and contribute protectable expression. The report also discusses the 2023 D.C. District Court case involving an image described as autonomously created by a computer algorithm.
+
+rss · Hacker News \(AI/ML\) · Nov 15, 20:17
+
+**Background**: U.S. copyright law generally requires human authorship, and the Copyright Office has long treated AI-generated material differently from works created with human creative expression. The report is Part 2 of the Office’s broader study of copyright and AI, with Part 3 addressing a separate area of the policy landscape. Its discussion of generative-AI outputs builds on registration decisions and federal court litigation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf">Copyright and Artificial Intelligence, Part 2 ...</a></li>
+<li><a href="https://www.copyright.gov/ai/">Copyright and Artificial Intelligence | U.S. Copyright Office</a></li>
+<li><a href="https://www.jonesday.com/en/insights/2025/02/copyrightability-of-ai-outputs-us-copyright-office-analyzes-human-authorship-requirement">U.S. Copyright Office Analyzes Human Authorship Requirement</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The linked Hacker News discussion had only two points and one comment, so it provides very limited evidence of broader community sentiment. The available engagement signal is therefore too weak to establish meaningful agreement, disagreement, or practitioner reaction.
+
+**Tags**: `#AI`, `#Copyright Law`, `#Intellectual Property`, `#Policy`, `#Generative AI`
+
+---
+
+<a id="item-20"></a>
+## [A Short Guide to How El Niño Works](https://www.youtube.com/watch?v=7_JF3etiAv8) ⭐️ 6.0/10
+
+The video offers a concise explanation of the El Niño cycle and its effects on weather, supported by climate data and links to regionally focused alternatives. The accompanying discussion highlights resources for audiences in Brazil, France, and other regions. El Niño is one of the most influential climate drivers, so understanding its ocean-atmosphere cycle helps people interpret seasonal forecasts and changing weather patterns. The video also places current events in the broader context of a rapidly warming global climate. The presentation focuses primarily on impacts in the United States rather than presenting a globally exhaustive account. Community members recommended Climate Reanalyzer&\#x27;s daily sea-surface-temperature graphs, a Brazilian explainer, and a scientifically sourced French explainer.
+
+hackernews · Hacker News \(热门\) · Nov 15, 18:23 · [Discussion](https://news.ycombinator.com/item?id=50509308)
+
+**Background**: El Niño is the warm phase of the El Niño–Southern Oscillation, a natural climate pattern involving tropical Pacific sea-surface temperatures and linked atmospheric pressure changes. La Niña is the cool phase of the same broader system. Although El Niño has occurred throughout climate history, its weather consequences must also be considered against the long-term warming of the global climate.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.noaa.gov/understanding-el-nino">Understanding El Niño &amp; ENSO | National Oceanic and Atmospheric...</a></li>
+<li><a href="https://www.climate.gov/enso">El Niño &amp; La Niña ( El Niño - Southern Oscillation ) | NOAA Climate .gov</a></li>
+<li><a href="https://www.metoffice.gov.uk/research/climate/seasonal-to-decadal/gpc-outlooks/el-nino-la-nina/enso-description">El Niño , La Niña and the Southern Oscillation - Met Office</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Participants emphasized that present El Niño conditions occur within a global climate warmer than at any point in the past 125,000 years, increasing the relevance of climate risks. They also valued visual climate data and shared region-specific educational videos, including Portuguese- and French-language alternatives.
+
+**Tags**: `#El Niño`, `#climate science`, `#weather`, `#explainers`, `#climate data`
+
+---
+
+<a id="item-21"></a>
+## [Crows Outpace Humans in Rapid Decisions](https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html) ⭐️ 6.0/10
+
+Research summarized in the article found that carrion crows make decisions from visual motion information at roughly twice the speed reported for humans. The work points to a compact, densely packed avian nervous system, rather than mammalian-style brain architecture, as an advantage in rapid perceptual judgment. The findings challenge the assumption that human-like decision performance requires a large brain with a layered mammalian cortex. They also show that intelligence can evolve through distinct neural architectures, expanding how scientists compare cognition across animal lineages. In the cited experiment, carrion crows used a classic visual motion-discrimination task to make deliberate choices with unprecedented speed. Avian brains have high neuron density and an associative pallium that evolved independently from the mammalian cerebral cortex; however, the results concern a specific perceptual task and should not be generalized to every form of reasoning or intelligence.
+
+hackernews · Hacker News \(热门\) · Nov 15, 17:53 · [Discussion](https://news.ycombinator.com/item?id=50509023)
+
+**Background**: Corvids display behavioral flexibility despite lacking the layered cerebral cortex associated with mammalian cognition. Their compact brains contain densely packed neurons, while the avian associative pallium supports functions such as learning, working memory, and cognitive control. Perceptual-decision studies compare how quickly animals classify sensory information, a capability that does not by itself establish superior general intelligence.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.science.org/doi/10.1126/science.aed6459">Ultrarapid decision-making in an avian brain | Science</a></li>
+<li><a href="https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/">Crows can evaluate visual info twice as fast as mammals</a></li>
+<li><a href="https://www.smithsonianmag.com/smart-news/crows-can-make-decisions-based-on-visual-information-at-lightning-speed-roughly-twice-as-fast-as-humans-can-study-suggests-180989779/">Crows Can Make Decisions Based on Visual Information at ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters highlighted convergent evolution, noting that similar intelligence can arise through different neural designs rather than a single mammalian-style architecture. Some proposed shorter neural feedback loops as a possible mechanism, while others cited Jennifer Ackerman&\#x27;s The Genius of Birds; one comment invoked magnetic navigation and quantum biology, but that claim is not supported by the cited decision-making research.
+
+**Tags**: `#animal-cognition`, `#corvid-intelligence`, `#neuroscience`, `#evolution`, `#decision-making`
+
+---
+
+<a id="item-22"></a>
+## [Turbo Pascal’s Tiny Footprint in Perspective](https://prog21.dadgum.com/116.html) ⭐️ 6.0/10
+
+This 2011 retrospective compares the surprisingly small footprint of Turbo Pascal with modern command-line utilities and uses the contrast to examine software complexity and developer-productivity trade-offs. The accompanying discussion draws on 89 comments about language design, binary bloat, operating-system architecture, and Pascal’s decline. The comparison highlights how much abstraction, portability, safety, and tooling have expanded the footprint of everyday software. It also raises a broader engineering question: whether modern convenience and faster development justify the resulting complexity, distribution cost, and operational overhead. Turbo Pascal was a compiler and integrated development environment for Pascal on CP/M and MS-DOS, and its size comparison is historical rather than a direct modern benchmark. Commenters noted that even a simple Unix-style command such as touch can exceed 2 KB because of shared boilerplate and runtime dependencies, while also arguing that byte counts lack context when comparing different tools and environments.
+
+hackernews · Hacker News \(热门\) · Nov 15, 13:44 · [Discussion](https://news.ycombinator.com/item?id=50506894)
+
+**Background**: Software bloat can arise when teams prioritize developer productivity, portability, or convenient abstractions over algorithmic and binary efficiency. Turbo Pascal is historically notable because it combined a compiler, editor, and debugging environment into a compact system for its era, whereas modern utilities often carry larger runtimes and libraries.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Turbo_Pascal">Turbo Pascal - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Software_bloat">Software bloat - Wikipedia</a></li>
+<li><a href="https://web.cs.ucla.edu/~harryxu/papers/xu-fose10.pdf">Software Bloat Analysis: Finding, Removing, and Preventing ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Participants praised Anders Hejlsberg’s work on Turbo Pascal, Delphi, C\#, and TypeScript, while questioning whether the inefficiencies of modern systems remain justified by development speed. Some called for radically simpler operating systems and execution environments, and others asked why Pascal nearly disappeared despite its influence.
+
+**Tags**: `#Turbo Pascal`, `#software size`, `#programming languages`, `#systems programming`, `#binary bloat`
+
+---
+
+<a id="item-23"></a>
+## [Emacs as a Distraction-Free Web Browser](https://joshblais.com/blog/emacs-as-my-browser/) ⭐️ 6.0/10
+
+The article describes using Emacs as a minimalist browser for distraction-free web reading, emphasizing the readability benefits of text-based browsing while arguing that the modern commercial web is poorly suited to this approach. It also considers embedded WebKit and other Emacs-based alternatives for sites that require richer web features. This approach illustrates growing interest in digital minimalism and keyboard-centered, text-oriented workflows. It also exposes the compatibility limits of lightweight browsing and connects Emacs experimentation to broader calls for alternatives beyond HTTP\(S\), although it does not introduce a new browser technology. Emacs Web Wowser, or eww, loads and displays pages with \`shr.el\`, can show images when Emacs has image support, and supports neither CSS nor JavaScript. More feature-rich experiences can be assembled with \`xwidget\` and embedded WebKit, but commercial sites often depend on complex rendering and scripting, making those workarounds cumbersome.
+
+hackernews · Hacker News \(热门\) · Nov 15, 15:21 · [Discussion](https://news.ycombinator.com/item?id=50507553)
+
+**Background**: GNU Emacs includes several ways to view web content, ranging from the lightweight eww browser to widget-based tools capable of embedding richer rendering engines. WebKit is the rendering engine used by Safari and formerly by Chrome on Windows, macOS, and Android, and WebKitGTK offers a portable version for applications needing browser integration. A text-oriented browser can improve focus and readability, but it usually cannot reproduce the full CSS and JavaScript capabilities expected by contemporary websites.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.gnu.org/software/emacs/manual/html_mono/eww.html">Emacs Web Wowser - GNU</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Eww_%28web_browser%29">eww (web browser) - Wikipedia</a></li>
+<li><a href="https://webkitgtk.org/">The WebKitGTK Project</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Participants broadly agreed that Emacs works well for static pages and blogs but struggles with complex commercial services. They discussed \`eww\` readability layouts, \`xwidget\`, embedded WebKit, and older text browsers such as Dillo and w3m, while arguing that the more urgent need is a practical, widely adopted alternative to HTTP\(S\) rather than retro-styled browser setups alone.
+
+**Tags**: `#Emacs`, `#Web Browsing`, `#Digital Minimalism`, `#WebKit`, `#Alternative Web`
+
+---
+
+<a id="item-24"></a>
+## [Why Apollo Carried Lunar Grenade Launchers](https://space.stackexchange.com/questions/37775) ⭐️ 6.0/10
+
+Apollo missions used remotely commanded grenade launchers to create loud acoustic signals for the ALSEP seismic experiments. The grenades helped instruments locate seismic events and characterize the Moon’s interior. The system was an important precursor to modern active seismic experiments on the Moon. It demonstrated how controlled lunar sources could reveal subsurface properties that passive seismometers alone could not fully resolve. NASA documentation says the mortar package was activated through separate “arm grenades” and “fire grenades” commands sent from Earth. Arming charged the circuits and sequential-firing capacitors for four grenades using a Z4-volt arming signal, while an arming pulse also confirmed receipt to the data-handling system.
+
+hackernews · Hacker News \(热门\) · Nov 15, 09:06 · [Discussion](https://news.ycombinator.com/item?id=50505271)
+
+**Background**: ALSEP deployed instruments on the Apollo 12, 14, 15, 16, and 17 landing sites and operated long after the astronauts departed. Its seismometers monitored moonquakes, meteor impacts, and other lunar seismic activity. Active experiments additionally used explosive charges to map the Moon’s crust, including the Apollo 17 Lunar Seismic Profiling Experiment.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Active_Seismic_Experiment">Active Seismic Experiment - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Apollo_Lunar_Surface_Experiments_Package">Apollo Lunar Surface Experiments Package - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The discussion centered on NASA’s primary ALSEP documentation and the grenade-arming circuitry, although some commenters questioned the questioner’s posting pattern. A tangential debate proposed that Soviet missions carried guns for protection against Siberian wildlife, while another commenter traced the term “thumper” to earlier terrestrial uses before the publication of Dune.
+
+**Tags**: `#Apollo program`, `#NASA`, `#ALSEP`, `#lunar science`, `#space engineering`
+
+---
+
+<a id="item-25"></a>
+## [Old Bitly Links May Be Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/) ⭐️ 6.0/10
+
+A report claims that old Bitly links are being hijacked, potentially redirecting visitors to malicious destinations. The available material provides no affected-link examples, technical evidence, attack timeline, or Bitly statement confirming the claim. Hijacked short links can turn previously trusted links into phishing or malware delivery vectors, especially when users cannot see the destination before clicking. Organizations should treat older shortened links as potentially unsafe and reassess links used in enduring communications. Bitly short links normally redirect visitors to their configured destination, and some Bitly plans allow a custom destination to be selected after an expiration date. The report does not explain how the alleged hijacking occurred or distinguish unauthorized redirection from legitimate link expiration settings.
+
+rss · Hacker News \(热门\) · Nov 15, 22:11
+
+**Background**: URL shorteners conceal the final destination behind a shorter address, making it harder for users to assess a link before opening it. URL hijacking redirects traffic from one URL variant to a malicious destination and differs from domain hijacking, which involves unauthorized control of domain registration or DNS settings. Because Bitly supports link-expiration behavior, any claim about expired links requires careful verification against the account&\#x27;s configuration and the service&\#x27;s documented controls.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://d2lvhbqifib4zm.cloudfront.net/blog/bit-ly-malware-spam/">Is Bitly safe? Check short links before you click | ExpressVPN</a></li>
+<li><a href="https://apiscout.dev/guides/how-to-create-url-shortener-bitly-2026">How to Create a URL Shortener with Bitly API 2026 | APIScout</a></li>
+<li><a href="https://replug.io/blog/url-hijacking">What is URL hijacking : Major impacts &amp; how to prevent it</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Bitly`, `#URL hijacking`, `#cybersecurity`, `#link security`, `#phishing`
+
+---
+
+<a id="item-26"></a>
+## [Self-Hosting Protomaps Has Become Cheap and Easy](https://bruceroettgers.eu/blog/protomaps/) ⭐️ 6.0/10
+
+An article argues that self-hosting Protomaps map tiles is now substantially cheaper and easier than maintaining conventional tile infrastructure. Protomaps packages a basemap into a file and uses HTTP range requests, allowing developers to serve it without a dedicated tile server. This lowers the operational barrier for organizations that need maps without third-party API keys, usage metering, or ongoing vendor dependency. It may make self-hosted vector mapping practical for privacy-sensitive, high-traffic, or specialized applications, although storage and bandwidth remain the operator&\#x27;s responsibility. Protomaps stores map data in a cloud-optimized format that can be served through HTTP range requests, so clients retrieve only the byte ranges they need rather than requiring a conventional tile-rendering stack. The trade-off is that self-hosting removes per-request API charges but shifts storage, bandwidth, distribution, and availability responsibilities to the deployer.
+
+rss · Hacker News \(热门\) · Nov 15, 19:26
+
+**Background**: Protomaps is an open-source system for self-hosted vector basemaps based on open geographic data. Unlike services such as the Mapbox and Google Maps APIs, it does not require API keys or metered third-party usage; users instead pay for their own infrastructure. Vector tiles encode geographic features rather than fixed images, giving clients flexibility in styling and rendering while generally imposing greater rendering demands on end-user devices.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://protomaps.com/">Protomaps - The open source map in a file</a></li>
+<li><a href="https://protomaps.com/about">Protomaps - The open source map in a file</a></li>
+<li><a href="https://thejeshgn.com/2021/05/25/protomaps-self-hosted-maps-and-map-tiles/">Protomaps – Self Hosted Maps and Map Tiles - Thejesh GN</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Protomaps`, `#self-hosting`, `#map tiles`, `#geospatial`, `#open-source`
+
+---
+
+<a id="item-27"></a>
+## [Eclipse Mosquitto: An Open-Source MQTT Broker](https://github.com/eclipse-mosquitto/mosquitto) ⭐️ 6.0/10
+
+Eclipse Mosquitto is presented as a mature, open-source MQTT broker for lightweight IoT messaging and telemetry. The submission contains only a repository link and does not announce a new release, feature, or technical advance. Mosquitto remains relevant to IoT and messaging infrastructure because it provides a lightweight broker for connecting devices and applications. However, without a substantive announcement, the item offers little evidence of a new development. Mosquitto implements MQTT protocol versions 5.0, 3.1.1, and 3.1 and is distributed under the EPL/EDL licenses. It supports configuration-file-based operation, including a documented command pattern that runs the broker as the mosquitto user with a specified configuration path.
+
+rss · Hacker News \(热门\) · Nov 15, 18:36
+
+**Background**: MQTT is an OASIS-standard, lightweight publish/subscribe messaging protocol designed for IoT devices with limited computing resources, network bandwidth, or high latency. A broker receives published messages and forwards them to subscribers according to their topic subscriptions, making the broker a central component in many device-to-application messaging architectures.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://mosquitto.org/">Eclipse Mosquitto</a></li>
+<li><a href="https://github.com/eclipse-mosquitto/mosquitto">GitHub - eclipse - mosquitto / mosquitto : Eclipse Mosquitto - An open...</a></li>
+<li><a href="https://mqtt.org/">MQTT - The Standard for IoT Messaging</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#MQTT`, `#IoT`, `#messaging`, `#open-source`, `#broker`
+
+---
+
+<a id="item-28"></a>
+## [Testing 8,900 House Stock Trades Against the Market](https://arkanumdata.com/research/house-trades) ⭐️ 6.0/10
+
+A study analyzed approximately 8,900 stock transactions by U.S. House members to determine whether their reported trades outperformed the broader market. It measured returns over one-, three-, and six-month horizons using two starting points and two market benchmarks. The analysis could inform debate over the informational advantages and public-policy implications of congressional stock trading. It also provides a data-driven way to distinguish lawmakers&\#x27; actual trade timing from what outside investors could realistically achieve after disclosures were filed. Returns are calculated from the trade-date close and from the first close after the report was filed, with daily prices adjusted for splits and dividends. The available material does not report the benchmark-adjusted outperformance, statistical significance, confidence intervals, or controls for trade selection and other potential biases.
+
+rss · Hacker News \(热门\) · Nov 15, 19:46
+
+**Background**: Congressional financial disclosures contain periodic transaction reports that record individual securities trades and are generally filed shortly after they occur. Backtesting these reports is not straightforward because a member may know the trade information before the filing becomes public, and disclosure files may report transaction amounts as ranges rather than exact values.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://arkanumdata.com/research/house-trades">Do House members&#x27; stock trades beat the market? A test of ...</a></li>
+<li><a href="https://congressionaltrader.com/congressional-trading-backtest">Congressional Trading Backtest | Congressional Trader</a></li>
+<li><a href="https://www.oge.gov/Web/OGE.nsf/Resources/Stop+Trading+on+Congressional+Knowledge+Act+of+2012+%28STOCK+Act%29">Stop Trading on Congressional Knowledge Act of 2012 (STOCK Act)</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#financial-analysis`, `#congressional-trading`, `#investment-performance`, `#data-analysis`, `#public-policy`
+
+---
+
+<a id="item-29"></a>
+## [Survey Examines Memory Management in 40 C Projects](https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html) ⭐️ 6.0/10
+
+The article presents a cross-project survey of memory-management approaches used in 40 major C software projects. However, the supplied content includes only the title and a link to comments, without the survey methodology or substantive findings. A broad survey could reveal which allocation, ownership, and cleanup patterns dominate in production-quality C code, helping developers compare practical approaches. Its value depends on a transparent project-selection method, consistent definitions, and verifiable results, none of which are available in the supplied excerpt. C commonly uses functions such as malloc, calloc, realloc, and free for dynamic memory management, while some projects adopt arena allocators or other custom strategies. Because the excerpt contains no methodology, project list, category definitions, or data, the prevalence and performance implications of these approaches cannot be assessed.
+
+rss · Lobsters \(技术社区\) · Nov 15, 12:50
+
+**Background**: Dynamic memory management in C requires developers to track allocations, ownership, lifetimes, and deallocation, including handling allocation failures. Arena allocators group many allocations into a larger region, which can simplify deallocation and improve cache locality when objects do not need to be released individually.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.bytesbeneath.com/p/the-arena-custom-memory-allocators">The Arena - Custom Memory Allocators in C</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#C`, `#memory-management`, `#systems-programming`, `#software-engineering`, `#survey`
+
+---
+
+<a id="item-30"></a>
+## [Google Explains QUIC Cross-Service UDP Loop Prevention](https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic) ⭐️ 6.0/10
+
+Google published a technical article describing how it prevented infinite UDP loops between services in QUIC deployments. The post also presents broader conclusions intended to help other operators avoid similar failures. Cross-service UDP loops can degrade performance or overload a network, particularly when QUIC traffic is forwarded among multiple services. The guidance is relevant to engineers operating distributed systems that rely on UDP-based QUIC and service discovery. The available summary confirms that the article focuses on defensive techniques for detecting and preventing loops between servers. However, the supplied content includes only a link to comments, so the exact mechanism, implementation details, and limitations are not available in the provided material.
+
+rss · Lobsters \(技术社区\) · Nov 15, 20:34
+
+**Background**: QUIC is a transport protocol that runs over UDP and underlies modern protocols such as HTTP/3. In distributed deployments, UDP datagrams may be forwarded between services; if a packet can repeatedly return through the forwarding path, the result is a cross-service loop that can consume resources and overload the network.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://bughunters.google.com/blog/preventing-cross-service-udp-loops-in-quic">Blog: Preventing Cross- Service UDP Loops in QUIC</a></li>
+<li><a href="https://www.reddit.com/r/netsec/comments/1bob7kp/preventing_crossservice_udp_loops_in_quic/">Preventing Cross-Service UDP Loops in QUIC : r/netsec - Reddit</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#QUIC`, `#UDP`, `#Networking`, `#Loop Prevention`, `#Service Discovery`
+
+---
+
+<a id="item-31"></a>
+## [FreeBSD bhyve Explores Live VM Migration Across Hosts](https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/) ⭐️ 6.0/10
+
+The article examines live migration support for FreeBSD bhyve on FreeBSD 15.1, including pre-copy memory transfer, dirty-page tracking, migration testing, and current limitations. It provides an overview of moving a running virtual machine between hosts. Live migration can improve virtual-machine availability and infrastructure flexibility by allowing workloads to move without requiring a complete shutdown. In FreeBSD environments, bhyve&\#x27;s migration capabilities may affect host maintenance, load balancing, and disaster-recovery planning. The described approach uses pre-copy memory transfer and dirty-page tracking to preserve VM state while the guest remains active. The article also notes existing limitations, so operators should treat the feature as an evolving capability rather than assuming seamless migration across every configuration.
+
+rss · Lobsters \(技术社区\) · Nov 15, 06:44
+
+**Background**: bhyve is a type-2 hypervisor implemented in FreeBSD and can run on Intel and AMD processors. Live migration transfers a running VM from a source host to a destination host, generally by sending memory state and tracking pages changed during the transfer. Earlier documentation shows that bhyvectl commands such as --migrate and --migrate-live were designed to initiate this process.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/">FreeBSD bhyve Live Migration : Moving VMs Between Hosts | gyptazy</a></li>
+<li><a href="https://github.com/freebsd/freebsd-quarterly/blob/main/2018q4/bhyve_migration.md">freebsd-quarterly/2018q4/ bhyve _ migration .md at main...</a></li>
+<li><a href="https://papers.freebsd.org/2019/asiabsdcon/mihalescu-FreeBSD_Live_Migration_feature_for_bhyve.files/mihalescu-FreeBSD_Live_Migration_feature_for_bhyve.pdf">FreeBSD - Live Migration feature for bhyve</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#FreeBSD`, `#bhyve`, `#Live Migration`, `#Virtualization`, `#Infrastructure`
+
+---
+
+<a id="item-32"></a>
+## [Organizing Rust Declarative Macros and Managing Scope](https://sigseis.dev/articles/2026/11/10) ⭐️ 6.0/10
+
+A new practical guide explains how to scope, organize, and export Rust declarative macros defined with macro\_rules\!. It also covers common patterns for reducing boilerplate and producing cleaner Rust crates. Declarative macros can eliminate repetitive implementations, but unclear organization and scope can make them harder to maintain or reuse. The guidance is useful to Rust developers designing library-facing macros and larger crate architectures. Rust macro\_rules\! macros are only partially hygienic: local variables, labels, and $crate receive hygiene protections, while other identifiers may still interact with surrounding scopes. Exporting and organizing macros also requires attention to module visibility and how macro names are made available to callers.
+
+rss · Lobsters \(技术社区\) · Nov 15, 19:40
+
+**Background**: Rust declarative macros use the macro\_rules\! system and expand into source code that is compiled as part of the surrounding program. They are commonly used to implement repetitive traits or generate related implementations while reducing boilerplate. Hygiene helps some macro-introduced identifiers avoid conflicts, but its guarantees are narrower than those of fully hygienic syntax extensions.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://users.rust-lang.org/t/rust-declarative-macros-organization-scoping-and-common-use-cases/143601">Rust Declarative Macros: Organization, Scoping, and Common ...</a></li>
+<li><a href="https://doc.rust-lang.org/rust-by-example/macros.html">macro_rules! - Rust By Example</a></li>
+<li><a href="https://lukaswirth.dev/tlborm/decl-macros/minutiae/hygiene.html">Hygiene - The Little Book of Rust Macros - GitHub Pages</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Rust`, `#Declarative Macros`, `#Metaprogramming`, `#Rust Scoping`
+
+---
+
+<a id="item-33"></a>
+## [Datasette LLM Adds OpenAI-Compatible Endpoint Support](https://simonwillison.net/2026/Nov/14/datasette-llm/) ⭐️ 6.0/10
+
+datasette-llm 0.1a11 adds support for OpenAI-compatible API endpoints, allowing Datasette plugins to connect to hosted or local language models. The release enables configurations using tools such as LM Studio, Ollama, and llama.cpp. This broadens the range of model backends available to Datasette without requiring a provider-specific integration for each service. It also lets developers and organizations run Datasette Agent with locally hosted models, potentially improving control over data, latency, and inference costs. The plugin can be configured with a model identifier, a model name, and an api\_base URL pointing to an OpenAI-compatible endpoint. The example uses uvx with datasette-agent and a local LM Studio server at http://localhost:1234/v1, with a Qwen model configured as the default.
+
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 14, 23:59
+
+**Background**: Datasette is a data exploration tool, while datasette-llm is an intermediate plugin that configures language models for use by other Datasette plugins. Datasette Agent can use these models to answer questions through a chat interface and call tools such as SQL queries. OpenAI-compatible endpoints provide a common HTTP protocol implemented by local runtimes including LM Studio and llama.cpp, as well as hosted services.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://llm.datasette.io/">LLM : A CLI utility and Python library for interacting with Large...</a></li>
+<li><a href="https://github.com/datasette/datasette-agent">GitHub - datasette/datasette-agent: An LLM-powered agent for ...</a></li>
+<li><a href="https://lmstudio.ai/docs/api/endpoints/rest">LM Studio REST API (beta) | LM Studio Docs</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Datasette`, `#LLM`, `#OpenAI-compatible API`, `#Local models`, `#Plugin`
+
+---
+
+<a id="item-34"></a>
+## [Datasette-vega 0.7 Modernizes Vega-Lite Plugin Support](https://simonwillison.net/2026/Nov/14/datasette-vega/) ⭐️ 6.0/10
+
+Datasette-vega 0.7 updates Simon Willison’s long-dormant Vega-Lite charting plugin for compatibility with recent Datasette alpha releases. It also adds support for running in Datasette Lite, including a browser-based live demo that visualizes airline safety data. This release keeps an established charting extension usable with Datasette’s evolving plugin architecture. Datasette Lite support broadens the plugin’s reach by allowing JavaScript-based visualizations to run directly in the browser. The previous release dates to July 2018, making this a notable maintenance update after a long dormant period. Version 0.7 includes cosmetic improvements for Datasette Lite, while the live demo supports bar, line, and scatter charts with configurable axes, color, and size.
+
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 14, 17:09
+
+**Background**: Datasette is an open-source tool for exploring and publishing structured data, with an ecosystem of plugins that extend its interface and capabilities. Datasette-vega renders table or custom-query results as Vega-Lite charts, while Datasette Lite runs Datasette in the browser. Earlier documentation noted that plugins loading their own JavaScript and CSS, including datasette-vega, were not yet compatible with Datasette Lite.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://simonwillison.net/2022/Aug/17/datasette-lite-plugins/">Plugin support for Datasette Lite | Simon Willison’s Weblog</a></li>
+<li><a href="https://github.com/simonw/datasette-lite">GitHub - simonw/ datasette - lite : Datasette running in your browser...</a></li>
+<li><a href="https://datasette.github.io/ready-for-datasette/">A continuously updated compatibility scoreboard for Datasette ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Datasette`, `#Vega-Lite`, `#data visualization`, `#plugins`, `#open-source`
+
+---
+
+<a id="item-35"></a>
+## [Lockdowns Reduced Global Fire Activity by 12.3%](https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/) ⭐️ 6.0/10
+
+A study found that COVID-19 lockdowns coincided with an estimated 12.3% decline in global fire activity during the first half of 2020. The change was not uniform, however, because fire activity increased in parts of South America. The result demonstrates how strongly human mobility and activity can influence wildfire patterns at a global scale. It also helps distinguish lockdown-related reductions from the broader effects of climate change, which continues to reshape fire risk. Satellite remote sensing is central to monitoring fires globally, using active-fire detections and burned-area mapping to identify where fires occur and how much land they affect. The 12.3% figure represents an estimated global decline rather than a universal reduction, and the study does not establish that lockdowns alone caused every local change.
+
+rss · Ars Technica · Nov 15, 12:07
+
+**Background**: Remote-sensing systems such as NASA FIRMS provide near-real-time active-fire and hotspot data from instruments including MODIS and VIIRS. At continental and global scales, wildfire research typically combines active-fire detection with burned-area mapping, although the two approaches measure physically different aspects of fire activity.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.earth.com/climate/covid-19-lockdowns-changed-global-fire-activity-in-ways-researchers-didnt-expect/">COVID-19 lockdowns changed global fire activity in ways ...</a></li>
+<li><a href="https://phys.org/news/2026-10-global-wildfires-decreased-covid-lockdown.html">Global wildfires decreased during the COVID-19 lockdown, but ...</a></li>
+<li><a href="https://www.earthdata.nasa.gov/data/tools/firms">FIRMS - NASA Earthdata</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#COVID-19`, `#wildfires`, `#environmental science`, `#climate change`, `#remote sensing`
+
+---
+
+<a id="item-36"></a>
+## [Congress Seeks Tighter AI Chip Export Rules After Nvidia Spy Scandal](https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china) ⭐️ 6.0/10
+
+Following reports linking former Nvidia CEO Jensen Huang to a suspected Chinese spy, members of Congress are pursuing tighter restrictions on AI chip exports to China. Democrats and Republicans have expressed support for various measures and bills, and some lawmakers have called for Huang and other Nvidia executives to testify. The proposed restrictions could affect Nvidia&\#x27;s sales, the broader semiconductor supply chain, and access to advanced computing hardware in China. Bipartisan backing suggests that export controls may become a central part of the continuing US-China technology competition. The article describes an early-stage legislative push rather than enacted policy, and the precise scope and timing of the contemplated measures are not specified. The reported scandal concerns Huang and a suspected Chinese spy, while congressional demands for testimony indicate continued scrutiny of Nvidia&\#x27;s leadership and compliance practices.
+
+rss · Hacker News \(best\) · Nov 15, 22:58
+
+**Background**: US export controls restrict the overseas sale of strategically sensitive hardware and technology, with advanced AI chips among the products subject to scrutiny because they support large-scale AI training and inference. Nvidia is a major supplier of these accelerators, and China has been a focus of US technology controls as part of broader national-security and strategic competition. Nvidia&\#x27;s export-compliance guidance assigns product classification codes and explains when licenses may be required.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://resources.altium.com.cn/p/newly-updated-us-export-rules-china-target-ai-chips">Newly Updated US Export Rules to China Target AI Chips | Altium</a></li>
+<li><a href="https://suggestedtech.com/news/us-ai-chip-rules-china-explained">The US tightened its AI - chip rules on China — explained simply</a></li>
+<li><a href="https://www.nvidia.com/en-us/about-nvidia/company-policies/export-regulations/">NVIDIA Networking Export Regulation Compliance | NVIDIA</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI chips`, `#export controls`, `#US-China tech war`, `#Nvidia`, `#policy`
+
+---
+
+<a id="item-37"></a>
+## [AI Tamagotchi Gives Everyday Objects Expressive Personalities](https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/) ⭐️ 6.0/10
+
+Carnegie Mellon University fifth-year PhD student Daehwa Kim created OATs, or Object Agent Twins, micro-agent AI avatars displayed on tiny E Ink screens. The devices attach to household objects such as plants, skateboards, and dumbbells, giving them expressive personalities intended to encourage healthier habits. OATs combine AI-driven character design with physical objects to create a more engaging form of behavioral encouragement than conventional reminders. The prototype explores how embodied, persistent virtual characters could influence routines and productivity without requiring a conventional screen-centered device. OATs uses tiny E Ink displays to render micro-agent avatars, allowing the objects to communicate states or needs visually. The project is a creative hardware and interaction prototype rather than a major research breakthrough, and its effectiveness at changing long-term behavior remains to be demonstrated.
+
+rss · Wired · Nov 15, 11:00
+
+**Background**: Virtual-pet designs assign personality, status, and needs to digital characters, encouraging users to interact with them repeatedly. OATs applies that concept to physical objects by placing an AI avatar on a low-power E Ink display. Electronic ink is suited to persistent, simple indicators because it resembles paper and generally requires power mainly when its content updates.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.wired.com/story/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/">This AI Tamagotchi Turns Everyday Objects Into Needy Virtual Pets</a></li>
+<li><a href="https://www.sciencedirect.com/topics/computer-science/electronic-ink">Electronic Ink - an overview | ScienceDirect Topics</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI-hardware`, `#E-Ink`, `#human-computer interaction`, `#behavioral design`, `#productivity`
+
+---
+
+<a id="item-38"></a>
+## [Extreme Droughts Could Wipe Out Most Cactus Habitats](https://www.wired.com/story/droughts-are-getting-too-extreme-even-for-cactuses/) ⭐️ 6.0/10
+
+New research warns that worsening droughts driven by climate change could eliminate most of the suitable habitat for hundreds of cactus species by 2100. The findings point to a major conservation risk for drought-adapted plants. Cacti are highly adapted to arid environments, so large-scale habitat loss would affect the species that are already especially vulnerable to climate change. It could also disrupt ecological communities and intensify the need for targeted conservation planning. The research projects habitat suitability for hundreds of cactus species through 2100 under worsening drought conditions. The available summary does not specify the number of species assessed, the proportion of habitat potentially lost, the climate models used, or the study&\#x27;s mitigation and uncertainty analysis.
+
+rss · Wired · Nov 15, 10:30
+
+**Background**: Cacti are drought-tolerant plants native to the Americas and are adapted to survive in environments with little water. Habitat suitability models can estimate where a species may remain viable as climate conditions change, while drought can reduce plant survival, reproduction, and the availability of suitable sites.
+
+**Tags**: `#climate-change`, `#drought`, `#cactus-conservation`, `#habitat-loss`, `#ecology`
+
+---
+
+<a id="item-39"></a>
+## [AI Aviation Meets Staffing and Safety Challenges](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) ⭐️ 6.0/10
+
+The Wired article examines how AI-assisted aviation could operate as pilots and air traffic controllers take on fewer roles. It focuses on the safety, operational, and human-factor risks that could emerge when machines assume more responsibility in the cockpit and air traffic control. 航空业正在转向人工智能决策支持，同时部分领域正面临飞行员和空中交通管制员短缺。如果人工智能在缺乏充分人工监督、责任划分和安全控制的情况下填补人员缺口，效率提升可能伴随更高的运营风险。 Current systems are best understood as decision aids rather than wholly autonomous replacements: research describes AI supporting pilots and controllers with timely decisions and obstacle detection. The central caveat is that human controllers remain important for managing complex airspace, including unusual situations and failures not anticipated during training.
+
+rss · Wired · Nov 14, 11:00
+
+**Background**: Air traffic controllers coordinate aircraft in flight and around airports, while pilots make continuous safety-critical decisions in the cockpit. AI can support these roles through decision-support systems, assistive tools, and fatigue monitoring, but the available discussion emphasizes that it does not yet eliminate the need for human judgment. Automated systems must also account for edge cases, workload, communication failures, and the handoff between automated recommendations and human action.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://link.springer.com/article/10.1007/s44196-024-00671-w">Artificial Intelligence in Aviation Safety: Systematic Review and...</a></li>
+<li><a href="https://www.heise.de/en/news/Loki-DLR-develops-AI-assistant-for-air-traffic-controllers-and-pilots-11349580.html">Loki: DLR develops AI assistant for air traffic controllers and pilots</a></li>
+<li><a href="https://theconversation.com/why-ai-cant-replace-air-traffic-controllers-220763">Why AI can’t replace air traffic controllers</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI in aviation`, `#autonomous systems`, `#air traffic control`, `#safety`, `#human factors`
 
 ---
 
 <a id="item-40"></a>
-## [Run SteamOS on Apple Silicon Macs via Virtualization](https://www.wired.com/story/get-steamos-easily-running-on-your-mac/) ⭐️ 6.0/10
+## [Colliding Galaxies May Have Ejected Their Dark Matter](https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter/) ⭐️ 6.0/10
 
-A free community application lets users boot Valve’s SteamOS inside a virtual machine on Apple Silicon Macs. It provides access to PC and legacy games that are unavailable through the native macOS version of Steam. This gives Mac enthusiasts a practical way to reuse Apple Silicon hardware for a broader Steam library without replacing macOS or installing Windows. It is also an experiment in bringing Valve’s Linux-based gaming environment to a platform that Apple does not officially support for the full Steam catalog. The application installs SteamOS into a virtual machine on first launch and uses Apple’s Hypervisor.framework with libkrun. Steam runs as native ARM64 software inside the VM, while Windows games are handled through Proton and FEX; the project is community-made rather than an official Valve release.
+Several apparently dark-matter-deficient galaxies may have lost their dark matter during a collision. Their unusual properties could provide unusually direct evidence for dark matter. Dark matter is difficult to observe directly, so a galaxy that has apparently shed it can serve as a natural test of dark-matter models. The result could help explain how galaxy collisions redistribute matter and distinguish otherwise invisible mass from ordinary matter. The proposed explanation is that collision-related gravitational forces displaced the galaxies&\#x27; dark matter rather than removing it altogether. The brief report does not identify the galaxies, quantify their missing mass, or specify the observations supporting the ejection scenario, so those details cannot be evaluated from the supplied material.
 
-rss · Wired · Nov 14, 12:00
+rss · Wired · Nov 14, 10:00
 
-**Background**: SteamOS is Valve’s gaming-oriented operating system based on Linux, and it normally runs on Steam Deck hardware. A virtual machine allows software designed for another architecture or operating system to run within macOS, while Proton enables many Windows games to execute on Linux through compatibility tools. This community solution targets Macs with ARM-based Apple Silicon processors.
+**Background**: Dark matter does not emit or absorb light, but its presence can be inferred from gravitational effects that ordinary visible matter cannot explain. Galaxies normally sit within extended dark-matter halos, and during mergers or strong tidal interactions, both ordinary matter and dark matter can be redistributed. Tidal dwarf galaxies formed from ordinary matter expelled during such interactions are therefore expected to contain little or no dark matter.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.wired.com/story/get-steamos-easily-running-on-your-mac/">How to Run SteamOS on Your Mac | WIRED</a></li>
-<li><a href="https://www.ithinkdiff.com/steamos-on-mac-fx-steam-launcher/">FX Steam Launcher Runs SteamOS on Mac With Apple Silicon</a></li>
-<li><a href="https://industrywired.com/gaming/steamos-now-runs-on-apple-silicon-macs-12778570">SteamOS Now Runs on Apple Silicon Macs | Industry Wired</a></li>
+<li><a href="https://science.nasa.gov/dark-matter/">Dark Matter - NASA Science</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Modified_Newtonian_dynamics">Modified Newtonian dynamics - Wikipedia</a></li>
+<li><a href="https://www.science.org/doi/10.1126/science.1089237">Galaxy Disruption in a Halo of Dark Matter | Science</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SteamOS`, `#Apple Silicon`, `#Virtualization`, `#Gaming`, `#Mac`
+**Tags**: `#dark matter`, `#galaxy collisions`, `#astrophysics`, `#observational astronomy`
 
 ---
 
 <a id="item-41"></a>
-## [AI Aviation Raises Safety Questions as Humans Step Back](https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/) ⭐️ 6.0/10
+## [Fractales de Ensueño Brings Nine Fractal Families to the Browser](https://dev.to/magopredator/fractales-de-ensueno-mundos-de-belleza-inimaginables-e-infinitos-2lf8) ⭐️ 6.0/10
 
-The article examines how AI and automation could reduce pilots’ and air traffic controllers’ involvement in aviation. It asks what safety failures could emerge as aircraft and air traffic management become more automated. Automation could improve efficiency, but removing or reducing human participation may create new operational and human-factors risks. The issue directly affects aviation safety, pilot training, air traffic management, regulation, and public confidence. Autonomous aircraft can fly without onboard pilots or remote control, while AI development is accelerating toward fully autonomous commercial flights. In air traffic control, research indicates that both excessive workloads and underloads can threaten safety, making the design of hybrid human-automation systems especially important.
+Fractales de Ensueño is a zero-dependency JavaScript fractal-rendering engine that asynchronously renders nine fractal families while targeting 60 FPS and avoiding main-thread blocking. Its architecture separates the reactive interface from heavy computation performed in a dedicated Web Worker. The project shows how dependency-free browser graphics can remain responsive during expensive Float64 calculations, making it useful for students, educators, and scientific-computing enthusiasts. Disabling custom equations also demonstrates a cautious approach to code-injection risks in interactive graphics tools. The engine supports Mandelbrot, Julia, Burning Ship, Tricorn, Celtic, Buffalo, Multibrot z^3 and z^4, and Phoenix, with bilingual controls for zoom, color palettes, and iterations. Custom expressions were removed because new Function and eval do not provide a genuine browser sandbox; a future AST parser was proposed, although the visible article provides limited benchmark and implementation evidence.
 
-rss · Wired · Nov 14, 11:00
+rss · Dev.to · Nov 15, 23:09
 
-**Background**: Autonomous aircraft use onboard robotic systems to perform flight tasks that ordinarily require a pilot. Air traffic control manages aircraft in flight, and automation is changing both the systems controllers operate and the decisions they must supervise. Research on human factors in air traffic management emphasizes workload, training, and the safe balance between automated capabilities and human judgment.
+**Background**: Fractals are generated by repeatedly applying mathematical rules, producing detailed structures that can be explored interactively in the complex plane. Browser rendering can become computationally expensive at high zoom or iteration counts, and Web Workers address this by running intensive JavaScript away from the main thread, preserving rendering and input responsiveness. Dynamically evaluating user-supplied JavaScript remains dangerous because constructs such as eval and new Function are not reliable security boundaries.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Autonomous_aircraft">Autonomous aircraft - Wikipedia</a></li>
-<li><a href="https://flyaviation.aero/ai-in-aviation-revolutionizing-the-future-of-pilotless-planes/">AI in Aviation: Revolutionizing the Future of Pilotless Planes</a></li>
-<li><a href="https://www.amazon.com/Flight-Future-Factors-Traffic-Control/dp/0309090040">Flight to the Future: Human Factors in Air Traffic Control ...</a></li>
+<li><a href="https://www.w3schools.com/js/js_async_webworkers.asp">JavaScript Web Workers - W3Schools</a></li>
+<li><a href="https://www.pillar.security/blog/n8n-sandbox-escape-critical-vulnerabilities-in-n8n-exposes-hundreds-of-thousands-of-enterprise-ai-systems-to-complete-takeover">n8n Sandbox Escape: Critical Vulnerabilities in n8n Exposes Hundreds...</a></li>
+<li><a href="https://curvatureofthemind.com/posts/five-ways-to-draw-the-same-fractal/">Five ways to draw the same fractal · Curvature of the Mind</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI in Aviation`, `#Autonomous Systems`, `#Air Traffic Control`, `#Aviation Safety`, `#Human Factors`
+**Tags**: `#javascript`, `#fractals`, `#web-graphics`, `#asynchronous-rendering`, `#open-source`
 
 ---
 
 <a id="item-42"></a>
-## [Gaza’s Flooding Creates a Sewage-Water Fuel Dilemma](https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/) ⭐️ 6.0/10
+## [Environment-Scoped Keys Strengthen License Isolation](https://dev.to/zero_heartbeat_06a3625d7a/scoping-a-keyright-license-to-an-environment-migrating-from-one-key-everywhere-to-a-signed-1a3p) ⭐️ 6.0/10
 
-Flooding in Gaza, combined with wartime fuel restrictions and limits on repairs, has forced water-system operators to divert fuel from wells to sewage drainage pumps. The result is a direct trade-off between removing contaminated wastewater and pumping clean water into depleted wells. The conflict is worsening failures in Gaza’s already damaged water and sanitation network, increasing the risk of sewage contamination and further depletion of groundwater supplies. The dilemma highlights how fuel shortages, infrastructure damage, and restrictions on repairs can turn ordinary flood response into a life-safety crisis. Fuel restrictions and difficulty importing repair materials are preventing the normal operation of Gaza’s water and sanitation system, which includes wells, sewage pumping stations, wastewater treatment plants, desalination plants, and water-lifting stations. Floodwater creates an urgent pumping demand, but diverting fuel from wells can reduce access to clean water and aggravate aquifer depletion.
+The migration guide replaces a shared product license with signed licenses containing a \`scope:env\` entitlement that names permitted environments. It preserves one product, one public key, and one validation path while allowing production, staging, and development credentials to be rotated or revoked independently. A shared signed key does not reveal where it was issued, so a staging credential can accidentally authorize production and cannot be revoked without affecting production. Environment claims turn deployment context into cryptographically protected policy, reducing operational errors and limiting the impact of credential leaks. The \`scope:env\` entitlement is a comma-separated list of environment names inside the canonical payload covered by the signature; the application compares that claim with its own environment. The proposed rollout also keeps the legacy unscoped key valid during migration, avoiding a flag day and allowing scoped keys to be introduced incrementally.
 
-rss · Wired · Nov 14, 10:30
+rss · Dev.to · Nov 15, 23:09
 
-**Background**: Gaza’s water system depends on interconnected wells, pumping stations, treatment plants, desalination facilities, and reservoirs. Flooding raises demand for drainage, while fuel shortages limit the equipment that pumps sewage and replenishes wells. Research cited in the search results describes damaged pipelines, shortages of pump fuel and parts, and restricted repair-material imports as chronic causes of disruption, with direct consequences for sanitation and access to clean water.
+**Background**: Offline license validation commonly uses asymmetric digital signatures: an issuer signs license claims with a private key, while the application verifies them with a public key. This supports validation without a network call, but signature authenticity alone does not distinguish a staging license from a production license. Practical license systems also need controlled key rotation, revocation procedures, and an audit trail because generation and secure lifecycle management are separate concerns.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.wired.com/story/gaza-floods-are-forcing-a-choice-between-pumping-out-sewage-and-pumping-in-water/">Floods Force Gaza to Choose Between Clean Water and Pumping ...</a></li>
-<li><a href="https://afsc.org/sites/default/files/documents/Gaza+Unlocked+-+Water+and+sanitation.pdf">Lacking water and sanitation in Gaza - afsc.org</a></li>
-<li><a href="https://www.cambridge.org/core/journals/disaster-medicine-and-public-health-preparedness/article/us-emergency-managers-view-of-the-water-systems-crisis-in-gaza/9F0BF5306798D523D3E4C7CE93183E7D">A U.S. Emergency Manager’s View of the Water Systems Crisis ...</a></li>
+<li><a href="https://trafficorchestrator.com/blog/license-key-best-practices">License Key Best Practices for SaaS... | Traffic Orchestrator Blog</a></li>
+<li><a href="https://codemia.io/knowledge-hub/path/secure_algorithm_for_creating_license_keys">Secure algorithm for creating license keys ? | Codemia</a></li>
+<li><a href="https://swiftrocks.com/creating-a-license-system-for-paid-apps-in-swift">Creating a licensing system for paid apps in Swift</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Gaza`, `#Water Infrastructure`, `#Flooding`, `#Humanitarian Crisis`, `#Wastewater Management`
+**Tags**: `#license-management`, `#security`, `#environment-isolation`, `#key-rotation`, `#DevOps`
 
 ---
 
 <a id="item-43"></a>
-## [Browser-Based Background Removal Keeps Photos Local](https://dev.to/farbodf/i-remove-photo-backgrounds-without-uploading-the-photo-the-model-runs-in-my-browser-ci7) ⭐️ 6.0/10
+## [Twenty-Four Searches Expose a Catalog Vocabulary Gap](https://dev.to/minia2a/twenty-four-searches-twelve-answers-what-our-own-catalog-search-measures-3k1g) ⭐️ 6.0/10
 
-ToolsByUs released a free background remover that runs an ONNX segmentation model entirely in the browser and returns a transparent PNG without uploading the source image. In the author&\#x27;s test, the first run required a 25.5 MB model download and took under 30 seconds, while cached runs completed in under 10 seconds. The architecture makes image privacy directly verifiable through the browser&\#x27;s network panel rather than dependent on a server-side deletion policy. It also illustrates how ONNX Runtime Web can bring practical machine-learning inference to users without accounts, API keys, or uploads, though speed and resource use depend on local hardware. The tool requires no account or API key and processes images locally, but the model must be downloaded once per browser and cached thereafter; clearing site data triggers another download. On a 1280×1920 portrait, it produced a 4.7 MB transparent PNG with clean shoulders and neck, although fine hair showed slight halos and grey fringes, and large images consume more time and memory than server-backed GPU processing.
+A marketplace tested 24 deduplicated search terms from a public 30-day demand preview against its live catalog, and 12 queries returned results while 12 returned none. The test used one GET request and hit count per term, and all five zero-result cases shown in the results table shared the same cause: literal token AND matching without stemming, synonyms, or relevance ranking. The evaluation measures whether buyers can retrieve relevant listings rather than merely counting available endpoints, exposing substantial discoverability problems in a real marketplace catalog. Query expansion could improve recall by bridging user and catalog vocabulary, but the small internal sample limits broader conclusions. The search splits a query into tokens and matches a row only when every token appears in its name or description; the tokens do not need to occur in the same sentence. Measurements were taken on 2026-11-15, with notable failures including &quot;daily stock screen,&quot; &quot;daily stock picks with thesis,&quot; &quot;s&amp;p 500 thesis,&quot; and several branded or multi-concept queries, while three additional rows were omitted from the displayed excerpt.
 
-rss · Dev.to · Nov 15, 20:29
+rss · Dev.to · Nov 15, 23:08
 
-**Background**: Image segmentation models can isolate a foreground subject from its background, enabling transparent cutouts without manually editing pixels. ONNX Runtime Web is a JavaScript library for executing ONNX models in browsers, while edge inference generally means running models locally instead of sending data to a centralized cloud service. Local execution can reduce latency and improve data privacy, but it shifts computation, storage, and failure-recovery responsibilities to the user&\#x27;s device.
+**Background**: Literal AND matching is highly sensitive to vocabulary mismatch: a relevant listing may be missed if its description uses different words from the buyer’s query. Query expansion addresses this problem by reformulating a query with related terms, synonym or stemming variants, or query rewrites while preserving intent. A stable query set and reproducible harness make it possible to compare retrieval behavior as a live catalog changes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://onnxruntime.ai/docs/tutorials/web/">ONNX Runtime : cross-platform, high performance ML inferencing and...</a></li>
-<li><a href="https://www.npmjs.com/package/onnxruntime-web">onnxruntime- web - npm</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Edge_inference">Edge inference - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Query_expansion">Query expansion - Wikipedia</a></li>
+<li><a href="https://nhimg.org/glossary/query-expansion/">What Is Query Expansion? Definition &amp; Examples</a></li>
+<li><a href="https://spacefrontiers.org/benchmarks/search-quality">Search Quality Benchmark | Space Frontiers</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#browser-based ML`, `#ONNX Runtime`, `#image segmentation`, `#privacy`, `#edge inference`
+**Tags**: `#information-retrieval`, `#search-quality`, `#marketplace-search`, `#query-evaluation`, `#reproducible-testing`
 
 ---
 
 <a id="item-44"></a>
-## [Prevent Duplicate Vector Chunks with Idempotent Ingestion](https://dev.to/vaughnknight3189/marketplace-page-alerts-debug-duplicate-chunks-across-vector-results-2ak2) ⭐️ 6.0/10
+## [AI Executive Assistant Costs €5.6k, Saves €173k a Year](https://dev.to/mariankamenistak/ai-executive-assistant-roi-i-spend-eu56k-save-eu173k-l1a) ⭐️ 6.0/10
 
-The guide recommends assigning each marketplace page snapshot a stable version, deriving deterministic chunk IDs from that version and chunk position, and using bulk upserts so retries overwrite the same logical records. It also recommends logging runId, sourceId, sourceVersion, chunkId, and write outcomes together to make duplicate search results traceable to ingestion events. Retries, queue redelivery, and manual backfills can otherwise create stale or duplicate vectors, inflating storage costs and degrading retrieval quality. Stable identities and version-aware writes address the ingestion defect directly rather than merely hiding repeated hits at query time. Repeated identical chunk IDs usually indicate a query or response-assembly issue, while different IDs with identical text suggest unstable ingestion identities; overlapping text and multiple active versions require separate diagnostics. Positional IDs work well for stable page snapshots but can rewrite many later chunks after an early-page edit, and delete-then-insert operations can temporarily leave an empty result set unless an active-version switch is used.
+A solo operator and former VP of Engineering at Mews published a quantified ledger for his self-built AI executive assistant: 123 scheduled automations plus AI skills and a monitoring dashboard he calls the Control Room. As of a ledger dated 14 November 2026, the automations save about 361 hours per month \(~4,330 hours a year\), equal to 2.3 extra people and €173,141 in avoided people cost, against a €464/month \(€5,569/year\) running cost, netting roughly €13,000+ per month saved. He also documents failure modes: one job reported success for 48 days while its access key was being rejected, a cron schedule that was off by one day, and a day when ~70% of the board went red because a laptop was not plugged in. This is a rare, concrete, costed example of a small business running an agentic/automation stack in production rather than a demo, and it fits the wider industry shift toward agentic orchestration with human-in-the-loop governance and observability layers. It also shows that the hard part of AI ROI is not the plumbing but the context definition — writing the niche, ideal customer and KPIs — plus the operational discipline needed to catch silent failures. The savings panel is captured in Czech crowns \(€14,428/month avoided people cost = 352,415 CZK; €464/month running cost = 11,335 CZK\), and the author warns that these figures are his own estimates rather than audited results, derived from a 160-hours-per-person-month assumption. His three recommended takeaways are: define niche, ideal customer and two KPIs each with a named source for one business line; list every recurring job with an owner; and set up an alert whenever a job goes silent. He also notes he retains a human executive assistant \(Lucie\) because accountability, not cost, is what he values from her, and he needed 20+ years of software engineering experience \(plus former VP of Engineering role at Mews, where engineering grew from 8 to 80 teams\) to build it himself.
 
-rss · Dev.to · Nov 15, 20:29
+rss · Dev.to · Nov 15, 23:07
 
-**Background**: Vector search systems divide source documents into chunks and store their embeddings for retrieval in RAG applications. Idempotent ingestion means reprocessing the same input has the same net effect as processing it once, which requires stable chunk identities and an upsert or equivalent replacement operation. Query-time deduplication can suppress repeated results, but it does not remove duplicate vectors or reduce index growth.
+**Background**: An &quot;AI executive assistant&quot; here is not a chatbot but a stack of scheduled automation jobs that trigger recurring business tasks on a timetable, each backed by AI skills, with a dashboard aggregating status and cost — comparable to workflow orchestration and agent observability tooling described in industry guides. Cron, the Linux daemon that runs tasks on a schedule, is the usual mechanism, and it fails silently: a job can keep reporting success while its credentials are invalid or its schedule is misconfigured, which is why monitoring and alerting are the real product. The author frames the system as a &quot;second brain&quot; spanning five business lines: the Engineering Leaders Community, the ELC Conference, the Academy, hiring through Marian&\#x27;s List, and his mentoring work at marian.coach.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://inferensys.com/glossary/vector-database-infrastructure/vector-database-operations/idempotent-ingestion">Idempotent Ingestion: Definition &amp; Vector Database Guide</a></li>
-<li><a href="https://blogs.oracle.com/developers/how-to-detect-rag-index-drift-deleted-docs-stale-chunks-and-duplicate-embeddings">How to Detect RAG Index Drift: Deleted Docs, Stale Chunks ...</a></li>
-<li><a href="https://vectorsearchnotes.com/en/guides/rag-chunking-strategies/">RAG Chunking Strategies for Production Retrieval | Vector Search</a></li>
+<li><a href="https://www.celigo.com/blog/ai-workflow/">AI workflows: A guide to orchestrated, integrated automation</a></li>
+<li><a href="https://www.kuse.ai/blog/workflows-productivity/ai-workflow-orchestration">AI Workflow Orchestration: A Practical Guide (2026)</a></li>
+<li><a href="https://agentscontrolroom.dev/">Agent Control Room: LLMOps, Safety &amp; Cost Observability for ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#vector databases`, `#RAG`, `#data ingestion`, `#idempotency`, `#debugging`
+**Tags**: `#AI automation`, `#Executive assistant`, `#Workflow orchestration`, `#Observability`, `#Business ROI`
 
 ---
 
 <a id="item-45"></a>
-## [Migrating API Keys to WordPress 7.2 Secrets](https://dev.to/mammothwp/moving-an-api-key-from-wpoptions-to-the-wordpress-72-secrets-api-44ad) ⭐️ 6.0/10
+## [Full File Coverage Does Not Equal a Complete Security Review](https://dev.to/prodbymarcu/reviewing-every-file-doesnt-mean-the-review-is-complete-3oh9) ⭐️ 6.0/10
 
-WordPress 7.2, scheduled for final release on December 8, introduces an encrypted Secrets API that retains one previous credential version for rotation. The guide shows how plugins can migrate an existing API key from plain \`wp\_options\` storage while accommodating host-managed and unavailable secret storage. The new API gives WordPress plugins and hosts a standardized way to protect API keys and OAuth client secrets at rest instead of storing them as ordinary options. Its rotation support can reduce disruption when credentials change, although the migration still requires careful cleanup and compatibility handling. Before migration, code should call \`wp\_is\_secrets\_api\_available\(\)\` and retain existing storage if it returns false. \`wp\_import\_option\_as\_secret\(\)\` imports the option without deleting it, and the original should be removed afterward; read-only providers require a notice rather than an input field or fallback to an option. Secrets use names such as \`plugin-slug/secret-name\`, and callers must distinguish \`WP\_Secret\`, \`null\`, and \`WP\_Error\`, reveal values only where needed, avoid caching or serializing \`WP\_Secret\` objects, and perform their own capability checks.
+A test of the Hermes Security plugin against a deliberately vulnerable Flask fixture produced a report that marked both files as reviewed while leaving 46 application-security controls with unknown status. The report also incorrectly claimed that the Flask app was instantiated on an import line and contained unresolved severity and candidate-documentation inconsistencies. Security teams may mistake file-level completion for evidence that the review’s security questions were actually resolved. The result shows why generated reports require control-level traceability, runtime validation, and human review before they are used to grant assurance. The scan identified three findings—two critical and one high—but did not execute the app, invoke its routes, or run the command path; dependency findings came only from matching package versions to published advisories. It also retained 11 candidates outside the main findings, including a hardcoded token, while reporting 40 controls without an explicit coverage unit and six controls whose findings were not marked closed.
 
-rss · Dev.to · Nov 15, 20:28
+rss · Dev.to · Nov 15, 23:04
 
-**Background**: The Secrets API is a proposed WordPress core mechanism for storing credentials such as API keys and tokens encrypted at rest, retaining one previous version for rotation, and allowing hosts to replace storage through a \`secrets.php\` drop-in. Encryption depends on the dedicated \`WP\_SECRETS\_KEY\` constant in \`wp-config.php\`; new installations receive it automatically, while Site Health helps existing sites add it. The API can return unavailable or error states, so plugins should not assume that every WordPress installation can immediately use encrypted secret storage.
+**Background**: Static application security testing analyzes source code without executing the application, so it can miss runtime behavior and deployed configuration context. File coverage records what entered the review, whereas control coverage records whether a specific security requirement was verified and closed; a dependency version match identifies a potential concern but does not prove that vulnerable behavior is reachable.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://make.wordpress.org/core/2026/11/11/the-secrets-api-in-wordpress-7-2/">WordPress 7.2 Secrets API: Secure Credential Storage Guide</a></li>
-<li><a href="https://developer.wordpress.org/news/2026/11/whats-new-for-developers-november-2026/">What’s new for developers? (November 2026) | WordPress Developer...</a></li>
-<li><a href="https://core.trac.wordpress.org/ticket/66187">Secrets API: encrypted, versioned storage for credentials</a></li>
+<li><a href="https://nhimg.org/glossary/sast-limitations/">What Is SAST Limitations? Definition &amp; Examples - nhimg.org</a></li>
+<li><a href="https://www.geeksforgeeks.org/software-testing/static-application-security-testing-sast/">Static Application Security Testing (SAST) - GeeksforGeeks</a></li>
+<li><a href="https://owasp.org/projects/asvs">OWASP Application Security Verification Standard ( ASVS )</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#WordPress`, `#Security`, `#Secrets API`, `#PHP`, `#API Keys`
+**Tags**: `#security-review`, `#application-security`, `#security-reporting`, `#code-audit`, `#software-quality`
 
 ---
 
 <a id="item-46"></a>
-## [Deterministic Testing for Realtime Moderation and Watchlist Ordering](https://dev.to/fletchervance3712/realtime-participant-moderation-testing-stock-trading-watchlists-without-flaky-timing-1pne) ⭐️ 6.0/10
+## [Model Deletion Orders Demand Training-Data Lineage](https://dev.to/krshah3/model-deletion-orders-require-training-data-lineage-4ocd) ⭐️ 6.0/10
 
-The article proposes testing realtime participant moderation in a shared stock-trading watchlist with ordered, replayable event traces and explicit sequence barriers instead of sleeps or timing assertions. Most correctness checks run deterministically, while a smaller live suite verifies subscriptions, reconnection, and fan-out. This approach prevents scheduler load and network timing from deciding whether moderation tests pass. It also gives realtime systems a clear boundary between successful message delivery and an accepted domain change, improving reproducibility and auditability. Each accepted event receives a monotonically increasing sequence number; clients apply the next expected event, ignore duplicates, and pause at gaps until recovery. In the example, sequence 42 suspends participant p-17, so the TSLA command at sequence 44 is rejected, while the audit trail records command identity, actor, target, accepted sequence, decision, and prior cursor.
+The analysis explains that FTC model-deletion remedies require organizations to identify every artifact derived from specified data, not just locate model code and configurations. It proposes training-time records covering source datasets, immutable snapshots, run metadata, output hashes, and deployments. Organizations cannot reliably prove that they have complied with broad deletion orders if they cannot reconstruct which training records influenced a model. Detailed lineage therefore becomes an operational requirement for privacy compliance, auditability, and reproducible model governance. The article says lineage must be captured during training because later reconstruction from logs and notebooks may omit older runs. A minimum record should include source tables and partitions, versions and filters, an immutable dataset snapshot ID, the code commit and hyperparameters, SHA-256 hashes of outputs, and the services that deployed them.
 
-rss · Dev.to · Nov 15, 20:28
+rss · Dev.to · Nov 15, 23:03
 
-**Background**: Realtime applications often deliver messages more than once, out of order, or after a reconnection, so transport success does not necessarily establish business correctness. Idempotency ensures that repeated application of the same operation does not change the result again. A sequence barrier provides an explicit point at which an ordered event has been committed and makes failure boundaries observable.
+**Background**: Model lineage is a graph connecting source records to transformed datasets, checkpoints, fine-tuned or distilled models, embeddings, vector indexes, and deployments. Legal scopes vary, but Cambridge Analytica and Everalbum orders covering products built from covered data &quot;in whole or in part&quot; can reach models trained even with one implicated record. The Everalbum settlement, finalized in May 2021, required deletion of facial-recognition models and algorithms developed from users&\#x27; biometric data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dzone.com/articles/idempotency-and-reliability-in-event-driven-systems">Idempotency and Reliability in Event-Driven Systems Guide - DZone</a></li>
-<li><a href="https://www.cockroachlabs.com/blog/idempotency-and-ordering-in-event-driven-systems/">Idempotency and ordering in event-driven systems - CockroachDB</a></li>
-<li><a href="https://event-driven.io/en/guides/idempotency/">Idempotency - Event-Driven.io</a></li>
+<li><a href="https://www.ftc.gov/news-events/news/press-releases/2021/05/ftc-finalizes-settlement-photo-app-developer-related-misuse-facial-recognition-technology">FTC Finalizes Settlement with Photo App Developer Related to ...</a></li>
+<li><a href="https://lakefs.io/blog/machine-learning-architecture-diagram/">Machine Learning Architecture Diagram: Key Components</a></li>
+<li><a href="https://alicebot.org/why-your-ai-models-fail-without-data-lineage-tracking/">Why Your AI Models Fail Without Data Lineage Tracking - Ask Alice</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#realtime-systems`, `#integration-testing`, `#event-sourcing`, `#idempotency`, `#software-architecture`
+**Tags**: `#machine learning governance`, `#data lineage`, `#model deletion`, `#FTC compliance`, `#data provenance`
 
 ---
 
 <a id="item-47"></a>
-## [Three Contracts for Replaceable Open Graph Image Caching](https://dev.to/yukikobayashi880/nodejs-share-card-cache-3-contracts-for-replaceable-open-graph-images-4mj1) ⭐️ 6.0/10
+## [Automating Cassandra Deployment and Commit-Level Verification](https://dev.to/adriansalasepis/cassandra-como-codigo-astra-db-render-con-terraform-y-un-pipeline-de-github-actions-que-prueba-7jg) ⭐️ 6.0/10
 
-The article proposes generating each Open Graph share card once per content version and caching it under a deterministic key based on its rendering inputs. It recommends separating the processing contract, artifact identity, and delivery reference so background removal, preview generation, and storage can evolve independently. This design prevents crawler traffic from repeatedly triggering expensive image processing and upload bandwidth. It also allows accepted product cutouts to be reused when only a title changes while ensuring that improved segmentation or source photographs invalidate stale cards. The proposed input manifest includes the exact title, template revision, source-image revision, and cutout settings, with normalization chosen deliberately because collapsing whitespace can suppress meaningful render changes. Artifact records should link a manifest digest to a storage key, processing-contract revision, and review decision, while temporary signed URLs serve only as delivery references rather than permanent identities.
+This tutorial demonstrates an infrastructure-as-code workflow that provisions Apache Cassandra on DataStax Astra DB with Terraform, creates a least-privilege application token, and deploys an application to Render. GitHub Actions tests changes against a real Cassandra 5.0 instance, publishes a container image to GitHub Packages, deploys it, and confirms that the public URL is running the exact commit that was pushed. The workflow turns infrastructure provisioning, application delivery, and deployment verification into repeatable repository-defined steps, reducing manual console work and the risk of shipping stale or untested code. It also demonstrates how teams can connect a managed Cassandra service to a CI/CD pipeline without relying on mocks for every database test. The repository is split into three workflows: \`ci-cd.yml\` handles tests, image publication, deployment, and version verification; \`infra.yml\` runs \`terraform plan\` and \`apply\` for Astra DB resources, the application token, the Secure Connect Bundle, and the Render service; and \`ingesta.yml\` sends readings hourly to keep the serverless database active. Secrets must be excluded from both the public repository and build artifacts, while the Secure Connect Bundle URL obtained through the Terraform data source is temporary and lasts five minutes.
 
-rss · Dev.to · Nov 15, 20:27
+rss · Dev.to · Nov 15, 23:03
 
-**Background**: Open Graph images are social-share previews that crawlers request for a page, and the article notes that social platforms may cache those previews themselves. Background removal produces an intermediate cutout, while the final share card combines that cutout with a title and template, giving the two outputs different invalidation lifecycles. The three-contract pattern lets a Node.js publisher and a Python processing worker communicate through replaceable interfaces without making provider responses part of their permanent domain models.
+**Background**: DataStax Astra DB is a managed, always-available database service built around Apache Cassandra, while Terraform represents cloud resources as code. Its Secure Connect Bundle contains the configuration and credentials needed by compatible Cassandra drivers to establish secure connections. GitHub Actions can coordinate testing and third-party deployments, and deployment-verification patterns can poll an endpoint or compare expected content with the current Git commit SHA to detect stale instances.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://dev.to/yukikobayashi880/nodejs-share-card-cache-3-contracts-for-replaceable-open-graph-images-4mj1">Node.js Share Card Cache: 3 Contracts for Replaceable Open ...</a></li>
-<li><a href="https://www.dynamiclabs.co.kr/en/blog/og-image-cache-not-updating">Open Graph Image Cache: Why Share Previews Don&#x27;t Update</a></li>
-<li><a href="https://www.keydal.net/blog/open-graph-tags-for-social-sharing">Open Graph Tags: Take Control of Your Social Share Card</a></li>
+<li><a href="https://docs.datastax.com/en/astra-db-classic/databases/secure-connect-bundle.html">Download and use a Secure Connect Bundle (SCB) with an Astra ... astra_secure_connect_bundle_url | Data Sources | datastax ... Docs overview | datastax/astra - Terraform Registry Connecting to your DataStax Astra database using a secure ... GitHub - datastax/terraform-provider-astra: A project that ... Secure Connect Bundle - Awesome-Astra GitHub - sivabankapalli/DataStaxAuthenticationExamples</a></li>
+<li><a href="https://registry.terraform.io/providers/datastax/astra/latest/docs">Docs overview | datastax/astra - Terraform Registry</a></li>
+<li><a href="https://github.com/marketplace/actions/verify-deployment">Verify Deployment · Actions · GitHub Marketplace · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Node.js`, `#caching`, `#Open Graph`, `#image-processing`, `#architecture`
+**Tags**: `#Cassandra`, `#Terraform`, `#GitHub Actions`, `#Astra DB`, `#CI/CD`
 
 ---
 
 <a id="item-48"></a>
-## [Rethinking Incentives for Outpatient Clinical Preceptors](https://www.nejm.org/doi/full/10.1056/NEJMp2611160?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 6.0/10
+## [OpenGrok Needs Consistent Project-Level Authorization](https://dev.to/kozhevniko/opengrok-source-search-needs-project-level-authorization-e2n) ⭐️ 6.0/10
 
-A New England Journal of Medicine perspective, published ahead of print, calls for reexamining the incentives used to recruit and retain outpatient clinical preceptors. The available publication metadata does not provide the article&\#x27;s specific proposals or supporting analysis. Clinical preceptors are essential to supervising learners and providing feedback in outpatient settings, but recruiting and retaining them is increasingly difficult, particularly in family medicine. Better incentive design could support healthcare workforce capacity by protecting this important teaching function. The provided record contains only a title, journal status, and publication metadata, so no specific incentive models, compensation figures, methods, or implementation details can be verified. Available background literature suggests that sustainable recruitment and retention generally require a combination of financial incentives, professional development, institutional support, and policy measures rather than a single benefit.
+The article argues that OpenGrok deployments should apply group-based, project-level authorization consistently across search results, file paths, repository history, and REST API responses. It recommends hardening the indexer, proxy, configuration, and index-data directory so that changing a project selector cannot bypass access controls. OpenGrok turns source repositories, comments, paths, operational details, and sometimes secrets into a searchable service, so inconsistent authorization can expose confidential code across multiple interfaces. Enforcing the same policy everywhere reduces the risk that a UI or API bypass becomes a data-disclosure path. A project selector or cookie is not an authorization boundary: the server must reject direct requests for unauthorized project paths and API endpoints. Testing should compare two users with different permissions across two projects and verify consistent denial for searches, file access, history, and REST API calls; direct requests bypassing the authenticated proxy must also be tested.
 
-rss · NEJM · 最新文章 · Nov 14, 12:30
+rss · Dev.to · Nov 15, 23:02
 
-**Background**: Clinical preceptors are practicing clinicians who supervise students&\#x27; clinical experiences, assess their educational progress, and provide feedback. In outpatient primary-care clerkships, students commonly work alongside a preceptor in the clinician&\#x27;s own practice, making teaching a substantial additional responsibility alongside patient care. These preceptors are therefore an important link between clinical education and the healthcare workforce.
+**Background**: OpenGrok is a source-code search and cross-reference engine that indexes repositories and exposes them through a web interface and API. Its built-in authorization framework loads plugin files and performs authorization for requests, while operators can map users to authorized project groups. The article also notes that some OpenGrok API deployments authenticate non-local requests, making the treatment of client-supplied identity headers especially important.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12795578/">To Teach or Not to Teach: Incentives and Barriers Impacting ...</a></li>
-<li><a href="https://pubmed.ncbi.nlm.nih.gov/42695666/">Strategic Incentives for Recruitment/Retention of Preceptors ...</a></li>
-<li><a href="https://bhw.hrsa.gov/sites/default/files/bureau-health-workforce/data-research/State-of-the-Primary-Care-Workforce-2025.pdf">State of the Primary Care Workforce, 2025 - bhw.hrsa.gov</a></li>
+<li><a href="https://github.com/oracle/opengrok/wiki/Authorization">Authorization · oracle/opengrok Wiki · GitHub</a></li>
+<li><a href="https://github.com/oracle/opengrok">oracle/ opengrok : OpenGrok is a fast and usable source code search ...</a></li>
+<li><a href="https://stackoverflow.com/questions/tagged/opengrok?tab=Votes">Highest scored &#x27; opengrok &#x27; questions - Stack Overflow</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#medical-education`, `#clinical-preceptors`, `#healthcare-incentives`, `#workforce-policy`, `#NEJM`
+**Tags**: `#OpenGrok`, `#authorization`, `#source-code-search`, `#security`, `#API-access-control`
 
 ---
 
 <a id="item-49"></a>
-## [Lula&\#x27;s New Term Faces Severe Congressional Gridlock](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902234-8/fulltext?rss=yes) ⭐️ 6.0/10
+## [AI Systems Confront the Spin Glass Ground-State Problem](https://www.science.org/content/article/ai-rivals-tackle-one-physics-deepest-mathematical-challenges) ⭐️ 6.0/10
 
-Luiz Inácio Lula da Silva&\#x27;s victory in Brazil&\#x27;s 2026 presidential election signals stronger executive support for science, public health, and environmental protection. However, an unprecedented conservative legislative surge produced a hostile Congress, threatening to impede those priorities through institutional gridlock. Brazil&\#x27;s scientific funding, public-health programs, and Amazon conservation depend not only on presidential priorities but also on legislative approval and institutional stability. A confrontation between the executive and Congress could delay funding and reforms while creating uncertainty for researchers, health agencies, and environmental authorities. The election produced a 51.79% to 48.21% split, while the conservative legislative surge created a deeply hostile Congress. The commentary also invokes the January 8, 2023, storming of Brasília&\#x27;s Congress, Supreme Court, and presidential palace as a warning about democratic stability after contested elections.
+Competing AI systems are being applied to finding ground states of spin-glass models, one of the longstanding challenges in computational physics and optimization. Related approaches include reinforcement learning, large language models combined with evolutionary algorithms, and hypergraph neural networks. Ground-state computation for spin glasses is relevant to understanding disordered magnets and could support broader optimization methods across scientific disciplines. Success would illustrate how AI systems may extend beyond pattern prediction to discover physically meaningful strategies for difficult combinatorial problems. Finding an exact ground state for a three-dimensional Ising spin glass is NP-hard, with a stated lower bound of at least 2^\(N^\(2/3\)\) under the exponential-time hypothesis. Recent systems report higher-order spin-update patterns rather than relying only on single-spin flips, potentially improving efficiency and interpretability, but the available material does not establish that a universally scalable solution has been achieved.
 
-rss · The Lancet · 最新文章 · Nov 13, 23:30
+rss · Hacker News \(AI/ML\) · Nov 15, 20:53
 
-**Background**: Brazil operates with a presidential executive branch and a bicameral National Congress, so legislative gridlock can arise when the executive and Congress are controlled by different political forces. Political gridlock can prevent laws, appropriations, and reforms from advancing even when the president has a clear mandate. The January 8, 2023, insurrection was a major stress test of Brazil&\#x27;s democratic institutions following the contested 2022 election.
+**Background**: A spin glass is a disordered magnetic system in which competing interactions produce many possible configurations. Its ground state is the lowest-energy arrangement of spins, and finding that arrangement is difficult because the number of candidate configurations grows exponentially with system size. Because many hard optimization problems can be expressed through Ising spin-glass formulations, effective methods for this task may also influence other scientific and computational problems.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Gridlock_%28politics%29">Gridlock (politics) - Wikipedia</a></li>
-<li><a href="https://www.ft.com/content/07533564-2231-47a6-a7b8-2c7ae330efc5?syn-25a6b1a6=1">The discreet US campaign to defend Brazil ’s election</a></li>
+<li><a href="https://www.nature.com/articles/s41467-023-36363-w">Searching for spin glass ground states through deep ... - Nature Spin Glass Optimization: The Convergence of LLMs and ... Optimizing $p$ -spin models through hypergraph neural ... Searching for spin glass ground states through deep ... Brute-forcing spin-glass problems with CUDA - ScienceDirect [2109.14411] Finding spin glass ground states through deep ... Searching for spin glass ground states through deep ... - Nature</a></li>
+<li><a href="https://arxiv.org/html/2602.16665v1">Optimizing $p$ -spin models through hypergraph neural ...</a></li>
+<li><a href="https://iopscience.iop.org/article/10.1088/0305-4470/15/10/028">On the computational complexity of Ising spin glass models</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Brazil`, `#science policy`, `#public health`, `#Amazon conservation`, `#democracy`
+**Tags**: `#artificial intelligence`, `#physics`, `#mathematics`, `#AI for science`
+
+---
+
+<a id="item-50"></a>
+## [Reconsidering Incentives for Outpatient Clinical Preceptors](https://www.nejm.org/doi/full/10.1056/NEJMp2611160?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 6.0/10
+
+A New England Journal of Medicine commentary calls for reassessing the financial and systemic incentives used to encourage physicians to serve as outpatient clinical preceptors. The available material identifies the policy issue but provides no substantive findings or implementation proposals. Outpatient preceptors supervise learners in real patient-care settings, linking clinical education with workforce development. If incentives do not compensate for teaching time or administrative burdens, shortages of qualified preceptors could weaken training capacity and access to care, especially in underserved communities. Available evidence indicates that challenges include finding time, sustaining motivation, and integrating learners into clinical workflows, while surveyed office-based teaching programs have varied in the rewards offered to nonsalaried faculty. Because the NEJM item is available only as an ahead-of-print headline with no article text, its specific recommendations, evidence base, and limitations cannot be assessed.
+
+rss · NEJM · 最新文章 · Nov 14, 12:30
+
+**Background**: A clinical preceptor is an experienced practitioner who supervises students during clinical practice and helps them apply theoretical knowledge to real patient care. Preceptors commonly report that teaching must be balanced against patient-care responsibilities, and nonsalaried faculty may receive limited or inconsistent compensation for office-based instruction. Programs addressing physician workforce shortages increasingly use financial incentives, tax credits, and other support to recruit clinicians and clinical teachers.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9023035/">The roles and experiences of preceptors in clinical teaching ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC1496589/">Rewards and Incentives for Nonsalaried Clinical Faculty Who ...</a></li>
+<li><a href="https://bhw.hrsa.gov/funding/apply-grant/teaching-health-center-graduate-medical-education">Teaching Health Center Graduate Medical Education (THCGME ... Precepting as a Better Income Option for Physicians in 2026 2026 Review of Physician and Advanced Practitioner Recruiting ... Incentives for Precepting - Teaching Physician Current Programs and Incentives to Overcome Rural Physician ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#medical education`, `#clinical preceptors`, `#healthcare incentives`, `#workforce policy`, `#outpatient care`
+
+---
+
+<a id="item-51"></a>
+## [Lula’s Second Term Faces a More Hostile Congress](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902234-8/fulltext?rss=yes) ⭐️ 6.0/10
+
+The correspondence argues that President Luiz Inácio Lula da Silva’s second-term agenda may reinforce Brazil’s commitments to science, public health, and environmental protection. However, a conservative surge in the 2026 legislative elections produced a deeply divided Congress, creating a risk of institutional gridlock. Brazil’s scientific funding, public-health programs, and Amazon governance depend heavily on legislation, budgets, and executive–congressional cooperation. A more hostile legislature could impede progress on research, health-system capacity, and rainforest conservation while reviving concerns about democratic institutions. The correspondence cites an election result of 51.79% to 48.21% and warns that memories of encampments outside military installations, demands for military intervention, and the January 2023 storming of Brasília’s democratic institutions intensify political polarization. Its central claim is institutional: executive ambition may not translate into policy when Congress cannot approve legislation or budgets.
+
+rss · The Lancet · 最新文章 · Nov 13, 23:30
+
+**Background**: Political gridlock occurs when the president and Congress cannot reach agreement, causing legislation, budgets, appointments, and other decisions to stall. The Amazon is a tropical rainforest biome spanning approximately seven million square kilometres across much of South America, and its conservation intersects directly with Brazilian science, public policy, and sustainable development. Evidence-based governance refers to policymaking grounded in scientific evidence rather than purely ideological or political considerations.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.investopedia.com/terms/g/gridlock.asp">Political Gridlock Explained: Causes, Impacts, and Solutions Gridlock (politics) - Wikipedia Gridlock – Political Dictionary What Is Government Gridlock? Causes, Examples, and Effects Gridlock: Causes, Divided Government, and Polarization | Fiveable What Is Government Gridlock? Causes, Effects, and Examples What Is Government Gridlock? Causes, Examples, and Effects</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Amazon_rainforest">Amazon rainforest - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Technocracy">Technocracy - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Brazil`, `#science policy`, `#public health`, `#Amazon conservation`, `#political governance`
+
+---
+
+<a id="item-52"></a>
+## [Optimizing Antiplatelet Therapy in Infarction-Related Shock](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901152-9/fulltext?rss=yes) ⭐️ 6.0/10
+
+A Lancet comment argues that the optimal dual antiplatelet therapy remains an unresolved clinical priority for patients with acute myocardial infarction-related cardiogenic shock. It highlights cangrelor as part of the discussion about balancing rapid platelet inhibition against bleeding risk. These patients face both ongoing thrombotic risk after primary PCI and an elevated risk of bleeding, while mortality remains high. Identifying a safer and more effective antiplatelet strategy could improve outcomes and guide both clinical practice and future randomized trials. The commentary presents no new trial results and does not establish cangrelor as the standard treatment. Cangrelor is an intravenous P2Y12 inhibitor with rapid onset, a potential advantage in shock where oral P2Y12 inhibitors may have delayed or impaired activity; however, comparative clinical-outcome evidence remains limited.
+
+rss · The Lancet · 最新文章 · Nov 13, 23:30
+
+**Background**: Acute myocardial infarction-related cardiogenic shock occurs when severe pump failure after an infarction causes systemic hypoperfusion. Primary PCI is the cornerstone of revascularization, and dual antiplatelet therapy is essential to prevent recurrent thrombotic events. Cangrelor is an intravenous P2Y12 inhibitor that acts rapidly and can bridge patients who cannot reliably absorb or respond to oral agents.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10919555/">Cangrelor — Expanding therapeutic options in patients with ...</a></li>
+<li><a href="https://clinicaltrials.gov/study/NCT03551964">Dual Antiplatelet Therapy For Shock Patients With Acute ...</a></li>
+<li><a href="https://link.springer.com/article/10.1007/s00392-025-02619-2">Antiplatelet therapy in acute myocardial infarction ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#cardiology`, `#cardiogenic shock`, `#dual antiplatelet therapy`, `#acute myocardial infarction`, `#cangrelor`
 
 ---
