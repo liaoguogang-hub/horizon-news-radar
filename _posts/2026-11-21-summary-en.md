@@ -5,1581 +5,1168 @@ date: 2026-11-21
 lang: en
 ---
 
-> From 217 items, 71 important content pieces were selected
+> From 210 items, 51 important content pieces were selected
 
 ---
 
-1. [Riemann Hypothesis Verified in Lean](#item-1) ⭐️ 9.0/10
-2. [Inkling 2 Mini Promises Efficient Local AI Inference](#item-2) ⭐️ 9.0/10
-3. [Tao Links Singularities, Riemann Hypothesis, and Formal Verification](#item-3) ⭐️ 9.0/10
-4. [Alpöge Claims a Machine-Checked Proof of GRH](#item-4) ⭐️ 9.0/10
-5. [Verification Files Published for Lean Proof of the Riemann Hypothesis](#item-5) ⭐️ 9.0/10
-6. [Masullo Drafts Claimed Proof of the Generalized Riemann Hypothesis](#item-6) ⭐️ 9.0/10
-7. [AI and Human Report Competing Riemann Hypothesis Solutions](#item-7) ⭐️ 9.0/10
-8. [Seasonal R21 vaccination reduces malaria prevalence in two West African countries](#item-8) ⭐️ 9.0/10
-9. [Daraxonrasib Approved for Metastatic Pancreatic Cancer](#item-9) ⭐️ 8.0/10
-10. [Masullo Rushes GRH Proof Claim After Anthropic Announcement](#item-10) ⭐️ 8.0/10
-11. [GPGME Patch Addresses Critical Double-Free Flaw](#item-11) ⭐️ 8.0/10
-12. [Why Non-WebKit Browsers Still Cannot Thrive on iOS](#item-12) ⭐️ 8.0/10
-13. [Zero C\# Compiles Programs Without .NET Runtime or GC](#item-13) ⭐️ 8.0/10
-14. [Upload2Shell Enables Ghostscript Remote Code Execution](#item-14) ⭐️ 8.0/10
-15. [Claude-Assisted Proof of Riemann Hypothesis Claimed](#item-15) ⭐️ 8.0/10
-16. [Anthropic Founders Cash Out $2 Billion in Record IPO](#item-16) ⭐️ 8.0/10
-17. [Canary Tokens Expose AI Supply-Chain Privacy Leaks](#item-17) ⭐️ 8.0/10
-18. [METR Updates AI Capability Time-Horizon Analysis](#item-18) ⭐️ 8.0/10
-19. [The Challenge of Neutralizing a Massive Lead Azide Pile](#item-19) ⭐️ 7.0/10
-20. [USB Hub Latency Starved an Ethernet Adapter](#item-20) ⭐️ 7.0/10
-21. [Developers Quietly Carry the Architect’s Burden](#item-21) ⭐️ 7.0/10
-22. [ClawDOS Brings AI Coding Agents to DOS](#item-22) ⭐️ 7.0/10
-23. [C++26 Reaches Finalization After November ISO Meeting](#item-23) ⭐️ 7.0/10
-24. [Microsoft Explains Root Cause of November 2026 Outage](#item-24) ⭐️ 7.0/10
-25. [Linux Kernel Removes the Deprecated Binder C Implementation](#item-25) ⭐️ 7.0/10
-26. [Valkey Replaces Skiplists with B+ Trees for Sorted Sets](#item-26) ⭐️ 7.0/10
-27. [Scaling Git Horizontally Beyond Multi-Raft](#item-27) ⭐️ 7.0/10
-28. [Verifying Formal Models of Raft Implementations](#item-28) ⭐️ 7.0/10
-29. [Nvidia Confronts Leadership Crisis While Halting H200 China Sales](#item-29) ⭐️ 7.0/10
-30. [Race Realism Is Not Realistic Science](#item-30) ⭐️ 7.0/10
-31. [FCC Preempts California Rules on AT&amp;T Home Phone Service](#item-31) ⭐️ 7.0/10
-32. [Meta Reconsiders 2030 Net-Zero Goal as AI Emissions Surge](#item-32) ⭐️ 7.0/10
-33. [Harbinger Scales Electric Trucks With $240 Million Raise](#item-33) ⭐️ 7.0/10
-34. [The Outages Are Just Getting Started](#item-34) ⭐️ 7.0/10
-35. [El Niño Drives Record Marine Heat Wave Off California](#item-35) ⭐️ 7.0/10
-36. [Nvidia RTX Spark Mini PCs Target Local AI](#item-36) ⭐️ 7.0/10
-37. [Chinese Attackers Used AI Agents to Exploit a Zero-Day](#item-37) ⭐️ 7.0/10
-38. [Amazon Nears $7.5 Billion Decart Acquisition](#item-38) ⭐️ 7.0/10
-39. [AI Claims a Proof for the Real Navier–Stokes Problem](#item-39) ⭐️ 7.0/10
-40. [SCAD Review Highlights Risks in Younger Women](#item-40) ⭐️ 7.0/10
-41. [Editorial raises concerns over placebo controls in obinutuzumab beta NMOSD trials](#item-41) ⭐️ 7.0/10
-42. [Senior Engineer Seeks Advice After Two-Year Job Gap](#item-42) ⭐️ 6.0/10
-43. [Deterministic Simulation Testing Is for Everyone](#item-43) ⭐️ 6.0/10
-44. [Exploring Probabilistic Data Structures in Go, Part Two](#item-44) ⭐️ 6.0/10
-45. [PostgreSQL Packaged as a Single Portable Binary](#item-45) ⭐️ 6.0/10
-46. [jj-musubi Announces Live Sync for Jujutsu](#item-46) ⭐️ 6.0/10
-47. [DreamCoder Introduces a New Coding Harness and IDE](#item-47) ⭐️ 6.0/10
-48. [DNS Stamps Propose Cryptographic DNS Response Authentication](#item-48) ⭐️ 6.0/10
-49. [llm-gemini 0.38.1 Adds xhigh Support for Gemini 4](#item-49) ⭐️ 6.0/10
-50. [ChatPRD Halts Free Trials After Token Fraud Surge](#item-50) ⭐️ 6.0/10
-51. [An Actor Licenses His Face to an AI Microdrama Startup](#item-51) ⭐️ 6.0/10
-52. [Apple Reportedly Developing a Mac-Operating AI Agent](#item-52) ⭐️ 6.0/10
-53. [Starshield Disruptions in Ukraine Threaten SpaceX Military Business](#item-53) ⭐️ 6.0/10
-54. [Webb Captures a Supergiant Swallowing a Smaller Star](#item-54) ⭐️ 6.0/10
-55. [Prison Phone Jamming Could Disrupt Networks 2.5 Miles Away](#item-55) ⭐️ 6.0/10
-56. [FAA Ground Stop Raises Questions About Airspace Modernization](#item-56) ⭐️ 6.0/10
-57. [SpaceX Bondholders Want Chip Collateral Kept on Earth](#item-57) ⭐️ 6.0/10
-58. [TP-Link Still Barred From Selling Latest Routers in US](#item-58) ⭐️ 6.0/10
-59. [Researchers Pursue Brain Preservation Beyond Death](#item-59) ⭐️ 6.0/10
-60. [FBI and USDA Reportedly Hacked](#item-60) ⭐️ 6.0/10
-61. [Can Anthropic Balance Safety and IPO Pressure?](#item-61) ⭐️ 6.0/10
-62. [ESA Probe Revisits NASA Planetary Defense Test Asteroids](#item-62) ⭐️ 6.0/10
-63. [Teen Founder Targets Lower AI Missile Kill Costs](#item-63) ⭐️ 6.0/10
-64. [DatabaseMCP Lets Agents Create Remote SQLite Databases](#item-64) ⭐️ 6.0/10
-65. [Mapping the Practical Limits of AI and ML](#item-65) ⭐️ 6.0/10
-66. [DealPrice Models Operational Data License Ranges](#item-66) ⭐️ 6.0/10
-67. [jdx Brings Targeted Java Bytecode Inspection to AI Agents](#item-67) ⭐️ 6.0/10
-68. [Transfer Learning Helps in Small Colorectal-Cancer Survival Cohorts](#item-68) ⭐️ 6.0/10
-69. [The Rails Layer of SaaS: What AI Agents Will Still Need to Rent](#item-69) ⭐️ 6.0/10
-70. [Windows Adds RDMA over USB4 for Distributed Local AI](#item-70) ⭐️ 6.0/10
-71. [Health Professionals Urged to Speak for Detained Palestinian Colleagues](#item-71) ⭐️ 6.0/10
+1. [Claude and a Mathematician Produce a Lean-Verified Riemann Hypothesis Proof](#item-1) ⭐️ 10.0/10
+2. [Daraxonrasib Approved as First KRAS Inhibitor for Pancreatic Cancer](#item-2) ⭐️ 9.0/10
+3. [Masullo Rushes GRH Proof After Anthropic Announcement](#item-3) ⭐️ 9.0/10
+4. [Inkling 2 Mini Brings Looped Transformers to Local AI](#item-4) ⭐️ 9.0/10
+5. [GPGME Double-Free Flaw Patched Before 2.3.0](#item-5) ⭐️ 9.0/10
+6. [Why Non-WebKit Browsers Remain Rare on iOS](#item-6) ⭐️ 8.0/10
+7. [Upload2Shell Exploits a Ghostscript Memory Bug for RCE](#item-7) ⭐️ 8.0/10
+8. [C++26 Reaches Completion After November Meeting](#item-8) ⭐️ 8.0/10
+9. [Anthropic Founders Cash Out Nearly $2B in Record IPO](#item-9) ⭐️ 8.0/10
+10. [Canary Tokens Expose AI Supply Chain Privacy Failures](#item-10) ⭐️ 8.0/10
+11. [METR Updates AI Time Horizons and Exposes a Coding-Judgment Gap](#item-11) ⭐️ 8.0/10
+12. [USB Ethernet Over a Display Link Cut Downloads by 75%](#item-12) ⭐️ 7.0/10
+13. [gopgext Simplifies PostgreSQL Extension Development in Go](#item-13) ⭐️ 7.0/10
+14. [Promoting Developers to Architects Without Preparation](#item-14) ⭐️ 7.0/10
+15. [PostgreSQL Packaged as a Single Binary](#item-15) ⭐️ 7.0/10
+16. [Valkey Replaces Skiplists with B+ Trees in Sorted Sets](#item-16) ⭐️ 7.0/10
+17. [Enroute Replaces Multi-Raft with Vertically Partitioned Git Storage](#item-17) ⭐️ 7.0/10
+18. [Verifying Formal Models of Raft Implementations](#item-18) ⭐️ 7.0/10
+19. [ChatPRD Cracks Down on Organized AI Token Fraud](#item-19) ⭐️ 7.0/10
+20. [Signal Restricts Mobile Screenshots Against AI Surveillance](#item-20) ⭐️ 7.0/10
+21. [Nvidia’s Earnings Contrast With Calls for Huang’s Return](#item-21) ⭐️ 7.0/10
+22. [Meta Reconsiders 2030 Net-Zero Goal as AI Emissions Rise](#item-22) ⭐️ 7.0/10
+23. [AI Accelerates Vulnerability Discovery and Patch Pressure](#item-23) ⭐️ 7.0/10
+24. [UN Autonomous Weapons Talks Collapse Without Agreement](#item-24) ⭐️ 7.0/10
+25. [One Request Froze an API for 26 Minutes](#item-25) ⭐️ 7.0/10
+26. [Zero C\# Compiles C\# Without .NET Runtime or Garbage Collector](#item-26) ⭐️ 6.0/10
+27. [A Personal Art Site Built Around Static Architecture and Local AI](#item-27) ⭐️ 6.0/10
+28. [PcapAnalyzer Adds 27 Built-in Packet Problem Detectors](#item-28) ⭐️ 6.0/10
+29. [Probabilistic Data Structures in Go, Part Two](#item-29) ⭐️ 6.0/10
+30. [jj-musubi Brings Live Synchronization to Jujutsu](#item-30) ⭐️ 6.0/10
+31. [Alice v0.6.0 Release Announced](#item-31) ⭐️ 6.0/10
+32. [DreamCoder Introduces an AI Coding Harness and IDE](#item-32) ⭐️ 6.0/10
+33. [Apple Reportedly Developing a Mac-Operating AI Agent](#item-33) ⭐️ 6.0/10
+34. [Race Realism Misuses Genetics to Claim Innate Intelligence Differences](#item-34) ⭐️ 6.0/10
+35. [FCC Preempts California’s Landline Service Rules for AT&amp;T](#item-35) ⭐️ 6.0/10
+36. [Google Search Redesign Adds AI History, Removes Search Button](#item-36) ⭐️ 6.0/10
+37. [Webb Captures a Star Spiraling Into Its Giant Companion](#item-37) ⭐️ 6.0/10
+38. [Prison Phone Jamming Interferes With Service 2.5 Miles Away](#item-38) ⭐️ 6.0/10
+39. [Army Delays Hazardous Lead Azide Detonation After Plume Modeling](#item-39) ⭐️ 6.0/10
+40. [Seminole Tribe Challenges DraftKings Over Florida Gambling Rights](#item-40) ⭐️ 6.0/10
+41. [Trump Administration Blocks TP-Link’s Latest U.S. Router Sales](#item-41) ⭐️ 6.0/10
+42. [FBI and USDA Reportedly Targeted in Separate Cyberattacks](#item-42) ⭐️ 6.0/10
+43. [Anthropic’s IPO Raises Questions About AI Safety Governance](#item-43) ⭐️ 6.0/10
+44. [ESA’s Hera Probe Returns to NASA’s Deflected Asteroid System](#item-44) ⭐️ 6.0/10
+45. [Internet Archive Staff Win Union Vote](#item-45) ⭐️ 6.0/10
+46. [El NiñoFuels Record California Marine Heat Wave](#item-46) ⭐️ 6.0/10
+47. [Teen Founder Targets Lower-Cost AI-Guided Missiles](#item-47) ⭐️ 6.0/10
+48. [Germany&\#x27;s Developer Guide to Structured E-Invoicing APIs](#item-48) ⭐️ 6.0/10
+49. [Setting Safe Crawl Boundaries for E-commerce Search](#item-49) ⭐️ 6.0/10
+50. [PET Imaging Can Verify Alzheimer’s Antibody Brain Delivery](#item-50) ⭐️ 6.0/10
+51. [Windows Previews RDMA over USB4 for Distributed AI](#item-51) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Riemann Hypothesis Verified in Lean](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) ⭐️ 9.0/10
+## [Claude and a Mathematician Produce a Lean-Verified Riemann Hypothesis Proof](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/) ⭐️ 10.0/10
 
-Researchers reported a Lean formalization and machine-checked verification of the Riemann Hypothesis. The project also generated a large body of reusable mathematical libraries and prompted scrutiny of independent kernel checks. A machine-checked proof of the Riemann Hypothesis would be a landmark for formal mathematics, reducing reliance on informal argument and providing a stronger basis for trusted mathematical software. It also demonstrates how AI-assisted formalization can scale to major research problems. The Lean proof was compiled and independently rechecked using only the three standard axioms, according to the reporting cited in the Scientific American result. Community estimates referenced roughly 13 million lines of Lean and 250,000 lines of documentation, suggesting substantial reusable infrastructure, while the possibility of a hidden kernel or consistency-proof bug remains an important caveat.
+Mathematician Levent Alpöge worked with Claude to produce a Lean formalization of the Riemann Hypothesis, reportedly extending the method toward the Generalized and Extended Riemann Hypotheses. Independent checking across multiple implementations and consistency arguments was presented as strong evidence that the formalized proof is trustworthy. A machine-checked proof of the Riemann Hypothesis would be a landmark for AI-assisted mathematics, formal verification, and proof engineering. It also suggests that expert-supervised AI systems may increasingly be able to translate complex mathematical reasoning into reusable, verifiable foundations. The achievement is a formal Lean proof rather than merely a natural-language argument: Lean checks the definitions, dependencies, and logical steps through a small trusted kernel. Community participants emphasized the importance of independent checkers and consistency proofs, while also noting that formal verification depends on the correctness of foundational libraries and the kernel itself.
 
 hackernews · Hacker News \(热门\) · Nov 21, 14:36 · [Discussion](https://news.ycombinator.com/item?id=50589618)
 
-**Background**: The Riemann Hypothesis is the conjecture that every nontrivial zero of the Riemann zeta function has real part one half. Lean is a theorem prover whose kernel checks formal proofs, so a completed proof in Lean is checked mechanically rather than only through human review. Formal verification projects also commonly build libraries of reusable definitions and lemmas, and independent implementations can provide cross-checks beyond the primary proof environment.
+**Background**: Lean is both a proof assistant and a functional programming language, with a community-developed mathematical library known as mathlib. Formal verification turns mathematical arguments into machine-checkable expressions, allowing a trusted kernel to reject invalid steps. The Riemann Hypothesis concerns the location of the nontrivial zeros of the Riemann zeta function, while the Generalized and Extended versions extend the assertion to related L-functions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/">The AI Riemann hypothesis proof is almost... | Scientific American</a></li>
-<li><a href="https://www.anthropic.com/research/formalizing-fermats-last-theorem">Formalizing Fermat&#x27;s Last Theorem \ Anthropic</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean (proof assistant) - Wikipedia</a></li>
+<li><a href="https://leanprover-community.github.io/">Lean community</a></li>
+<li><a href="https://cacm.acm.org/research/formally-verified-mathematics/">Formally Verified Mathematics – Communications of the ACM</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters welcomed the possibility that the large formalization could become a reusable, hierarchical representation of modern mathematics. They also emphasized the relative strength of multiple kernels and consistency proofs, while raising concerns about shared assumptions, checker independence, and the precedent of a false Collatz refutation that passed an independent checker; human expert oversight was viewed as an important safeguard.
+**Discussion**: Commenters were highly impressed by the scale of the formalized mathematics and by Levent Alpöge&\#x27;s apparent ability to guide Claude effectively. They argued that independent kernels, consistency proofs, and human oversight make the explanation that the system exploited a checker bug exceptionally unlikely, although they cautioned that no formal system is wholly beyond foundational risks. Some wondered what other major problems might become tractable within a year.
 
-**Tags**: `#Lean`, `#Theorem Proving`, `#Riemann Hypothesis`, `#Formal Verification`, `#Mathematics`
+**Tags**: `#Lean`, `#Riemann Hypothesis`, `#formal verification`, `#AI-assisted mathematics`, `#theorem proving`
 
 ---
 
 <a id="item-2"></a>
-## [Inkling 2 Mini Promises Efficient Local AI Inference](https://thinkingmachines.ai/news/inkling-2-mini/) ⭐️ 9.0/10
+## [Daraxonrasib Approved as First KRAS Inhibitor for Pancreatic Cancer](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) ⭐️ 9.0/10
 
-Thinking Machines released Inkling 2 Mini, an open-weights language model built around a looped-transformer architecture for efficient local execution. The release reportedly uses end-to-end NVFP4 quantization-aware training and shows strong early performance, although benchmark validity remains uncertain. If its quality and efficiency claims hold up, Inkling 2 Mini could make capable models more practical on consumer hardware and encourage broader adoption of looped architectures. Its open weights also let developers inspect, modify, fine-tune, and deploy the model locally, potentially expanding the open-model ecosystem. The model repeatedly applies shared Transformer layers, separating effective reasoning depth from parameter count, while NVFP4 quantization-aware training targets efficient quantized execution. Early users reported roughly 27 tokens per second on a Ryzen 395 with llama.cpp Vulkan and about 10 tokens per second in Q4\_XL on a 32GB M1 Pro MacBook, but some llama.cpp patches remained unmerged.
+Daraxonrasib, an oral pan-RAS inhibitor and the first approved KRAS inhibitor, has been approved for previously treated metastatic pancreatic cancer. In the phase 3 trial that led to approval, patients receiving the pill lived about twice as long as those receiving chemotherapy, with reported median survival of roughly 13 months versus six months. Metastatic pancreatic cancer has had few meaningful treatment advances in decades, making this a practice-changing option for patients whose tumors carry KRAS mutations. Although it is not a cure, the survival and tumor-response results could establish a new treatment standard and expand the role of targeted therapy in pancreatic cancer. Daraxonrasib selectively inhibits cancer-associated RAS signaling and is distinguished from earlier KRAS G12C inhibitors that target only a specific mutation and its inactive molecular state. The approval followed an international phase 3 trial involving about 500 previously treated patients; a separate 61-patient analysis reported that 60.7% had tumor shrinkage or disappearance, including 8.2% with no detectable cancer on scans.
 
-hackernews · Hacker News \(热门\) · Nov 20, 20:12 · [Discussion](https://news.ycombinator.com/item?id=50581260)
+hackernews · Hacker News \(热门\) · Nov 20, 21:03 · [Discussion](https://news.ycombinator.com/item?id=50582069)
 
-**Background**: Open-weight models publish trained parameters so users can download and run them on their own machines; this is not necessarily the same as fully open-source software. A looped Transformer, also called recurrent depth or looped depth sharing, applies the same Transformer block multiple times to gain additional computation without proportionally increasing the number of parameters. Quantization-aware training incorporates reduced-precision numerical behavior during training so the deployed model retains quality more effectively than converting a conventionally trained model afterward.
+**Background**: KRAS is a signaling gene frequently mutated in pancreatic cancer, and these mutations contribute to tumor growth and progression. KRAS inhibitors are targeted drugs designed to block signaling from mutated forms of this gene. Daraxonrasib is described as a pan-RAS inhibitor and is taken orally, representing a broader approach than inhibitors limited to the KRAS G12C variant.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://sebastianraschka.com/llm-architecture-gallery/looped-depth-sharing/">Looped Transformer | Sebastian Raschka, PhD</a></li>
-<li><a href="https://blog.logrocket.com/gpt-vs-looping-transformers/">Traditional GPT vs. looping Transformers : Key... - LogRocket Blog</a></li>
-<li><a href="https://www.together.ai/blog/what-are-llms">What are LLMs? How large language models actually work</a></li>
+<li><a href="https://www.mskcc.org/news/how-daraxonrasib-could-improve-pancreatic-cancer-treatment-offering-new-hope">FDA Approves Daraxonrasib for Pancreatic Cancer : What Patients...</a></li>
+<li><a href="https://oncodaily.com/oncolibrary/daraxonrasib-pancreatic-cancer">Daraxonrasib Shows Antitumor Activity in Previously... - OncoDaily</a></li>
+<li><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2024.1369136/full">Frontiers | Targeting KRAS mutations in pancreatic cancer ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community reaction was strongly enthusiastic, with testers highlighting encouraging coding results, local speed, and the significance of pairing a looped architecture with open weights. Skepticism focused on whether published benchmarks translate to real-world reliability, as one user&\#x27;s coin-identification test degenerated after 12,000 tokens, and some deployment still depended on unresolved or custom llama.cpp patches. Participants also raised open questions about safety and interpretability.
+**Discussion**: Commenters widely regarded the approval as a genuine practice-changing advance, while emphasizing that metastatic pancreatic cancer remains incurable and that the roughly 13-month survival gain may appear modest to the public. They also noted the trial context: severely ill, heavily pretreated patients and accelerated-approval pathways can make results look less dramatic, and one commenter linked the drug to the therapy used by former Florida senator and university president Ben Sasse.
 
-**Tags**: `#language-models`, `#open-weights`, `#looped-transformers`, `#local-inference`, `#model-efficiency`
+**Tags**: `#pancreatic-cancer`, `#KRAS-inhibitor`, `#drug-approval`, `#oncology`, `#clinical-trials`
 
 ---
 
 <a id="item-3"></a>
-## [Tao Links Singularities, Riemann Hypothesis, and Formal Verification](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/) ⭐️ 9.0/10
+## [Masullo Rushes GRH Proof After Anthropic Announcement](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) ⭐️ 9.0/10
 
-Terry Tao presented a research framework connecting the generalized Riemann hypothesis with possible singularities in unforced Euler and Navier–Stokes equations, alongside large-scale Lean-based verification. He also noted that an unforced Euler blow-up result had already been proved by OpenAI and announced on the same day as the forced Navier–Stokes blow-up result. The work suggests that major open problems across arithmetic, analysis, and fluid dynamics may admit a unified formal-verification approach. Independent proof checking could increase confidence in unusually complex results, while the apparent scale of the effort raises broader questions about how AI and automation are changing mathematical research. The proposed claims rely on deep modern mathematics, including work associated with the Langlands program and arithmetic geometry, rather than merely on brute-force computation. Formal verification can confirm that a proof matches the encoded assumptions and theorem statements, but separate attention is still needed to ensure the specifications faithfully represent the intended mathematical problem.
+Alessandro Masullo published a 940-page manuscript claiming to prove the Generalized Riemann Hypothesis after Anthropic announced an AI-assisted proof of the Riemann hypothesis. Masullo says the work took him 12 years, but its rapid release left substantial questions about proof provenance, completeness, and verification. The Generalized Riemann Hypothesis is a central open problem in analytic number theory, so a valid proof would have major consequences for prime distributions and arithmetic. The episode also highlights intensifying competition between human researchers and AI-assisted systems, while showing why rapid publication does not substitute for rigorous review. Commenters noted that section 1.1.1 of the 940-page manuscript appeared empty, raising an immediate concern about whether the document was complete. No independent mathematical validation is reported, and community speculation that Anthropic may have received material from Brian Conrad remains unconfirmed rather than established fact.
 
-hackernews · Hacker News \(热门\) · Nov 20, 17:21 · [Discussion](https://news.ycombinator.com/item?id=50578358)
+hackernews · Hacker News \(热门\) · Nov 20, 18:33 · [Discussion](https://news.ycombinator.com/item?id=50579568)
 
-**Background**: Lean is a programming and theorem-proving environment designed to break large mathematical arguments into smaller components that can be checked mechanically; it also supports collaboration and AI-assisted formalization. The generalized Riemann hypothesis extends a central conjectural framework concerning the distribution of prime numbers, while the Navier–Stokes existence and smoothness problem asks whether smooth solutions remain smooth or can develop singularities under the classical equations. Euler equations provide a related incompressible-fluid model, and the distinction between forced and unforced versions concerns the presence or absence of externally imposed forcing.
+**Background**: The Riemann hypothesis concerns the nontrivial zeros of the Riemann zeta function, while its generalized form asserts that all nontrivial zeros of Dirichlet and Dedekind L-functions lie on the line Re\(s\)=1/2. These conjectures are closely connected to the distribution of primes and primes in arithmetic progressions. Proof assistants and formal verification offer ways to check machine-checkable proof artifacts, but a claim still requires expert review of its definitions, derivations, and completeness.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/">Unforced Euler singularity , unforced Navier - Stokes singularity , and...</a></li>
-<li><a href="https://lean-lang.org/">Lean Programming Language</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Generalized_Riemann_hypothesis">Generalized Riemann hypothesis - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Formal_verification">Formal verification - Wikipedia</a></li>
+<li><a href="https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai">Anthropic worker claims to have solved a Holy Grail of math ... : NPR</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion expressed both strong excitement and anxiety about AI-assisted mathematics and large-scale Lean proofs. Participants welcomed the apparent use of two independent kernels to reduce the risk of kernel bugs, but questioned whether a passing build proves the intended claim rather than merely a mismatched specification, and they debated whether AI can generate genuinely new abstractions rather than recombine existing ones.
+**Discussion**: Discussion focused on whether Masullo&\#x27;s proof had been completed before Anthropic&\#x27;s announcement, whether portions might have been shared for cross-checking, and whether an empty opening section indicated an unfinished manuscript. Some commenters reflected on how AI could erode the economic value of purely intellectual labor, while others emphasized that the claims of both Masullo and Anthropic still required substantial analysis.
 
-**Tags**: `#formal verification`, `#Lean`, `#Navier–Stokes`, `#Riemann hypothesis`, `#mathematical research`
+**Tags**: `#mathematics`, `#generalized-riemann-hypothesis`, `#AI-for-science`, `#proof-verification`, `#Anthropic`
 
 ---
 
 <a id="item-4"></a>
-## [Alpöge Claims a Machine-Checked Proof of GRH](https://alpo.ge/remark.pdf) ⭐️ 9.0/10
+## [Inkling 2 Mini Brings Looped Transformers to Local AI](https://thinkingmachines.ai/news/inkling-2-mini/) ⭐️ 9.0/10
 
-Levent Alpöge released a claimed proof of the Generalized Riemann Hypothesis as a large Lean proof artifact distributed across 14 archive files. The announcement describes a formal proof, but independent experts have not yet established that the artifact proves the full claimed result. A valid proof of the Generalized Riemann Hypothesis would be a major breakthrough in number theory, with potential consequences for analytic mathematics and areas that rely on its conjectural properties. Its formalization could also demonstrate how theorem-proving systems can be used to audit exceptionally large mathematical arguments. Community participants report that the artifact is roughly 1.3 gigabytes and contains about 15 million lines of Lean code, making it impractically large for casual review. A successful compilation would establish consistency with Lean&\#x27;s logic and available library assumptions, but it does not by itself guarantee that the intended theorem, definitions, or theorem statement match the substantive claim.
+Thinking Machines released Inkling 2 Mini as an open-weight, locally runnable model built around a looped transformer architecture. The release reportedly reaches performance comparable to much larger Qwen models, while using end-to-end NVFP4 training to support efficient local deployment. Inkling 2 Mini could make relatively capable language models more practical for users who want to run inference on consumer hardware, inspect model internals, or adapt the weights for specialized tasks. Its open release also puts pressure on the broader open-model ecosystem to investigate looped architectures while renewing debate about safety and interpretability. Community testing reported roughly 27 tokens per second on a Ryzen 395 system using llama.cpp with Vulkan and about 10 tokens per second on an M1 Pro MacBook with 32GB of memory using a Q4\_XL quantization. Results were mixed beyond coding, however: one user described strong Python performance but failure on a coin-identification test, and the model sometimes produced unnecessarily verbose answers; several llama.cpp support patches were still unmerged.
 
-hackernews · Hacker News \(热门\) · Nov 20, 14:16 · [Discussion](https://news.ycombinator.com/item?id=50574968)
+hackernews · Hacker News \(热门\) · Nov 20, 20:12 · [Discussion](https://news.ycombinator.com/item?id=50581260)
 
-**Background**: The Riemann hypothesis concerns the zeros of the Riemann zeta function, while the Generalized Riemann Hypothesis extends related assertions to Dirichlet L-functions. Lean is a theorem prover and programming language whose checker can verify formal proofs against explicitly defined premises. For such a disputed artifact, experts must distinguish machine-checkability from independent confirmation of the theorem statement, assumption dependencies, and mathematical significance.
+**Background**: A standard transformer processes tokens in parallel during training, but self-attention has computational and memory costs that grow quadratically with sequence length. A looped transformer instead applies the same transformer block repeatedly to a latent representation, an approach also described as recurrent depth or looped depth sharing. Open weights mean that trained parameters are publicly available for download, study, modification, and local execution, while quantization reduces memory use by representing weights at lower precision.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://kingy.ai/blog/levent-alpoge-claude-riemann-hypothesis-proof/">Riemann hypothesis proof verified in Lean</a></li>
-<li><a href="https://www.nacionale.com/en/articles/has-riemann-hypothesis-been-proved-levent-alpoge-claude-anthropic-claim-lean">Riemann hypothesis proof claimed with Claude, unverified</a></li>
-<li><a href="https://proveriemannhypothesis.github.io/">Verifying a Riemann Hypothesis Formalization in Lean</a></li>
+<li><a href="https://sebastianraschka.com/llm-architecture-gallery/looped-depth-sharing/">Looped Transformer | Sebastian Raschka, PhD</a></li>
+<li><a href="https://hai.stanford.edu/ai-definitions/what-is-an-open-weight-model">What is an Open-Weight Model? - Stanford HAI</a></li>
+<li><a href="https://qwen.readthedocs.io/en/latest/quantization/llama.cpp.html">llama . cpp - Qwen</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The discussion shows strong excitement and curiosity, with some participants emphasizing the artifact&\#x27;s enormous scale and others sharing background on Alpöge&\#x27;s long-standing interest in the Riemann hypothesis. At the same time, the comments include a cautionary reference to fictionalized theorem commercialization and broader skepticism about whether an announcement alone constitutes a verified breakthrough.
+**Discussion**: Community members were impressed by the model&\#x27;s benchmark claims, coding ability, and local-inference speed, with one commenter describing its potential level as a major achievement if the results generalize. Others emphasized that real-world performance was uneven, noted missing llama.cpp optimizations and unresolved support patches, and questioned what widespread adoption of looped architectures could mean for safety and interpretability.
 
-**Tags**: `#Generalized Riemann Hypothesis`, `#Mathematics`, `#Formal Verification`, `#Lean`, `#Number Theory`
+**Tags**: `#open-weight-models`, `#looped-transformers`, `#local-inference`, `#quantization`, `#llama.cpp`
 
 ---
 
 <a id="item-5"></a>
-## [Verification Files Published for Lean Proof of the Riemann Hypothesis](https://math.mit.edu/~drew/grh/) ⭐️ 9.0/10
+## [GPGME Double-Free Flaw Patched Before 2.3.0](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) ⭐️ 9.0/10
 
-Andrew Sutherland of MIT published verification files for a Lean formalization of the Riemann Hypothesis. The material was announced in connection with Levent Alpöge&\#x27;s claimed proof, and independent checks reported that the exported proof compiled successfully. A machine-checkable proof would provide unusually strong evidence that the argument&\#x27;s formal code is internally correct, although verification alone does not establish that the claim has been accepted by the broader mathematics community. The project also highlights the growing role of theorem provers and AI-assisted mathematical workflows in tackling major open problems. The verification page states that the checks were run with Claude Code. The Lean community blog reports that the exported raw proof was checked by Lean&\#x27;s official kernel, the con-leche and con-ron checkers, and several independently implemented third-party checkers.
+The GnuPG project disclosed and patched a GPGME double-free vulnerability affecting versions before 2.3.0. The flaw, found by Johan Carlsson, was coordinated with GitLab and disclosed on November 20, 2026 after the disclosure schedule was moved up. GPGME is embedded in widely used software, including GitLab, GnuPG applications, mail and XMPP clients, Samba, and Flatpak, so the issue creates broad supply-chain exposure. The flaw can potentially exfiltrate application data, while exploitation for remote code execution cannot be ruled out. The vulnerable code is in GPGME routines such as read\_status\(\) and read\_colon\_line\(\), which process status lines and key listings returned by GnuPG. The advisory identifies a double free rather than a demonstrated RCE chain, and notes that a Red Hat fix may have existed years earlier but was missed upstream.
 
-rss · Hacker News \(热门\) · Nov 21, 15:54
+hackernews · Hacker News \(热门\) · Nov 21, 08:32 · [Discussion](https://news.ycombinator.com/item?id=50587208)
 
-**Background**: The Riemann Hypothesis is a major unresolved problem concerning the locations of the zeros of the Riemann zeta function. Lean is an open-source proof assistant and functional programming language whose kernel checks formal proofs, reducing reliance on informal human reasoning alone. The reported proof is very large—about 17 million lines of Lean code—so independent compilation and checker scrutiny are important parts of assessing the claim.
+**Background**: GPGME is the standard library for accessing GnuPG functionality from applications written in other programming languages. A double free occurs when a program releases the same allocated memory twice, potentially corrupting heap metadata and creating conditions for further memory corruption. Because GPGME is often linked dynamically, as a shared library or DLL, or even statically, downstream applications may remain exposed until they incorporate the upstream fix.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://math.mit.edu/~drew/grh/">RH Lean proof : verification files</a></li>
-<li><a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">Lean verification of the Riemann Hypothesis | Lean community blog</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lean_%28proof_assistant%29">Lean (proof assistant ) - Wikipedia</a></li>
+<li><a href="https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html">[Announce] GnuPG Security Advisory for GPGME ...</a></li>
+<li><a href="https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html">GnuPG Warns Critical GPGME Flaw Could Expose App Data via...</a></li>
+<li><a href="https://owasp.org/www-community/vulnerabilities/Doubly_freeing_memory">Doubly freeing memory - OWASP Foundation How to track down a &quot;double free or corruption&quot; error Error: double-free | Microsoft Learn Memory corruption from double free of heap pointer in native ... What is double free? | Tutorial and examples | Snyk Learn</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Lean`, `#Riemann Hypothesis`, `#formal verification`, `#theorem proving`, `#mathematics`
+**Discussion**: Participants agreed that the vulnerability is important, especially for GitLab because signed commits could involve code execution, but challenged the headline’s characterization of it as an RCE chain. They also questioned how a potentially five-year-old Red Hat fix was missed upstream and called for Rust-like memory-safety tooling around C and C++ code.
+
+**Tags**: `#GPGME`, `#memory-safety`, `#double-free`, `#supply-chain-security`, `#vulnerability-disclosure`
 
 ---
 
 <a id="item-6"></a>
-## [Masullo Drafts Claimed Proof of the Generalized Riemann Hypothesis](https://simonwillison.net/2026/Nov/20/ravi-vakil/) ⭐️ 9.0/10
+## [Why Non-WebKit Browsers Remain Rare on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) ⭐️ 8.0/10
 
-Alessandro Masullo has released a human-written draft claiming a proof of the Generalized Riemann Hypothesis after months of detailed feedback from Brian Conrad and other mathematicians. Ravi Vakil said the draft appears promising so far and was released publicly after its planned polishing and wider review process was unexpectedly accelerated. A valid proof of the Generalized Riemann Hypothesis would resolve a major open problem with profound implications across number theory and related fields. Vakil’s endorsement adds credibility to the draft, but it has not yet been independently verified or peer-reviewed through publication. The proposed proof was written entirely by humans, with no AI involved. It has received extensive feedback over several months, but the rushed announcement means that important revisions and a sufficiently broad review may still be pending.
+Mozilla argues that iOS still effectively funnels mainstream alternative browsers toward WebKit despite the availability of alternative-engine entitlements. The analysis highlights distribution, eligibility, security, and implementation barriers that make a broadly available Gecko- or Chromium-based browser impractical. The restrictions limit meaningful browser-engine competition on a major mobile platform, constraining innovation in performance, privacy, security, and web compatibility. They also strengthen Apple’s control over the iOS web platform and reduce pressure that Gecko could otherwise exert against Chromium’s market dominance. Apple’s alternative-engine support began with iOS 17.4 in the European Union, but access depends on meeting specific entitlement, privacy, and security requirements and on complying with regional availability rules. Community participants also cited notarization and JIT-compilation limitations, restrictions on disclosing non-public project information, and noted experimental Gecko- and Chromium-based browsers that cannot be distributed like mainstream apps.
 
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 20, 19:21
+hackernews · Hacker News \(热门\) · Nov 20, 15:03 · [Discussion](https://news.ycombinator.com/item?id=50575644)
 
-**Background**: The Generalized Riemann Hypothesis extends the Riemann Hypothesis to a broader class of Dirichlet L-functions and remains an unproved conjecture. Because proofs of such foundational claims require careful checking of every logical step, a credible draft must undergo sustained review by multiple specialists before it can be regarded as established.
+**Background**: WebKit is Apple’s browser engine and the default rendering foundation for browsers on iOS. The Digital Markets Act prompted Apple to permit alternative browser engines in the EU, and Apple’s documentation says iOS 17.4 added capabilities for dedicated browser apps and embedded browsing experiences. A Web Browser Engine Entitlement is required to ship an alternative engine, alongside continuing privacy, security, and update obligations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2210.12283">Draft , Sketch, and Prove: Guiding Formal Theorem Provers with...</a></li>
-<li><a href="https://openreview.net/pdf?id=GCjsjnl8yA">ProofAug: Efficient Neural Theorem Proving via Fine-grained Proof ...</a></li>
+<li><a href="https://developer.apple.com/support/alternative-browser-engines/">Using alternative browser engines in the European Union</a></li>
+<li><a href="https://developer.apple.com/documentation/bundleresources/entitlements/com.apple.developer.web-browser-engine.host">Web Browser Engine Entitlement - Apple Developer</a></li>
+<li><a href="https://mjtsai.com/blog/2024/01/26/dma-compliance-alternative-browser-engines/">Michael Tsai - Blog - DMA Compliance: Alternative Browser Engines</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Generalized Riemann Hypothesis`, `#Mathematics`, `#Proof Verification`, `#Peer Review`, `#AI in Mathematics`
+**Discussion**: Commenters were sharply critical of Apple’s regional and disclosure restrictions, with one participant describing VPNs or special networks as necessary workarounds for building outside Europe. Others cited experimental Gecko- and Chromium-based browsers whose distribution or JIT support remains limited, while a counterargument emphasized that protecting a non-Chromium engine on iOS may help prevent wider browser-engine concentration.
+
+**Tags**: `#iOS`, `#browser-engines`, `#WebKit`, `#Apple policy`, `#platform competition`
 
 ---
 
 <a id="item-7"></a>
-## [AI and Human Report Competing Riemann Hypothesis Solutions](https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/) ⭐️ 9.0/10
+## [Upload2Shell Exploits a Ghostscript Memory Bug for RCE](https://pwn.ai/upload2shell) ⭐️ 8.0/10
 
-An AI system and a human mathematician are reported to have independently produced solutions to the Riemann hypothesis. The excerpt does not identify either claimant, describe the proof methods, or provide evidence of formal verification. A valid proof would be a major mathematical breakthrough, while an AI-generated solution could demonstrate significant progress in automated theorem proving. Because the claim remains unverified in the provided material, its broader significance is still uncertain. The Riemann hypothesis concerns the locations of zeros of the Riemann zeta function and has important implications for the distribution of prime numbers. The reported claims require scrutiny of complete arguments, expert review, and potentially machine-assisted formal verification before they can be accepted.
+Researchers assigned the identifier CVE-2026-125396 to a use-after-free vulnerability in Ghostscript&\#x27;s Type 1 font loader. The published analysis describes exploiting the bug to obtain a write-what-where primitive and achieve remote code execution through crafted uploads. Applications that process untrusted files through Ghostscript—including services involving image conversion, document rendering, WordPress, Roundcube, and print infrastructure—may be exposed if they invoke a vulnerable version. Successful exploitation could allow an attacker who can upload or submit a file to execute code with the privileges of the processing service. The root cause is a use-after-free in Ghostscript&\#x27;s Type 1 font loader, which provides the write-what-where primitive needed for further exploitation. The attack path is commonly presented as uploading a disguised image that activates the vulnerable processing path, but the supplied news excerpt contains no affected-version range, patch information, or proof-of-concept details.
 
-rss · TechCrunch AI · Nov 20, 19:32
+rss · Hacker News \(热门\) · Nov 21, 18:29
 
-**Background**: Formulated by Bernhard Riemann in the 19th century, the Riemann hypothesis connects the zeros of the Riemann zeta function to the prime number theorem. AI for mathematics includes automated theorem proving, in which computational systems search for or construct formal arguments. Even an apparently complete solution must be independently checked and validated before it is regarded as established.
+**Background**: Ghostscript is a widely deployed interpreter for PostScript and PDF-related graphics processing, and it is often invoked by servers to rasterize or convert uploaded documents and images. A use-after-free occurs when a program accesses memory after it has been released; on a modern heap, this can potentially be converted into controlled memory writes. Remote code execution means that an attacker causes the vulnerable process to execute attacker-controlled instructions, potentially enabling server compromise.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis - Wikipedia</a></li>
-<li><a href="https://www.britannica.com/biography/Bernhard-Riemann">Bernhard Riemann | | Britannica</a></li>
-<li><a href="https://www.britannica.com/technology/artificial-intelligence">Artificial intelligence ( AI ) | Definition, Examples, Types ...</a></li>
+<li><a href="https://thecybersecguru.com/exploits/upload2shell-ghostscript-rce-cve-2026-125396/">Upload2Shell: The Ghostscript Bug That Turns a Fake JPEG Into ...</a></li>
+<li><a href="https://dev.to/mabdullah06/php2shell-when-a-simple-upload-feature-turns-into-remote-code-execution-1ki1">PHP2Shell: When a Simple Upload Feature Turns Into Remote ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Riemann Hypothesis`, `#AI for Mathematics`, `#Mathematical Proofs`, `#AI Research`, `#Mathematics`
+**Tags**: `#cybersecurity`, `#CVE-2026-125396`, `#file-upload`, `#remote-code-execution`, `#vulnerability-analysis`
 
 ---
 
 <a id="item-8"></a>
-## [Seasonal R21 vaccination reduces malaria prevalence in two West African countries](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901562-X/fulltext?rss=yes) ⭐️ 9.0/10
+## [C++26 Reaches Completion After November Meeting](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 8.0/10
 
-A large, open-label, cluster-randomised controlled trial found that seasonal R21/Matrix-M vaccination reduced malaria prevalence in endemic areas of The Gambia and Burkina Faso. The findings support adding R21 to existing malaria-control measures, particularly seasonal malaria chemoprevention. The trial provides strong evidence that R21 can complement established interventions at a time when progress toward malaria elimination has slowed and funding is constrained. Its impact may differ by transmission intensity: the vaccine could accelerate elimination efforts in low-to-moderate transmission areas and reduce disease burden further in high-transmission regions. The study used an open-label, cluster-randomised, controlled design, with communities rather than individuals assigned to interventions. Previous research cited in the report found that combining RTS,S/ASO1 with seasonal malaria chemoprevention was more efficacious than either intervention alone, with benefits sustained over five years of follow-up.
+The November 2026 ISO C++ standards meeting in Búzios, Brazil, concluded the work on C++26, as reported by Herb Sutter. The supplied excerpt itself contains only a link to discussion and does not summarize the meeting’s decisions. Completion of C++26 moves the language toward publication and implementation, giving compiler teams and developers a stable target for supporting the new standard. It also marks another point in the C++ standards cycle, during which features that were not completed may be deferred to C++29. The report is a trip report from the November 2026 meeting in Búzios, Brazil, but the available content provides no feature-by-feature record of the committee’s decisions. Search results mention std::execution and std::task, including support for running coroutines on thread pools or message pumps, but do not establish the complete C++26 feature set or confirm every cited item’s final status.
 
-rss · The Lancet · 最新文章 · Nov 19, 23:30
+rss · Lobsters \(技术社区\) · Nov 21, 13:57
 
-**Background**: Malaria prevention in highly seasonal transmission areas increasingly relies on layered interventions, including seasonal malaria chemoprevention, vector control, diagnostic testing, and vaccination. WHO has adopted seasonal malaria chemoprevention and prequalified both RTS,S/ASO1 and R21/Matrix-M for use in young children beginning around five months of age. Cluster-randomised trials are useful for public-health interventions because they allow entire communities or delivery systems to be assigned to different programmes, making the results more relevant to real-world implementation.
+**Background**: ISO C++ is developed by the international standardization working group ISO/IEC JTC1/SC22/WG21 through recurring committee meetings, working groups, and voting. A completed standard proceeds through publication and subsequent implementation by compiler vendors. The C++ standards cycle can carry unfinished proposals into a later release, such as C++29.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.who.int/health-topics/malaria">Malaria</a></li>
-<li><a href="https://www.bmj.com/content/376/bmj-2021-068465">Effectiveness of physical activity interventions delivered or... | The BMJ</a></li>
-<li><a href="https://link.springer.com/article/10.1186/s12889-015-1823-1">Randomized controlled trial on drowning prevention for parents with...</a></li>
+<li><a href="https://isocpp.org/std/the-committee">The Committee : Standard C++</a></li>
+<li><a href="https://open-std.org/jtc1/sc22/wg21/">ISO /IEC JTC1/SC22/WG21 - The C++ Standards Committee - ISOCPP</a></li>
+<li><a href="https://news.ycombinator.com/item?id=50360164">C+ + 26 Disapproved | Hacker News</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#malaria vaccine`, `#R21/Matrix-M`, `#mass vaccination`, `#cluster-randomised trial`, `#public health`
+**Tags**: `#C++26`, `#ISO C++`, `#standards`, `#language evolution`
 
 ---
 
 <a id="item-9"></a>
-## [Daraxonrasib Approved for Metastatic Pancreatic Cancer](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib) ⭐️ 8.0/10
+## [Anthropic Founders Cash Out Nearly $2B in Record IPO](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/) ⭐️ 8.0/10
 
-Daraxonrasib, an oral KRAS inhibitor, has received approval for adults with metastatic pancreatic cancer who have received at least one prior treatment or have no other satisfactory options. The drug is being presented as a major advance after decades without a meaningful new treatment for metastatic disease. Daraxonrasib addresses a historically difficult cancer driven by persistent RAS signaling and could extend survival and improve quality of life for some patients with advanced pancreatic cancer. Its approval also validates a newer class of targeted drugs capable of inhibiting KRAS, a target that had previously defeated drug developers. Clinical data reported antitumor activity in previously treated patients with RAS-mutated pancreatic ductal adenocarcinoma. However, grade 3 or higher treatment-related adverse events occurred in one third of patients, so the therapy&\#x27;s benefits must be weighed against substantial toxicity.
+Anthropic debuted at an IPO price of $83 per share, valuing the AI company at approximately $105 billion. Its seven founders each realized about $280 million, for combined proceeds of nearly $2 billion. The unusually large founder payout signals the scale of the investor appetite for leading AI companies and could influence how private AI startups are valued. It also provides a major reference point for venture-backed companies considering public listings. The IPO price was upgraded to $83 per share, and the reported valuation of roughly $105 billion makes the offering a record-setting event. Based on the reported proceeds, the seven founders each received approximately $280 million.
 
-hackernews · Hacker News \(热门\) · Nov 20, 21:03 · [Discussion](https://news.ycombinator.com/item?id=50582069)
+rss · TechCrunch AI · Nov 20, 00:43
 
-**Background**: KRAS is a oncogene whose mutant forms can leave RAS proteins continuously active, promoting tumor growth. Direct inhibition of KRAS was considered exceptionally difficult for decades, but daraxonrasib is now among the first approved medicines in this class for pancreatic cancer. Metastatic pancreatic cancer is typically treated with chemotherapy, and the new oral targeted option represents a shift toward mutation-directed treatment.
+**Background**: An IPO is a company&\#x27;s first sale of shares to the public, allowing early investors and employees to sell shares and establishing a public market valuation. An $83-per-share offering price multiplied by the company&\#x27;s outstanding shares determines its initial valuation, while cash-out proceeds refer to shares sold by founders rather than capital raised directly by the company.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2505783">Daraxonrasib in Previously Treated Advanced RAS-Mutated...</a></li>
-<li><a href="https://rasonque.com/">RASONQUE™ ( daraxonrasib ) | Pancreatic cancer treatment</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Daraxonrasib">Daraxonrasib - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters widely welcomed daraxonrasib as a genuine practice-changing advance, while stressing that it does not cure metastatic pancreatic cancer and may help patients live longer and better. One participant connected the drug to an existing personal treatment narrative, another offered a poignant account of pancreatic cancer&\#x27;s devastating impact, and discussion also drifted toward speculative hopes that AI might accelerate cancer research.
-
-**Tags**: `#pancreatic-cancer`, `#KRAS-inhibitor`, `#daraxonrasib`, `#oncology`, `#drug-approval`
+**Tags**: `#Anthropic`, `#IPO`, `#AI industry`, `#venture capital`, `#market valuation`
 
 ---
 
 <a id="item-10"></a>
-## [Masullo Rushes GRH Proof Claim After Anthropic Announcement](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/) ⭐️ 8.0/10
+## [Canary Tokens Expose AI Supply Chain Privacy Failures](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) ⭐️ 8.0/10
 
-Alessandro Masullo rushed to publish a manuscript claiming a proof of the Generalized Riemann Hypothesis after learning of a related announcement by Anthropic. The manuscript reportedly says the work took 12 years, but its rapid release and apparent lack of independent scrutiny have raised questions about attribution, AI assistance, and verification. A credible proof of the Generalized Riemann Hypothesis would be a major mathematical milestone, while an AI-related announcement could reshape how research credit and discovery priorities are handled. The episode highlights the tension between rapid AI-assisted publication and mathematics’ traditional requirement of careful peer scrutiny. One commenter described the manuscript as 940 pages and noted that Section 1.1.1 was empty, illustrating why independent checking is essential before accepting the claim. No completed independent proof review is cited, and the speculation that an expert may have shared material with Anthropic remains unverified.
-
-hackernews · Hacker News \(热门\) · Nov 20, 18:33 · [Discussion](https://news.ycombinator.com/item?id=50579568)
-
-**Background**: The Generalized Riemann Hypothesis extends the ordinary Riemann Hypothesis to multiple zeta functions and is a major unresolved problem in analytic number theory. AI systems can already search for mathematical constructions, objects, or proofs, but AI-generated claims still require the same rigorous checking and community evaluation as human-authored work. The Leiden Declaration notes that corporate AI announcements can follow commercial timelines before mathematics’ established evaluation processes are complete.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Leiden_Declaration_on_Artificial_Intelligence_and_Mathematics">Leiden Declaration on Artificial Intelligence and Mathematics - Wikipedia</a></li>
-<li><a href="https://arxiv.org/pdf/2506.13131">AlphaEvolve: A coding agent for scientific and algorithmic discovery</a></li>
-<li><a href="https://lims.ac.uk/event/ai-assisted-maths-discovery/">AI - assisted mathematical discovery | LIMS</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters were divided between recognizing Masullo’s possible longstanding work and questioning the manuscript’s preparedness, including an empty early section in a 940-page document. They also speculated about information-sharing with Anthropic and raised broader concerns about intellectual work depending on access to privately controlled AI systems, while emphasizing that only subsequent analysis can establish whether the proof stands.
-
-**Tags**: `#Generalized Riemann Hypothesis`, `#Mathematics`, `#AI-assisted discovery`, `#Anthropic`, `#Research integrity`
-
----
-
-<a id="item-11"></a>
-## [GPGME Patch Addresses Critical Double-Free Flaw](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html) ⭐️ 8.0/10
-
-GPGME patched a critical double-free vulnerability tracked as CVE-2026-129975 affecting versions before 2.3.0; GPGME 2.3.1 is the first fixed release. The flaw was reported by Johan Carlsson, and disclosure was accelerated to November 20, 2026 after GitLab changed its coordinated-disclosure date because of the Ruby2Shell bug. GPGME is a widely used interface for applications that process OpenPGP data, so the flaw can expose many mail, XMPP, Samba, GitLab, Gpg4win, and related tools when they process a malicious key. A successful double free may corrupt memory and potentially enable denial of service or arbitrary code execution, making broad patching urgent. The trigger is an OpenPGP key with an unusually long user ID. Affected software includes every application using a pre-2.3.0 GPGME copy, whether loaded as a shared library, a Windows DLL, or linked statically; fixed GPGME 2.3.1 is required, while a Red Hat backport reportedly existed before the upstream release.
-
-hackernews · Hacker News \(热门\) · Nov 21, 08:32 · [Discussion](https://news.ycombinator.com/item?id=50587208)
-
-**Background**: GPGME, or GnuPG Made Easy, is a C library that gives applications a convenient interface to cryptographic engines such as GnuPG and GpgSM. A double free occurs when the same allocated memory block is released twice, potentially corrupting the heap and creating an opportunity for exploitation. Because GPGME is embedded in many security-sensitive workflows, including commit-signing and OpenPGP verification, a defect in this central interface can have effects well beyond GnuPG itself.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html">GnuPG Warns Critical GPGME Flaw Could Expose App Data via...</a></li>
-<li><a href="https://www.phoronix.com/news/GnuPG-GPGME-Critical">GnuPG &#x27;s GPGME Affected By Critical Security Bug In Turn... - Phoronix</a></li>
-<li><a href="https://github.com/Bean-Sprout-Studios/gpgme-wasm">GitHub - Bean-Sprout-Studios/ gpgme -wasm: GnuPG Made Easy.</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Participants emphasized the potentially broad impact, particularly for GitLab signed-commit workflows, and called for faster and more consistent upstream detection and remediation. Some disputed the “RCE” label because the disclosed defect is a double free rather than a demonstrated complete exploitation chain, while another commenter argued that stronger memory-safety tooling for C and C++ is needed.
-
-**Tags**: `#GPGME`, `#vulnerability`, `#double-free`, `#security`, `#open-source`
-
----
-
-<a id="item-12"></a>
-## [Why Non-WebKit Browsers Still Cannot Thrive on iOS](https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/) ⭐️ 8.0/10
-
-Mozilla argues that Apple&\#x27;s browser-engine rules still make it impractical to distribute broadly available non-WebKit browsers on iOS, despite regulatory exceptions introduced under the EU Digital Markets Act. The analysis highlights geographic build constraints, notarization barriers, nondisclosure obligations, and Apple&\#x27;s financial interest in maintaining WebKit dominance. The restrictions preserve Apple&\#x27;s control over the rendering layer on iOS, limiting browser competition and users&\#x27; ability to install engines outside WebKit. This affects Mozilla&\#x27;s Firefox strategy, potential alternative engines, and the practical reach of antitrust rules intended to open Apple&\#x27;s mobile platform. The EU&\#x27;s default-browser choice does not by itself permit an independent browser engine, while Mozilla says developers must satisfy additional Apple processes and geographic requirements to qualify for distribution and just-in-time compilation. Commenters also cited experimental Gecko- and Chromium-based iOS projects, but noted their uncertain notarization status and limited availability.
-
-hackernews · Hacker News \(热门\) · Nov 20, 15:03 · [Discussion](https://news.ycombinator.com/item?id=50575644)
-
-**Background**: Apple has historically required browsers on iOS and iPadOS to use its WebKit engine, even when products such as Firefox maintain separate browser code on other platforms. The EU Digital Markets Act began requiring Apple to offer default-browser choice from iOS 17.4 in the EU, but Mozilla contends that this limited exception has not removed the distribution and technical barriers to shipping a full alternative engine.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/">Why there are still no non - WebKit browsers on iOS</a></li>
-<li><a href="https://www.macrumors.com/2025/08/07/japan-non-webkit-browsers-on-iphone/">Japan Law Will Require Apple to Allow Non - WebKit Browsers on...</a></li>
-<li><a href="https://www.neowin.net/news/both-mozilla-and-google-are-working-on-non-webkit-based-ios-browsers/">Both Mozilla and Google are working on non - WebKit based iOS ...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: Commenters questioned Apple&\#x27;s financial motives and described geographic build checks, VPN workarounds, notarization barriers, and nondisclosure clauses as unreasonable obstacles to competition. They also challenged the adequacy of existing regulation, while citing experimental Gecko- and Chromium-based browsers as counterexamples to the claim that technically viable alternatives do not exist at all.
-
-**Tags**: `#iOS`, `#WebKit`, `#browser-engines`, `#antitrust`, `#Apple`
-
----
-
-<a id="item-13"></a>
-## [Zero C\# Compiles Programs Without .NET Runtime or GC](https://onurgumus.github.io/zero-csharp/index.html) ⭐️ 8.0/10
-
-Zero C\# is an experimental implementation that compiles C\# through a modified bflat compiler into small native programs without requiring the .NET runtime or its garbage collector. The project targets Linux, macOS, Windows, WebAssembly, and DOS on 386 hardware. The project explores how much of C\# can retain its familiar syntax and programming model while relying on a substantially different execution model. It may provide useful insights into ahead-of-time compilation, memory management, and runtime architecture, particularly for constrained or legacy environments. Zero C\# uses a fork of bflat rather than the standard .NET compilation path, producing compact native executables without a conventional runtime. Its broad platform range includes modern operating systems, WebAssembly, and 386-based DOS, but the available material does not establish compatibility with the full C\# language or .NET libraries.
-
-rss · Hacker News \(热门\) · Nov 21, 15:39
-
-**Background**: C\# normally executes through a managed runtime such as .NET, which provides services including automatic memory management through a tracing garbage collector. Native AOT compilation can reduce runtime overhead, but Zero C\# goes further by presenting an alternative execution stack based on a bflat fork. The project therefore serves both as a portability experiment and as an examination of language implementation boundaries.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://onurgumus.github.io/zero-csharp/index.html">Zero C# | C# without a runtime , from Linux to a 386</a></li>
-<li><a href="https://en.wikipedia.org/wiki/C_Sharp_%28programming_language%29">C Sharp (programming language ) - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/C_Sharp_syntax">C Sharp syntax - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#C\#`, `#runtime`, `#garbage collection`, `#language design`, `#compilers`
-
----
-
-<a id="item-14"></a>
-## [Upload2Shell Enables Ghostscript Remote Code Execution](https://pwn.ai/upload2shell) ⭐️ 8.0/10
-
-Upload2Shell has been assigned CVE-2026-125396 and is described as a use-after-free vulnerability in Ghostscript&\#x27;s Type 1 font loader. The researchers say a crafted document can gain a write-what-where primitive, bypass Ghostscript&\#x27;s -dSAFER restrictions, and execute commands as the rendering process. Applications that process untrusted documents or fonts with a vulnerable Ghostscript build may face remote code execution, potentially exposing servers, workstations, and document-processing pipelines. The impact depends on affected versions and whether an application invokes Ghostscript without sufficient sandboxing. The technical write-up identifies the flaw in the Type 1 font loader and says it provides control over both written data and its destination in native memory. This capability can alter the state enforcing -dSAFER and allow command execution during rendering; the supplied news item does not identify affected Ghostscript releases, fixed versions, or proof of active exploitation.
-
-rss · Hacker News \(热门\) · Nov 21, 18:29
-
-**Background**: Ghostscript is a widely used interpreter for PostScript and PDF-related rendering tasks, including conversion and printing workflows. Its -dSAFER mode restricts operations that can make document processing dangerous. A use-after-free flaw occurs when software accesses memory after that memory has been released, and such a bug can sometimes be developed into an arbitrary-write exploitation primitive.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://pwn.ai/upload2shell/research.html">How We Hacked the Pipes — Upload2Shell — pwn.ai</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#CVE-2026-125396`, `#Remote Code Execution`, `#Cybersecurity`, `#Vulnerability Research`
-
----
-
-<a id="item-15"></a>
-## [Claude-Assisted Proof of Riemann Hypothesis Claimed](https://simonwillison.net/2026/Nov/20/levent-alpoge/) ⭐️ 8.0/10
-
-Levent Alpöge says he and Claude discovered a proof of the Riemann Hypothesis, extended the method to the Generalized Riemann Hypothesis, and formalized the arguments without assumptions. He also expects the approach to reach the Extended Riemann Hypothesis with more time. If independently validated, the claim could mark a major advance in AI-assisted mathematics and in the study of prime-number distributions. The work also illustrates how large language models may help mathematicians formulate and formalize proofs of extremely difficult conjectures. The quoted statement presents Alpöge&\#x27;s belief rather than an independently established result, and the supplied material contains no detailed proof, independent expert assessment, or verification record. Search results indicate that systems such as Lean 4 can mechanically check formal proofs, but the excerpt does not specify whether the claimed argument was encoded in Lean or another proof assistant.
-
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 20, 16:30
-
-**Background**: The Riemann Hypothesis concerns the behavior of the Riemann zeta function and, equivalently, the distribution of prime numbers. Its generalized and extended variants extend the claim to Dirichlet L-functions, but any proposed solution must survive rigorous expert scrutiny and independently reproducible verification. Formal proof systems such as Lean 4 represent mathematical definitions and proofs in machine-checkable form, reducing ambiguity and allowing small logical errors to be detected automatically.
-
-**Tags**: `#AI-assisted mathematics`, `#Claude`, `#Riemann Hypothesis`, `#mathematical proof`, `#Anthropic`
-
----
-
-<a id="item-16"></a>
-## [Anthropic Founders Cash Out $2 Billion in Record IPO](https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/) ⭐️ 8.0/10
-
-Anthropic&\#x27;s seven founders reportedly received about $280 million each after the company&\#x27;s upgraded IPO priced at $83 per share. The offering valued Anthropic at nearly $105 billion. The transaction represents a major capital-markets milestone for the AI industry and highlights the extraordinary value created by Anthropic. It also raises questions about the scale of founder liquidity alongside a record valuation. The reported IPO price was $83 per share, implying a company valuation of nearly $105 billion. Selling or transferring eligible shares allowed the seven founders to receive roughly $280 million each, totaling almost $2 billion.
-
-rss · TechCrunch AI · Nov 20, 00:43
-
-**Background**: An initial public offering is the first time a company sells shares to the public. Founders may monetize some of their holdings while retaining a portion of their ownership.
-
-**Tags**: `#Anthropic`, `#IPO`, `#Venture Capital`, `#Founders`, `#AI Industry`
-
----
-
-<a id="item-17"></a>
-## [Canary Tokens Expose AI Supply-Chain Privacy Leaks](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) ⭐️ 8.0/10
-
-Researcher HD Moore planted roughly two million unique, trackable secrets across AI workflows and found that confidential user data can leak through the AI supply chain. The experiment demonstrated that secrets placed in prompts could reach downstream providers or infrastructure. AI applications routinely pass prompts and retrieved data among model providers, tools, plugins, and other third-party services, creating multiple opportunities for accidental disclosure. The results warn organizations that sensitive credentials and personal data require supply-chain-wide controls rather than safeguards limited to the final model interface. Moore assembled canary secrets including AWS access keys tied to empty accounts, SSH passwords, unique URLs, and DNS records; every secret was unused before testing, and infrastructure receiving credentialed requests was under his control. Each secret was seeded into exactly one prompt sent to one provider, allowing researchers to trace leakage, although the available report provides limited detail about the full methodology and impact measurements.
+A researcher planted two million unique, trackable secrets in AI prompts and found that confidential user data can leak as prompts move through the AI supply chain. The experiment provides a concrete method for detecting unauthorized data exposure across downstream processors. The results show that users cannot assume data submitted to one AI component will remain confined to that component. Organizations using third-party models, processors, or AI-enabled workflows may need stronger prompt controls, data-flow monitoring, and vendor-specific privacy guarantees. The technique uses unique canary secrets rather than realistic-looking sensitive records, allowing researchers to determine whether and where data leaves its intended path. However, canary tokens can detect exfiltration after it has occurred; they do not themselves prevent prompt injection or stop a leak.
 
 rss · Ars Technica · Nov 20, 20:59
 
-**Background**: A canary token is a unique, harmless marker that lets defenders detect unauthorized exposure by searching for it in later systems or traffic. In AI deployments, prompt injection can cause a model to incorporate attacker-controlled instructions from untrusted content and send data through tools or external services. AI supply-chain security extends this concern to every provider and component that can process prompts, credentials, context, or outputs.
+**Background**: An AI supply chain can include application developers, prompt-processing services, model providers, plugins, and other downstream processors that temporarily handle user inputs. Once sensitive information is embedded in a prompt, it may be logged, transformed, retained, or transmitted beyond the service where it was submitted. Canary tokens are distinctive markers used to detect this kind of unauthorized transfer, and related research describes them as especially useful when paired with egress monitoring.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">AI Supply Chain Security: What Canary Tokens Found - Dragos</a></li>
-<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Researcher plants 2m canaries into the AI supply chain . A privacy ...</a></li>
+<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">A leaky AI supply chain is exposing secret user data at an ...</a></li>
+<li><a href="https://www.akamai.com/resources/white-paper/prompt-leak">Prompt Leak: How AI Prompts Expose Sensitive Data</a></li>
 <li><a href="https://arxiv.org/abs/2503.18813">[2503.18813] Defeating Prompt Injections by Design</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI security`, `#supply chain`, `#data privacy`, `#secret leakage`, `#LLM security`
+**Tags**: `#AI security`, `#privacy`, `#supply-chain security`, `#LLM security`, `#data leakage`
+
+---
+
+<a id="item-11"></a>
+## [METR Updates AI Time Horizons and Exposes a Coding-Judgment Gap](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) ⭐️ 8.0/10
+
+METR released an update to its widely discussed time-horizon plot, finding that some frontier AI capabilities continue to improve exponentially while remaining weaker on judgment-intensive tasks than on coding. The report measures how long human experts would need to complete tasks that AI agents can reliably handle. The update provides empirical evidence that AI progress is uneven: rapid gains in executable, coding-oriented work do not automatically translate into equally strong performance on tasks that require contextual judgment. This distinction matters for forecasting AI capability growth, workplace adoption, and evaluations of AI safety risks. METR defines a task-completion time horizon as the duration of a human expert task at which an AI agent is predicted to succeed at a specified reliability level, with the updated plot showing both 50% and 80% horizons. METR&\#x27;s earlier software-task study found an exponential increase over six years with a doubling time of about seven months, but the supplied excerpt does not disclose the new report&\#x27;s detailed methodology or numerical estimates.
+
+rss · MIT Technology Review · Nov 20, 18:15
+
+**Background**: METR is a nonprofit that evaluates advanced AI agents to help determine whether their development trajectory could create risks of losing human control. Its time-horizon metric expresses an agent&\#x27;s autonomy through the human duration of tasks it can complete, offering a common scale for tasks ranging from brief software fixes to multi-hour engineering work. The approach also examines capabilities beyond coding, including scientific reasoning, mathematics, robotics, computer use, and self-driving.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://metr.org/time-horizons/">Task -Completion Time Horizons of Frontier AI Models - METR</a></li>
+<li><a href="https://metr.org/blog/2025-03-19-measuring-ai-ability-to-complete-long-tasks/">Measuring AI Ability to Complete Long Software Tasks - METR</a></li>
+<li><a href="https://metr.org/">METR</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI evaluations`, `#AI capability trends`, `#time horizons`, `#coding benchmarks`, `#AI safety`
+
+---
+
+<a id="item-12"></a>
+## [USB Ethernet Over a Display Link Cut Downloads by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) ⭐️ 7.0/10
+
+A USB Ethernet adapter connected through a high-latency display path was found to cause packet drops and reduce download throughput by 75%. The problem was resolved by using an adapter that required less frequent packet acknowledgments. This case shows that a bottleneck can arise from the interaction among USB hubs, display adapters, network adapters, and acknowledgment timing rather than from the internet connection itself. It offers a practical explanation for otherwise opaque throughput failures and suggests that adapter latency behavior can matter as much as advertised link speed. The added latency prevented the laptop from acknowledging packets quickly enough, allowing a buffer in the Ethernet adapter to fill and forcing it to drop packets. Retransmissions then triggered TCP congestion-control backoff, making the failure look like a general networking problem even though the monitor was only part of the implicated path.
+
+hackernews · Hacker News \(热门\) · Nov 21, 10:36 · [Discussion](https://news.ycombinator.com/item?id=50587875)
+
+**Background**: TCP acknowledgments tell the sender that data has arrived; when acknowledgments arrive too slowly, receiver buffers can fill and packets may be discarded. The sender then retransmits missing data and reduces its sending rate, so a modest hardware-latency problem can produce a much larger throughput reduction. USB Ethernet adapters vary in how often they acknowledge packets, and routing their traffic through a display or hub path can make timing problems harder to diagnose.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://news.ycombinator.com/item?id=50587875">My monitor was cutting my download speed by 75% | Hacker News</a></li>
+<li><a href="https://support.plugable.com/t/ud-6950pdz-network-ethernet-port-issues-but-everything-else-is-functioning/21942">UD-6950PDZ - Network/ethernet port issues but everything else ...</a></li>
+<li><a href="https://www.slashgear.com/2313575/why-avoid-usb-2-0-port-ethernet-adapter/">Using This Port Is Making Your Ethernet Adapters Slower Than ...</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters initially focused on the monitor, but the discussion increasingly emphasized that the real culprit was the USB networking path and its acknowledgment behavior. Several participants noted that dropped packets cause hard TCP backoff, while others shared unrelated cases involving I/O scheduling or wireless interference; one commenter also asked how many real applications can benefit from very high residential bandwidth.
+
+**Tags**: `#networking`, `#USB Ethernet`, `#packet loss`, `#latency`, `#debugging`
+
+---
+
+<a id="item-13"></a>
+## [gopgext Simplifies PostgreSQL Extension Development in Go](https://jespino.github.io/gopgext/) ⭐️ 7.0/10
+
+gopgext is a new framework that lets developers write PostgreSQL extensions in Go. It aims to reduce the complexity of building database extensions while preserving Go as the implementation language. PostgreSQL 扩展传统上使用 C 语言实现，而该框架可能让 Go 程序员更容易参与扩展开发。它更广泛的影响将取决于实际采用情况、生产环境成熟度，以及与 pgrx 等现有替代方案的比较。 The project is presented as a framework rather than a general PostgreSQL distribution, and the available material does not specify supported PostgreSQL versions, feature coverage, or stability guarantees. Community interest was notable, with 109 upvotes and 18 comments, but the discussion provided little evidence of production adoption.
+
+hackernews · Hacker News \(热门\) · Nov 21, 17:08 · [Discussion](https://news.ycombinator.com/item?id=50591260)
+
+**Background**: PostgreSQL extensions add functions, types, indexes, and other capabilities directly to the database, commonly by writing native code against PostgreSQL APIs. Go can simplify parts of extension development for programmers who prefer its tooling and language features, though integration with the database’s native extension model requires careful handling. The project page identifies gopgext as a framework for writing PostgreSQL extensions in Go.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47">1000+ PostgreSQL EXTENSIONs · GitHub</a></li>
+<li><a href="https://www.postgresql.org/download/">PostgreSQL : Downloads</a></li>
+
+</ul>
+</details>
+
+**Discussion**: The discussion was broadly positive, with one commenter calling the framework cool while another noted that they would still choose pgrx. Participants also linked related work, including plgo and the author’s Go-based Linux kernel module project, while joking about Go community mascots.
+
+**Tags**: `#PostgreSQL`, `#Go`, `#Database Extensions`, `#Developer Tools`
+
+---
+
+<a id="item-14"></a>
+## [Promoting Developers to Architects Without Preparation](https://manidoraisamy.com/developer-to-architect.html) ⭐️ 7.0/10
+
+The article argues that changing a developer’s title to “architect” does not automatically create the judgment, communication, and organizational skills required for software architecture. It calls for explicit role definitions, deliberate preparation, and shared technical responsibility instead of treating promotion as a substitute for development. Unclear expectations can leave architecture positions occupied by unprepared people while developers and managers continue to make consequential technical decisions informally. Clearer roles could improve technical leadership, career development, and accountability across engineering organizations. A useful architect must do more than produce designs: the role involves challenging requirements, understanding users and system context, making trade-offs, and enabling other engineers to act consistently. The discussion also raises an AI-related concern that coding agents may add unnecessary logging or debugging artifacts, while human context and the ability to challenge requirements remain essential.
+
+hackernews · Hacker News \(热门\) · Nov 20, 18:17 · [Discussion](https://news.ycombinator.com/item?id=50579331)
+
+**Background**: In many engineering organizations, software architects guide system structure, technical trade-offs, and cross-team decisions. Developers may already perform architectural work without holding that title, so the presence of an architect does not necessarily mean that other engineers lack architectural responsibility. Role fluidity can be effective when people have broad context, explicit support, and shared ownership rather than a title alone.
+
+**Discussion**: Comments expressed strong disagreement: some argued that capable teams expect every engineer to question requirements, design data models, and share architectural responsibility, while others described effective teams where people fluidly assume roles such as product manager, architect, or systems engineer. The AI discussion suggested that tools such as Claude or ChatGPT may assist with decisions when supplied with user context, but they can also introduce sloppy debugging or logging code and cannot independently replace human judgment.
+
+**Tags**: `#software-architecture`, `#engineering-management`, `#career-development`, `#technical-leadership`, `#AI-assisted-development`
+
+---
+
+<a id="item-15"></a>
+## [PostgreSQL Packaged as a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres) ⭐️ 7.0/10
+
+The article presents an engineering account of turning PostgreSQL into a single, self-contained binary. The supplied excerpt contains only a link to discussion comments, so the specific implementation steps, toolchain, and release details are not available here. A single-file PostgreSQL distribution could simplify deployment, portability, and distribution by reducing external dependency management. The approach may appeal to developers embedding PostgreSQL or shipping database-capable software across heterogeneous environments. The available material does not state which PostgreSQL version, operating systems, build tools, or compatibility constraints were used. Relocatable PostgreSQL distributions have long been discussed, and modern binary releases must account for architecture, ABI, dynamic-loader, CPU, glibc, and macOS deployment requirements.
+
+rss · Lobsters \(技术社区\) · Nov 21, 19:32
+
+**Background**: PostgreSQL is normally distributed through platform-specific packages, installers, or source archives. A single-binary build would bundle the server and required components into one executable, potentially simplifying installation while requiring careful handling of dynamic libraries and platform-specific behavior.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.postgresql.org/download/">PostgreSQL : Downloads</a></li>
+<li><a href="https://www.postgresql.org/message-id/40489032.5030604@zara.6.isreserved.com">PostgreSQL : Re: relocatable binary distribution</a></li>
+<li><a href="https://github.com/theseus-rs/postgresql-binaries/releases">Releases · theseus-rs/ postgresql - binaries · GitHub</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#PostgreSQL`, `#Single Binary`, `#Packaging`, `#Deployment`, `#Database`
+
+---
+
+<a id="item-16"></a>
+## [Valkey Replaces Skiplists with B+ Trees in Sorted Sets](https://valkey.io/blog/from-skiplist-to-b+tree/) ⭐️ 7.0/10
+
+Valkey 9.2 replaces the skiplist used by large sorted sets with a cache-friendly B+ tree while retaining efficient ordered operations. The change is intended to reduce the memory needed to maintain large sorted-set indexes. Memory-efficient sorted sets can improve scalability and reduce infrastructure costs for workloads such as leaderboards and rankings. The change also illustrates Valkey&\#x27;s broader effort to optimize memory usage and throughput for data-intensive deployments. A B+ tree keeps data in leaf nodes and uses internal nodes as pointers to those leaves, providing logarithmic-time search, insertion, and deletion while keeping the structure ordered. Valkey applies the new representation to large sorted sets, so smaller sorted sets and their compact encodings remain an important compatibility and performance consideration.
+
+rss · Lobsters \(技术社区\) · Nov 21, 04:31
+
+**Background**: Sorted sets associate each member with a numeric score and support operations that retrieve members in score order, making them common building blocks for leaderboards and rankings. Valkey&\#x27;s existing large-set representation uses a skiplist, whereas a B+ tree is a self-balancing structure commonly associated with database indexes and can offer a more compact, cache-friendly layout for large ordered datasets.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.geeksforgeeks.org/c/implementation-of-b-plus-tree-in-c/">Implementation of B+ Tree in C - GeeksforGeeks</a></li>
+<li><a href="https://www.baeldung.com/cs/b-trees-vs-btrees">The Difference Between B- trees and... | Baeldung on Computer Science</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Valkey`, `#Redis`, `#B+ Trees`, `#Memory Optimization`, `#Data Structures`
+
+---
+
+<a id="item-17"></a>
+## [Enroute Replaces Multi-Raft with Vertically Partitioned Git Storage](https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft) ⭐️ 7.0/10
+
+Enroute replaced its Multi-Raft system with a design combining Raft replication with failover from Vertical Paxos. The new architecture supports horizontal scaling to as many as 300,000 repositories within a single Enroute cluster. This redesign removes a scaling bottleneck associated with managing many repositories through multiple Raft groups. It could let Git hosting infrastructure serve large numbers of repositories more efficiently without substantially increasing architectural complexity. The reported architecture uses Raft for replication and Vertical Paxos for failover rather than relying on Multi-Raft. The stated capacity is up to 300,000 repositories per Enroute cluster, but the available search excerpt does not describe the partitioning scheme, consistency guarantees, operational trade-offs, or performance measurements.
+
+rss · Lobsters \(技术社区\) · Nov 21, 04:14
+
+**Background**: Raft is a consensus algorithm that maintains replicated logs through leader election and log replication. Multi-Raft commonly applies Raft across multiple independent groups or partitions, distributing leadership and data ownership across cluster nodes. Horizontal scaling for Git repositories requires serving repository workloads across multiple machines because busy repositories can exceed the capacity of a single node.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft">Scaling horizontally: how we moved beyond Multi-Raft · Enroute</a></li>
+<li><a href="https://www.techinterview.org/post/3233472569/lld-consensus-algorithm/">Low Level Design: Consensus Algorithms ( Raft and Paxos)</a></li>
+<li><a href="https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/scaling-git/">Scaling Git | The GitLab Handbook</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Git`, `#distributed-systems`, `#horizontal-scaling`, `#Raft`, `#version-control`
 
 ---
 
 <a id="item-18"></a>
-## [METR Updates AI Capability Time-Horizon Analysis](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) ⭐️ 8.0/10
+## [Verifying Formal Models of Raft Implementations](https://antithesis.com/blog/2026/verifying-formal-models/) ⭐️ 7.0/10
 
-METR updated its influential AI time-horizon report, finding that some AI capabilities continue to improve approximately exponentially. The analysis also shows that models remain less capable on tasks requiring human-like judgment than on coding tasks. The update reinforces projections that frontier AI systems may be completing longer computer-based tasks as their capabilities advance, making time horizons increasingly relevant to AI safety planning and risk assessment. It also highlights that rapid gains in coding do not automatically translate into equally strong performance across judgment-intensive work. METR&\#x27;s Time Horizon 1.1 estimates the post-2023 capability doubling time at 130.8 days, or about 4.3 months. Its time-horizon framework measures how long AI agents can perform certain computer tasks at a fixed reliability rather than directly measuring human-like judgment.
+The Antithesis article examines how formal models can be used to verify implementations of the Raft consensus algorithm. The supplied page contains only a link to discussion comments, so the article’s specific techniques, examples, and findings are unavailable. Raft implementations must remain correct under failures, concurrency, and network partitions, where subtle bugs can compromise consistency or availability. Formal verification and model checking can expose unsafe behaviors that ordinary testing may miss, making them valuable tools for distributed database and storage systems. Model checking explores possible execution states against a specification, while formal verification supports rigorous reasoning about system correctness. Existing work has embedded Raft Lite logic into the Stateright model checker, although the provided material does not reveal which methods, assumptions, or implementation defects the Antithesis article covers.
 
-rss · MIT Technology Review · Nov 20, 18:15
+rss · Lobsters \(技术社区\) · Nov 20, 21:54
 
-**Background**: METR is a nonprofit that evaluates advanced AI agents and publishes measurement research and applied assessments to inform the public, governments, and companies. Its time-horizon plot estimates how long AI systems can complete selected computer tasks with a specified success rate. The 2026 Time Horizon 1.1 update found that the pace of capability progress had increased since 2023.
+**Background**: Raft is a consensus algorithm designed to make distributed agreement easier to understand and implement than earlier approaches such as Paxos. It is used to maintain agreement among replicated machines so that they behave like a consistent state machine. Formal verification checks whether an implementation satisfies a precise model or specification, while model checking systematically searches execution states for violations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://metr.org/blog/2026-01-29-time-horizon-1-1/">Time Horizon 1.1 - METR</a></li>
-<li><a href="https://metr.org/about">About METR</a></li>
-<li><a href="https://en.wikipedia.org/wiki/METR">METR - Wikipedia</a></li>
+<li><a href="https://raft.github.io/">Raft Consensus Algorithm</a></li>
+<li><a href="https://liangrunda.com/posts/raft-lite-model-check/">Model Checking : Use Stateright to Formally Verify Raft Lite</a></li>
+<li><a href="https://zfhuang99.github.io/formal+verification/ivy/2023/06/18/practical-formal-verification.html">Practical Formal Verification for Distributed Systems</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI evaluation`, `#AI safety`, `#AI capability trends`, `#model benchmarking`, `#time horizons`
+**Tags**: `#Raft`, `#distributed systems`, `#formal verification`, `#model checking`, `#consensus`
 
 ---
 
 <a id="item-19"></a>
-## [The Challenge of Neutralizing a Massive Lead Azide Pile](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really) ⭐️ 7.0/10
+## [ChatPRD Cracks Down on Organized AI Token Fraud](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) ⭐️ 7.0/10
 
-The article examines the aftermath of a major explosion involving a huge quantity of lead azide and the institutional and technical difficulties of safely managing the remaining explosives. It highlights an aged, impact-sensitive hazardous-material problem that cannot be solved through ordinary handling. The incident illustrates how deferred maintenance, contractor oversight, and hazardous-material aging can turn a long-known industrial problem into a public-safety crisis. It also highlights broader lessons for laboratories, military facilities, and other sites that handle explosives or similarly unstable chemicals. Lead azide is exceptionally hazardous, and aged material can become dangerously sensitive to impacts, making robotic movement or physical relocation potentially unsafe. Because its lead component is also highly toxic, an in-place controlled explosion may disperse hazardous particulate matter rather than simply eliminate the risk.
+ChatPRD founder Claire Vo says organized groups are exploiting free trials and promotional codes to obtain tokens, resell access, and run commercial services at the platform’s expense. She is ending ChatPRD’s free trials as a direct response to the abuse. The case shows how attractive AI free trials can become targets for account farming, resale, relays, and unauthorized commercial workloads. It also highlights the growing security and product-economics problem of agentic products whose users can consume expensive model usage. The reported abuse included farming free trials, reselling promo codes, routing requests through relays, and installing a custom MCP component that operated as a continuous compute worker; one account was used to fund a Roblox and Fortnite map studio. Another reported pattern used prompts asking for pelicans riding bicycles on SVGs, which Claire and Simon Willison believe may help identify underlying models through recognizable output signatures.
 
-hackernews · Hacker News \(热门\) · Nov 21, 13:23 · [Discussion](https://news.ycombinator.com/item?id=50588982)
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 20, 02:49
 
-**Background**: Lead azide is an explosive primary used in some detonators and ammunition components. Although sodium azide, one of its synthesis inputs, is comparatively low-risk under conditions described by the National Institutes of Health, the lead component is highly dangerous. Lead azide has a history of unexpectedly unstable behavior, so hazardous-material specialists may favor destroying unstable material in place rather than moving it.
+**Background**: ChatPRD is a bootstrapped AI platform for product managers that turns ideas into product specifications and has operated since the GPT-4 era. AI-agent workloads can be substantially more expensive than ordinary chat because agents may invoke tools and run automatically for extended periods. Free trials and promotional codes therefore need anti-abuse controls that account for relay networks, credential sharing, resale, and sustained commercial use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/">The U.S. Army is about to blow up a cache of dangerous lead azide in...</a></li>
-<li><a href="https://www.epa.gov/lead/learn-about-lead">Learn About Lead - US EPA</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Lead">Lead - Wikipedia</a></li>
+<li><a href="https://www.youtube.com/watch?v=ZDpP7JXPlhc">How I fight token fraud as an AI founder - YouTube</a></li>
+<li><a href="https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight">How I AI : Fable 5.2 Review + Building a Claude Code family OS + How...</a></li>
+<li><a href="https://shieldlabs.ai/blog/how-to-prevent-promo-abuse">How to Prevent Promo Abuse in Ecommerce</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters strongly blamed government contracting and deferred maintenance, arguing that repeated funding and oversight failures left explosives deteriorating until no manageable option remained. Several experts disputed the practicality of robotic mitigation, noting that moving impact-sensitive material could trigger detonation and that bomb squads may instead destroy it in place. One commenter also questioned the timeline, citing earlier reports of lead-azide neutralization work at the Iowa Army Ammunition Plant.
+**Discussion**: Simon Willison views the pelican-on-a-bicycle SVG prompts as a possible model-fingerprinting technique, noting that different model families can leave distinctive output signatures. He also endorses ending the free trials as a reasonable response to the scale of abuse.
 
-**Tags**: `#explosive-safety`, `#lead-azide`, `#hazardous-materials`, `#industrial-accidents`, `#institutional-failure`
+**Tags**: `#AI security`, `#token abuse`, `#free-trial fraud`, `#LLM economics`, `#AI agents`
 
 ---
 
 <a id="item-20"></a>
-## [USB Hub Latency Starved an Ethernet Adapter](https://blog.tymscar.com/posts/studiodisplayethernet/) ⭐️ 7.0/10
+## [Signal Restricts Mobile Screenshots Against AI Surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) ⭐️ 7.0/10
 
-A USB Ethernet adapter connected through a monitor&\#x27;s integrated USB hub suffered enough acknowledgment delay to cause severe packet loss and a 75% reduction in download speed. Replacing it with a faster RTL8157-based adapter restored throughput by reducing how frequently the adapter had to wait for acknowledgments. The case shows that a device commonly treated as passive infrastructure—the monitor&\#x27;s USB hub—can substantially impair network performance without producing an obvious error. It also demonstrates how adapter-specific packet-batching behavior can make hardware compatibility and USB topology important troubleshooting variables. The original adapter reportedly sent data in bursts of four 1 KB USB packets before waiting for an acknowledgment, while the RTL8157-based replacement could send eight 1 KB packets at a time and support a faster USB link. The extra hub latency prevented the laptop from acknowledging packets quickly enough, filled the adapter&\#x27;s buffer, and led to dropped packets.
+Signal is limiting screenshot functionality in its Android and iOS applications as part of a broader effort to resist AI-assisted surveillance. The report provides no detailed explanation of which specific devices, operating-system versions, or capture methods are affected. The restriction could prevent operating-system AI assistants from capturing and analyzing private Signal conversations, potentially making the messaging app less exposed to automated surveillance. It also reflects growing pressure on Apple, Google, and Microsoft to give apps stronger controls over access to on-screen data. Signal previously blocked Windows 11 screenshots to prevent Microsoft Recall from capturing and storing messages by default. Its documented screen-security controls also address operating-system AI features, although the brief report does not clarify the implementation or scope of the new Android and iOS restrictions.
 
-hackernews · Hacker News \(热门\) · Nov 21, 10:36 · [Discussion](https://news.ycombinator.com/item?id=50587875)
+rss · TechCrunch AI · Nov 21, 21:37
 
-**Background**: A USB hub routes traffic among connected devices, and its additional processing and scheduling can introduce measurable latency. USB Ethernet adapters depend on timely host acknowledgments; when bursts arrive faster than those acknowledgments return, an adapter&\#x27;s receive buffer can fill and packets may be discarded, reducing effective throughput.
+**Background**: Operating-system AI assistants can analyze visible screen content and use broad device permissions, making screenshots a potential path for private conversations to enter automated processing pipelines. Signal has previously used screenshot blocking to prevent Microsoft Recall from collecting messages on Windows 11. On Android, applications can use the FLAG\_SECURE setting to block screenshots, screen recording, and display on non-secure surfaces.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.anker.com/blogs/hubs-and-docks/do-usb-hubs-add-latency">Do USB Hubs Add Latency ? How to Lessen It? - Anker US</a></li>
-<li><a href="https://wfyear.net/news/details/563.html">USB Hub Latency : Do USB Hubs Cause Lag? Analysis &amp; 7 Effective...</a></li>
-<li><a href="https://www.totalphase.com/support/articles/201996053-hub-latency-calculation-using-beagle-5000-analyzer/">Calculate Hub Latency with Beagle 5000 - Total Phase</a></li>
+<li><a href="https://signal.org/blog/protecting-your-privacy/">Signal is Serious About Protecting Your Privacy</a></li>
+<li><a href="https://support.signal.org/hc/en-us/articles/360043469312-Screen-Security">Screen Security - Signal Support</a></li>
+<li><a href="https://blog.ostorlab.co/understanding-android-flag-secure-screen-security.html">Android FLAG_SECURE: Block Screenshots and Recording</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters generally accepted the explanation that hub-induced delay caused acknowledgment starvation, adapter-buffer overflow, and packet loss, though some initially treated the monitor itself as the direct culprit. The RTL8157&\#x27;s larger transmission batches and faster link were identified as the practical reason the replacement worked, while other contributors shared unrelated anecdotes about opaque I/O and performance problems.
-
-**Tags**: `#USB networking`, `#Ethernet adapters`, `#latency debugging`, `#packet loss`, `#performance troubleshooting`
+**Tags**: `#Signal`, `#Privacy`, `#AI Surveillance`, `#Mobile Security`, `#Screenshot Restrictions`
 
 ---
 
 <a id="item-21"></a>
-## [Developers Quietly Carry the Architect’s Burden](https://manidoraisamy.com/developer-to-architect.html) ⭐️ 7.0/10
+## [Nvidia’s Earnings Contrast With Calls for Huang’s Return](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) ⭐️ 7.0/10
 
-The article argues that software developers are routinely assigned architectural responsibilities without clear role definitions, preparation, or formal recognition. It frames this practice as an implicit promotion from developer to architect. Unacknowledged architectural duties can leave developers accountable for long-term system design, technical debt, and cross-cutting decisions without matching authority or career recognition. The issue is becoming more consequential as AI-assisted coding lowers the cost of producing code but does not replace judgment about users, requirements, and system-wide trade-offs. The discussion distinguishes performing architectural decisions from holding the formal title of architect and notes that many teams expect developers to challenge requirements and design data models. AI coding agents can accelerate implementation and requirement enforcement, but commenters warn that they may add unnecessary logging or debugging artifacts and cannot independently make context-sensitive product decisions.
+Nvidia reported healthy growth and forecast continued strength while disclosing that it would stop selling H200 chips in China. The results emerged as technology executives publicly called for former CEO Jensen Huang to return, following his ouster amid allegations of affairs and accusations that he lacked candor with the board. The contrast highlights tensions between Nvidia’s strong financial performance and weaknesses in its leadership and corporate governance. It could affect investor confidence, China-related AI chip sales, and the execution of Nvidia’s strategy in the rapidly expanding AI industry. Nvidia’s H200 shipments to China stopped despite previously reported approvals, while U.S. export licensing was being reviewed case by case. WIRED reported that allegations included affairs with a direct report and an alleged Chinese intelligence asset, and identified the board’s central concern as Huang’s lack of candor.
 
-hackernews · Hacker News \(热门\) · Nov 20, 18:17 · [Discussion](https://news.ycombinator.com/item?id=50579331)
+rss · TechCrunch AI · Nov 21, 21:07
 
-**Background**: Software architecture generally concerns system-level choices such as structure, boundaries, data modeling, and long-term technical direction. In many engineering organizations, senior developers make these choices as part of routine delivery even when a separate architect role exists. Generative AI can assist with planning and coding, but producing plausible code does not by itself establish whether a design meets users’ needs or the organization’s broader goals.
+**Background**: Nvidia is a major supplier of accelerated-computing chips used to train and operate AI models, making its sales and export policy closely connected to the AI boom. H200 is one of its AI processors, and U.S. controls on advanced chip shipments to China have created a shifting regulatory environment. Huang built Nvidia into a central AI-industry leader, making the circumstances of his departure and the search for a successor significant governance questions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ibm.com/think/topics/artificial-intelligence">What is artificial intelligence ( AI )? - IBM</a></li>
-<li><a href="https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html">Artificial Intelligence ( AI ): What it is and why it matters | SAS</a></li>
-<li><a href="https://gemini.google.com/">Google Gemini</a></li>
+<li><a href="https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/">Jensen Huang’s ‘Lying’ Alarmed Nvidia Board Ahead of His ...</a></li>
+<li><a href="https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis">With a weak board and no successor, Nvidia confronts a ...</a></li>
+<li><a href="https://www.wsj.com/business/the-spy-scandal-that-lays-bare-nvidias-governance-vacuum-44f8c786">Nvidia Board and Governance Scrutinized Over Jensen Huang ...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly agreed that strong teams distribute architectural, product, and systems responsibilities across roles rather than relying on job titles. They also suggested that AI makes it cheaper to codify requirements before implementation, while cautioning that agents can leave unnecessary debugging infrastructure in production and lack the context needed to challenge requirements.
-
-**Tags**: `#software-architecture`, `#engineering-management`, `#career-development`, `#AI-assisted-coding`, `#technical-debt`
+**Tags**: `#Nvidia`, `#Jensen Huang`, `#earnings`, `#corporate leadership`, `#AI industry`
 
 ---
 
 <a id="item-22"></a>
-## [ClawDOS Brings AI Coding Agents to DOS](http://ricapar.net/ClawDOS/) ⭐️ 7.0/10
+## [Meta Reconsiders 2030 Net-Zero Goal as AI Emissions Rise](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/) ⭐️ 7.0/10
 
-ClawDOS is an experiment in building an AI coding agent that can develop or debug software for DOS and other legacy environments. The project applies modern agent-based programming workflows to constrained, historically important computing platforms. AI coding agents could make long-running legacy systems easier to maintain by automating code navigation, modification, and debugging in environments that often lack contemporary tooling. The experiment also highlights the broader opportunity—and safety challenge—of deploying agents where safeguards and observability are limited. The supplied material describes ClawDOS as a novel technical experiment rather than a broadly validated product, with substantial community interest reflected in 149 points and 46 comments. A central limitation is that an autonomous agent executing commands on DOS systems could cause irreversible actions, while native deployment would also have to cope with severe memory and CPU constraints.
+Meta is re-evaluating its 2030 sustainability and net-zero goals as the energy and carbon footprint of its AI data centers comes under increasing scrutiny. The announcement raises questions about whether major technology companies can reconcile rapid AI infrastructure expansion with their climate commitments. Meta&\#x27;s potential change could signal broader revisions by other technology companies whose AI infrastructure is driving electricity demand and emissions. It could also affect how investors, regulators, and customers assess the credibility and feasibility of corporate net-zero commitments. Data-center emissions must account for more than server electricity alone: lifecycle assessments can include the wider facility, while AI workloads also create cooling-water demand that varies with compute intensity and cooling design. The supplied summary does not specify Meta&\#x27;s revised target, revised timeline, or the measured emissions increase behind the review.
 
-hackernews · Hacker News \(热门\) · Nov 21, 05:38 · [Discussion](https://news.ycombinator.com/item?id=50586292)
+rss · Ars Technica · Nov 20, 21:47
 
-**Background**: DOS is a family of disk-based operating systems, most closely associated with IBM PC compatibles and command-line computing before graphical Windows systems became dominant. Legacy software often uses obsolete compilers, libraries, and debugging workflows, making automated maintenance technically difficult. AI coding agents generally act by inspecting code, invoking development tools, interpreting outputs, and iteratively changing a project.
+**Background**: A net-zero commitment generally aims to balance emissions generated with reductions, removals, or offsets. AI data centers consume substantial electricity for processors and cooling, and lifecycle assessments consider impacts across the facility rather than only the servers. Corporate carbon accounting also distinguishes Scope 2 emissions associated with purchased electricity from other emission categories.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/DOS">DOS - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/MS-DOS">MS-DOS - Wikipedia</a></li>
-<li><a href="https://dev.to/alairjt/debugging-legacy-bottlenecks-with-ai-a-systematic-workflow-for-complex-codebases-21dl">Debugging Legacy Bottlenecks with AI : A Systematic Workflow for...</a></li>
+<li><a href="https://www.energy-proceedings.org/carbon-footprint-of-ai-data-centers-a-life-cycle-approach/">Carbon Footprint of AI Data Centers: A Life Cycle Approach ...</a></li>
+<li><a href="https://ghgprotocol.org/scope-2-guidance">Scope 2 Guidance | GHG Protocol</a></li>
+<li><a href="https://www.bloomberg.com/graphics/2025-ai-impacts-data-centers-water-data/">How AI Demand Is Draining Local Water Supplies</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters were enthusiastic about the unusual premise and saw potential demand for agents that debug Windows XP, Windows 7, and similar legacy devices. They also raised concerns about irreversible deletion, questioned whether capable agents could run natively on Pentium III systems with limited RAM, and expressed curiosity about how far DOS and other obsolete environments could be extended with current knowledge.
-
-**Tags**: `#AI coding agents`, `#DOS`, `#legacy systems`, `#edge computing`, `#developer tools`
+**Tags**: `#AI infrastructure`, `#data centers`, `#emissions`, `#net zero`, `#sustainability`
 
 ---
 
 <a id="item-23"></a>
-## [C++26 Reaches Finalization After November ISO Meeting](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 7.0/10
+## [AI Accelerates Vulnerability Discovery and Patch Pressure](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) ⭐️ 7.0/10
 
-Herb Sutter reports that the November 2026 ISO C++ standards meeting in Búzios, Brazil, finalized the C++26 standard. The supplied excerpt contains only a link to the discussion and does not describe the meeting’s technical decisions or the standard’s final contents. Finalization marks the end of the standards-development phase, allowing implementations and the wider C++ toolchain to prepare for the finalized specification. This can affect compiler vendors, library maintainers, and developers planning to adopt C++26 features. The report is titled “C++26 is done \(again\)” and covers the November 2026 meeting in Búzios, Brazil. Because the excerpt contains no substantive trip-report text, it provides no verified feature list, vote result, publication schedule, or implementation timeline.
+AI-assisted vulnerability discovery is shortening the interval between flaws being found and attackers exploiting them, forcing organizations to patch systems faster. The article warns that this race could produce prolonged periods of internet outages and disruption. Faster discovery can improve security when defenders respond quickly, but attackers can use the same automation to exploit weaknesses before patches are deployed. Organizations with slow patching processes and critical infrastructure may face greater operational and availability risks. The supplied item provides no named tools, versions, quantitative findings, or specific incident timeline. The broader technical context points to research on automating vulnerability detection, verification, repair, exploit generation, and reporting, all of which can compress remediation windows.
 
-rss · Lobsters \(技术社区\) · Nov 21, 13:57
+rss · Wired · Nov 21, 13:00
 
-**Background**: ISO C++ standards are developed through periodic committee meetings, after which the agreed specification proceeds through formal voting and publication. Search results identify reflection, contracts, and std::execution as major C++26 features, but the supplied material does not establish which changes were formally approved at the November meeting.
+**Background**: A vulnerability is a weakness that attackers can exploit before software owners issue a fix. AI can assist researchers by analyzing code, identifying candidate flaws, generating exploits, and helping automate repair, but those same capabilities can also help malicious actors find weaknesses at greater scale. Patch management is the process of prioritizing, testing, and installing fixes, and its effectiveness depends heavily on how quickly organizations detect and deploy updates.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/C++">C++ - Wikipedia</a></li>
-<li><a href="https://simple.wikipedia.org/wiki/C++">C++ - Simple English Wikipedia, the free encyclopedia</a></li>
+<li><a href="https://arxiv.org/pdf/2502.04953">A Systematic Literature Review on Automated Exploitand Security...</a></li>
+<li><a href="https://github.com/SmllXzBZ/AEGPaper">GitHub - SmllXzBZ/AEGPaper: Automatic Exploit Generation Paper</a></li>
+<li><a href="https://www.stingrai.io/blog/zero-day-statistics-2026">Zero-Day Statistics 2026: Exploitation and Patch Windows</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#C++26`, `#ISO C++`, `#standards`, `#language evolution`, `#software engineering`
+**Tags**: `#AI security`, `#vulnerability patching`, `#cybersecurity`, `#infrastructure outages`, `#threat intelligence`
 
 ---
 
 <a id="item-24"></a>
-## [Microsoft Explains Root Cause of November 2026 Outage](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf) ⭐️ 7.0/10
+## [UN Autonomous Weapons Talks Collapse Without Agreement](https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse) ⭐️ 7.0/10
 
-Microsoft published a post-incident report examining the root cause and remediation of the Microsoft 365 outage that disrupted services worldwide on November 12–13, 2026. The affected environment included Outlook, Teams, Copilot, and other services linked to Exchange Online and email infrastructure. The report offers insight into how a software defect affecting widely shared infrastructure can impair many Microsoft 365 services at once. Its remediation and lessons are relevant to Microsoft customers, cloud engineers, and organizations evaluating the resilience of essential productivity platforms. Search results report that a months-old Windows bug contributed to the failure and affected infrastructure serving more than 80% of servers, although the precise technical sequence and remediations should be verified in the full report. The disruption involved at least 19 services, but functions unrelated to Exchange Online and email remained available.
+International negotiations in Geneva on controlling AI-powered autonomous weapons ended without agreement, despite support from an overwhelming majority of states for a mandate leading to a legally binding treaty. Representatives agreed only to begin discussing options for further talks. The failure leaves a major gap in international rules governing weapons that can select and engage targets with limited or no human direction. It could weaken efforts to preserve meaningful human control over lethal force and allow rival powers to continue developing and deploying such systems without common constraints. The negotiations took place during the UN Review Conference on Conventional Weapons in Geneva. The sticking point was reportedly the need for agreement on a negotiating mandate, even though most participating states favored opening a process toward a legally binding treaty.
 
-rss · Lobsters \(技术社区\) · Nov 21, 12:22
+rss · Hacker News \(best\) · Nov 21, 23:10
 
-**Background**: Microsoft 365 is a collection of hosted productivity and collaboration services built on shared cloud infrastructure, so a defect in a common component can propagate across multiple applications. Exchange Online provides the email and calendar backbone for many Microsoft 365 experiences, meaning disruptions can also affect dependent services such as Teams and Copilot.
+**Background**: Autonomous weapons, often called “killer robots,” are weapon systems that use sensors, algorithms, and AI to select and engage targets without meaningful human control. The issue sits at the intersection of international humanitarian law, which requires accountability and distinction in warfare, and broader AI-governance efforts to limit systems that make life-and-death decisions. Earlier UN talks had called for renewed negotiations, while groups including the ICRC have urged states to adopt clear prohibitions and restrictions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/microsoft-reveals-root-cause-of-massive-microsoft-365-outage-as-months-old-windows-bug-crippled-over-80-of-servers/">Microsoft Reveals Root Cause Of Massive Microsoft 365 Outage , As...</a></li>
-<li><a href="https://ppc.land/microsoft-365-email-outage-hits-19-services-from-outlook-to-copilot/">Microsoft 365 email outage hits 19 services, from Outlook to Copilot</a></li>
-<li><a href="https://gulfbusiness.com/en/2026/tech/microsoft-outage-cause-outlook-teams-restoration-november-2026/">Microsoft outage : What went wrong and when will Outlook, Teams...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse">International talks on controlling use of autonomous weapons ...</a></li>
+<li><a href="https://www.hrw.org/news/2026/09/07/un-talks-on-killer-robots-end-with-calls-for-negotiations-growing">UN Talks on Killer Robots End with Calls for Negotiations ...</a></li>
+<li><a href="https://www.icrc.org/en/statement/autonomous-weapons-icrc-warns-states-must-act-now-preserve-meaningful-human-control-over-use-of-force">Autonomous weapons: ICRC warns that States must act now to ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Microsoft 365`, `#outage`, `#postmortem`, `#cloud reliability`, `#incident analysis`
+**Tags**: `#autonomous weapons`, `#AI governance`, `#international regulation`, `#AI safety`, `#geopolitics`
 
 ---
 
 <a id="item-25"></a>
-## [Linux Kernel Removes the Deprecated Binder C Implementation](https://lwn.net/Articles/1102982/) ⭐️ 7.0/10
+## [One Request Froze an API for 26 Minutes](https://dev.to/nabil_since_dev/one-request-froze-our-api-for-26-minutes-its-timeout-never-fired-49l2) ⭐️ 7.0/10
 
-The Linux kernel has removed binder.c, the long-deprecated C implementation of the Binder inter-process communication driver. This cleanup eliminates an obsolete portion of the kernel&\#x27;s Binder support while leaving the subsystem&\#x27;s newer implementation available. The removal reduces maintenance burden and codebase complexity in a widely deployed kernel subsystem. It also illustrates the broader upstream effort to retire obsolete interfaces and move Binder development toward newer implementations. Binder is controlled by the CONFIG\_ANDROID\_BINDER\_IPC kernel option, and distributions can now select the Rust implementation through CONFIG\_ANDROID\_BINDER\_IPC\_RUST. Because the legacy C option is Boolean rather than independently buildable as a module, some distributions and devices encountered build regressions when their configurations still expected binder.c.
+A package-inspection request for the old \`pypi:sentry@23.7.1\` release blocked the API from 06:15 to 06:41 UTC, producing a logged duration of 1,593,543 milliseconds. The process neither crashed nor restarted, but it stopped serving other work while health checks failed and the front proxy rejected calls; the incident was discovered after a downstream site build timed out. This incident shows how a single computationally explosive request can halt an entire API, while its expected timeout fails to provide protection. It highlights the need for effective execution limits, event-loop-aware blocking controls, and service isolation in backend systems that process untrusted or automatically selected code. The checker traversed Python class inheritance up to six levels, but resolved base classes by name rather than by their actual class identity. Because Sentry contains hundreds of declarations named \`Meta\` and \`Serializer\`, every match could fan out into every same-named class at each level, creating an exponential search; synchronous CPU-bound work also kept the timeout mechanism from firing promptly.
 
-rss · Lobsters \(技术社区\) · Nov 20, 10:33
+rss · Dev.to · Nov 21, 23:30
 
-**Background**: Binder provides inter-process communication services used by Android, allowing processes to invoke services and exchange data through a driver-mediated interface. The subsystem has both the established C implementation and a newer Rust implementation, with their presence depending on kernel configuration. Its evolution is particularly relevant to Android and Android-based systems built from the Linux kernel.
+**Background**: The service was running a census that inspected Python packages to determine which AI model a library might use by default. To infer this, it followed inheritance because a subclass can inherit a configurable model identifier from a base class. Name-based class lookup is unsafe in large codebases because common Django-style names such as \`Meta\` are reused across unrelated classes. Timeout callbacks generally need control back from the running operation, so a synchronous, CPU-bound task can delay both request handling and timer processing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/ValveSoftware/SteamOS/issues/2848">[Regression] Android Binder no longer built into linux -neptune since...</a></li>
-<li><a href="https://areeblog.com/running-linux-on-android-16/">Running Linux on Android 16 - Aree Blog</a></li>
+<li><a href="https://stackoverflow.com/questions/55856739/why-does-settimeout-not-trigger-after-specified-time">Why does setTimeout not trigger after specified time Code sample</a></li>
+<li><a href="https://gronex.org/errors/asyncio-blocking-call-starving-the-event-loop">Blocked asyncio Event Loop — Why All Requests Slow Down ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Linux`, `#kernel-development`, `#binder`, `#code-cleanup`, `#open-source`
+**Tags**: `#incident-response`, `#API-reliability`, `#timeout-handling`, `#debugging`, `#backend-systems`
 
 ---
 
 <a id="item-26"></a>
-## [Valkey Replaces Skiplists with B+ Trees for Sorted Sets](https://valkey.io/blog/from-skiplist-to-b+tree/) ⭐️ 7.0/10
+## [Zero C\# Compiles C\# Without .NET Runtime or Garbage Collector](https://onurgumus.github.io/zero-csharp/index.html) ⭐️ 6.0/10
 
-Valkey redesigned its sorted-set storage to use B+ trees for large sorted sets, reducing memory consumption while retaining efficient ordered operations. The new representation is reported as \`btree\` by \`OBJECT ENCODING\`. Memory efficiency is especially important for Valkey because it is an in-memory database, so reduced per-entry overhead can allow operators to retain more data on the same hardware. The change also demonstrates how established database indexing structures can improve a Redis-compatible datastore without abandoning its sorted-set interface. In a B+ tree, records are stored in leaf nodes while internal nodes provide links to those leaves, enabling efficient range traversal and ordered access. The search material confirms that large Valkey sorted sets use the B+ tree representation and that \`OBJECT ENCODING\` reports it as \`btree\`.
+Zero C\#, a fork of bflat, compiles a subset of C\# directly into small native programs without the .NET runtime or garbage collector. It preserves C\# syntax, type checking, and generics while producing executables that require no separately installed runtime. The project explores whether C\# can retain its high-level programming model in environments where runtime independence, small deployment footprints, or explicit memory management are important. Its practical value, however, is limited by ecosystem maturity and competition from NativeAOT, Rust, Zig, and other established approaches. The implementation retains C\# syntax, static type checking, and generics, but it is not a drop-in replacement for ordinary C\# because it excludes the .NET runtime and much of the standard library. Developers must account for manual memory management, while established options such as Span&lt;T&gt;, unmanaged memory APIs, unsafe pointers, and NativeAOT already address many related needs.
 
-rss · Lobsters \(技术社区\) · Nov 21, 04:31
+hackernews · Hacker News \(热门\) · Nov 21, 15:39 · [Discussion](https://news.ycombinator.com/item?id=50590279)
 
-**Background**: Valkey is an open-source, Redis-compatible in-memory key-value database used for low-latency reads and writes, with capabilities such as replication, clustering, and multiple native data types. A sorted set associates each member with a numeric score and supports ordered queries, including rank and range operations. Skiplists and B+ trees are alternative ordered-index designs, but they have different memory and traversal characteristics.
+**Background**: C\# normally executes on the .NET runtime, whose garbage collector manages most object lifetimes automatically. NativeAOT instead compiles intermediate language ahead of time into a native executable, removing the need for JIT compilation and runtime installation, although it still retains managed-runtime features such as garbage collection. Zero C\# goes further by targeting native execution without the .NET runtime or garbage collector, resembling earlier experimental C\#-to-native toolchains such as bflat.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://valkey.io/">Valkey</a></li>
-<li><a href="https://www.geeksforgeeks.org/c/implementation-of-b-plus-tree-in-c/">Implementation of B+ Tree in C - GeeksforGeeks</a></li>
+<li><a href="https://onurgumus.github.io/zero-csharp/index.html">Zero C# | C# without a runtime , from Linux to a 386</a></li>
+<li>Native AOT deployment overview - .NET | Microsoft Learn</li>
+<li><a href="https://www.netwasm.com/">NetWasm: Compile C# to WebAssembly at native Wasm size</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Valkey`, `#B+ Trees`, `#Data Structures`, `#Memory Optimization`, `#Databases`
+**Discussion**: Most commenters viewed Zero C\# as technically interesting but not broadly useful, noting that existing C\# features and NativeAOT already offer native deployment, reduced copying, pointers, unmanaged allocation, and manual low-level control. Some argued that garbage collection is a productivity feature rather than a defect, while others questioned whether removing it creates enough value to justify compatibility and library limitations; one participant suggested a frozen, sustained no-GC mode as a more useful improvement.
+
+**Tags**: `#C\#`, `#.NET`, `#Garbage Collection`, `#NativeAOT`, `#Runtime Systems`
 
 ---
 
 <a id="item-27"></a>
-## [Scaling Git Horizontally Beyond Multi-Raft](https://enroute.sh/blog/scaling-horizontally-how-we-moved-beyond-multi-raft) ⭐️ 7.0/10
+## [A Personal Art Site Built Around Static Architecture and Local AI](https://klauria.tech/klauria-art/) ⭐️ 6.0/10
 
-The article recounts an engineering effort to scale a Git system horizontally by moving beyond a Multi-Raft architecture. The supplied content contains only a link to the article and its discussion, so the specific implementation changes and measured results are not available here. Horizontal scaling is central to serving many developers and agents that push to Git repositories concurrently. Exploring alternatives to Multi-Raft may expose architectural limits and offer useful lessons for large-scale Git platforms. Multi-Raft typically manages multiple independent Raft groups, while newer architectures may coordinate repository data through mechanisms such as larger distributed object stores or custom append-oriented storage. The available material does not identify which alternative the article implements, nor does it provide benchmarks, failure scenarios, or operational tradeoffs.
+The author presents a personal art website whose visual presentation and technical architecture are intentionally understated, alongside AI-generated artworks produced through a custom image-to-image workflow. The artwork pages also expose the prompts and generation traces used in the author&\#x27;s locally trained proprietary model. The project illustrates how a durable, minimally dependent personal site can combine editorial design with locally operated generative-AI workflows. It is primarily an individual showcase rather than a reusable framework or research breakthrough, but it offers practical inspiration for artists maintaining long-lived portfolios. The site remains usable with JavaScript blocked, and one commenter reported no visible defects while scrolling. The author&\#x27;s image-to-image model was trained on their own hardware, but the available excerpt does not identify the model architecture, training dataset, hardware configuration, or licensing terms.
 
-rss · Lobsters \(技术社区\) · Nov 21, 04:14
+hackernews · Hacker News \(热门\) · Nov 20, 17:03 · [Discussion](https://news.ycombinator.com/item?id=50577991)
 
-**Background**: Git is a distributed version-control system whose repositories contain objects, references, and commit history. Raft is a consensus algorithm, but the provided search results did not explain the relevant distributed-systems use of Raft; related GitHub and OpenAI articles instead describe horizontal scale and storage architectures for serving many repository clients. Multi-Raft can divide consensus responsibilities among groups, but the article&\#x27;s stated goal is to move beyond that model.
+**Background**: A static site serves prebuilt content and can remain functional with little or no client-side scripting, making it attractive for personal archives and portfolios intended to last for decades. Image-to-image generation derives new visual output from an existing input image, often guided by a text prompt; publishing prompts and traces can help audiences inspect the creative process and assess the role of AI in the work.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/">Inside GitHub&#x27;s new Git storage architecture - The GitHub Blog</a></li>
-<li><a href="https://openai.com/index/scaling-git-at-openai/">Scaling Git at OpenAI | OpenAI</a></li>
+<li><a href="https://www.edenai.co/post/image-to-image-ai-workflow-creating-unique-variations-with-description-driven-image-generation">Image - to - Image AI Workflow : Build Unique Variations</a></li>
+<li><a href="https://tapedit.ai/image-to-image-ai">Image to Image AI Free Online - TapEdit</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Git`, `#Distributed Systems`, `#Raft`, `#Scalability`, `#Architecture`
+**Discussion**: Commenters praised the site&\#x27;s typography, spacing, colors, imagery, and reliable no-JavaScript behavior, while expressing surprise that personal static sites are not more common. The author confirmed that the Mono Lake work used a proprietary image-to-image model trained locally and linked to its prompt and generation traces; another participant connected landscape art with an unfinished mapping project.
+
+**Tags**: `#web architecture`, `#static sites`, `#generative AI`, `#digital art`, `#personal websites`
 
 ---
 
 <a id="item-28"></a>
-## [Verifying Formal Models of Raft Implementations](https://antithesis.com/blog/2026/verifying-formal-models/) ⭐️ 7.0/10
+## [PcapAnalyzer Adds 27 Built-in Packet Problem Detectors](https://github.com/sebaandrada-cell/PcapAnalyzer) ⭐️ 6.0/10
 
-The article presents a technically rigorous approach to checking whether real Raft implementations conform to formal models of correctness. However, the provided excerpt contains no substantive details about the verification method, implementation, or results. Raft correctness is central to many distributed systems because consensus failures can cause inconsistent state or data loss. Bridging formal specifications and production implementations could help developers detect subtle protocol violations that ordinary tests may miss. The available material identifies Raft, formal verification, model checking, and correctness as the key topics, but it does not specify the tools, modeling assumptions, properties checked, verification scope, or limitations. No claims about successful verification or newly discovered defects can be established from the supplied excerpt.
+PcapAnalyzer is a free, open-source, self-hosted application that analyzes .pcap and .pcapng packet captures for network and security problems. It runs 27 built-in detectors covering TCP, DNS, DHCP, HTTP, TLS, tunneling protocols, and security issues, with each finding assigned a severity and recommended next step. The tool could help network and security practitioners diagnose faults from captured traffic without sending potentially sensitive data to a hosted analysis service. Its broad detector coverage also supports the broader trend toward self-hosted, rules-based tooling for operational troubleshooting and threat analysis. The available project description lists detectors for conditions such as TCP firewall blocks, retransmissions, duplicate acknowledgments, packet loss and reordering, zero or full windows, resets following a handshake, and slow handshakes. A packet capture only shows the traffic recorded during the observation period, so detections should be interpreted as evidence within that capture rather than proof of events elsewhere.
 
-rss · Lobsters \(技术社区\) · Nov 20, 21:54
+rss · Hacker News \(热门\) · Nov 21, 22:09
 
-**Background**: Raft is a consensus algorithm used to let distributed systems agree on replicated state despite failures. Formal verification represents expected behavior as mathematical models and systematically checks properties, while model checking explores possible system states to find counterexamples. The article&\#x27;s stated goal is to relate that formal reasoning to real Raft code rather than treating the specification and implementation as independently trusted artifacts.
+**Background**: PCAP is a common packet-capture format used by tools such as libpcap, tcpdump, and Wireshark, and modern captures may also use the .pcapng format. Analyzing the captured packets and their protocol exchanges can reveal connection failures, performance anomalies, configuration mistakes, and signs of malicious behavior. PcapAnalyzer automates part of that process through predefined problem detectors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Model_checking">Model checking - Wikipedia</a></li>
-<li><a href="https://vdoc.pub/documents/models-and-analysis-for-distributed-systems-nvrumm13i900">Models And Analysis For Distributed Systems [PDF] [nvrumm13i900]</a></li>
+<li><a href="https://allthenews.today/item/pcapanalyzer-self-hosted-pcap-analyzer-with-27-problem-detectors">PcapAnalyzer – self-hosted pcap analyzer with 27 problem ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Pcap">pcap - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Raft`, `#distributed systems`, `#formal verification`, `#model checking`, `#correctness`
+**Tags**: `#network-analysis`, `#pcap`, `#security-tooling`, `#self-hosted`, `#packet-diagnostics`
 
 ---
 
 <a id="item-29"></a>
-## [Nvidia Confronts Leadership Crisis While Halting H200 China Sales](https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/) ⭐️ 7.0/10
+## [Probabilistic Data Structures in Go, Part Two](https://antonz.org/probabilistic-data-structures-2/) ⭐️ 6.0/10
 
-Nvidia reported continued growth in its latest earnings while the company continued dealing with the fallout from CEO Jensen Huang’s ouster. It also said it would stop selling H200 AI chips in China. The combination of strong financial performance and a leadership crisis could affect Nvidia’s direction at a time when advanced AI chips are central to global competition. Ending H200 sales in China also carries commercial and geopolitical consequences because such chips are used to develop AI systems. WIRED reports that allegations included multiple affairs involving a direct report and an alleged Chinese intelligence asset, with Huang’s lack of candor identified as the board’s main concern. Although Nvidia’s business continued growing, the excerpt provides few earnings figures or technical details about the H200 restriction.
+This second installment continues an exploration of probabilistic data structures and their implementation in Go. The available item links to the article’s Lobsters discussion but does not expose enough of the article body to identify specific algorithms, APIs, or benchmarks. Probabilistic data structures can trade exact answers for lower memory use and faster processing, making them useful for large-scale systems. The article may help Go developers understand how to apply these trade-offs in practical software, although the sparse material provides limited evidence of broad impact. Probabilistic structures commonly use compact bit arrays and hash functions to answer questions such as set membership and unique-item counts approximately. Their error behavior and parameter choices are important technical considerations, but the supplied content does not specify which structures or parameters the second installment covers.
 
-rss · TechCrunch AI · Nov 20, 14:55
+rss · Lobsters \(技术社区\) · Nov 21, 13:18
 
-**Background**: Nvidia is a major supplier of GPUs and AI-computing hardware used in data centers, artificial intelligence, and high-performance computing. H200 chips belong to its Hopper generation, while US export controls restrict the sale of advanced computing chips to China. The H200 is therefore subject not only to commercial demand but also to US semiconductor export rules.
+**Background**: Probabilistic data structures provide approximate rather than exact query results, often balancing accuracy against time and space efficiency. Their implementations typically rely on compact bit-array representations and hash functions, with controlled and predictable failure probabilities.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://laweconcenter.org/resources/us-export-controls-on-ai-and-semiconductors/">US Export Controls on AI and Semiconductors - International Center...</a></li>
-<li><a href="https://wccftech.com/nvidia-hopper-h200-gpu-hbm3e-memory-grace-hopper-superchips-jupiter-supercomputer/">NVIDIA Hopper H 200 GPUs Supercharged With World&#x27;s Fastest...</a></li>
-<li><a href="https://www.banking.senate.gov/imo/media/doc/letter_to_lutnick_on_h200_sales.pdf">Letter to Lutnick on H 200 sales</a></li>
+<li><a href="https://antonz.org/probabilistic-data-structures/">Probabilistic data structures in Go</a></li>
+<li><a href="https://github.com/nalgeon/unsure">GitHub - nalgeon/unsure: Probabilistic data structures in Go · GitHub</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Category:Probabilistic_data_structures">Category:Probabilistic data structures - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Some technology executives and commenters are calling for Huang to return as CEO, but one cited commentary argues that doing so would be a bad idea. The discussion presents sharply divided views rather than a clear consensus.
-
-**Tags**: `#Nvidia`, `#Jensen Huang`, `#Semiconductors`, `#AI Chips`, `#China Export Controls`
+**Tags**: `#Go`, `#probabilistic-data-structures`, `#algorithms`, `#software-engineering`
 
 ---
 
 <a id="item-30"></a>
-## [Race Realism Is Not Realistic Science](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) ⭐️ 7.0/10
+## [jj-musubi Brings Live Synchronization to Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/) ⭐️ 6.0/10
 
-The article argues that modern genetics does not support claims of innate racial differences in intelligence. It criticizes “race realism” as both unrealistic and inconsistent with good science. 关于种族智力差异是否具有遗传基础的论述，仍在科学和政策 debates 中具有影响。严谨的反驳很重要，因为错误解读群体遗传学可能污名化特定群体，并扭曲教育、卫生和社会政策。 Population genetics shows that human genetic variation is structured, but social categories such as race do not map neatly onto discrete biological populations. Genetic variation within and among populations must therefore be analyzed carefully rather than used to infer innate, race-linked cognitive rankings.
+Serpentine announced jj-musubi, a source-control tool that live-syncs copies of a Jujutsu repository across multiple machines. It propagates snapshots, commits, rebases, fetches, and similar operations within moments. The tool may reduce the friction of working on the same Jujutsu repository from several computers, especially for users who move frequently between personal and work devices. It also broadens Jujutsu&\#x27;s support for workflows that historically relied on Git-compatible synchronization. Search results describe jj-musubi as keeping a Jujutsu repository synchronized across a user&\#x27;s machines through a hub. Operations performed on one machine can appear in another machine&\#x27;s operation log within about a second, although the provided announcement itself contains little technical detail.
 
-rss · Ars Technica · Nov 21, 12:01
+rss · Lobsters \(技术社区\) · Nov 20, 09:39
 
-**Background**: Race is generally treated in population genetics as a social classification rather than a set of discrete biological lineages. Although allele frequencies often differ modestly among populations, most genetic variation occurs within populations, and population boundaries are not equivalent to biological subspecies. Claims that average IQ differences between broad racial groups are innate and genetic require evidence beyond observing those differences; assertions that such differences are wholly genetic have also been characterized as unsupported.
+**Background**: Jujutsu, commonly invoked as jj, is a version-control system designed to work alongside Git in the same repository. Unlike Git&\#x27;s primarily commit-oriented model, Jujutsu records changes automatically as snapshots and supports operations such as rebasing and abandoning revisions. jj-musubi applies live peer synchronization to these Jujutsu workflows.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2016.00022/full">Frontiers | Population Genomics and the Statistical Values of Race ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/The_Bell_Curve">The Bell Curve - Wikipedia</a></li>
-<li><a href="https://www.theguardian.com/news/2018/mar/02/the-unwelcome-revival-of-race-science">The unwelcome revival of ‘ race science ’ | Race | The Guardian</a></li>
+<li><a href="https://www.serpentine.com/posts/2026/announcing-jj-musubi/">Announcing jj-musubi: live sync for Jujutsu - serpentine.com</a></li>
+<li><a href="https://www.serpentine.com/software/jj-musubi/">jj-musubi | teideal glic deisbhéalach - serpentine.com</a></li>
+<li><a href="https://github.com/bos/jj-musubi/tree/main">GitHub - bos/jj-musubi: Peer-to-peer replication of jj ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#genetics`, `#race`, `#intelligence`, `#scientific integrity`, `#population studies`
+**Tags**: `#Jujutsu`, `#Version Control`, `#Live Sync`, `#Developer Tools`
 
 ---
 
 <a id="item-31"></a>
-## [FCC Preempts California Rules on AT&amp;T Home Phone Service](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) ⭐️ 7.0/10
+## [Alice v0.6.0 Release Announced](https://www.alicecaml.org/blog/alice-v0-6-0/) ⭐️ 6.0/10
 
-The FCC ordered California to stop enforcing state rules that require AT&amp;T to continue offering home phone service. The action establishes federal priority over the state&\#x27;s requirements in this area. The ruling limits California&\#x27;s authority to impose telecom-service obligations on AT&amp;T and may affect other states with similar legacy-service requirements. It also raises broader questions about how federal preemption applies to state telecommunications regulation. The dispute concerns the continued availability of legacy home phone service, rather than the rules governing modern mobile or broadband services. The provided material does not specify the legal reasoning, effective date, scope of the order, or how AT&amp;T is affected operationally.
+Alice v0.6.0 has been released. The supplied announcement excerpt contains no changelog, feature list, or other technical description of the update. The release is relevant to users and educators who rely on Alice, an open-source educational programming environment. However, its practical impact cannot be assessed without details about what changed in v0.6.0. The news item provides only the release name and a link to a comments page. No version-specific bug fixes, compatibility changes, performance improvements, installation instructions, or licensing details are available in the supplied content.
 
-rss · Ars Technica · Nov 20, 22:28
+rss · Lobsters \(技术社区\) · Nov 20, 16:44
 
-**Background**: The FCC regulates communications in the United States and can preempt conflicting state laws under federal authority. Home phone service is a legacy offering that remains subject to state-specific rules in some jurisdictions, including California&\#x27;s requirement that AT&amp;T continue providing it.
+**Background**: Alice is an object-based educational programming language with an integrated development environment that uses drag-and-drop interaction and 3D models to make programming concepts more visual and accessible. It is primarily used to teach programming through animated 3D scenes and can connect Alice projects with NetBeans for Java development.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.fcc.gov/">Federal Communications Commission | The United States of America</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Federal_Communications_Commission">Federal Communications Commission - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Alice_%28software%29">Alice (software) - Wikipedia</a></li>
+<li><a href="https://www.alice.org/get-alice/">Get Alice – Alice</a></li>
+<li><a href="https://github.com/alicelanguage/alice/releases">Releases · alicelanguage/alice · GitHub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FCC`, `#telecommunications policy`, `#federal preemption`, `#California`, `#AT&amp;T`
+**Tags**: `#Alice`, `#release`, `#developer tools`, `#open source`
 
 ---
 
 <a id="item-32"></a>
-## [Meta Reconsiders 2030 Net-Zero Goal as AI Emissions Surge](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/) ⭐️ 7.0/10
+## [DreamCoder Introduces an AI Coding Harness and IDE](https://www.masteringemacs.org/article/announcing-dreamcoder) ⭐️ 6.0/10
 
-Meta is re-evaluating its sustainability goals for 2030 as emissions associated with its rapidly expanding AI data centers come under greater scrutiny. The supplied report does not indicate whether the company will replace, delay, or formally abandon the target. Meta&\#x27;s possible revision could set a precedent for other technology companies balancing ambitious climate commitments against the energy demands of large-scale AI infrastructure. The decision may also affect investors, regulators, communities near data centers, and the credibility of corporate net-zero pledges. The available material consists only of a headline and teaser, so it provides no emissions figures, revised deadline, methodology, or explanation of how AI data-center energy use is being measured. Because the search results do not offer substantive evidence about Meta&\#x27;s reported emissions, claims that its emissions are at a record level cannot be independently confirmed here.
-
-rss · Ars Technica · Nov 20, 21:47
-
-**Background**: A net-zero target generally means balancing reported greenhouse-gas emissions with removals so that the net amount reaches zero. AI data centers require substantial electricity for computing and associated cooling, making their energy sources and emissions important when evaluating technology companies&\#x27; climate progress.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html">Artificial Intelligence ( AI ): What it is and why it matters | SAS</a></li>
-<li><a href="https://www.ibm.com/think/topics/artificial-intelligence">What is artificial intelligence ( AI )? - IBM</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI infrastructure`, `#Data centers`, `#Carbon emissions`, `#Net zero`, `#Meta`
-
----
-
-<a id="item-33"></a>
-## [Harbinger Scales Electric Trucks With $240 Million Raise](https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks) ⭐️ 7.0/10
-
-Harbinger raised $240 million in a Series D round to scale its electric truck operations. The financing follows a $300 million FedEx order and a new U.S. military defense contract. The funding and contracts show that commercial and government demand for electric heavy-duty vehicles remains strong despite legacy automakers slowing their EV plans. The deals could help Harbinger establish a scaled platform in a capital-intensive segment where fleet reliability and procurement access are crucial. Harbinger develops an electric vehicle platform for medium-duty vehicles, emphasizing performance, durability, and avoiding an acquisition premium through lower operating costs. The company says it is combining electric propulsion with a chassis-focused approach, though the supplied excerpt does not disclose technical specifications or the contract terms.
-
-rss · The Verge · Nov 21, 12:00
-
-**Background**: Electric commercial trucks are intended for fleet operations rather than primarily for individual consumers, making large orders and government procurement important indicators of adoption. Harbinger focuses on medium-duty vehicles and markets a platform designed around electric performance, durability, and competitive acquisition economics.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://harbingermotors.com/our-company/">Our Company - Harbinger Motors</a></li>
-<li><a href="https://afdc.energy.gov/vehicles/how-do-all-electric-cars-work">Alternative Fuels Data Center: How Do All- Electric Cars Work?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#electric vehicles`, `#electric trucks`, `#startup funding`, `#commercial vehicles`, `#defense logistics`
-
----
-
-<a id="item-34"></a>
-## [The Outages Are Just Getting Started](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) ⭐️ 7.0/10
-
-AI-assisted vulnerability discovery is forcing organizations to patch systems at an unprecedented pace as attackers exploit weaknesses faster, potentially leading to prolonged internet outages and security chaos.
-
-rss · Wired · Nov 21, 13:00
-
-**Tags**: `#AI security`, `#vulnerability patching`, `#cybersecurity`, `#internet outages`, `#threat intelligence`
-
----
-
-<a id="item-35"></a>
-## [El Niño Drives Record Marine Heat Wave Off California](https://www.wired.com/story/el-nino-record-california-marine-heat-wave/) ⭐️ 7.0/10
-
-El Niño is producing record ocean temperatures off California’s coast, with extreme heat extending hundreds of meters below the surface. The warming is contributing to severe storms and unusually high sea levels. A deep, persistent marine heat wave can intensify coastal hazards while disrupting marine ecosystems, fisheries, and coastal communities. The combination of extreme water temperatures, high tides, and severe storms increases the risks of flooding and ecosystem change. The heat is not confined to the ocean surface but reaches hundreds of meters below it, indicating substantial subsurface warming. NOAA’s National Ocean Service reported that oceanic Kelvin waves are contributing to new or broken California coastal water-level records, including some of the highest readings in more than a century.
-
-rss · Wired · Nov 20, 10:30
-
-**Background**: El Niño is a recurring climate pattern characterized by unusually warm tropical Pacific waters that can influence weather and ocean conditions far beyond the tropics. Oceanic Kelvin waves are long waves that propagate along the ocean floor and can transport warm water toward the eastern Pacific and California’s coast. Marine heat waves matter because they can alter habitats, species distributions, and coastal weather patterns while adding heat and moisture to the atmosphere.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.latimes.com/california/story/2026-11-02/el-ninos-worst-case-scenario-for-california-coast-high-tides-record-heat-big-storms">El Niño &#x27;s worst case scenario for California coast : High tides, record...</a></li>
-<li><a href="https://www.theguardian.com/environment/2026/nov/13/super-el-nino-california-monterey-bay">A super El Niño brings startling changes for marine life on California ...</a></li>
-<li><a href="https://www.sfchronicle.com/california/article/ocean-sea-temperature-california-22485809.php">California oceans are shockingly warm, strange fish are arriving</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Climate Change`, `#El Niño`, `#Marine Heat Wave`, `#Oceanography`, `#Extreme Weather`
-
----
-
-<a id="item-36"></a>
-## [Nvidia RTX Spark Mini PCs Target Local AI](https://dev.to/luckytaorem/nvidia-rtx-spark-mini-pcs-launch-compact-powerhouse-3nkm) ⭐️ 7.0/10
-
-Nvidia&\#x27;s RTX Spark N1X platform has prompted Asus, Dell, and MSI to release compact desktop systems, while Acer, Gigabyte, and HP have announced upcoming models. Microsoft&\#x27;s Surface RTX Spark Dev Box is also expected to ship later this month, according to the article. The broad OEM adoption of a common RTX Spark platform could make high-capacity, locally accelerated AI computers more widely available in a compact desktop form factor. It also expands Nvidia&\#x27;s Windows on Arm ecosystem beyond its own reference designs and into systems from major PC vendors. The article describes a shared configuration of a 6144-core Nvidia Blackwell RTX GPU, a 20-core Nvidia Grace CPU, and up to 128GB of LPDDR5X unified memory. Its Asus Pro Art GR1X listing specifies 64GB base memory, 128GB maximum memory, a 1TB SSD, and a $4,499 starting price, but the excerpt leaves most other models&\#x27; storage and pricing unspecified.
-
-rss · Dev.to · Nov 21, 21:17
-
-**Background**: RTX Spark is a Windows on Arm desktop platform designed for demanding local AI workloads while retaining RTX graphics capabilities. The Grace CPU and Blackwell GPU share high-bandwidth unified memory, which can make large model inference and other AI tasks practical without requiring a separate discrete GPU; search results also identify the RTX Spark N1X as part of Nvidia&\#x27;s Grace Blackwell-based offering.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.storagereview.com/news/nvidia-rtx-spark-pre-orders-n1x-laptop-desktop-tdp-mxc-dgx-station-for-windows">NVIDIA RTX Spark Pre-Orders Open: N 1 X Runs... - StorageReview.com</a></li>
-<li><a href="https://thepcenthusiast.com/nvidia-rtx-spark-vs-macbook-pro-local-ai/">NVIDIA RTX Spark N 1 X Laptop vs MacBook Pro... | ThePCEnthusiast</a></li>
-<li><a href="https://www.pcdiga.com/blog/noticias/msi-edgemesa-n-ai-mini-pc-com-nvidia-rtx-spark-para-correr-ia-localmente/">MSI EdgeMesa N AI +: Mini PC Com NVIDIA RTX Spark Para Correr...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#NVIDIA`, `#RTX Spark`, `#Mini PCs`, `#Local AI`, `#Edge Computing`
-
----
-
-<a id="item-37"></a>
-## [Chinese Attackers Used AI Agents to Exploit a Zero-Day](https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382) ⭐️ 7.0/10
-
-Chinese state-linked attackers reportedly deployed autonomous AI agents that discovered and exploited a zero-day vulnerability to take over a university server. The claim marks a significant escalation in AI-assisted offensive hacking. Autonomous agents could shorten the time between vulnerability discovery and large-scale exploitation, leaving defenders less time to patch systems. If independently reproducible, the incident would show that AI-assisted intrusion workflows are moving from research demonstrations toward operational cyberattacks. The available material identifies the actors as Chinese state-linked attackers, the target as a university server, and the exploit as a zero-day found and exploited by autonomous AI agents. It provides no vulnerability identifier, affected software, exploitation method, attribution evidence, or independent validation, so those technical details remain unverified.
-
-rss · Hacker News \(AI/ML\) · Nov 21, 18:56
-
-**Background**: A zero-day is a vulnerability for which no patch or mitigation was available when the attacker used it. Google Threat Intelligence has reported that AI is measurably accelerating vulnerability discovery and exploitation, while research involving an AI security agent found numerous FFmpeg zero-days at a reported cost of $1,000. These findings provide context for why autonomous vulnerability discovery could alter the economics and speed of cyberattacks.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era/">Vulnerability Discovery and Exploitation Trends in the AI Era</a></li>
-<li><a href="https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws">Google Says Hackers Use AI Agents to Find and Exploit Software...</a></li>
-<li><a href="https://www.working-ref.com/en/reference/ai-security-agent-ffmpeg-zero-days-2026">A $1,000 AI Agent Found 21 FFmpeg Zero - Days That Google and...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI security`, `#zero-day exploit`, `#cyber threat intelligence`, `#autonomous agents`, `#APT`
-
----
-
-<a id="item-38"></a>
-## [Amazon Nears $7.5 Billion Decart Acquisition](https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616) ⭐️ 7.0/10
-
-Amazon is reportedly nearing a $7.5 billion acquisition of AI startup Decart. The reported deal remains unconfirmed in the provided material. A deal of this size would represent a major strategic investment by Amazon in real-time generative AI and interactive world models. It could strengthen Amazon&\#x27;s position in AI infrastructure and expand its ability to power low-latency video generation and simulated environments. Decart is an Israeli AI company developing real-time world models that generate interactive video and simulated environments frame by frame with low latency. Its Lucy models support continuously streaming generative video, while its platform emphasizes millisecond-level responsiveness and efficiency; however, the reported acquisition price and status could not be independently verified from the provided material.
-
-rss · Hacker News \(AI/ML\) · Nov 21, 18:50
-
-**Background**: A world model is an AI system that models an environment so that it can predict or simulate changes over time. Decart applies this concept to real-time generative video, enabling interactive experiences in which generated scenes respond immediately rather than waiting for a complete video to be produced.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Decart">Decart - Wikipedia</a></li>
-<li><a href="https://decart.ai/">Decart - The Live AI Lab the World Runs On</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Amazon`, `#AI acquisition`, `#Decart`, `#generative AI`, `#business strategy`
-
----
-
-<a id="item-39"></a>
-## [AI Claims a Proof for the Real Navier–Stokes Problem](https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/) ⭐️ 7.0/10
-
-Scientific American reports that an AI system developed by OpenAI generated a claimed proof concerning the three-dimensional incompressible Navier–Stokes equations, including a finite-time singularity result. The claim has been publicly checked with machine assistance but still awaits independent mathematical judgment. A valid proof could resolve one of the Clay Millennium Prize Problems and transform research on fluid dynamics, numerical computation, and scientific machine learning. However, the title&\#x27;s implication that AI has “solved” the problem should not be treated as established until qualified mathematicians verify the argument. The reported result concerns finite-time singularity in three-dimensional incompressible Navier–Stokes flow, not a complete general solution of every formulation of the Millennium Prize problem. Search results also mention counterclaims and questions about the proof, underscoring the need for independent review.
-
-rss · Hacker News \(AI/ML\) · Nov 21, 17:50
-
-**Background**: The real Navier–Stokes problem asks whether smooth, physically relevant solutions of the three-dimensional incompressible equations exist globally in time or can develop singularities in finite time. It is one of the seven Clay Millennium Prize Problems, so an accepted solution would have exceptional mathematical significance. AI-assisted proof generation is attracting attention, but formal argument checking and expert validation remain distinct from the initial claim.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Real">Real - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI for mathematics`, `#Navier-Stokes equations`, `#computational science`, `#scientific machine learning`, `#research breakthroughs`
-
----
-
-<a id="item-40"></a>
-## [SCAD Review Highlights Risks in Younger Women](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2901485-6/fulltext?rss=yes) ⭐️ 7.0/10
-
-A Lancet review reassesses spontaneous coronary artery dissection as an increasingly recognized and potentially underdiagnosed cause of acute coronary syndromes, especially among younger women. It synthesizes evidence on prevalence, early adverse-event risk, clinical care, and future research priorities. The findings may improve recognition of SCAD in younger women presenting with acute coronary syndromes and support closer monitoring during the high-risk period after the initial dissection. They also underscore the need for larger registries, better imaging, and management strategies tailored to SCAD. SCAD involves spontaneous separation of the layers of the coronary arterial wall and carries a substantial risk of early adverse events, particularly during the first weeks after the index dissection. The supplied material is limited to an abstract and does not provide detailed recommendations, comparative treatment data, or a full discussion of limitations.
-
-rss · The Lancet · 最新文章 · Nov 19, 23:30
-
-**Background**: An acute coronary syndrome is a sudden reduction in blood flow to the heart muscle that can present similarly to a conventional heart attack. In SCAD, the separation and inward collapse of arterial-wall layers can impair coronary blood flow without the usual plaque rupture that underlies many cases of atherosclerotic coronary disease.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.dovepress.com/acute-myocardial-infarction-due-to-spontaneous-coronary-dissection-in--peer-reviewed-fulltext-article-IJWH">Acute Myocardial Infarction Due to Spontaneous Coronary Dissection in</a></li>
-<li><a href="https://www.nhs.uk/conditions/coronary-heart-disease/">Coronary heart disease - NHS</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#spontaneous coronary artery dissection`, `#cardiovascular disease`, `#women&\#x27;s health`, `#acute coronary syndrome`, `#clinical review`
-
----
-
-<a id="item-41"></a>
-## [Editorial raises concerns over placebo controls in obinutuzumab beta NMOSD trials](https://www.nature.com/articles/s41591-026-04781-0) ⭐️ 7.0/10
-
-Nature Medicine published an article online on 20 November 2026 raising concerns about the appropriateness of using placebo controls in clinical trials of obinutuzumab beta in aquaporin-4 antibody-positive neuromyelitis optica spectrum disorder \(AQP4+ NMOSD\). The article questions the methodological and ethical defensibility of the placebo-controlled design for this indication. NMOSD is a severe, rare autoimmune disorder in which relapses can cause irreversible optic nerve and spinal cord damage, so trial design choices directly affect how quickly effective therapy can be identified. If placebo arms are judged inappropriate, sponsors and regulators may need to change the ongoing protocol, and the availability of controlled evidence for a CD20-directed bispecific antibody in NMOSD could be delayed. Obinutuzumab \(marketed as Gazyva\) is a humanized anti-CD20 antibody originally developed by Roche/GlycArt that depletes CD20-expressing B cells and is already approved for leukemia, lymphoma, lupus nephritis and other indications; a bispecific CD20xCD3 variant \(obinutuzumab beta\) is being explored for autoimmune indications. In AQP4-IgG-positive NMOSD, autoantibodies damage astrocytes via the AQP4 water channel, triggering demyelination and axonal loss, and existing effective treatments \(e.g., acute plasma exchange or high-dose steroids for attacks\) raise the stakes of any delay; the excerpt provided contains no further detail on the specific trial designs, endpoints or author arguments.
-
-rss · Nature Medicine · Nov 20, 00:00
-
-**Background**: Neuromyelitis optica spectrum disorder is an autoimmune disease defined by optic neuritis and longitudinally extensive myelitis, and in the AQP4-antibody-positive subset the pathogenesis involves antibody-mediated astrocyte injury rather than direct demyelination. Randomized, double-blind, placebo-controlled trials are generally regarded as the gold standard of evidence-based medicine, but regulators and ethics guidelines hold that withholding effective therapy is unethical when it exposes participants to serious harm or removes access to standard care without strong justification. Obinutuzumab beta is a bispecific antibody designed to engage CD20 on B cells and CD3 on T cells, aiming to eliminate pathogenic B cells more efficiently than the monovalent antibody, which is why it is being tested in B-cell-mediated autoimmune diseases such as NMOSD.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuromyelitis_optica_spectrum_disorder">Neuromyelitis optica spectrum disorder - Wikipedia</a></li>
-<li><a href="https://ccrps.org/clinical-research-blog/placebo-controlled-trials-what-researchers-must-understand">Placebo-Controlled Trials: What Researchers Must Understand</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Obinutuzumab">Obinutuzumab - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#clinical-trials`, `#NMOSD`, `#obinutuzumab-beta`, `#placebo-control`, `#research-ethics`
-
----
-
-<a id="item-42"></a>
-## [Senior Engineer Seeks Advice After Two-Year Job Gap](https://news.ycombinator.com/item?id=50583761) ⭐️ 6.0/10
-
-A senior U.S. software engineer with 15 years of experience, including nearly four years at a 1,000-person insurance-technology company, is seeking advice after being unemployed since leaving in January 2025. With savings running low, the poster is considering non-software work while trying to present continued technical development. The discussion highlights how long employment gaps, perceived overqualification, and a difficult hiring market can affect experienced software professionals. It also offers practical career strategies centered on reframing unemployment, documenting recent work, and demonstrating current technical capabilities. The poster&\#x27;s main stack includes C\#, .NET, and AWS, and they say they have learned AI-related skills while unemployed. Commenters recommend proactively creating and documenting substantive projects, including AI-powered products, rather than treating the gap merely as something recruiters must be persuaded to overlook.
-
-hackernews · Hacker News \(热门\) · Nov 20, 23:18
-
-**Background**: Software-engineering résumés often emphasize recent employment and measurable accomplishments, so a two-year gap can become a screening concern even when a candidate has extensive prior experience. Independent projects may help demonstrate current skills, but their hiring value depends on whether they produce credible, externally visible evidence of impact rather than functioning as résumé padding.
-
-**Discussion**: Commenters generally urged the poster to treat unemployment as evidence of initiative rather than a defect, while one commenter warned against resigning before a layoff when feasible. Other participants described their own difficulty re-entering the industry and recommended showcasing independently built AI-assisted products, but they recognized that hiring systems and a lack of traction or funding can still limit the payoff.
-
-**Tags**: `#software-engineering-careers`, `#unemployment`, `#job-search`, `#career-strategy`, `#hiring`
-
----
-
-<a id="item-43"></a>
-## [Deterministic Simulation Testing Is for Everyone](https://outdata.net/blog/261120) ⭐️ 6.0/10
-
-The article advocates deterministic simulation as an accessible approach to software testing, arguing that developers can use it to exercise failure-prone scenarios in a controlled and repeatable way. The available content provides only a title and a link to discussion, so the specific techniques, tools, and examples presented in the article are not available. Deterministic simulation can make it easier to test distributed systems and other complex software under conditions such as delayed messages, timeouts, and machine failures. If failures can be reproduced exactly, developers may debug them more efficiently and improve test reliability across the engineering ecosystem. In the Go context cited by the search results, deterministic simulation testing lets developers reproduce scenarios in which messages arrive late, requests time out, or a simulated machine fails, then rerun the identical scenario after finding a bug. A central caveat is that the source page&\#x27;s technical depth, novelty, and practical impact cannot be assessed because its body was not included.
-
-rss · Hacker News \(热门\) · Nov 20, 13:19
-
-**Background**: A deterministic system produces the same output for the same input and follows the same sequence of states. In software testing, deterministic simulation replaces or controls nondeterministic elements so that scenarios involving concurrency, networks, or failures can be rerun reliably. A Go proposal cited in the search results describes host-controlled deterministic execution as a possible foundation for this kind of testing.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/golang/go/issues/82785">proposal: runtime/bubble: add host-controlled deterministic execution...</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/Deterministic_system">Deterministic system - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#software-testing`, `#deterministic-simulation`, `#testing-tools`, `#engineering`
-
----
-
-<a id="item-44"></a>
-## [Exploring Probabilistic Data Structures in Go, Part Two](https://antonz.org/probabilistic-data-structures-2/) ⭐️ 6.0/10
-
-The article is the second installment in a series about probabilistic data structures and their implementation in Go. The available material does not disclose which specific structures, algorithms, benchmarks, or new features the installment covers. Probabilistic data structures can trade exact answers for substantially lower memory use and faster processing, making them useful for large-scale systems. A Go-focused implementation series may help developers apply these trade-offs in practical software. The supplied content contains only a link to a comments page, so implementation details and error guarantees cannot be verified from it. Readers should consult the article itself to identify the structures covered, their false-positive or false-negative rates, and their computational trade-offs.
-
-rss · Lobsters \(技术社区\) · Nov 21, 13:18
-
-**Background**: Probabilistic data structures answer questions approximately while storing less information than conventional exact structures. Common examples include Bloom filters for approximate set membership and Count-Min Sketch for frequency estimation, although the supplied material does not confirm whether this installment covers them. Their design requires developers to evaluate accuracy, memory consumption, and update or query performance together.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Suddenly_Susan">Suddenly Susan - Wikipedia</a></li>
-<li><a href="https://m.imdb.com/title/tt0115376/">Suddenly Susan (TV Series 1996–2000) - IMDb</a></li>
-<li><a href="https://m.imdb.com/title/tt0115376/fullcredits/">Suddenly Susan (TV Series 1996–2000) - Full cast &amp; crew - IMDb</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Go`, `#probabilistic data structures`, `#algorithms`, `#software engineering`
-
----
-
-<a id="item-45"></a>
-## [PostgreSQL Packaged as a Single Portable Binary](https://progrium.xyz/articles/2026/single-binary-postgres/) ⭐️ 6.0/10
-
-The author describes packaging PostgreSQL and its required dependencies into one portable binary. The result simplifies deployment by reducing the number of separate system components that must be installed and managed. A self-contained PostgreSQL binary could make database setup easier in containers, edge environments, development tools, and other scenarios where predictable portability matters. It may also be useful for embedding PostgreSQL-like capabilities into applications without relying on a conventional system installation. The article focuses on solving PostgreSQL’s packaging and dependency requirements rather than changing the database itself. The supplied search results note that fully static linking requires static libraries and that PostgreSQL distributions may restrict the availability of its static libraries, making dependency licensing and build compatibility important considerations.
-
-rss · Hacker News \(best\) · Nov 21, 20:54
-
-**Background**: PostgreSQL normally consists of a server executable plus supporting libraries, utilities, configuration, and other files, which can make installation and distribution more involved. Packaging those components into one binary aims to provide a portable artifact, although static linking can introduce legal, maintenance, and compatibility constraints.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.javacodegeeks.com/embed-postgresql-in-spring-boot-testing.html">Embed PostgreSQL in Spring Boot Testing - Java Code Geeks</a></li>
-<li><a href="https://stackoverflow.com/questions/40182104/how-to-use-the-embedded-postgresql-server-java-component-as-a-separate-service">How to use the Embedded PostgreSQL Server Java... - Stack Overflow</a></li>
-<li><a href="https://www.w3tutorials.net/blog/embedded-postgresql-for-java-junit-tests/">Embedded PostgreSQL for Java JUnit Tests: How... — w3tutorials.net</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#PostgreSQL`, `#Single Binary`, `#Software Packaging`, `#Database Deployment`, `#Portability`
-
----
-
-<a id="item-46"></a>
-## [jj-musubi Announces Live Sync for Jujutsu](https://www.serpentine.com/posts/2026/announcing-jj-musubi/) ⭐️ 6.0/10
-
-jj-musubi has been announced as a live-synchronization tool for Jujutsu, the Git-compatible version-control system. The available announcement contains no technical specifications, performance results, or usage instructions. Live synchronization could improve collaboration by reducing the lag between local changes and shared repository state. Its practical value, however, cannot be assessed without details about supported workflows, reliability, and compatibility. Jujutsu is a version-control frontend that stores its underlying data in Git. Beyond that context and the tool name, the announcement provides no implementation details, platform requirements, benchmarks, or known limitations.
-
-rss · Lobsters \(技术社区\) · Nov 20, 09:39
-
-**Background**: Jujutsu, commonly abbreviated as jj, offers a Git-like interface for tracking, committing, and publishing code changes while retaining Git as its storage backend. A live-sync tool for jj would likely target workflows in which changes need to be reflected between clients or shared workspaces with minimal delay.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://jj-for-everyone.github.io/">Introduction - Jujutsu for Everyone</a></li>
-<li><a href="https://neugierig.org/software/blog/2024/12/jujutsu.html">Tech Notes: The Jujutsu version control system</a></li>
-<li><a href="https://www.rahuljuliato.com/posts/jj-cheat-sheet">Jujutsu VCS: My Personal Cheat Sheet | Rahul&#x27;s Blog</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Jujutsu`, `#version control`, `#live sync`, `#developer tools`
-
----
-
-<a id="item-47"></a>
-## [DreamCoder Introduces a New Coding Harness and IDE](https://www.masteringemacs.org/article/announcing-dreamcoder) ⭐️ 6.0/10
-
-John Wiegley, the author of Mastering Emacs, announced DreamCoder, a coding harness and IDE designed for AI-assisted software development. Rather than functioning only as a chat interface for coding agents, it is intended to incorporate adjacent development workflows and tools in an Emacs-like environment. DreamCoder reflects a broader shift from standalone coding-agent chat panels toward comprehensive work environments that organize an agent&\#x27;s surrounding tools and workflows. Its association with an established Emacs author may also attract experienced Emacs users who value extensible, keyboard-driven development environments. The announcement describes DreamCoder as going beyond displaying a chat window and following an Emacs-inspired path of consuming a wide range of adjacent workflows and tools. The available announcement excerpt provides no concrete technical specifications, release details, supported models, platform requirements, benchmarks, or pricing information.
+Mickey Petersen, the author of Mastering Emacs, announced DreamCoder, a browser-based AI coding harness and IDE developed over roughly fifteen months. The project combines agentic coding capabilities with a tiling interface and is available across desktop, tablet, and phone form factors. DreamCoder reflects a shift in AI-assisted programming from simple terminal chat interfaces toward persistent, structured development environments. Its cross-device workspace and resume-state feature may make human-guided agent workflows more practical for professional software development. DreamCoder positions itself as more than a chat window for coding-agent work, while its website describes a state-of-the-art agent engine and first-class interface. Petersen developed it using Claude Code for enterprise middleware and emphasizes speed gains, but the announcement also stresses the continued need for human steering.
 
 rss · Lobsters \(技术社区\) · Nov 20, 11:14
 
-**Background**: A coding harness is an environment that wraps an AI coding agent with the tools, workflows, and interfaces needed to carry out development tasks. The announcement positions DreamCoder as a possible next-generation IDE: instead of treating AI assistance as a separate chat feature, it embeds agent work within a broader, Emacs-inspired tool environment. DreamCoder here refers to the developer tool and should not be confused with the unrelated research system of the same name that learns programming languages and interprets programs.
+**Background**: Coding harnesses are environments built specifically to support coding agents, offering more structure than a conventional terminal or chat window. DreamCoder draws on Petersen&\#x27;s background in Emacs and his interest in the history of AI and Lisp, and distinguishes itself from terminal-centered tools such as Claude Code through its integrated, cross-device workspace.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://www.masteringemacs.org/article/announcing-dreamcoder">Announcing DreamCoder - Mastering Emacs</a></li>
-<li><a href="https://arxiv.org/abs/2006.08381">[2006.08381] DreamCoder : Growing generalizable, interpretable...</a></li>
+<li><a href="https://www.dreamcoder.ai/">DreamCoder — Code in your sleep</a></li>
+<li><a href="https://techbytes.app/posts/dreamcoder-coding-harness-from-the-author-of-mastering-emacs/">Dreamcoder – coding harness from the author of Mastering Emacs</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#DreamCoder`, `#IDE`, `#developer-tools`, `#Emacs`
+**Tags**: `#developer-tools`, `#IDE`, `#programming`, `#emacs`, `#productivity`
 
 ---
 
-<a id="item-48"></a>
-## [DNS Stamps Propose Cryptographic DNS Response Authentication](https://dnscrypt.info/stamps-specifications/) ⭐️ 6.0/10
-
-A specification has been published for DNS Stamps, a proposed standard for cryptographically authenticating DNS responses. The available news item does not provide the specification’s detailed mechanisms, implementation status, or adoption plans. Cryptographic authentication could help DNS clients verify the origin and integrity of responses, potentially strengthening trust in DNS infrastructure. A shared specification could also improve interoperability among DNS resolvers, software implementations, and privacy-focused services, although its practical impact depends on adoption. DNS Stamps are presented as a proposed mechanism rather than an established internet standard. The supplied content links only to a discussion page and provides no technical details, deployment data, or implementation guidance.
-
-rss · Lobsters \(技术社区\) · Nov 21, 00:16
-
-**Background**: The Domain Name System is a hierarchical and distributed naming system whose servers return records mapping human-readable domain names to information such as IP addresses. DNSSEC adds cryptographic signatures to DNS records to authenticate their origin and detect changes. DNS Stamps appear intended to address cryptographic authentication of DNS responses within a broader ecosystem that also includes privacy-focused and encrypted-DNS services.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Domain_Name_System">Domain Name System - Wikipedia</a></li>
-<li><a href="https://www.cloudflare.com/learning/dns/what-is-dns/">What is DNS ? | Learning Center - Cloudflare</a></li>
-<li><a href="https://one.one.one.one/help/">1.1.1.1 — One of the Internet’s Fastest, Privacy -First DNS Resolver</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#DNS`, `#DNSSEC`, `#cryptography`, `#internet standards`, `#privacy`
-
----
-
-<a id="item-49"></a>
-## [llm-gemini 0.38.1 Adds xhigh Support for Gemini 4](https://simonwillison.net/2026/Nov/20/llm-gemini/) ⭐️ 6.0/10
-
-Version 0.38.1 of Simon Willison&\#x27;s llm-gemini plugin fixes support for the xhigh reasoning level in Gemini 4 Hydrogen and Gemini 4 Neon. A comparison showed that Hydrogen at xhigh used 31,477 output tokens and cost 23.61 cents, compared with 5,311 tokens and 3.99 cents at high. The patch allows developers using the plugin to access the extra reasoning setting offered by Hydrogen and Neon, while Carbon remains limited to low, medium, and high. The comparison highlights a major cost-quality tradeoff, since xhigh can produce more competitive results but sharply increase token usage and expense. Gemini 4 Carbon does not support xhigh, whereas Gemini 4 Hydrogen and Gemini 4 Neon do. In the pelican-on-a-bicycle example, Hydrogen at high completed in 19 seconds and cost 3.99 cents, while xhigh took 2 minutes 36 seconds and cost 23.61 cents; the pictured output at xhigh was more competitive with Neon.
-
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 20, 03:01
-
-**Background**: The llm-gemini plugin is an extension for Simon Willison&\#x27;s llm command-line tool that provides access to Google&\#x27;s Gemini models. Gemini 4 reasoning effort can be adjusted through settings such as low, medium, high, and, for certain models, xhigh, which encourages more extensive internal reasoning before producing an answer.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/simonw/llm">GitHub - simonw/ llm : Access large language models from the...</a></li>
-<li><a href="https://openrouter.ai/google/gemini-4-neon">Gemini 4 Neon - API Pricing &amp; Benchmarks | OpenRouter</a></li>
-<li><a href="https://simonwillison.net/">Simon Willison ’s Weblog</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#Gemini`, `#reasoning-models`, `#developer-tools`, `#cost-optimization`
-
----
-
-<a id="item-50"></a>
-## [ChatPRD Halts Free Trials After Token Fraud Surge](https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/) ⭐️ 6.0/10
-
-ChatPRD founder Claire Vo reports that users are farming free trials and promotional codes, reselling access, and using the AI agent to operate commercial services. She is winding down the platform&\#x27;s free trials in response to losses that reportedly reached tens of thousands of dollars and consumed substantial engineering time. The case illustrates how free-trial economics and promotional-code systems can be exploited at AI products whose inference costs are variable and potentially substantial. It also highlights the operational burden that abuse detection, identity controls, and anti-fraud measures can create for small AI startups. Reported abuse patterns include farming multiple free trials, reselling promotional codes, relaying requests through intermediaries, and installing a custom MCP that functioned as a continuous compute worker. One fraud ring allegedly used ChatPRD to create Roblox and Fortnite maps, while recurring prompts featuring pelicans on bicycles may have helped identify the underlying model family.
-
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 20, 02:49
-
-**Background**: ChatPRD is an AI platform for product managers that turns product ideas into specifications and has been available since the GPT-4 era. Token fraud here means abusing access entitlements rather than stealing payment credentials, enabling users to consume subsidized inference without paying. The reported techniques resemble standard promotion abuse but are more damaging when an AI agent can perform substantial commercial work.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight">How I AI : Fable 5.2 Review + Building a Claude Code family OS + How...</a></li>
-<li><a href="https://www.youtube.com/watch?v=ZDpP7JXPlhc">How I fight token fraud as an AI founder - YouTube</a></li>
-<li><a href="https://www.chatprd.ai/pricing">Pricing — ChatPRD | AI Platform for Product Managers</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI security`, `#token fraud`, `#free-trial abuse`, `#AI agents`, `#SaaS economics`
-
----
-
-<a id="item-51"></a>
-## [An Actor Licenses His Face to an AI Microdrama Startup](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) ⭐️ 6.0/10
-
-An actor licensed his facial likeness to a microdrama startup that uses AI-generated content, extending a licensing model already popular in China. The arrangement signals that digital-likeness rights may become a routine transaction in Hollywood entertainment. If the model spreads, performers could earn compensation without appearing in every production, while studios could scale synthetic actors and characters. It could also reshape Hollywood labor negotiations, consent standards, and questions about authenticity, disclosure, and performers&\#x27; control over digital replicas. The reported deal concerns an actor&\#x27;s face rather than a general endorsement, illustrating how likeness rights can be licensed for AI-produced entertainment. SAG-AFTRA&\#x27;s 2023 agreement with major Hollywood studios prohibits digital replicas without consent, while the union sought stronger AI protections in later contract negotiations.
-
-rss · TechCrunch AI · Nov 21, 16:00
-
-**Background**: Microdramas are short-form episodic productions, and Chinese creators have increasingly used AI to reduce dependence on actors, writers, and production crews. Digital likeness licensing allows a performer to authorize a company to reproduce their face digitally, potentially for content generated without a conventional on-set performance. Hollywood has already experimented with generative AI, making consent and the scope of replica rights central labor issues.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.businessinsider.com/actors-sexualized-fake-ads-promote-micro-dramas-tiktok-meta-2026-5">Actors Call Out Promos With Fake Sex Scenes... - Business Insider</a></li>
-<li><a href="https://www.vulture.com/article/generative-ai-hollywood-movies-tv.html">Hollywood Already Uses Generative AI (And Is Hiding It)</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Generative AI`, `#Digital Likeness`, `#Hollywood`, `#Content Licensing`, `#AI Ethics`
-
----
-
-<a id="item-52"></a>
+<a id="item-33"></a>
 ## [Apple Reportedly Developing a Mac-Operating AI Agent](https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/) ⭐️ 6.0/10
 
-Apple appears to be developing an AI agent capable of operating a Mac. The reported project would compete with agent platforms including Meta Muse, Instinct, Claude, and OpenAI Dots. A Mac-focused agent could turn Apple&\#x27;s existing hardware, macOS, and integrated applications into a more unified AI platform. It would also place Apple in a broader race against companies developing agents that perform extended tasks rather than merely answer individual queries. The available report provides no confirmed project name, release date, technical architecture, or specific list of Mac tasks the agent could perform. It is therefore best treated as a product rumor rather than an announced Apple feature.
+Apple reportedly appears to be developing autonomous AI agents capable of operating a Mac and competing with consumer assistants such as Meta Muse, Claude, and OpenAI Dots. The report remains unconfirmed and provides few technical specifics. A Mac-running agent could turn Apple&\#x27;s desktop operating system into an automation platform for long-running, multi-step tasks, potentially deepening the company&\#x27;s hardware-software integration. It would also place Apple in a fast-growing market of proactive and always-on personal AI assistants. The available report does not disclose a product name, release date, underlying models, system permissions, privacy architecture, or supported tasks. Comparable agents can organize files and interact with device apps, while agent training or evaluation at scale may require many continuously running desktop sessions.
 
 rss · TechCrunch AI · Nov 20, 00:56
 
-**Background**: AI agents differ from conventional chatbots by using software tools to carry out tasks on a user&\#x27;s behalf, potentially over longer periods. Meta describes Muse as a personal agent for long-running tasks, while its documentation says it operates in a dedicated secure virtual machine and checks with users before important actions such as sending email or making purchases.
+**Background**: Unlike a chatbot that answers a single request, an agent can carry out extended tasks by interacting with applications through files, messages, calendars, and other interfaces. Meta describes Muse as a personal agent for long-running work, while OpenAI&\#x27;s Dots is positioned as an always-on assistant that continues handling complex projects and everyday tasks. Such systems shift AI products from conversational tools toward autonomous computer use.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.apple.com/">Apple</a></li>
-<li><a href="https://ai.meta.com/muse/">Muse : Meta &#x27;s personal AI agent , features &amp; capabilities</a></li>
-<li><a href="https://muse.ai/">Muse — Your Personal AI Agent from Meta</a></li>
+<li><a href="https://ai.meta.com/muse/">Muse: Meta&#x27;s personal AI agent, features &amp; capabilities</a></li>
+<li><a href="https://ai.meta.com/muse/download/">Download Muse: Free AI Agent for Mac &amp; Mobile | AI at Meta</a></li>
+<li><a href="https://topkhoj.com/openai-anthropic-buying-mac-mini-mac-studio-ai-shortage/">OpenAI &amp; Anthropic Mac Buying Spree Causes Severe Desktop...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Apple`, `#AI Agents`, `#macOS`, `#Artificial Intelligence`, `#Product Rumors`
+**Tags**: `#Apple`, `#AI Agents`, `#macOS`, `#Consumer AI`, `#Automation`
 
 ---
 
-<a id="item-53"></a>
-## [Starshield Disruptions in Ukraine Threaten SpaceX Military Business](https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/) ⭐️ 6.0/10
+<a id="item-34"></a>
+## [Race Realism Misuses Genetics to Claim Innate Intelligence Differences](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) ⭐️ 6.0/10
 
-Ukrainian forces experienced disruptions to Starshield and Starlink communications from October 13 to October 24, 2026, including reports of speed limits affecting battlefield operations and air-defense activities. Ukrainian officials reported that Starshield service had returned to normal by October 24. Starshield is important to SpaceX&\#x27;s defense business because it applies secure satellite communications to government and military missions, and disruptions in Ukraine raise questions about reliability and control. The controversy could also lead to greater political scrutiny, tighter oversight, or pressure on SpaceX&\#x27;s broader military contracts. The reported restrictions ran from October 13 through October 24, 2026, before Ukrainian officials said the service was back to normal; U.S. lawmakers later called for the preservation of related documents. The available results do not establish who imposed the restrictions or how they were technically implemented.
+The article argues that modern genetics does not support the claim that intelligence differences are innate and biologically determined by race. It challenges “race realism” as both scientifically unsupported and methodologically unsound. Claims linking race, genetics, and intelligence can influence public policy, education, medicine, and attitudes toward social inequality. Rejecting biologically deterministic racial explanations is therefore important for interpreting genetic evidence accurately and preventing discrimination. Human genetic variation is largely continuous within local populations, with more variation within conventionally defined racial groups than between them; traits often vary gradually across geography rather than forming discrete racial boundaries. Intelligence heritability estimates are sensitive to environmental conditions and study design, and they do not by themselves identify innate causes or establish racial differences in genetic causation.
 
-rss · Ars Technica · Nov 20, 22:16
+rss · Ars Technica · Nov 21, 12:01
 
-**Background**: Starshield is SpaceX&\#x27;s secure satellite network for government, defense, and intelligence users, building on the satellite-communications infrastructure associated with Starlink. Ukraine relies on commercial satellite connectivity for battlefield communications, while speed and availability can affect operational planning and air-defense coordination.
+**Background**: Race is a social categorization based partly on shared physical traits and historical context, not a set of discrete biological lineages. Population genomics finds that ancestry and genetic variation are structured, but the associated variation is clinal, meaning it often changes gradually rather than falling into sharp group boundaries. Heritability describes how much variation in a trait is associated with genetic differences within a particular population and environment; it does not show that a trait is immutable or that differences between social groups are genetic in origin.
 
-**Tags**: `#SpaceX`, `#Starshield`, `#military technology`, `#Ukraine`, `#space industry`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.livinganthropologically.com/human-story/human-variation/">Why Humans Look Different... and are 99.9% Genetically Identical</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5479093/">Effect of environmental factors on intelligence quotient of ...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12416016/">The Genetics of Intelligence - PMC</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#genetics`, `#race`, `#intelligence`, `#scientific-method`, `#sociobiology`
 
 ---
 
-<a id="item-54"></a>
-## [Webb Captures a Supergiant Swallowing a Smaller Star](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/) ⭐️ 6.0/10
+<a id="item-35"></a>
+## [FCC Preempts California’s Landline Service Rules for AT&amp;T](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) ⭐️ 6.0/10
 
-Astronomers used James Webb Space Telescope observations and modeling to confirm that a smaller Sun-like star spiraled into a supergiant in the Andromeda galaxy over about seven years. The engulfed star brightened before the system ultimately exploded as a supernova. This unusually direct observation captures a supergiant gaining a companion, providing rare insight into common-envelope evolution and how massive binaries can end in supernovae. It may also improve astronomers’ ability to identify similar eruptions before they occur. The merger occurred in the Andromeda galaxy, and the observations constrained the amount of ejected material and the efficiency of common-envelope evolution. The event was nicknamed “Little Bao” and “Big Bao,” following its official designation AT 2025abao.
+The FCC ordered California to stop enforcing state rules that require AT&amp;T to continue offering traditional home phone service. The ruling displaces a key part of California’s regulatory framework for AT&amp;T landline customers. The decision could allow AT&amp;T to discontinue or narrow traditional landline service in California, affecting households that depend on it. It also highlights the FCC’s authority to preempt state telecommunications laws and may influence similar regulatory disputes over legacy phone services. California had required AT&amp;T to maintain landline service, while AT&amp;T had asked the California Public Utilities Commission to remove its designation as a Carrier of Last Resort. The FCC’s preemption would prevent California from enforcing that obligation, although the supplied report does not provide the order’s effective date, legal rationale, or immediate implementation timetable.
+
+rss · Ars Technica · Nov 20, 22:28
+
+**Background**: A Carrier of Last Resort is obligated to provide basic telephone service to customers in its service area who need it. AT&amp;T sought to end that role in California, arguing that its landline obligations should be reduced, but the California Public Utilities Commission had rejected the request. The Telecommunications Act of 1996 established the federal framework for interstate and intrastate telecommunications, and the FCC can preempt conflicting state rules when Congress has delegated that authority.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R46736/R46736.6.pdf">Stepping In: The FCC s Authority to Preempt State Laws Under ...</a></li>
+<li><a href="https://abc7.com/post/atts-proposal-to-end-landline-service-in-california-draws-support-and-opposition/14546708/">AT &amp; T &#x27;s proposal to phase out landline service in California draws...</a></li>
+<li><a href="https://www.fcc.gov/general/telecommunications-act-1996">Telecommunications Act of 1996 | Federal Communications ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#FCC`, `#telecom regulation`, `#California`, `#AT&amp;T`, `#landline service`
+
+---
+
+<a id="item-36"></a>
+## [Google Search Redesign Adds AI History, Removes Search Button](https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/) ⭐️ 6.0/10
+
+Google is rolling out a redesigned Search homepage that makes AI features more prominent, including recent AI-search history in a sidebar. The traditional Search button is being removed from the new layout. The redesign signals that Google Search is shifting from a simple query-entry interface toward an AI-assisted discovery experience. It could affect how users interact with search, revisit past AI queries, and encounter generative-AI answers. The new sidebar provides access to recent AI searches, while Google AI Mode generates AI-powered responses with links to web sources. The report is brief and does not provide technical implementation details, rollout scope, or a stated replacement for the removed button.
+
+rss · Ars Technica · Nov 20, 21:58
+
+**Background**: Google AI Mode turns Search into an answer-oriented experience by using generative AI to produce direct responses to queries. Google also offers AI Overviews, which combine AI-generated responses with links for further exploration. The redesign brings recent AI-search activity and these conversational capabilities more prominently into the standard Search homepage.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://search.google/ways-to-search/ai-overviews/">Google AI Overviews - Search anything, effortlessly</a></li>
+<li><a href="https://gemini.google.com/app">Google Gemini</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Google Search`, `#Generative AI`, `#Product Redesign`, `#AI Search`, `#User Interface`
+
+---
+
+<a id="item-37"></a>
+## [Webb Captures a Star Spiraling Into Its Giant Companion](https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/) ⭐️ 6.0/10
+
+Astronomers used Webb observations to reconstruct a roughly Sun-like star spiraling into a bloated supergiant in the Andromeda galaxy over about seven years. The infalling star produced a brightening before the system ended in a stellar merger and explosion. This provides a rare, time-resolved view of a common-envelope merger, showing how orbital energy can drive a companion through a giant star&\#x27;s envelope. The observations constrain energetic and mass-transfer processes that help determine how massive binaries explode and form compact remnants. The event occurred in Andromeda, and modeling indicated that the smaller companion completed the inward spiral in only about seven orbits. Webb data revealed the infalling star&\#x27;s dusty aftermath and provided constraints on the mass ejected and the efficiency of common-envelope evolution.
 
 rss · Ars Technica · Nov 20, 20:41
 
-**Background**: A binary star contains two stars bound in orbit around one another. When the smaller star enters the larger star’s extended outer layers, both can become enclosed in shared gas, a phase called common-envelope evolution. If the companion is swallowed and the merged or disrupted system later explodes, astronomers can use the event to study the exchange of mass and energy in close stellar mergers.
+**Background**: A common envelope forms when one star expands and engulfs a companion, producing a shared gaseous envelope around both stars. Drag from this envelope can cause the companion to spiral inward and release orbital energy that helps eject the envelope. In some massive systems, this interaction culminates in a merger and a supernova-like explosion.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao">Two stars in the Andromeda galaxy merged before astronomers ’ eyes</a></li>
+<li><a href="https://www.nature.com/articles/s41586-026-11221-z">An inspiral of a star inside a common envelope with its giant ...</a></li>
 <li><a href="https://phys.org/news/2026-11-webb-kind-merger-supergiant-smaller.html">Webb confirms first-of-its-kind merger of a supergiant and smaller...</a></li>
-<li><a href="https://www.abc.net.au/news/science/2026-11-19/scientists-watch-red-giant-star-eat-another-the-size-of-our-sun/107394074">First time giant star &#x27;caught in the act&#x27; of eating its neighbour - AB...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#astronomy`, `#stellar evolution`, `#binary stars`, `#supernova`
+**Tags**: `#astronomy`, `#stellar evolution`, `#binary stars`, `#supernova`, `#observational astrophysics`
 
 ---
 
-<a id="item-55"></a>
-## [Prison Phone Jamming Could Disrupt Networks 2.5 Miles Away](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/) ⭐️ 6.0/10
+<a id="item-38"></a>
+## [Prison Phone Jamming Interferes With Service 2.5 Miles Away](https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/) ⭐️ 6.0/10
 
-CTIA reported that authorized prison tests of contraband-phone jamming produced cellular interference as far as 2.5 miles away. The findings suggest that the technology can affect legitimate mobile users well beyond a prison’s perimeter. Jamming can help prisons block illicit communications, but interference beyond prison grounds may disrupt emergency calls, business operations, and residents’ cellular service. Regulators therefore face a difficult trade-off between prison security, lawful communications, and network reliability. The reported interference extended up to 2.5 miles during authorized tests, although the available excerpt provides no test duration, technical configuration, or severity of service degradation. Earlier coverage said the FCC had allowed state prisons and jails to use jamming after federal facilities already had such authority.
+CTIA reported that an authorized prison phone-jamming test disrupted legitimate cellular service as far as 2.5 miles from the jamming equipment. The findings add practical evidence to the FCC&\#x27;s proposed rules for prisons seeking permission to block contraband phones. The FCC is considering prison-specific authorization to jam contraband phones, but the reported reach of the interference could also disrupt legitimate users, including emergency communications. CTIA is therefore asking the FCC to strengthen safeguards in the proposed rules. The interference was measured as far as 2.5 miles away during a test of jamming technology from vendor TalkTelio. Search results indicate that CTIA also raised concerns about disrupted wireless traffic and the potential impact on 911 calls and emergency alerts, although the available report provides few additional technical or legal details.
 
 rss · Ars Technica · Nov 20, 19:52
 
-**Background**: Prisons have used signal jamming to prevent inmates from communicating with accomplices through contraband phones. Because jamming radio signals can affect nearby cellular networks rather than only the targeted device, prisons and wireless carriers have worked to limit disruption to legitimate users.
+**Background**: Jammers work by transmitting radio signals that disrupt wireless communications and reduce the signal-to-noise ratio. Although broad phone jamming is generally illegal in the United States, prisons have sought FCC authorization for controlled systems intended to prevent inmates from using contraband phones. CTIA represents the wireless industry and has asked the FCC to add stronger protections because authorized systems may affect lawful cellular traffic beyond prison boundaries.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://hightechforum.org/prison-phone-jamming/">Prison Phone Jamming - High Tech Forum</a></li>
-<li><a href="https://www.oann.com/newsroom/fcc-approves-cellphone-signal-jamming-in-state-prisons-and-jails/">FCC approves cellphone signal jamming in state prisons and jails</a></li>
-<li><a href="https://www.nbcnews.com/news/us-news/fcc-gives-state-prisons-go-ahead-jam-signals-contraband-cellphones-rcna610228">FCC gives state prisons the go-ahead to jam signals from contraband ...</a></li>
+<li><a href="https://communicationsdaily.com/news/2026/09/29/CTIA-Discusses-PrisonJamming-Report-With-FCC-Staff-2609280052">CTIA Discusses Prison-Jamming Report With FCC Staff</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Radio_jamming">Radio jamming - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#wireless-communications`, `#prison-technology`, `#cell-tower-jamming`, `#surveillance`, `#policy`
+**Tags**: `#wireless-communications`, `#cell-network-jamming`, `#prisons`, `#telecom-policy`, `#RF-interference`
 
 ---
 
-<a id="item-56"></a>
-## [FAA Ground Stop Raises Questions About Airspace Modernization](https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/) ⭐️ 6.0/10
+<a id="item-39"></a>
+## [Army Delays Hazardous Lead Azide Detonation After Plume Modeling](https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/) ⭐️ 6.0/10
 
-A former FAA insider is expected to discuss the systemic risks of modernizing the decades-old U.S. national airspace network following a nationwide ground stop. The discussion focuses on reforms that could prevent similar technology-related disruptions. The FAA&\#x27;s national airspace system is critical infrastructure, so extended outages can affect commercial flights, air traffic control, and passengers across the United States. Modernization could reduce these risks, but failures during the transition could also magnify disruptions. The available report provides no confirmed root cause, affected date, technical component, or specific modernization proposal. Its principal value is an insider perspective on managing the risks of upgrading an aging, interconnected airspace network without creating emergency ground stops.
+The U.S. Army delayed detonating a stockpile of highly toxic lead azide after modeling indicated that an accidental blast could disperse a neurotoxic lead plume as far as 100 miles away. The delay leaves the Army searching for a safer response to a munitions-cleanup problem that may already have been known since March 2026. A controlled detonation could have exposed nearby communities to catastrophic contamination and unclear consequences. The episode raises broader questions about contractor oversight, deferred maintenance, and whether the military’s cleanup options have become increasingly constrained over time. Lead azide is an unstable explosive commonly used in detonators, and friction, impact, heat, or sensitization by certain materials can trigger explosive decomposition. Fire can also generate irritating, corrosive, or toxic gases, so both blast and post-blast contamination risks must be considered.
 
-rss · Ars Technica · Nov 20, 14:52
+rss · Ars Technica · Nov 20, 19:21
 
-**Background**: The Federal Aviation Administration oversees civil aviation and operates the National Airspace System, including air traffic control functions. The FAA also certifies personnel and aircraft and sets airport standards, making system reliability a public-safety and economic concern. A nationwide ground stop grounds aircraft across a broad area, while modernization may involve replacing or integrating aging communications, navigation, surveillance, and automation infrastructure.
+**Background**: Lead\(II\) azide, written as Pb\(N₃\)₂, is used to initiate secondary explosives in detonators. NOAA notes that it may decompose explosively when dry if shocked, heated, or exposed to friction, while published dispersion studies examine how particles from detonated military munitions can spread across soil surfaces. In this case, modeling suggests that an accidental detonation of the stockpile could create a much larger and more hazardous plume.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Federal_Aviation_Administration">Federal Aviation Administration - Wikipedia</a></li>
-<li><a href="https://nasstatus.faa.gov/">Federal Aviation Administration - National Airspace System</a></li>
+<li><a href="https://cameochemicals.noaa.gov/chemical/11731">LEAD AZIDE | CAMEO Chemicals | NOAA</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lead%28II%29_azide">Lead (II) azide - Wikipedia</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/26050065/">Explosive particle soil surface dispersion model for ... - PubMed</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FAA`, `#aviation safety`, `#infrastructure modernization`, `#airspace systems`, `#critical infrastructure`
+**Discussion**: Commenters expressed anger and frustration over what they saw as decades of deferred responsibility, contractor mismanagement, and the absence of consequences for responsible institutions. Some argued that moving the unstable material could be more dangerous than leaving it in place for controlled destruction, while others questioned why a March 2026 discovery appeared alongside earlier, separate neutralization work and called for greater accountability.
+
+**Tags**: `#environmental safety`, `#lead azide`, `#munitions cleanup`, `#toxic contamination`, `#public health`
 
 ---
 
-<a id="item-57"></a>
-## [SpaceX Bondholders Want Chip Collateral Kept on Earth](https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/) ⭐️ 6.0/10
+<a id="item-40"></a>
+## [Seminole Tribe Challenges DraftKings Over Florida Gambling Rights](https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/) ⭐️ 6.0/10
 
-SpaceX bondholders want the company’s chip collateral kept on Earth and readily accessible. Their concern is that Elon Musk could launch the collateral into space, making it harder to recover if the company defaults. The dispute highlights an unusual conflict between a borrower’s freedom to use financed assets and lenders’ need to preserve recoverable collateral. It also points to the growing use of semiconductor hardware as collateral in large-scale artificial-intelligence infrastructure financing. Chips used as loan collateral are generally expected to remain recoverable and resalable if the borrower defaults, so removing them from Earth could weaken lenders’ recovery position. The report provides little detail about the exact indenture terms, the collateral involved, or whether SpaceX has agreed to any operational restrictions.
+Florida’s Seminole Tribe is seeking to halt DraftKings’ online gambling offering in a state where the tribe holds exclusive authority to provide sports betting and other gaming services. The dispute concerns whether DraftKings’ Florida product complies with the state’s tribal-state gaming compact. The case could determine how Florida’s exclusive tribal gaming rights apply to commercial operators and newer prediction-market or wagering products. Its outcome may affect DraftKings’ Florida strategy and the broader regulatory treatment of online gambling in the state. The Seminole Tribe and Florida finalized a 30-year gaming compact in 2021 that authorized mobile sports betting under the tribe’s exclusive control. A 2024 Department of the Interior rule reinforced that remote-wagering provisions must directly relate to gaming activities on tribal lands, while commentary about the dispute focuses on whether a DraftKings product could be characterized as a financial exchange rather than gambling.
 
-rss · Ars Technica · Nov 20, 14:15
+rss · Ars Technica · Nov 20, 12:30
 
-**Background**: SpaceX bonds priced by Goldman Sachs and Apollo Global Management reportedly combined features of corporate bonds and asset-backed securities. In chip-backed financing structures, lenders can seize and resell the hardware after a borrower defaults, a protection that lowers borrowing costs. Keeping that collateral accessible is therefore central to evaluating the bonds’ credit risk.
+**Background**: Under the Indian Gaming Regulatory Act, recognized tribes may operate certain gaming activities through compacts approved by the state and the federal government. Florida’s agreement with the Seminole Tribe gives the tribe exclusive control over sports betting, making competing private offerings a central legal question. DraftKings has separately pursued a Florida prediction-market offering, creating an additional test of how regulators and courts interpret the compact.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly">Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds ... - Bloomberg</a></li>
-<li><a href="https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/">Chips can survive the space environment — can their... | TechCrunch</a></li>
+<li><a href="https://gambity.com/article/intelligence/draftkings-predictions-expands-into-florida-amid-hard-rock-deal-analiz">DraftKings Predictions expands into Florida amid Hard... — Gambity</a></li>
+<li><a href="https://finance.yahoo.com/economy/policy/articles/could-prediction-market-offerings-put-213828412.html">Could prediction market offerings put Florida ’s gaming compact with...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#SpaceX`, `#Elon Musk`, `#semiconductors`, `#corporate finance`, `#space launch`
+**Tags**: `#online gambling`, `#DraftKings`, `#Seminole Tribe`, `#Florida`, `#gaming regulation`
 
 ---
 
-<a id="item-58"></a>
-## [TP-Link Still Barred From Selling Latest Routers in US](https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/) ⭐️ 6.0/10
+<a id="item-41"></a>
+## [Trump Administration Blocks TP-Link’s Latest U.S. Router Sales](https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/) ⭐️ 6.0/10
 
-The Trump administration continues to block TP-Link from selling its latest routers in the United States. The restriction extends government scrutiny of networking-device manufacturers. The continued restriction may affect TP-Link&\#x27;s US market access and could disrupt the supply of routers for consumers and businesses. It also illustrates the growing use of national-security and supply-chain concerns to govern technology products. The available article summary does not identify the specific federal authority, legal mechanism, affected router models, or effective date of the continued block. Search results also show conflicting estimates of TP-Link&\#x27;s US router market share, ranging from about 12 percent claimed by the company to 65 percent reported by other outlets.
+The Trump administration continues to block TP-Link from selling its latest routers in the United States. The restriction reflects the government’s growing influence over whether consumer-device manufacturers can access the U.S. market. The sales restriction could limit American consumers’ access to TP-Link products and give regulators leverage over other device makers. It also raises broader questions about national-security reviews, supply-chain concerns, and government intervention in consumer technology markets. Reported U.S. restrictions on foreign-made Wi-Fi routers focus on new equipment sold in the country and do not automatically require owners to discard routers they already own. TP-Link has faced scrutiny over alleged cybersecurity weaknesses and connections to China, although experts note that security flaws also exist among other router vendors.
 
 rss · Ars Technica · Nov 20, 12:00
 
-**Background**: TP-Link is a Shenzhen-founded networking and smart-home equipment company whose products include Wi-Fi routers sold in the United States. Government scrutiny of such devices has focused on whether foreign-manufactured networking equipment could create national-security or supply-chain risks. No community comments were provided for this item.
+**Background**: The U.S. government has used device authorization and national-security reviews to restrict foreign-made networking equipment sold in the country. TP-Link is a major router manufacturer whose products have faced criticism over vulnerabilities associated with botnets and concerns about Chinese government access, but the government’s authority to bar specific models highlights the role of procurement and market-access rules in cybersecurity policy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.independent.co.uk/news/world/americas/us-ban-internet-router-tp-link-amazon-b2675367.html">U.S. is considering a ban on an internet router ... | The Independent</a></li>
-<li><a href="https://en.wikipedia.org/wiki/TP-Link">TP - Link - Wikipedia</a></li>
-<li><a href="https://www.tp-link.com/us/">TP-Link : Your Smart Home, Simplified</a></li>
+<li><a href="https://www.pcmag.com/explainers/fcc-foreign-made-router-ban-is-your-tp-link-asus-hardware-safe">The FCC&#x27;s Foreign-Made Router Ban: Is Your TP-Link or Asus ...</a></li>
+<li><a href="https://www.smarthomeperfected.com/is-tp-link-safe/">Is TP-Link Safe? The Router Ban and China Ties Explained</a></li>
+<li><a href="https://bharti.com.np/should-you-replace-your-tp-link-router-we-asked-4-cybersecurity-experts-to-weigh-in/">Should You Replace Your TP - Link Router ? We Asked... | Bharti Digital</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#TP-Link`, `#technology policy`, `#networking`, `#cybersecurity`, `#supply chain`
+**Tags**: `#TP-Link`, `#Router Security`, `#Tech Policy`, `#US Regulations`, `#Consumer Networking`
 
 ---
 
-<a id="item-59"></a>
-## [Researchers Pursue Brain Preservation Beyond Death](https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/) ⭐️ 6.0/10
+<a id="item-42"></a>
+## [FBI and USDA Reportedly Targeted in Separate Cyberattacks](https://www.theverge.com/tech/1039543/fbi-usda-hacked) ⭐️ 6.0/10
 
-MIT Technology Review’s The Download highlights researchers seeking to preserve a person’s sense of self by keeping brain activity possible beyond death. The feature presents brain preservation as a developing effort rather than a demonstrated route to immortality. The research raises the possibility that future medicine could preserve or recreate aspects of a person’s mind after death. It also raises unresolved questions about whether preserving neural function would truly preserve identity and consciousness. The available excerpt does not name the featured researchers, describe their methods, or present evidence of a major technical breakthrough. Related approaches include cryonics, which stores people at very low temperatures for possible future revival, and hypothetical whole-brain emulation or mind uploading; mainstream scientists generally regard cryonics skeptically, and mind uploading remains speculative.
-
-rss · MIT Technology Review · Nov 20, 13:10
-
-**Background**: Brain preservation aims to maintain the physical or computational substrate of a mind so that it might continue functioning in the future. Cryonics freezes a person after death in the hope that later technology could revive them, while mind uploading would create a digital replica of the brain’s structure and activity. Neither preserving or simulating neural activity automatically resolves whether subjective consciousness and personal identity would survive.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.m.wikipedia.org/wiki/Cryonics">Cryonics - Wikipedia</a></li>
-<li><a href="https://cryonics.org/">The Cryonics Institute – A Second Chance at Life</a></li>
-<li><a href="https://www.britannica.com/science/cryonics">Cryonics | Description, Process, Popularization, &amp; Facts |...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#brain preservation`, `#consciousness`, `#life extension`, `#neurotechnology`
-
----
-
-<a id="item-60"></a>
-## [FBI and USDA Reportedly Hacked](https://www.theverge.com/tech/1039543/fbi-usda-hacked) ⭐️ 6.0/10
-
-The US Department of Agriculture and the FBI were reportedly hacked, with the FBI incident reportedly targeting its National Crime Information Center. The FBI breach is described as the agency&\#x27;s second reported compromise in several months. Compromises involving law-enforcement and federal systems could expose sensitive operational data and undermine confidence in the security of critical government infrastructure. The repeated FBI incidents may also prompt tighter cybersecurity controls and closer scrutiny of federal systems. The available report identifies the FBI&\#x27;s National Crime Information Center as the target but provides little information about the attack method, affected data, or whether sensitive information was accessed. The excerpt also does not specify technical details of the reported USDA compromise, so the full scope of both incidents remains unclear.
+The FBI and the U.S. Department of Agriculture were reportedly targeted in separate cyberattacks. The FBI incident reportedly affected the National Crime Information Center, while the available report provides limited details about the USDA breach. 针对FBI犯罪信息系统的入侵可能影响依赖NCIC记录的联邦、州和地方执法机构。农业部另行遭入侵，也引发了外界对负责农业及行政敏感数据的联邦机构网络安全的担忧。 The FBI breach was described as the agency’s second reported attack in a few months, with NCIC identified as the target. The available excerpt does not establish the attack method, whether data was accessed or altered, the scope of the USDA intrusion, or whether either incident has been confirmed by the agencies.
 
 rss · The Verge · Nov 21, 17:42
 
-**Background**: The National Crime Information Center is an FBI system used to share and coordinate criminal-investigation information among federal, state, and local law-enforcement agencies. Such systems are sensitive because they may contain records, identifiers, and operational information used across law-enforcement jurisdictions.
+**Background**: The National Crime Information Center is a computerized criminal-justice information system maintained by the FBI and used nationwide by law-enforcement agencies. Its availability and integrity are important because records in the system can support investigations and information sharing across federal, state, and local authorities.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://archives.fbi.gov/archives/news/testimony/the-fbis-national-crime-information-center">FBI — The FBI &#x27;s National Crime Information Center</a></li>
+<li><a href="https://irp.fas.org/agency/doj/fbi/is/ncic.htm">National Crime Information Center ( NCIC ) - FBI Information Systems</a></li>
+<li><a href="https://www.zerohedge.com/technology/fbi-probes-suspected-hack-critical-nationwide-crime-database-cyber-pandemic-fears-mount">FBI Probes Suspected Hack Of Critical Nationwide Crime... | ZeroHedge</a></li>
+
+</ul>
+</details>
 
 **Tags**: `#cybersecurity`, `#government-hacking`, `#FBI`, `#USDA`, `#critical-infrastructure`
 
 ---
 
-<a id="item-61"></a>
-## [Can Anthropic Balance Safety and IPO Pressure?](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure) ⭐️ 6.0/10
+<a id="item-43"></a>
+## [Anthropic’s IPO Raises Questions About AI Safety Governance](https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure) ⭐️ 6.0/10
 
-The Verge’s final podcast episode in its “AI in Real Life” series features senior AI reporter Hayden Field examining Anthropic’s IPO and whether its safety-first commitments can survive public-market pressures. The episode follows Anthropic’s listing on Nasdaq and discusses competition involving OpenAI, Nvidia, and the wider AI market. Anthropic’s Responsible Scaling Policy makes safety governance part of its public identity, while an IPO creates incentives to maximize growth and shareholder value. The episode asks whether those pressures could weaken safeguards or change how the company develops and deploys Claude. The discussion is primarily analytical rather than technical, focusing on governance, incentives, and competitive pressure. Search results also report that Anthropic’s IPO prospectus devoted 80 of 261 pages to risks and warned that advanced AI could create catastrophic or existential risks, although those details are not included in the supplied episode excerpt.
+The Verge’s third and final podcast episode in its “AI in real life” series examines whether Anthropic’s financial and public-market pressures could affect its commitment to AI safety. The discussion also compares Anthropic’s corporate structure with that of OpenAI and Nvidia. Anthropic 是 Claude 背后的 AI 实验室，上市可能改变商业目标、治理机制与安全承诺之间的平衡。此次讨论的核心问题是：对股东的问责是否会削弱旨在防止灾难性 AI 危害的保障措施。 Anthropic created the Long-Term Benefit Trust as part of a governance structure designed to preserve influence over decisions beyond ordinary financial incentives. Its Responsible Scaling Policy is a voluntary framework that says Anthropic will not train or deploy models capable of catastrophic harm without commensurate safety and security measures.
 
 rss · The Verge · Nov 21, 15:00
 
-**Background**: Anthropic develops Claude and uses its Responsible Scaling Policy to manage catastrophic AI risks through capability thresholds, risk assessments, and deployment safeguards. Going public would expose the company to broader investor scrutiny while giving it more capital for AI research and commercialization. Its governance arrangements therefore become important because external shareholders may influence how aggressively Anthropic grows and how faithfully it follows its safety commitments.
+**Background**: Anthropic has publicly framed AI safety as a core part of its mission, including through its Responsible Scaling Policy, first published in September 2023 and updated thereafter. Its Long-Term Benefit Trust was introduced in September 2023 as a governance mechanism intended to give a share-free trust substantial board influence. The episode places those arrangements against the incentives created by Anthropic’s IPO and by competing AI companies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.nytimes.com/2026/09/18/technology/anthropic-ipo-ai-safety.html">Anthropic Pursues IPO Despite Its A.I. Safety Warnings - The New...</a></li>
-<li><a href="https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html">Anthropic says a key AI safety alarm has been triggered, days before...</a></li>
-<li><a href="https://qz.com/nyc-comptroller-anthropic-ipo-shareholder-power-governance-110226">Comptroller Mark Levine says Anthropic IPO strips shareholder power</a></li>
+<li><a href="https://www.anthropic.com/news/the-long-term-benefit-trust">The Long-Term Benefit Trust - Anthropic</a></li>
+<li><a href="https://www.anthropic.com/responsible-scaling-policy">Anthropic’s Responsible Scaling Policy</a></li>
+<li><a href="https://www.anthropic.com/responsible-scaling-policy/rsp-v3-0">Anthropic’s Responsible Scaling Policy (version 3</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Anthropic`, `#AI Safety`, `#IPO`, `#AI Governance`, `#Claude`
+**Tags**: `#Anthropic`, `#AI safety`, `#IPO`, `#AI governance`, `#Claude`
 
 ---
 
-<a id="item-62"></a>
-## [ESA Probe Revisits NASA Planetary Defense Test Asteroids](https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/) ⭐️ 6.0/10
+<a id="item-44"></a>
+## [ESA’s Hera Probe Returns to NASA’s Deflected Asteroid System](https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/) ⭐️ 6.0/10
 
-An ESA probe is returning to the asteroids where NASA previously tested systems intended to deflect dangerous space rocks. The mission will investigate those sites further to improve understanding of potential asteroid hazards. The mission links asteroid exploration with planetary-impact preparedness by studying objects involved in deflection experiments. Its findings could improve techniques for assessing and responding to future near-Earth asteroid hazards. ESA&\#x27;s Hera probe is equipped with three principal imaging tools and is intended to examine the binary asteroid system targeted by the kinetic-impact deflection method. The available material does not provide a specific return date, detailed instrument specifications, or quantified findings.
+ESA’s Hera spacecraft arrived at the Didymos binary asteroid system on November 4 to conduct a close-up investigation. Its mission follows NASA’s 2022 DART impact, which deliberately changed the smaller asteroid’s motion to test kinetic-impact planetary defense. Hera will measure the effects of NASA’s artificial impact, helping scientists determine whether kinetic-impactor technology can reliably alter a hazardous asteroid’s trajectory. The observations could strengthen planetary-defense planning for future near-Earth-object encounters. The target is a binary asteroid system, and NASA’s DART spacecraft struck its smaller member in 2022. Hera’s principal objective is to study the system and contribute to validating the kinetic-impact method; the supplied material does not specify its full instrument suite or planned observation duration.
 
 rss · Wired · Nov 21, 12:00
 
-**Background**: Planetary defense seeks to identify hazardous near-Earth objects and alter the trajectory of an asteroid before it can impact Earth. ESA&\#x27;s Hera mission is designed to collect data on the kinetic-impact method of asteroid deflection and address related scientific questions about its target binary asteroid system.
+**Background**: Planetary defense seeks ways to prevent asteroids from colliding with Earth. NASA’s Double Asteroid Redirection Test was the first mission dedicated to demonstrating an asteroid-deflection method, and Hera is returning to the same Didymos system to investigate the outcome scientifically.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://phys.org/news/2026-11-esa-hera-probe-superhuman-vision.html">ESA &#x27;s Hera probe uses &#x27;superhuman&#x27; vision to inspect...</a></li>
-<li><a href="https://www.youtube.com/watch?v=BvjWVyde5Ns">10 asteroid mysteries that ESA &#x27;s Hera mission will explore - YouTube</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Near-Earth_object">Near-Earth object - Wikipedia</a></li>
+<li><a href="https://www.smithsonianmag.com/smart-news/europes-hera-spacecraft-has-begun-its-close-up-investigation-of-the-asteroid-system-nasa-intentionally-hit-in-2022-180989871/">Europe&#x27;s Hera Spacecraft Has Begun Its Close-Up Investigation ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hera_%28space_mission%29">Hera (space mission) - Wikipedia</a></li>
+<li><a href="https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/">A Space Probe Returns to Asteroids Where NASA Tested ... - WIRED</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#planetary defense`, `#asteroids`, `#space exploration`, `#ESA`, `#NASA`
+**Tags**: `#planetary defense`, `#asteroid exploration`, `#ESA`, `#NASA`, `#space missions`
 
 ---
 
-<a id="item-63"></a>
-## [Teen Founder Targets Lower AI Missile Kill Costs](https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/) ⭐️ 6.0/10
+<a id="item-45"></a>
+## [Internet Archive Staff Win Union Vote](https://www.wired.com/story/internet-archive-staffers-are-unionizing/) ⭐️ 6.0/10
 
-Henrijs Dandzbergs, a 16-year-old who dropped out of high school to join Y Combinator, is developing AI-guided autonomous missiles for the United States and its allies. His startup aims to minimize the cost of each military kill. The project reflects a broader effort to combine AI, autonomous systems, and defense technology while reducing the resources required for military engagements. It also highlights how defense startups are using rapid accelerator-driven development to pursue weapons systems that established contractors may take longer to build. Dandzbergs is pursuing missiles whose guidance is optimized around “cost per kill,” a metric that could combine lower platform expense with greater targeting efficiency. The available profile does not provide the missile’s specifications, autonomy level, human-control model, test results, funding, or operational status.
+A supermajority of eligible Internet Archive employees voted to join the Communications Workers of America. The vote marks a significant step toward union representation for workers at the nonprofit digital library. The vote could give Internet Archive employees greater collective bargaining power and a formal voice in workplace decisions. It is also a notable labor development for a prominent nonprofit responsible for preserving the public web. The Communications Workers of America is the union selected by participating employees. The available report states that a supermajority of eligible workers approved the move, but it does not specify the vote count, bargaining scope, or timing of certification.
+
+rss · Wired · Nov 20, 18:00
+
+**Background**: The Internet Archive is a nonprofit digital library that preserves websites, books, audio, video, and other publicly accessible material. Unionization gives eligible workers a mechanism to negotiate collectively over issues such as compensation, working conditions, and workplace policies.
+
+**Tags**: `#Internet Archive`, `#labor unions`, `#nonprofits`, `#digital preservation`, `#worker organizing`
+
+---
+
+<a id="item-46"></a>
+## [El NiñoFuels Record California Marine Heat Wave](https://www.wired.com/story/el-nino-record-california-marine-heat-wave/) ⭐️ 6.0/10
+
+El Niño is driving a record marine heat wave off California’s coast, with extreme ocean temperatures extending hundreds of meters below the surface. The prolonged heating is contributing to severe storms and abnormally high sea levels. This event shows how El Niño can amplify coastal climate hazards beyond unusual warmth, affecting storms, sea levels, marine ecosystems, and coastal communities. NOAA assessments also identify the prolonged duration of elevated ocean temperatures as a major risk to living marine resources. The heat reaches hundreds of meters below the ocean surface rather than being limited to the surface layer. The report describes the event as part of overlapping warming influences, including El Niño forcing and a pre-existing southern California marine heat wave.
+
+rss · Wired · Nov 20, 10:30
+
+**Background**: El Niño is a recurring climate pattern characterized by unusually warm tropical Pacific waters that can alter atmospheric circulation and influence weather far from the Pacific basin. Marine heat waves are prolonged periods of elevated ocean temperature that can extend from the surface into deeper layers and last from days to years. NOAA notes that warmer oceans can provide favorable conditions for tropical cyclones and contribute to more intense storm impacts.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://opc.ca.gov/marine-heat-wave-el-nino-hub/">Marine Heat Wave &amp; El Niño Hub - California Ocean Protection ...</a></li>
+<li><a href="https://www.integratedecosystemassessment.noaa.gov/regions/california-current/california-current-ocean-assessment-status-takeaways-c-coast">California-Current Ocean Assessment Status Takeaways (C-COAST ...</a></li>
+<li><a href="https://www.nature.com/articles/s43247-024-01806-9">A global overview of marine heatwaves in a changing climate Top Stories Marine Heatwaves : NOAA Physical Sciences Laboratory Marine Heatwaves | National Oceanography Centre In hot water: exploring marine heatwaves - NOAA Research Synergistic impact of marine heat waves and rapid ... - AAAS Marine heatwave events strengthen the intensity of tropical ...</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#El Niño`, `#Marine Heat Wave`, `#Climate Change`, `#California Coast`, `#Extreme Weather`
+
+---
+
+<a id="item-47"></a>
+## [Teen Founder Targets Lower-Cost AI-Guided Missiles](https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare/) ⭐️ 6.0/10
+
+Henrijs Dandzbergs, a 16-year-old who left high school to join Y Combinator, is developing AI-guided missiles for the US and allied militaries. His startup aims to improve the “cost per kill,” the cost-effectiveness metric used to compare the price of a weapon with its expected battlefield effect. AI could help weapons systems identify targets, select engagements, and correct trajectories in response to changing conditions. Reducing missile costs could also increase how many engagements militaries can afford, connecting defense automation with the need to preserve ammunition stocks during prolonged conflicts. The available report does not disclose the missile’s specifications, maturity, flight-test status, production plans, or detailed control model. Public research on AI missile guidance includes real-time target recognition, trajectory correction, and missile-to-missile coordination, but the report does not establish that Dandzbergs’ system implements all of these capabilities.
 
 rss · Wired · Nov 20, 07:00
 
-**Background**: Missile guidance determines how a missile reaches its intended target, and accuracy is a central factor in its effectiveness. AI could assist with target recognition or guidance, but autonomous targeting raises significant technical and ethical questions, especially concerning human supervision and reliable performance in contested environments. Y Combinator is known for accelerating young startups through rapid iteration, which makes Dandzbergs’s participation notable but does not itself establish that the weapons system is technically mature.
+**Background**: AI missile guidance generally uses sensor data and algorithms to recognize or prioritize targets, adjust flight paths, or support coordination among weapons and operators. The “cost per kill” metric captures a broader strategic concern: expensive interceptors can impose major financial burdens when used repeatedly. Such developments also raise unresolved questions about autonomy, human control, reliability, and accountability, although the supplied material does not describe Dandzbergs’ safeguards.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://military-history.fandom.com/wiki/Missile_guidance">Missile guidance | Military Wiki | Fandom</a></li>
-<li><a href="https://www.thesisuncovered.com/p/y-combinators-hard-tech-bet?open=false">Y Combinator ’s “Hard Tech ” Bet: Diana Hu on AI for Science and the...</a></li>
-<li><a href="https://foundersfactory.com/">Founders Factory: Venture Studio and Startup Accelerator</a></li>
+<li><a href="https://www.airforce-technology.com/features/missile-developments-in-the-ai-era/">Missile developments in the AI era - Airforce Technology</a></li>
+<li><a href="https://www.marketsandmarkets.com/ResearchInsight/ai-impact-analysis-rocket-missile-industry.asp">AI Impact Analysis on the Rocket and Missile Industry</a></li>
+<li><a href="https://www.lineofdeparture.army.mil/Journals/Field-Artillery/FA-2024-Issue-1/Enhancing-Tactical-Level-Targeting/">Enhancing Tactical Level Targeting With Artificial Intelligence</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI`, `#Defense Technology`, `#Autonomous Weapons`, `#Startups`, `#Missiles`
+**Tags**: `#AI in defense`, `#Missile technology`, `#Military startups`, `#Y Combinator`, `#Autonomous weapons`
 
 ---
 
-<a id="item-64"></a>
-## [DatabaseMCP Lets Agents Create Remote SQLite Databases](https://databasedmcp.com/) ⭐️ 6.0/10
+<a id="item-48"></a>
+## [Germany&\#x27;s Developer Guide to Structured E-Invoicing APIs](https://dev.to/dominikschroeter/german-e-invoicing-for-developers-xrechnung-and-zugferd-via-rest-api-and-mcp-16dl) ⭐️ 6.0/10
 
-DatabaseMCP is a remote Model Context Protocol service that lets Claude, Claude Code, and other compatible agents create and use multiple SQLite databases with arbitrary schemas. It supports shared agent state, task handoffs, and rapid development of small custom applications backed by SQLite. The project gives agents a persistent, structured store without requiring each application workflow to provision a conventional database backend. This could simplify multi-agent coordination and make conversational application development more practical, although broad adoption and reliability remain unvalidated. Agents can create databases with essentially any schema, record their status and current work, and allow one agent to discover and process work items added by another. The author also uses Claude to generate application interfaces as artifacts, connect those interfaces to MCP tools, and extract structured information from documents.
+The article explains Germany&\#x27;s phased e-invoicing mandates and demonstrates how developers can generate and validate XRechnung and ZUGFeRD documents through a unified REST API and MCP integration. The examples use the author&\#x27;s own MaxRechnung invoicing product, making the article partly promotional. German businesses must already be able to receive electronic invoices, while sending obligations begin for larger businesses in 2027 and extend to most other businesses in 2028. Software providers that create or process invoices for German customers will therefore need structured formats, validation, and integration capabilities. XRechnung is a pure XML format based on EN 16931 and commonly used for public-sector invoices, whereas ZUGFeRD embeds machine-readable XML inside a PDF/A-3 document for human and automated processing; the MINIMUM and BASIC WL profiles are exceptions. Recommended validation tools include the KoSIT validator for XRechnung and Mustang for ZUGFeRD/Factur-X, with common failures involving buyer references, tax identifiers, rounding, payment terms, and UN/ECE Rec. 20 unit codes.
 
-rss · Hacker News \(best\) · Nov 21, 21:04
+rss · Dev.to · Nov 21, 23:32
 
-**Background**: Model Context Protocol is an open standard for connecting AI applications to external tools and systems, including remote servers. SQLite is a lightweight, serverless relational database stored in a single file, making it suitable for small applications and local data workflows. In multi-agent systems, a shared database can act as persistent state or a task queue so agents can discover work without passing every message directly to one another.
+**Background**: Under German rules, an ordinary PDF is not a structured e-invoice because its invoice data cannot be reliably processed as machine-readable information. EN 16931 is the European semantic standard, while XRechnung and ZUGFeRD are practical formats developers will commonly encounter; if a ZUGFeRD PDF and its XML conflict, the XML data is legally decisive, so the original invoice file should be retained for archiving.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
-<li><a href="https://github.com/modelcontextprotocol/servers">GitHub - modelcontextprotocol/ servers : Model Context Protocol ...</a></li>
-<li><a href="https://www.devlinliles.com/your-multi-agent-system-has-a-coordination-problem/">Your Multi - Agent System Has a Coordination Problem</a></li>
+<li><a href="https://www.cleartax.com/de/en/xrechnung-e-invoicing">XRechnung e-Invoicing Format? How to Create, Examples ... XRechnung format - a guide to the German e-invoice format XRechnung: the German e-invoice standard explained XRechnung Germany: Public Sector e-Invoicing in SAP - Fink IT ... XRechnung 3.0.1 Now Mandatory for Federal Invoicing | E ... XRechnung — German B2G E-Invoice Standard Explained XRechnung Format: German E-invoice Standard Explained</a></li>
+<li><a href="https://www.pedif.digital/en/blog/xrechnung-zugferd-peppol-explained">XRechnung vs ZUGFeRD vs Peppol: Differences Explained | PEDIF</a></li>
+<li><a href="https://learn.microsoft.com/en-us/azure/api-management/export-rest-mcp-server">Expose REST API as MCP server - Azure API Management</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#MCP`, `#AI agents`, `#SQLite`, `#Claude Code`, `#Developer tools`
+**Tags**: `#e-invoicing`, `#XRechnung`, `#ZUGFeRD`, `#REST API`, `#MCP`
 
 ---
 
-<a id="item-65"></a>
-## [Mapping the Practical Limits of AI and ML](https://dev.to/amarti/the-honest-limits-of-ai-and-ml-108j) ⭐️ 6.0/10
+<a id="item-49"></a>
+## [Setting Safe Crawl Boundaries for E-commerce Search](https://dev.to/mitchellcross2134/e-commerce-product-search-retrieval-architecture-setting-safe-crawl-boundaries-16d9) ⭐️ 6.0/10
 
-The article organizes AI and machine-learning limitations into five checkable areas: data quality, engineering constraints, trust failures, legal and human constraints, and frontier failures such as hallucination. It distinguishes documented weaknesses from speculation and emphasizes representative data, human oversight, and rigorous verification. This framework offers a practical counterweight to both extreme claims that AI can do everything and sweeping declarations that the technology is already useless. It helps teams identify which failures can be tested and mitigated, rather than treating every limitation as equally speculative or unavoidable. Examples include Amazon&\#x27;s 2015 resume screener, which penalized terms such as “women&\#x27;s,” and a 2016 ProPublica analysis finding that COMPAS wrongly labeled Black defendants as high risk at roughly twice the rate of white defendants. The article also notes that radiologists identified 46 percent of cancers unaided but only 21 percent when a faulty automated aid remained silent, illustrating automation bias, and that EU AI Act penalties can reach €35 million or 7 percent of turnover.
+The article proposes an allowlist-based crawl centered on canonical product and variant records, with explicit revision tracking, validity windows, and live availability checks. It argues that retrieval failures in product search are usually caused by stale or poorly bounded data rather than weak embeddings. Without strict data boundaries, a search system may confidently return discontinued or incompatible products because their text remains semantically similar to the query. Improving embedding quality cannot correct missing revisions, duplicate ingestion, deleted records, or stale stock and pricing data. Every chunk should reference a parent product record and have a validity window, while metadata should include the SKU, variant, locale, and source revision. Idempotency keys such as \`store\_id:sku:revision\`, separate source, fetch, and expiry timestamps, tombstones for deleted HTML records, and transactional lookups for price and stock are recommended.
 
-rss · Dev.to · Nov 21, 21:17
+rss · Dev.to · Nov 21, 23:27
 
-**Background**: Machine-learning systems learn statistical patterns from training data rather than directly experiencing the world, so unrepresentative or imbalanced datasets can produce biased predictions. Overfitting occurs when a model learns training examples too closely and performs poorly on new data, while automation bias makes people defer excessively to automated recommendations. Amazon SageMaker Clarify offers dataset-level bias metrics that are independent of any particular model, and the EU AI Act entered into force on August 1, 2024, with phased requirements and human oversight for high-risk uses.
+**Background**: Semantic search matches products by meaning and context, but meaningful similarity does not guarantee that an item is currently compatible, available, or priced correctly. Retrieval-augmented generation can ground product answers in retrieved source material, although it does not itself define a retail crawl or freshness policy. The article therefore treats crawling, indexing, and inventory integration as one operational pipeline in which boundaries and update behavior matter as much as ranking quality.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Artificial_intelligence">Artificial intelligence - Wikipedia</a></li>
-<li><a href="https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-bias-in-artificial-intelligence-and-in-humans">Tackling bias in artificial intelligence (and in humans) | McKinsey</a></li>
-<li><a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1320277/full">Frontiers | Algorithmic discrimination: examining its types and...</a></li>
+<li><a href="https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search">Semantic Search | Adobe Commerce - Experience League</a></li>
+<li><a href="https://onyxaistudio.digital/insights/ai-inventory-semantic-search">Semantic Search for Business Inventory | Onyx AI Studio</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI limitations`, `#ML bias`, `#automation bias`, `#AI governance`, `#hallucination`
+**Tags**: `#e-commerce-search`, `#retrieval-architecture`, `#web-crawling`, `#data-freshness`, `#semantic-search`
 
 ---
 
-<a id="item-66"></a>
-## [DealPrice Models Operational Data License Ranges](https://dev.to/shyam_desigan_c6b74c32b3c/how-dealprice-estimates-a-license-range-for-operational-data-mkg) ⭐️ 6.0/10
+<a id="item-50"></a>
+## [PET Imaging Can Verify Alzheimer’s Antibody Brain Delivery](https://dev.to/dessygil/an-alzheimers-antibody-binds-its-receptor-how-do-you-know-it-reaches-the-brain-5c4n) ⭐️ 6.0/10
 
-DealPrice, a pricing desk built by ImpactQuadrant CFO Shyam Desigan, estimates license-price ranges for operational data using Bayesian market signals, hierarchical shrinkage, and lognormal modeling. It also applies Monte Carlo simulation to evaluate deal-level outcomes involving volume, rights, quality, buyer channels, fees, and broker commissions. AI companies increasingly need licensing for CRM records, source code, software workflows, video, art, and audio, but single-point quotes fail to express uncertainty or deal terms. Confidence-aware ranges and scenario-based simulations could help buyers and sellers negotiate prices while preserving unit consistency and accounting for rights and volume differences. DealPrice models the logarithm of price per hour, record, dataset, or gigabyte, pooling evidence globally, by data family, and by subtype, while shrinking sparse subtypes toward family estimates. It reports P10, P50, and P90 typical-price bands, a wider single-deal predictive range, and high, medium, or low confidence; however, the article does not disclose scoring weights, starting values, validation results, or independent performance testing.
+The article argues that Alzheimer’s antibody programs should combine longitudinal PET imaging of radiolabeled antibodies with separate amyloid-PET tracers to verify brain delivery and track plaque changes. It highlights a University of Michigan study in which two brain-shuttle antibodies had similar brain concentrations after one day but diverged by day seven, at less than 1.8 nM versus 2.7 nM. Early blood or exposure measurements may not predict how long an antibody remains in brain tissue, creating a risk of selecting candidates or interpreting animal studies prematurely. Longitudinal imaging could help distinguish poor receptor recognition, inadequate blood–brain barrier transport, weak brain retention, and biological plaque response, benefiting preclinical development and translation to patients. Trontinemab uses transferrin receptor 1 to cross the blood–brain barrier, whereas the Michigan study examined CD98hc shuttles whose starting antibody recognized human and cynomolgus monkey receptors but not the mouse version. The article recommends testing parent and shuttle-equipped antibodies against human and animal TfR1 receptors and the same characterized fibrillar amyloid preparation, while recognizing that the supplied excerpt is incomplete.
 
-rss · Dev.to · Nov 21, 21:13
+rss · Dev.to · Nov 21, 23:23
 
-**Background**: Lognormal modeling is useful when prices are right-skewed and vary multiplicatively, because modeling the logarithm can represent both typical rates and high-price tails. Bayesian shrinkage allows limited observations to borrow strength from broader groups, whereas Monte Carlo simulation repeatedly samples uncertain inputs to estimate the range of possible contract outcomes. These are established quantitative techniques, but their usefulness here depends on the quality of market signals and empirical validation.
+**Background**: Antibody-based treatments for Alzheimer’s disease often use receptor-targeting molecular shuttles to cross the blood–brain barrier and reach amyloid deposits. PET imaging can serve two complementary purposes: following a radiolabeled antibody can show its distribution and retention, while an amyloid-specific tracer can reveal changes in plaque burden. Preclinical PET methods are therefore useful both for demonstrating brain exposure and for evaluating anti-amyloid effects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.ibm.com/think/topics/monte-carlo-simulation">What Is Monte Carlo Simulation ? | IBM</a></li>
-<li><a href="https://www.numberanalytics.com/blog/lognormal-distribution-actuarial-contexts-actl-3101">Lognormal Distribution in Actuarial Contexts</a></li>
-<li><a href="https://statsmasters.com/lessons/confidence-intervals/">Confidence Intervals | StatsMasters</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/42410049/">CD98hc-targeted antibody shuttles for central nervous system...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9246809/">PET Imaging in Preclinical Anti-Aβ Drug Development - PMC</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9165727/">The Role of Amyloid PET in Imaging Neurodegenerative ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#data licensing`, `#Bayesian pricing`, `#Monte Carlo simulation`, `#lognormal models`, `#AI training data`
+**Tags**: `#Alzheimer’s disease`, `#Antibody delivery`, `#PET imaging`, `#Drug development`, `#Neuroscience`
 
 ---
 
-<a id="item-67"></a>
-## [jdx Brings Targeted Java Bytecode Inspection to AI Agents](https://dev.to/mohammadmd1383/a-javap-alternative-for-ai-agents-an-mcp-server-that-reads-java-bytecode-3322) ⭐️ 6.0/10
+<a id="item-51"></a>
+## [Windows Previews RDMA over USB4 for Distributed AI](https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602) ⭐️ 6.0/10
 
-jdx is an Apache-2.0-licensed command-line tool and MCP server that lets AI agents query APIs and implementation details from JVM JARs, source archives, class directories, Maven coordinates, and the JDK. Its v1.7.0 MCP server exposes 27 typed tools for targeted member, body, source, signature, usage, hierarchy, diff, literal, and resource inspection. By returning only requested code fragments, jdx can reduce tool calls, output volume, and token consumption when agents inspect Java dependencies. It also aligns with the growing use of MCP as a standard interface for connecting AI applications to external tools and data. In the reproducible Gson 2.14.0 example, two jdx commands produced about 4.6 KB, versus about 17.5 KB for five unzip, javap, grep, and sed commands; the targeted method body was 267 bytes, compared with 60,590 bytes from javap -c. Answers include source locations, missing source JARs trigger Vineflower decompilation marked as reconstructed, raw bytecode remains available through --engine javap, and ambiguous method requests return all eight overloads with exit code 2 rather than guessing.
-
-rss · Dev.to · Nov 21, 21:13
-
-**Background**: JVM programs are compiled into class files containing bytecode, which tools such as javap can disassemble for inspection. MCP is an open standard that connects AI applications with external data, tools, and workflows through structured tool interfaces, allowing an agent to request focused information rather than parse large raw command outputs.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.anthropic.com/news/model-context-protocol">Introducing the Model Context Protocol \ Anthropic</a></li>
-<li><a href="https://modelcontextprotocol.io/">What is the Model Context Protocol ( MCP )? - Model Context Protocol</a></li>
-<li><a href="https://en.m.wikipedia.org/wiki/Java_virtual_machine">Java virtual machine - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#MCP`, `#Java`, `#JVM bytecode`, `#Developer tools`
-
----
-
-<a id="item-68"></a>
-## [Transfer Learning Helps in Small Colorectal-Cancer Survival Cohorts](https://dev.to/mlnotes_bio/transfer-learning-for-small-sample-survival-data-what-works-at-n50-4jhb) ⭐️ 6.0/10
-
-A close reading of Zhao et al.’s 2026 study examines transfer learning for stage I colorectal-cancer survival prediction using 27,379 SEER source patients and 728 West China Hospital target patients. Transfer learning improved time-dependent concordance across the reported models, while the article focuses on what remains effective when the target sample is reduced to roughly 50 cases. The work suggests that clinically useful survival models can benefit from large related registries even when hospital cohorts are too small for stable independent training. Its main lesson is that transfer success depends on population relatedness and a strategy matched to the model class, rather than on transferring indiscriminately. For DeepSurv, Cox-CC, and DeepHit, the researchers pretrained on the source cohort and fine-tuned on the target cohort; for Random Survival Forest, they introduced Transfer Survival Forest, which transfers source trees and then fine-tunes them. On the full target cohort, Ctd rose from 0.7868 to 0.8111 for Cox-CC, 0.8085 to 0.8135 for DeepHit, 0.7722 to 0.8043 for DeepSurv, and 0.7940 to 0.8297 for RSF/TSF, but these values should not be generalized to other diseases, stages, or feature sets.
-
-rss · Dev.to · Nov 21, 21:12
-
-**Background**: Survival analysis estimates how long patients survive while accounting for patients who have not yet experienced the event of interest, such as death or recurrence. Concordance measures rank patients by predicted risk and evaluate whether higher-risk patients generally have shorter observed survival. Transfer learning reuses knowledge from a larger source dataset and adapts it to a smaller target dataset; in this study, both cohorts concern stage I colorectal cancer, which is essential to the reported setting.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/Colorectal_cancer">Colorectal cancer - Wikipedia</a></li>
-<li><a href="https://www.cancer.org/cancer/types/colon-rectal-cancer/about/what-is-colorectal-cancer.html">What Is Colorectal Cancer? | How Does Colorectal Cancer Start?</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#transfer learning`, `#survival analysis`, `#small-sample learning`, `#clinical machine learning`, `#colorectal cancer prognosis`
-
----
-
-<a id="item-69"></a>
-## [The Rails Layer of SaaS: What AI Agents Will Still Need to Rent](https://dev.to/tej_pandya_a973bc2256ba93/your-agent-stacks-shopping-list-the-rails-layer-of-saas-dhp) ⭐️ 6.0/10
-
-The article proposes a three-layer model of SaaS — records, workflow, and rails — and argues that AI agents will absorb records and workflow while continuing to depend on dedicated infrastructure rails. It maps five rails: payments \(ACP, AP2, x402, ChatGPT Wallet\), voice/telephony, contact and company data, identity and authorization, and inboxes/browsers/calendars/audit. This framing helps builders and investors understand where SaaS value survives in an agentic world: not in CRUD screens or kanban boards, but in permissions, compliance, audit trails, and regulated infrastructure such as payments and telephony. It also signals that enterprise software vendors are already exposing agent-facing APIs \(MCP servers, OAuth\) rather than being fully displaced. The payments rails have distinct models: AP2 uses signed Intent and Cart Mandates via verifiable credentials for non-repudiable delegated purchases with price limits \(backed by Adyen, Amex, Coinbase, Mastercard, PayPal, Salesforce, ServiceNow\), x402 revives the HTTP 402 status code for stablecoin micropayments per API call, ACP powers ChatGPT Instant Checkout, and ChatGPT Wallet uses biometric per-purchase approval with tokenized card numbers the agent never sees. Retell publishes voice-agent pricing at roughly $0.07–$0.31/min \(infra ~$0.055/min, voices $0.015–$0.10/min, plus per-minute LLM rates\), and identity work is still being standardized via IETF WIMSE drafts, OIDC agent identity claims, and OAuth profiles for agents.
-
-rss · Dev.to · Nov 21, 21:10
-
-**Background**: An &quot;agent stack&quot; usually refers to the models, harnesses, and tools an AI agent uses; a harness is the surrounding software that handles tool execution, memory, state, and error recovery on behalf of the model. The article&\#x27;s core idea is that some capabilities cannot be generated by a model and must instead be rented from external infrastructure — hence the metaphor of &quot;rails&quot; \(like payment rails in finance\). Evidence of this shift includes Supabase publishing a &quot;for agents&quot; solution page with Postgres-backed, agent-built CRM examples, and Apollo&\#x27;s official MCP server placing prospecting inside Claude/ChatGPT via OAuth. The author also cautions that vendors shipping agent interfaces is not proof that human dashboards or buyer workflows are disappearing, and that compliance-heavy records retain their value.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.firecrawl.dev/blog/what-is-an-agent-harness">What Is an Agent Harness ? The Infrastructure That Makes AI Agents ...</a></li>
-<li><a href="https://www.deepseek.com/en/harness/">DeepSeek Harness | Explore the limits of intelligence</a></li>
-<li><a href="https://ottermind.ai/blog/what-is-deepseek-harness">What Is DeepSeek Harness ? Architecture and Use Cases</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#SaaS architecture`, `#enterprise software`, `#agent infrastructure`, `#data platforms`
-
----
-
-<a id="item-70"></a>
-## [Windows Adds RDMA over USB4 for Distributed Local AI](https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602) ⭐️ 6.0/10
-
-Microsoft introduced RDMA over USB4 support on Windows, allowing users to connect multiple USB4-capable PCs and split one AI model across their combined memory and GPU compute. The announcement says users can enable this without buying an RDMA network adapter, configuring a switch, or installing third-party drivers. 对于拥有多台电脑、但没有配置传统高速网络的Windows用户，这一功能可能让分布式本地AI推理更容易使用。它也有望将模型并行计算从单机工作站扩展到多台电脑，但公告尚未提供性能基准或部署条件。 The approach uses RDMA over USB4 to let participating PCs access one another&\#x27;s memory directly rather than routing every transfer through a conventional network stack. RDMA is not inherently part of USB4, so actual support depends on compatible USB4 host hardware, likely Thunderbolt capabilities, and the relevant Windows implementation.
+Microsoft introduced a developer preview of RDMA over USB4 for Windows, allowing an AI model to be split across two or more USB4-connected PCs and use their combined memory and GPU compute. The preview retains the existing RDMA API while extending distributed inference to Windows 11 PCs, including daisy-chained systems. This could make large-model local inference possible without a single high-end workstation or a data-center GPU cluster, potentially lowering the hardware barrier for privacy-sensitive or bandwidth-conscious AI workloads. It also broadens Windows’ role in distributed AI development and experimentation. USB4 links can provide up to 80 Gbps of bandwidth, while RDMA allows a workload to access another PC’s memory directly and reduce copies and traditional network-stack overhead. The feature is currently a developer preview, and available reports indicate that setup requires test signing; Microsoft’s announcement provides limited detail about supported hardware, deployment requirements, and measured performance.
 
 rss · Hacker News \(AI/ML\) · Nov 21, 19:50
 
-**Background**: Local AI models are often limited by the memory capacity of a single GPU or computer. Model parallelism addresses this by dividing a model across multiple devices so that their memory and compute can be combined for inference. RDMA enables direct remote memory access with low overhead, while USB4 provides a high-speed wired connection that can carry compatible protocols between PCs.
+**Background**: Remote Direct Memory Access lets one machine access memory on another with low overhead, avoiding a conventional data-copying network path. USB4 is a high-speed peripheral and networking interface used to connect PCs and other devices. Model parallelism can divide one large AI workload across multiple systems, so adding RDMA over USB4 gives ordinary Windows PCs a path to aggregate memory and GPU resources.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602">Introducing RDMA over USB 4 ® on Windows: run larger local AI ...</a></li>
-<li><a href="https://habr.com/ru/articles/1110636/">Microsoft представила решение на базе USB 4 и RDMA для... / Хабр</a></li>
+<li><a href="https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%C2%AE-on-windows-run-larger-local-ai-models-across-pcs/4574602">Introducing RDMA over USB4® on Windows: run larger local AI ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#RDMA`, `#USB4`, `#Windows`, `#Local AI`, `#Distributed Systems`
-
----
-
-<a id="item-71"></a>
-## [Health Professionals Urged to Speak for Detained Palestinian Colleagues](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902088-X/fulltext?rss=yes) ⭐️ 6.0/10
-
-A Lancet correspondence draws global attention to the perilous conditions faced by Palestinian health-care workers detained in Israeli detention centres in Gaza and the West Bank. It calls on health professional organizations to speak out rather than remain silent. The appeal places professional responsibility and medical ethics at the center of the response to detention conditions affecting health workers. Wider advocacy could increase pressure for the safety of detained personnel, recognition of their professional role, and access to appropriate healthcare. The published text is brief and focuses specifically on unsafe detention conditions in Gaza and the West Bank. It provides advocacy rather than detailed clinical evidence, a systematic account of individual cases, or recommendations for institutional safeguards.
-
-rss · The Lancet · 最新文章 · Nov 20, 23:30
-
-**Background**: Health-care workers can be detained during conflict or occupation, but their detention may affect patients’ access to care and the performance of essential medical services. Professional organizations can respond to such circumstances through public statements, advocacy, and pressure on responsible authorities. The correspondence is framed as an appeal for such organizational action.
-
-**Tags**: `#medical ethics`, `#humanitarian medicine`, `#health-worker safety`, `#Gaza`, `#professional advocacy`
+**Tags**: `#Windows`, `#RDMA`, `#USB4`, `#Local AI`, `#Distributed Inference`
 
 ---
