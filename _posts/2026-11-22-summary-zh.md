@@ -5,1013 +5,894 @@ date: 2026-11-22
 lang: zh
 ---
 
-> 从 141 条内容中筛选出 43 条重要资讯。
+> 从 139 条内容中筛选出 39 条重要资讯。
 
 ---
 
-1. [困惑度能否反映模型智能](#item-1) ⭐️ 8.0/10
-2. [Anthropic 2028 年电力结构以天然气和煤炭为主](#item-2) ⭐️ 8.0/10
-3. [Inkling-2-Mini 以 5.4 GB 内存实现每秒 150 个词元](#item-3) ⭐️ 8.0/10
-4. [OpenRouter 因提示词隐私事件移除多家服务商](#item-4) ⭐️ 8.0/10
-5. [日本车企标准化零部件以降低成本](#item-5) ⭐️ 7.0/10
-6. [Show HN：玩家扮演 LLM 子代理的游戏](#item-6) ⭐️ 7.0/10
-7. [联盟提出开放社交媒体协议](#item-7) ⭐️ 7.0/10
-8. [达美航空载重平衡系统故障导致亚特兰大航班延误](#item-8) ⭐️ 7.0/10
-9. [Muru 用 Rust 革新 ASGI 与 WSGI Python 服务](#item-9) ⭐️ 7.0/10
-10. [两百万个 AI 金丝雀令牌暴露供应链隐私失效](#item-10) ⭐️ 7.0/10
-11. [将 PostgreSQL 打包为单一二进制文件](#item-11) ⭐️ 7.0/10
-12. [Microsoft 365 中断事故报告解析根本原因](#item-12) ⭐️ 7.0/10
-13. [Signal 因担忧人工智能监控而限制移动端截图](#item-13) ⭐️ 7.0/10
-14. [种族现实主义不符合现代遗传学](#item-14) ⭐️ 7.0/10
-15. [FCC 叫停加州针对 AT&amp;T 家庭电话的州规](#item-15) ⭐️ 7.0/10
-16. [银行限制第三方 AI 代理并转移责任](#item-16) ⭐️ 7.0/10
-17. [Telltale 回读 QNX 8.0 仪表像素以识别虚假显示](#item-17) ⭐️ 7.0/10
-18. [答案回执让文本转 SQL 结果可审计](#item-18) ⭐️ 7.0/10
-19. [硅谷从创新转向金融化](#item-19) ⭐️ 6.0/10
-20. [三明治模拟器把食材堆叠变成趣味网页交互](#item-20) ⭐️ 6.0/10
-21. [Backblaze 用户质疑更新后的数据出售与共享条款](#item-21) ⭐️ 6.0/10
-22. [软件是否一直复杂到超出人类理解能力？](#item-22) ⭐️ 6.0/10
-23. [C++26 技术工作完成并再次通过审查](#item-23) ⭐️ 6.0/10
-24. [数学家谈未来人工智能证明黎曼猜想](#item-24) ⭐️ 6.0/10
-25. [在阿里巴巴 RISC-V 板卡上启动 NixOS](#item-25) ⭐️ 6.0/10
-26. [显示器据称使下载速度下降 75%](#item-26) ⭐️ 6.0/10
-27. [本地网页工具规划城市无线电网状网络](#item-27) ⭐️ 6.0/10
-28. [GhostScript“上传即执行”漏洞引发安全关注](#item-28) ⭐️ 6.0/10
-29. [OpenAI 科学家提议衡量人工智能开发速度](#item-29) ⭐️ 6.0/10
-30. [英伟达业绩与黄仁勋回归压力形成反差](#item-30) ⭐️ 6.0/10
-31. [AI 数字替身授权考验好莱坞未来](#item-31) ⭐️ 6.0/10
-32. [GLP-1 药物或释放比意大利还大的农地](#item-32) ⭐️ 6.0/10
-33. [AI 排放攀升促使 Meta 重新评估 2030 年净零目标](#item-33) ⭐️ 6.0/10
-34. [《以撒的结合》开发商在遭到抵制后移除 AI 音乐](#item-34) ⭐️ 6.0/10
-35. [无菌土壤中的生命样反应持续六年](#item-35) ⭐️ 6.0/10
-36. [超级厄尔尼诺或加剧全球饥饿](#item-36) ⭐️ 6.0/10
-37. [AI 正加速漏洞修补竞赛](#item-37) ⭐️ 6.0/10
-38. [OpenAgentCore 提供可自托管的 OpenAI Agents API](#item-38) ⭐️ 6.0/10
-39. [恢复流程中验证 JWT 与轮换 JWKS 的三项控制](#item-39) ⭐️ 6.0/10
-40. [角色分离的 AI 代理如何安全审查拉取请求](#item-40) ⭐️ 6.0/10
-41. [按源站而非产品名盘点 PDF.js 查看器](#item-41) ⭐️ 6.0/10
-42. [生育率下降背景下的辅助生殖技术](#item-42) ⭐️ 6.0/10
-43. [卫生专业人员被敦促声援被拘押的巴勒斯坦同行](#item-43) ⭐️ 6.0/10
+1. [困惑度可作为迈向智能的简单指标](#item-1) ⭐️ 9.0/10
+2. [Anthropic 2028 年电力结构或近 98%来自化石燃料](#item-2) ⭐️ 8.0/10
+3. [C++26 技术工作在巴西完成](#item-3) ⭐️ 8.0/10
+4. [四次逃逸揭示容器为何无法安全承载智能体](#item-4) ⭐️ 8.0/10
+5. [硅谷怎么了？以机制设计为解法的深度剖析](#item-5) ⭐️ 7.0/10
+6. [玩家扮演大模型子智能体的开源游戏](#item-6) ⭐️ 7.0/10
+7. [日本车企标准化零部件以降低成本](#item-7) ⭐️ 7.0/10
+8. [更清晰的软件测试词汇体系](#item-8) ⭐️ 7.0/10
+9. [看似无用的知识为何可能产生深远价值](#item-9) ⭐️ 7.0/10
+10. [Localcode 用一条命令在 macOS 运行智能体编程](#item-10) ⭐️ 7.0/10
+11. [两百万个 AI 金丝雀令牌暴露大规模机密泄漏](#item-11) ⭐️ 7.0/10
+12. [PostgreSQL 被打包为单一二进制文件](#item-12) ⭐️ 7.0/10
+13. [Microsoft 365 中断事后报告](#item-13) ⭐️ 7.0/10
+14. [GhostScript Upload2Shell 漏洞可导致远程代码执行](#item-14) ⭐️ 7.0/10
+15. [Muru 为 Python 应用带来 Rust 驱动的生产工具](#item-15) ⭐️ 7.0/10
+16. [Signal 限制移动端截图以应对人工智能监控](#item-16) ⭐️ 7.0/10
+17. [文章称种族现实主义误用遗传学](#item-17) ⭐️ 7.0/10
+18. [美国银行限制第三方人工智能代理](#item-18) ⭐️ 7.0/10
+19. [无菌土壤中的生命相关化学反应持续六年](#item-19) ⭐️ 7.0/10
+20. [AI 正让漏洞利用速度超越补丁窗口](#item-20) ⭐️ 7.0/10
+21. [类型化槽位记忆在上下文压缩时保留关键事实](#item-21) ⭐️ 7.0/10
+22. [AI 将单个 Python 函数迁移至 Rust，速度提升 78 倍](#item-22) ⭐️ 7.0/10
+23. [使用 Inkling、Qwen 和 Unsloth 的本地 AI 入门指南](#item-23) ⭐️ 6.0/10
+24. [联盟提议为开放社交媒体制定共享协议](#item-24) ⭐️ 6.0/10
+25. [BSD 如何摆脱 AT&amp;T 的 Unix 授权限制](#item-25) ⭐️ 6.0/10
+26. [哈佛开设人工智能对齐与安全研究生课程](#item-26) ⭐️ 6.0/10
+27. [程序员对 ATProto 的常见误解](#item-27) ⭐️ 6.0/10
+28. [Gliver 补齐 Guix 桌面环境](#item-28) ⭐️ 6.0/10
+29. [在阿里巴巴 RISC-V 开发板上启动 NixOS](#item-29) ⭐️ 6.0/10
+30. [开源计算器规划城市级无线电网格网络](#item-30) ⭐️ 6.0/10
+31. [给未来 100 个 Rust GUI 的建议](#item-31) ⭐️ 6.0/10
+32. [苏茨克维主张设定可衡量的 AI 开发限速](#item-32) ⭐️ 6.0/10
+33. [英伟达的业绩与领导层危机](#item-33) ⭐️ 6.0/10
+34. [AI 面部授权考验好莱坞的知情同意边界](#item-34) ⭐️ 6.0/10
+35. [超级厄尔尼诺或加剧全球饥饿](#item-35) ⭐️ 6.0/10
+36. [ESA 探测器重返 NASA 小行星防御试验现场](#item-36) ⭐️ 6.0/10
+37. [大语言模型预训练仍在持续改进](#item-37) ⭐️ 6.0/10
+38. [Postgres 清理任务何时需要消息队列](#item-38) ⭐️ 6.0/10
+39. [Shell 注入扫描器新增可验证审计报告](#item-39) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [困惑度能否反映模型智能](https://openai.com/index/perplexity-and-intelligence/) ⭐️ 8.0/10
+## [困惑度可作为迈向智能的简单指标](https://openai.com/index/perplexity-and-intelligence/) ⭐️ 9.0/10
 
-OpenAI 首席科学家 Jakub Pachocki 提出，预训练困惑度可能是一种简单且持续有效的模型通用学习能力指标。文章还讨论了困惑度与实际任务评测之间的脱节，以及强化学习等后训练方法带来的能力增益为何不能只由困惑度解释。 如果困惑度的改善能够可靠地预示更广泛能力的提升，这项指标可能比不断增多但彼此割裂的基准测试更适合用于追踪研究进展。不过，强化学习等后训练推理方法可能带来明显的性能跃迁，因此不能把困惑度单独视为衡量前沿模型能力的完整标准。 困惑度是留出词元平均负对数似然的指数化结果，用来表示模型对数据有多意外；理想且确定的预测器可接近 1，而在词表规模为 V 时均匀随机猜测会接近 V。文章区分了困惑度与通用智能的潜在关联、它与具体任务表现并不直接对应的现象，以及预训练之外发生的进步，评论者则质疑某些能力是否真的会在固定困惑度阈值上“涌现”。
+OpenAI 认为，语言模型困惑度的下降是衡量迈向智能进展的一种简单而有效的指标。这一观点挑战了业界对交叉熵训练目标和强化学习的重点关注，并引发了关于预测、压缩与推理的技术讨论。 相比日益复杂的基准测试套件，困惑度可能提供一种更易比较的模型进展指标，尤其适合衡量模型从数据中学习规律的能力。不过，困惑度本身不能证明模型已经获得某项特定认知能力，因此仍需结合具体任务评测加以解释。 困惑度衡量模型在已知前文的情况下，对实际下一个词元感到意外的程度；数值越低，预测表现越好，理想值为 1。该指标主要适用于自回归语言模型，其结果会受到评测数据、分词方式和任务领域的影响，而且不能直接等同于所有专业能力。
 
 hackernews · Hacker News \(热门\) · 11月22日 17:06 · [社区讨论](https://news.ycombinator.com/item?id=50601525)
 
-**背景**: 困惑度衡量语言模型预测词元的准确程度，长期以来一直是预训练阶段的重要优化目标，因为更低的损失通常意味着模型更好地拟合了文本分布。本文主张把困惑度视为通用学习能力的一种代理指标，而不只是一项训练损失。思维链训练和强化学习可以在预训练后进一步改善推理能力，因此困惑度降低与前沿性能提高之间的关系仍值得讨论。
+**背景**: 困惑度源于模型对下一个词元所分配的平均不确定性，困惑度越低通常表示模型对评测序列的预测越准确。它常用于评估自回归语言模型，但对掩码语言模型并不适用。讨论还把预测与压缩联系起来：发现数据中的规律能够减少表示数据所需的信息，而推理模型采用的训练后方法则使简单的横向比较更加复杂。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openai.com/index/perplexity-and-intelligence/">Perplexity and Intelligence | OpenAI</a></li>
-<li><a href="https://canvas4everyone.com/blogs/news/unraveling-the-relationship-between-perplexity-and-kullback-leibler-divergence">Unraveling the Relationship Between Perplexity and Kullback-Leibler Di</a></li>
-<li><a href="https://liner.com/review/paloma-benchmark-for-evaluating-language-model-fit">Paloma: A Benchmark for Evaluating Language Model Fit...</a></li>
+<li><a href="https://www.baeldung.com/cs/language-models-perplexity">Evaluating Language Models Using Perplexity - Baeldung</a></li>
+<li><a href="https://huggingface.co/docs/transformers/perplexity">Perplexity of fixed-length models - Hugging Face</a></li>
+<li><a href="https://philarchive.org/archive/BOSTCO-17">The Collapse of Predictive Compression : Why Probabilistic...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者认为困惑度趋势相当惊人，并欢迎这种简单明了的基准指标，也有人补充了困惑度的技术定义。其他人则把 GPT-4.5 视为可能的断点，认为思维链和强化学习带来了困惑度本身无法体现的更强实际表现，并质疑专门优化的模型是否能在通用困惑度较弱的情况下仍取得很高的任务成绩。
+**社区讨论**: 评论者欢迎将困惑度作为简单基准，并把它与“智能即预测与压缩”的长期观点联系起来。也有人质疑特定能力是否会在固定困惑度阈值上出现，并指出专项训练可能使模型具备很强的数学能力却拥有较差的一般预测表现，因此需要结合任务数据和具体评测来理解困惑度。
 
-**标签**: `#language-models`, `#perplexity`, `#pretraining`, `#reinforcement-learning`, `#model-evaluation`
+**标签**: `#language-model-evaluation`, `#perplexity`, `#AGI`, `#machine-learning-theory`, `#reasoning-models`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic 2028 年电力结构以天然气和煤炭为主](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) ⭐️ 8.0/10
+## [Anthropic 2028 年电力结构或近 98%来自化石燃料](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) ⭐️ 8.0/10
 
-Better Data Center Project 的一项案例研究预测，到 2028 年，Anthropic 已签约的美国数据中心约 87%的电力可能来自天然气，11%来自煤炭。该估算依据许可文件、监管申报和美国环保署模型得出，并非实际运行数据或 Anthropic 的官方声明；中等情景下，其年排放量可能达到 1700 万至 3800 万吨二氧化碳当量。 这项预测凸显了 AI 算力快速扩张可能依赖化石燃料发电，而非可再生能源，并带来显著的碳排放、空气污染、水资源消耗和电网规划压力。它也进一步促使监管机构和政策制定者关注基础设施成本与环境影响，因为这些负担可能主要由当地社区承担。 分析涵盖 Anthropic 约 15 吉瓦的已签约算力，并将预测的电力结构与数据中心、配套电厂和现场燃气轮机联系起来。这些数字是与 2028 年基础设施规划相关的前瞻性估算，因此不应被视为 Anthropic 当前的实际电力结构，也不能证明每个规划中的设施都会按假设投入运行。
+Better Data Center Project 的一项案例研究预测，2028 年为 Anthropic 签约美国数据中心供电的电力中，约 87%可能来自天然气，11%来自煤炭，可再生能源占比则微乎其微。其中间情景估计显示，电力使用每年可能产生约 1700 万至 3800 万吨二氧化碳当量。 这一预测凸显了 AI 计算能力快速扩张可能带来的化石燃料需求、地方污染和电网压力。它还提出了一个关键问题：如果缺乏使数据中心承担环境和社会成本的监管，仅靠企业自愿承诺是否足以应对相关影响。 该分析将估算与约 15 吉瓦的签约计算容量以及采用“自带电力”模式、配备现场燃气轮机的设施联系起来。这些数字属于预测而非实测结果，并取决于报告对签约设施、发电来源、利用率和电网状况等条件的假设。
 
 hackernews · Hacker News \(热门\) · 11月22日 08:57 · [社区讨论](https://news.ycombinator.com/item?id=50597612)
 
-**背景**: 该案例研究考察了一种通常被称为“自备电力”的模式，即大型数据中心运营商安排专用发电设施和电网连接，以满足快速增长的算力需求。AI 基础设施通常需要大量电力、水、土地和冷却资源，其运行排放则高度取决于当地发电结构。研究人员呼吁在能源、水资源和土地利用规划中纳入 AI 基础设施扩张，以减轻资源压力和环境危害。
+**背景**: AI 模型需要大型数据中心，其耗电量足以影响区域电力系统和周边社区。在一些地区，数据中心开发商会融资或签约专用发电设施，而不是完全依赖现有电网；企业的可再生能源承诺也可能只覆盖其更广泛用电量的一部分。该分析以 Anthropic 为案例，说明 AI 基础设施扩张如何与化石燃料发电及新增排放相联系。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">How AI is powered : a breakdown of BYOP and grid power</a></li>
 <li><a href="https://explainx.ai/blog/anthropic-data-center-power-gas-coal-byop-2028-better-datacenter-november-2026">Anthropic Power Mix: 87% Gas, 11% Coal by 2028 (Study ...</a></li>
-<li><a href="https://news.un.org/en/story/2026/06/1167658">AI’s environmental costs threaten water, land and climate ...</a></li>
+<li><a href="https://www.winzheng.com/en/article/anthropic-2028-energy-87-gas-11-coal-fossil-fuel-analysis">Anthropic’s 2028 Electricity to Be 87% Fossil Fuel: An ...</a></li>
+<li><a href="https://www.euronews.com/2026/11/19/the-dark-side-of-ai-us-data-centres-emit-more-carbon-than-all-of-denmark">The dark side of AI : US data centres emit more carbon... | Euronews</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者普遍批评 Anthropic 的环保表现，并将其与科技行业其他公司更明确的可再生能源承诺作比较。他们主张制定能够计入社会和环境外部成本的监管规则，担忧包括孟菲斯 Colossus 1 在内的设施造成当地污染，还指出美国丰富的页岩气往往是石油生产的副产品，因此转向天然气并不能使 AI 增长彻底摆脱化石燃料。
+**社区讨论**: Commenters were strongly critical of Anthropic, citing local pollution around its Memphis operations, the absence of US renewable-energy commitments, and the failure of financial incentives to address climate externalities. Several argued that regulation is needed to shift environmental and social costs away from affected communities, while others questioned whether AI developers will voluntarily prioritize climate solutions amid the sector’s short-term profit incentives.
 
-**标签**: `#AI infrastructure`, `#data-center energy`, `#natural gas`, `#climate policy`, `#environmental impact`
+**标签**: `#AI infrastructure`, `#data-center energy`, `#Anthropic`, `#climate impact`, `#energy policy`
 
 ---
 
 <a id="item-3"></a>
-## [Inkling-2-Mini 以 5.4 GB 内存实现每秒 150 个词元](https://github.com/ShinMegamiBoson/lookatmyquant) ⭐️ 8.0/10
+## [C++26 技术工作在巴西完成](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 8.0/10
 
-lookatmyquant 项目展示了一种经过深度量化的 Inkling-2-Mini 部署方案，据称可将模型压缩到 5.4 GB 的内存占用内。借助定制 GPU 内核，该方案在两块通过 NVLink 互联的 NVIDIA RTX A4500 上实现了约每秒 150 个词元的速度。 这一部署表明，低位宽量化与专用内核能够让包含 264 亿参数的开放权重模型在相对有限的本地硬件上实际运行。它也凸显了前沿闭源模型与本地开放模型之间的能力差距正在缩小，不过这一成果高度依赖定制化工程。 Inkling-2-Mini 是一款包含 264 亿总参数、激活参数为 54 亿的混合专家模型，采用面向编程、智能体和视觉任务的循环式 Transformer 架构。5.4 GB 这一数字不应被理解为完整系统的全部资源需求：其他测试者指出，在支持较长上下文和 128K KV 缓存时，实际可用的显存需求会显著增加，而且不同 GPU 与内核实现之间的速度差异很大。
+ISO C++ 委员会宣布已于 2026 年 11 月在巴西布济奥斯举行的会议上第二次完成 C++26 的技术工作，并支持通过 Zoom 混合参会。这次会议是在该委员会 3 月首次完成 C++26 技术工作之后举行的。 完成技术工作是 C++ 开发者和工具链实现者迈向下一次 ISO 标准版本的重要里程碑，并为后续的正式发布、编译器和标准库实现以及开发者迁移准备创造了条件。 11 月会议在巴西里约热内卢州布济奥斯举行，并采用了线上混合参与形式。现有材料没有列出 C++26 最终包含的完整功能，也没有进一步说明标题中“再次”的含义，仅确认此前已在 3 月完成过技术工作。
 
-hackernews · Hacker News \(热门\) · 11月21日 18:02 · [社区讨论](https://news.ycombinator.com/item?id=50591853)
+rss · Lobsters \(技术社区\) · 11月21日 13:57
 
-**背景**: 量化通过降低模型权重的数值精度来减少内存占用，并经常提升推理速度，但可能以一定的输出质量损失为代价。Inkling-2-Mini 使用循环式 Transformer 设计和稀疏混合专家机制，在每次计算词元时仅激活 264 亿参数中的 54 亿个。NVFP4 等低位宽格式还能进一步降低存储空间，但高效运行通常需要经过充分优化的 GPU 内核。
+**背景**: ISO C++ 标准通过委员会会议和正式提案审查逐步制定，之后才会发布最终标准。C++26 预计包含静态反射和契约编程等特性，危险指针也被视为该版本技术方向的一部分。本条新闻关注的是委员会完成技术工作的里程碑，而不是对全部功能的详细总结。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
-<li><a href="https://unsloth.ai/docs/models/inkling-2-mini">Inkling 2 Mini - Run Locally Guide | Unsloth Documentation</a></li>
-<li><a href="https://www.techpowerup.com/gpu-specs/rtx-a4500.c3849">NVIDIA RTX A 4500 Specs | TechPowerUp GPU Database</a></li>
+<li><a href="https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/">C++26 is done (again)! — Trip report: November 2026 ISO C++ ...</a></li>
+<li><a href="https://isocpp.org/files/papers/P2996R4.html">Reflection for C++26 - isocpp.org</a></li>
+<li><a href="https://www.signalthirty.com/post/c26-new-features-reflection-contracts-and-more-explained">C++26 New Features: Reflection, Contracts, and More Explained</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区用户认为 Inkling-2-Mini 能力不错，有人报告它成功完成了编程和 Grafana 仪表板任务，但提醒“模型能运行”并不等于“结果足够有用”。实测性能差异明显，一名用户称其在 R9700 上的速度仅为 Qwen 27B 的三分之一，另一名用户表示若要获得可信的超过 10 万词元上下文性能，至少需要 12 GB 显存；社区还质疑了基准宣传和该仓库的文档质量。
-
-**标签**: `#quantization`, `#local-llm`, `#model-inference`, `#GPU-kernels`, `#edge-ai`
+**标签**: `#C++`, `#ISO Standards`, `#Language Evolution`, `#C++26`, `#Software Development`
 
 ---
 
 <a id="item-4"></a>
-## [OpenRouter 因提示词隐私事件移除多家服务商](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) ⭐️ 8.0/10
+## [四次逃逸揭示容器为何无法安全承载智能体](https://dev.to/sandscale/four-container-escapes-and-what-they-teach-about-running-agent-code-2ak1) ⭐️ 8.0/10
 
-OpenRouter 表示，其调查发现多家推理服务商不当保留或访问了提示词，其中部分请求实际被转交给上游服务商处理，而非按客户预期完成推理。为此，OpenRouter 移除了三家服务商，取消 125 个端点的零数据保留资格，并通知所有可能受影响的客户，同时公布了初步的隐私、路由和零数据保留保障措施。 这些事件表明，网关的隐私承诺可能取决于各下游服务商如何处理请求，尤其是在服务商被悄悄转至其他后端的情况下。使用 OpenRouter 的组织可能需要采取服务商白名单、直接签订合同、约定零数据保留条款并进行独立验证，而不能仅依赖平台统一提供的认证标识。
+文章综合分析了四项公开的容器逃逸漏洞，包括 runc 缺陷和 Linux“脏管道”内核漏洞，说明不受信任的模型生成代码如何突破容器边界。它建议为智能体基础设施采用更强的隔离措施，而不是把普通容器视为充分的安全沙箱。 智能体可能根据不受信任的输入生成或选择代码，因此容器已成为真正的安全边界，而不只是打包工具。一旦成功逃逸，攻击者可能接触宿主机文件系统、凭据和其他工作负载，这会直接影响生产环境中代码智能体的部署安全。 所给摘录详述了 CVE-2019-5736：runc 1.0-rc6 及更早版本可能允许容器覆盖宿主机运行时；以及 CVE-2024-21626：runc 1.1.11 及更早版本泄漏文件描述符，暴露宿主机文件系统并可替换二进制文件，后者已在 runc 1.1.12 中修复。实践措施包括以非特权用户运行智能体命令、使用用户命名空间、把智能体编写的 Dockerfile 视为攻击者可控输入，以及采用比共享内核容器更强的隔离。
 
-hackernews · Hacker News \(热门\) · 11月22日 02:14 · [社区讨论](https://news.ycombinator.com/item?id=50595554)
+rss · Dev.to · 11月22日 23:46
 
-**背景**: OpenRouter 是一个统一 API 网关，可将模型请求路由至多家第三方推理服务商。零数据保留旨在防止推理服务商在处理完成后留存提示词和输出，但此次披露暴露出服务商对外公布的端点身份与其最终实际处理请求的基础设施之间可能存在差异。
+**背景**: 容器通过命名空间、控制机制和共享的宿主机内核来隔离进程，速度快、使用方便，但其安全性依赖运行时和内核保持可靠。摘录还介绍了 CVE-2022-0847，即“脏管道”漏洞：Linux 管道缓冲区中的标志字段未正确初始化，使本地用户能够修改由只读文件支撑的页缓存页面并提升权限。搜索结果进一步强调，运行不受信任代码的沙箱可能需要分层防护，包括限制系统调用或采用 microVM 隔离。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">Data Processing Incidents on Inference Providers</a></li>
-<li><a href="https://openrouter.ai/blog/insights/zero-data-retention/">Zero Data Retention (ZDR): What It Means for AI APIs</a></li>
-<li><a href="https://www.spheron.network/blog/zero-data-retention-for-llm-inference-what-a-fixed-plan-guar/">Zero Data Retention for LLM Inference: What a Fixed Plan ...</a></li>
+<li><a href="https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/">Breaking out of Docker via runC – Explaining CVE - 2019 - 5736</a></li>
+<li><a href="https://blaxel.ai/blog/python-sandbox-llm-untrusted-code-isolation">Python Sandbox for LLM Code : MicroVM Isolation Guide | Blaxel Blog</a></li>
+<li><a href="https://dev.to/mohameddiallo/4-ways-to-sandbox-untrusted-code-in-2026-1ffb">4 ways to sandbox untrusted code in 2026 - DEV Community</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者强烈担忧 OpenRouter 对服务商缺少充分尽调，且初步措施不具备直接合同保障的约束力。部分用户认可其回应，但强调最可靠的零数据保留协议应由客户与推理服务商直接协商；小型组织可能因规模或预算不足而难以这样做，因此更倾向于仅允许可信服务商。也有受影响用户称，事件仅涉及一次测试提示词且内容并不敏感。
-
-**标签**: `#AI privacy`, `#inference providers`, `#OpenRouter`, `#prompt security`, `#data retention`
+**标签**: `#container-security`, `#AI-agents`, `#sandboxing`, `#vulnerabilities`, `#untrusted-code`
 
 ---
 
 <a id="item-5"></a>
-## [日本车企标准化零部件以降低成本](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) ⭐️ 7.0/10
+## [硅谷怎么了？以机制设计为解法的深度剖析](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) ⭐️ 7.0/10
 
-丰田、日产、本田以及另外四家日本车企正在推进零部件通用化，以简化生产并降低成本。这项努力尤其旨在增强它们对成本更低的中国车企的竞争力。 共用零部件可以降低多款车型的开发、采购和制造成本，并可能影响整车价格和全行业的制造方式。这项策略也可能帮助日本七家车企应对强劲的中国竞争，同时缓解日产面临的财务压力。 零部件通用化是指有意在不同车型、配置、平台、生产厂或地区之间使用相同的零件、模块、接口或工程规范。实际节约幅度取决于共用部件的数量和工程设计的合理性，因此该计划需要丰田、日产、本田、马自达、斯巴鲁、三菱和铃木进行协调。
+O&\#x27;Reilly Radar 发表了一篇长文，分析硅谷的激励机制、企业规模扩张与对股东价值的追求如何重塑了整个科技行业，并提出用机制设计（即反向博弈论）来重新设计规则，使社会以人的繁荣为优化目标。文章指出，零利率时代（ZIRP）的廉价资本与 AI 驱动的增长，把创业文化引向了规模庞大、以利润最大化为导向的公司形态。 这一观点的意义在于，它把 AI 战略与公司治理重新定义为&quot;设计问题&quot;而非纯粹的技术问题，指出社会究竟优化什么是可以被有意识选择的。这同样关系到加州等地的监管 debates——政策制定者必须在 AI 监管与被监管行业的利益之间走钢丝。 文章所用的机制设计框架，源自包括诺贝尔经济学奖得主埃里克·马斯金在内的研究传统——他指出该理论适用于环境政策、选举制度和金融市场等领域。文章还呼应了一项已有讨论：当法治薄弱、处罚过低时，以最大化股东价值为核心的治理反而会激励有害的企业行为。
 
-hackernews · Hacker News \(热门\) · 11月22日 04:04 · [社区讨论](https://news.ycombinator.com/item?id=50596133)
+hackernews · Hacker News \(热门\) · 11月22日 19:20 · [社区讨论](https://news.ycombinator.com/item?id=50602947)
 
-**背景**: 长期以来，车企通过平台化工程降低成本，即让不同车型共用底层结构和零部件。这种复用方式可以简化开发和生产，但存在技术边界，也必须确保兼容性而不损害车辆质量或性能。中国制造商通过激进定价以及部分车型大量采用内部零部件生产，进一步加大了日本车企面临的竞争压力。
+**背景**: 机制设计研究的是如何有意设计规则与制度，使追逐自身利益的参与者产生理想结果；正如马斯金所说，它属于反向博弈论，不仅要问正在玩的是哪一场游戏，更要问&quot;我们本该玩哪一场游戏&quot;。它在市场设计、拍卖规则和投票理论中有长期应用。与此同时，股东价值模式在 1980 至 1990 年代重塑了美国企业界，把高管薪酬与股价紧密绑定；而在零利率（ZIRP）时代的廉价资本下，硅谷文化也随之转向，创业公司与在位巨头得以扩张到前所未有的规模。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://umbrex.com/resources/umbrex-explainers/automotive-mobility-explainers/parts-commonization/">What is parts commonization? | Umbrex Explainers</a></li>
-<li><a href="https://resources.hartfordtechnologies.com/blog/future-standardization-of-methods-and-cost-structures-in-automotive-manufacturing">Future Standardization of Methods and Cost Structures in ...</a></li>
-<li><a href="https://www.arabakirala.com.tr/en/blog/automotive-parts-standardization-shared-components">Automotive Parts Standardization and Shared Components</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mechanism_design">Mechanism design - Wikipedia</a></li>
+<li><a href="https://www.ubs.com/global/en/our-firm/what-we-do/our-brand/nobel-perspectives/laureates/eric-maskin.html">Eric Maskin: Mechanism Design Theory | UBS Global</a></li>
+<li><a href="https://phys.org/news/2025-09-good-corporate-incentives-bad-behavior.html">When &#x27;good&#x27; corporate governance creates incentives for bad behavior</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者认为零部件通用化是应对中国成本竞争的合理做法，并将其与福特和通用自 2002 年起合作开发六速自动变速箱的项目进行比较。他们还提到中国车企较高程度的垂直整合，认为标题低估了这项行动的行业范围，并提出此举可能在日产财务困境中提供帮助。一位评论者质疑失业消费者能否负担这些车辆，另有部分评论内容被截断。
+**社区讨论**: 评论者普遍赞赏文章提出的机制设计框架，有读者认为这是当代的核心议题之一，并赞同社会应当共同决定优化目标。另一些人强调了近因，例如零利率时代的资本让公司膨胀到荒谬的规模，并质疑市场是否会开始惩罚在 AI 上的鲁莽开支；还有评论者批评了从华尔街&quot;雅皮士&quot;到&quot;VC 网红&quot;的转变，认为硅谷的诚信如今愈发稀薄。
 
-**标签**: `#automotive-industry`, `#manufacturing`, `#supply-chain`, `#electric-vehicles`, `#cost-reduction`
+**标签**: `#Silicon Valley`, `#AI Strategy`, `#Mechanism Design`, `#Corporate Incentives`, `#Technology Policy`
 
 ---
 
 <a id="item-6"></a>
-## [Show HN：玩家扮演 LLM 子代理的游戏](https://github.com/gulivan/worker755) ⭐️ 7.0/10
+## [玩家扮演大模型子智能体的开源游戏](https://github.com/gulivan/worker755) ⭐️ 7.0/10
 
-Show HN 介绍了开源游戏 worker755，玩家向 LLM 管理器下达任务，并与它委派的子代理协作。该项目在 Hacker News 获得了 230 分和 56 条评论。 该项目将分层代理委派变成互动娱乐体验，展示了 LLM 编排如何以用户可参与的方式呈现，而不只作为企业级架构模式被讨论。它更适合作为一项有趣的演示，而非重大技术突破。 游戏允许玩家尝试执行删除所有文件等破坏性命令，具体体验取决于管理器会提供多少指导。一个明显限制是似乎不支持本地 LLM，因此无法直接配合自托管的家用实验室服务器使用。
+开源项目 worker755 提供了一款互动游戏：玩家扮演大模型的子智能体，在管理智能体的指挥下完成计算机任务。该项目把智能体委派与命令执行转化为带有趣味性的模拟，并在 Hacker News 获得 261 分和 59 条评论。 该项目以互动方式呈现了分层多智能体系统的工作流程，即协调者把工作委派给下级智能体。其反响表明，人们对把大模型智能体与互动小说结合起来兴趣浓厚，同时也关注本地模型支持等实际问题。 游戏要求玩家在响应主管智能体的同时执行 shell 风格命令，其中包括 rm -rf 这类具有破坏性的搞笑命令。有评论者指出，管理智能体经常直接给出准确命令，而不是让玩家独立完成任务；另一名评论者则表示，项目似乎不支持本地大模型。
 
 hackernews · Hacker News \(热门\) · 11月22日 13:56 · [社区讨论](https://news.ycombinator.com/item?id=50599762)
 
-**背景**: 在多代理系统中，编排器或管理代理可以把较大的目标拆分成子任务，再分配给专门的子代理。worker755 将这一委派模型变成可玩的游戏：玩家扮演子代理，而 LLM 管理器负责协调任务并回应请求。
+**背景**: 大模型子智能体是在更大智能体工作流中承担较窄职责的下级模型实例。在分层多智能体架构中，主要编排器会把任务委派给专门负责推理、工具调用、执行或验证的子智能体。worker755 将这一模式游戏化，让人类扮演子智能体，并按管理智能体发出的指令采取行动。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/agents/architecture/multi-agent-orchestrator-sub-agent">Orchestrator and subagent multi-agent patterns | Microsoft Learn</a></li>
 <li><a href="https://martinuke0.github.io/posts/subagents/">Sub-Agents in LLM Systems : Architecture, Execution Model ...</a></li>
-<li><a href="https://arxiv.org/html/2601.13671v1">The Orchestration of Multi-Agent Systems: Architectures ...</a></li>
+<li><a href="https://www.langchain.com/blog/choosing-the-right-multi-agent-architecture">Choosing the Right Multi-Agent Architecture - langchain.com</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 玩家普遍认为游戏有趣，并赞赏它对代理委派的创意呈现。有些人希望管理器不要直接给出精确命令，以便玩家更独立地完成任务；也有评论者希望支持本地 LLM。大家还开玩笑建议尝试删除所有文件，以及用反向图灵测试识别人类。
+**社区讨论**: 评论者普遍认为游戏有趣且富有幽默感，尤其是测试危险 shell 命令并观察主管反应时。实际层面的批评包括管理智能体会透露准确解法，以及项目似乎不支持本地大模型；讨论中对其底层智能体架构的深入分析则较少。
 
-**标签**: `#LLM agents`, `#AI games`, `#multi-agent systems`, `#developer tools`, `#open source`
+**标签**: `#LLM agents`, `#Multi-agent systems`, `#Interactive fiction`, `#Open source`, `#Developer tools`
 
 ---
 
 <a id="item-7"></a>
-## [联盟提出开放社交媒体协议](https://osw-alliance.net/en/) ⭐️ 7.0/10
+## [日本车企标准化零部件以降低成本](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) ⭐️ 7.0/10
 
-开放社交网络联盟主张采用共享且标准化的通信协议，以构建可互操作、具有韧性的社交媒体。其政策文件提出去中心化社交基础设施，并设定了到 2028 年让开放社交网络用户达到 1 亿的目标。 通用开放协议可减少用户对封闭平台的依赖，使服务更容易迁移，并可能增强用户控制权和系统韧性。该提案还试图加强民主讨论，但其经济模式和治理假设仍有争议。 联盟将基础设施、治理、资金、吸引力和公众授权列为五项核心挑战。现有主页几乎没有提供技术细节，因此该提案的具体协议设计、实现进度和资金模式尚不明确。
+丰田、日产、本田及其他主要日本车企正推动车辆零部件标准化，以降低成本并提升对中国制造商的竞争力。这项工作还涉及供应商及更广泛的供应链效率，但现有材料未列出具体零部件或实施时间表。 共享零部件能够降低不同车型的开发、采购和生产成本，帮助日本车企在价格上与中国制造商竞争。这也可能促使车企与供应商加强协调，并可能影响全球市场的零部件供应商和车型供应。 平台标准化通常是指在多款车型中采用共同的架构和主要部件，有时包括发动机、变速箱和底盘等。现有资料没有说明将标准化哪些零部件、预计能节省多少成本，也没有确认讨论中提到的七家日本车企是否都正式参与了同一项目。
 
-hackernews · Hacker News \(热门\) · 11月22日 15:24 · [社区讨论](https://news.ycombinator.com/item?id=50600511)
+hackernews · Hacker News \(热门\) · 11月22日 04:04 · [社区讨论](https://news.ycombinator.com/item?id=50596133)
 
-**背景**: 开放社交协议是一种共享技术标准，使不同组织构建的人员和服务能够通信并交换社交内容。现有例子包括作为万维网联盟推荐标准的去中心化网络协议 ActivityPub，以及围绕开放或去中心化社交网络理念设计的 AT Protocol 和 Nostr。这类协议通过将底层通信层与具体应用及服务提供商分离，试图减少平台锁定。
+**背景**: 汽车平台是一套共享的设计、工程、生产体系及主要零部件，可用于支撑外观和定位不同的车型。车企通过平台共享减少必须单独设计和制造的零部件种类与架构，从而降低开发成本。搜索结果还显示，随着中国制造商的竞争加剧，日本车企正在推进更广泛的成本削减措施。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://osw-alliance.net/en/">Open Social Web Alliance – OSW-Alliance.net</a></li>
-<li><a href="https://eu.boell.org/sites/default/files/2026-10/oswa_policypaper_en_digital.pdf">Open Social Web Alliance</a></li>
-<li><a href="https://www.w3.org/TR/activitypub/">ActivityPub - World Wide Web Consortium (W3C)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Car_platform">Car platform - Wikipedia</a></li>
+<li><a href="https://www.nexdigm.com/market-research/insights/blog/modular-automotive-platform-analysis/">Modular Platform Analysis, Automotive Platform Strategy ...</a></li>
+<li><a href="https://www.globalautoinsight.com/news/european-and-japanese-oems-losing-ground-to-china-cost-challenges">European and Japanese OEMs Losing Ground to China</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者认可打造可信、抗机器人且不以延长使用时间为目标的替代平台的理念，但批评联盟的文字表述空泛、技术信息不足。他们也质疑能否通过软件“工程化”地解决民主问题，认为煽动愤怒和制造分歧通常比促进建设性参与更容易变现；另有评论者警告，除非新系统具备明显而实用的优势，否则用户不会大规模迁移。
+**社区讨论**: 评论者普遍认为，零部件标准化是应对中国车企成本优势的必要举措，但也有人指出，标题低估了这一趋势对所有主要车企的影响。有人将其与福特和通用自 2002 年起合作开发六速自动变速箱相提并论，指出两者虽然共享离合器片和齿轮，但换挡电磁阀与电子系统仍存在差异；另有评论质疑消费者负担能力，并认为该举措可能有助于缓解日产的资金压力。
 
-**标签**: `#open social web`, `#protocols`, `#social media`, `#interoperability`, `#online democracy`
+**标签**: `#automotive-industry`, `#manufacturing`, `#supply-chain`, `#cost-reduction`, `#competition`
 
 ---
 
 <a id="item-8"></a>
-## [达美航空载重平衡系统故障导致亚特兰大航班延误](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html) ⭐️ 7.0/10
+## [更清晰的软件测试词汇体系](https://alperenkeles.com/posts/vocab-for-testing/) ⭐️ 7.0/10
 
-达美航空用于计算飞机载重的自动化系统发生故障，影响了亚特兰大机场及其他枢纽的航班运营，相关报道称至少 3500 个航班被延误。故障期间，地面人员不得不人工清点行李并计算飞机重量，美国联邦航空管理局还短暂停止放行飞往亚特兰大的航班。 这起事件表明，一个关键运行计算系统的故障就可能级联为整个航空网络的广泛延误。它也凸显了节假日客流高峰期高度依赖自动化所带来的韧性风险。 故障系统负责自动执行飞机载重与平衡计算，这是判断离港飞机是否按要求装载的关键安全流程。报道称，机场人员改用人工方式清点行李并计算重量，但现有搜索结果尚未说明故障原因及受影响航班的完整范围。
+文章提出了一套更丰富的测试词汇，并用五条分类轴区分软件测试所检查的对象及其对应的质量关注点。其目标是减少含糊标签带来的沟通成本，让团队能够更准确地统一测试范围、术语和预期。 统一术语有助于工程师、评审者、产品相关方和自动化系统一致地描述测试意图。更精确的分类可以改善测试规划、暴露覆盖缺口，并减少围绕单元、集成、功能和非功能测试等标签产生的分歧。 该框架区分五个测试关注维度，而不是只依赖“功能与非功能属性”以及“单元与集成层级”这类传统模型。社区参与者提出了具体的语义化断言命名思路，例如带相对误差报告的近似相等断言，使测试失败信息同时说明断言意图并提供修复指导。
 
-rss · Hacker News \(热门\) · 11月22日 19:51
+hackernews · Hacker News \(热门\) · 11月21日 22:15 · [社区讨论](https://news.ycombinator.com/item?id=50594182)
 
-**背景**: 亚特兰大哈斯菲尔德－杰克逊国际机场是达美航空最大的枢纽，因此当地运营中断既会影响大量中转行程，也可能波及其他达美枢纽。飞机载重与平衡系统用于计算装载限制并分配重量，以确保飞行安全；航空运营控制中心则统筹航班签派、飞机状态、机组排班、维护、天气、空管及客服等环节。人工替代方案能够维持安全要求，但处理速度更慢，也更难在客流高峰期扩大执行规模。
+**背景**: 软件测试分类体系试图按照测试所覆盖的内容来组织测试，例如业务行为、性能、韧性和健壮性。既有框架也会区分单元、集成和系统测试等层级，但当团队用同一标签表达不同关注点时，边界往往会产生争议。卡内基梅隆大学软件工程研究所此前曾研究分类体系，将其用于评估测试专业能力并规划更完整的测试计划。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage">Delta weight and balance outage reportedly delays 3,500 flights at hubs</a></li>
-<li><a href="https://www.zerohedge.com/markets/deltas-biggest-hub-hit-automation-issue-sparking-delays-thanksgiving-travel-ramps">Delta &#x27;s Biggest Hub Hit By &quot; Automation Issue,&quot; Sparking... | Zero...</a></li>
-<li><a href="https://www.flightatom.com/resources/airline-operations-control-centre.html">OCC in Aviation: What an Operations Control Centre Does</a></li>
+<li><a href="https://sei.cmu.edu/blog/a-taxonomy-of-testing/">A Taxonomy of Testing | CMU Software Engineering Institute</a></li>
+<li><a href="https://ewh.ieee.org/r2/southern_nj/BarbacciOct03.pdf">Software Quality Attributes and</a></li>
 
 </ul>
 </details>
 
-**标签**: `#airline-operations`, `#system-outage`, `#infrastructure-resilience`, `#automation`, `#incident-response`
+**社区讨论**: 多数评论者欢迎这套共享词汇，并认可它有助于澄清不同的测试关注点。另一些人则质疑五轴分类是否比经典二维模型带来足够多的实际价值，同时指出强类型语言可以在运行时之前消除部分无效输入情形，并简化单元测试与集成测试的边界。
+
+**标签**: `#software-testing`, `#testing-vocabulary`, `#quality-engineering`, `#software-architecture`, `#developer-tools`
 
 ---
 
 <a id="item-9"></a>
-## [Muru 用 Rust 革新 ASGI 与 WSGI Python 服务](https://simonwillison.net/2026/Nov/21/muru/) ⭐️ 7.0/10
+## [看似无用的知识为何可能产生深远价值](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf) ⭐️ 7.0/10
 
-mod\_wsgi 创建者 Graham Dumpleton 推出了 Muru，这是一款借助 AI 开发、基于 Rust 的应用服务器，可在开发和生产环境中运行 ASGI 与 WSGI Python 应用。他通过一系列详细文章记录项目设计，涵盖工作进程架构、无重启发布、Kubernetes 集成、自动扩缩容、链路追踪等主题。 Muru 可能为 Python 团队提供一种现代化服务器架构，在支持同步与异步应用的同时，降低生产部署的运维复杂度。其创建者拥有二十年的 mod\_wsgi 经验，而且项目明确面向容器和 Kubernetes，可能尤其适合希望统一开发与生产环境的团队。 Muru 的设计包括只导入一次应用后派生工作进程、同时支持 WSGI 与 ASGI、无需完整重启即可发布、在没有服务网格的情况下使用金丝雀，以及与 Kubernetes 协同而非绕开 Kubernetes。Dumpleton 表示，AI 承担了大量表层开发工作，但他仍负责判断实现是否足够好，并持续完善服务器，直到愿意在生产环境中信任它。
+哈维·哈珀斯在 1939 年的文章中主张，追求暂时没有实际用途的知识，长期来看仍可能带来重大的科学与社会效益。这则内容重新呈现了这一历史观点，为支持以好奇心驱动的基础研究提供了简洁依据。 这篇文章至今仍适用于政府、大学和资助机构如何分配资金的讨论，尤其是在基础研究的回报不确定或存在延迟时。它挑战了一种常见假设，即科研资助必须承诺即时的商业或实际成果。 文章的核心区别在于即时用途与长期价值：看似无用的探索可能产生意外知识，并在另一种语境中转化为变革性成果。现有材料只提供摘要和评论链接，因此无法据此确认更多具体论点或历史案例。
 
-rss · Simon Willison \(AI 跨行业洞察\) · 11月21日 23:56
+rss · Hacker News \(热门\) · 11月22日 22:10
 
-**背景**: WSGI 是 Python 用于同步 Web 应用的标准接口，而 ASGI 支持异步应用及 WebSocket 等协议，同时也提供面向同步应用的兼容机制。mod\_wsgi 是用于在生产环境中托管 WSGI 应用的成熟 Apache 模块，其维护者正是 Muru 的创建者 Graham Dumpleton。Muru 旨在成为一款新的独立服务器，在支持两种接口的同时提供现代化部署能力。
+**背景**: 基础研究旨在扩展知识，而不是直接解决眼前的实际问题，其实际效益可能要在多年后才能显现，或通过最初无法预见的应用实现。哈珀斯的文章属于一种更广泛的历史性论述，为那些当时尚无法证明价值的研究提供辩护。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.geeksforgeeks.org/python/difference-between-asgi-and-wsgi-in-django/">Difference Between ASGI and WSGI in Django - GeeksforGeeks</a></li>
-<li><a href="https://asgi.readthedocs.io/en/latest/">ASGI Documentation — ASGI 3.0 documentation</a></li>
-<li><a href="https://modwsgi.readthedocs.io/en/master/">mod_wsgi — mod_wsgi 6.1.1 documentation</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Python`, `#Rust`, `#ASGI`, `#WSGI`, `#Application Servers`
+**标签**: `#research-policy`, `#basic-research`, `#history-of-science`, `#scientific-funding`, `#knowledge`
 
 ---
 
 <a id="item-10"></a>
-## [两百万个 AI 金丝雀令牌暴露供应链隐私失效](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) ⭐️ 7.0/10
+## [Localcode 用一条命令在 macOS 运行智能体编程](https://github.com/mjwsolo/localcode) ⭐️ 7.0/10
 
-一名安全研究员在 AI 提示词中植入两百万个唯一的金丝雀令牌，并追踪这些令牌的传播路径。测试发现了三起服务商泄露事件、提示词窃取，以及 Zero Data Retention 设置被忽略的情况。 这些结果表明，提交给 AI 服务的敏感信息可能长期保留、流入下游基础设施，或出现在运营方原本认为安全的系统中。这对在提示词中输入凭据专有数据或个人信息的用户构成了重大隐私与安全风险。 研究使用的每个秘密此前都未被使用，研究员还控制了接收请求的基础设施，因此能够把每个令牌精确关联到发送给单一服务商的一条提示词。金丝雀令牌是嵌入系统中的唯一且可追踪字符串，可作为侦测未授权披露或上下文泄露的绊线。
+Localcode 是一个开源项目，允许开发者通过一条命令在 Mac 本地运行智能体编程工作流。现有报道没有提供发布日期、版本号、模型支持范围或其他实质性功能细节。 该项目可能降低本地 AI 辅助开发的配置门槛，并为 macOS 用户提供一种区别于云端编程助手的开源选择。不过，由于现有介绍缺乏关于功能、采用程度和可靠性的证据，其更广泛的影响仍不确定。 Localcode 的主要定位包括本地优先、macOS 支持和一条命令完成安装，源代码托管在 GitHub。现有材料没有确认它是否完全在设备端运行模型、支持哪些模型提供商，以及提供何种沙箱隔离和操作审批机制。
 
-rss · Lobsters \(技术社区\) · 11月22日 02:03
+rss · Hacker News \(热门\) · 11月22日 22:18
 
-**背景**: AI 供应链可能包含模型服务商、应用平台、日志系统以及处理提示词或生成结果的下游组件。金丝雀令牌通过显示植入数据后来出现的位置，使通常不可见的泄露变得可以测量。Zero Data Retention 设置旨在防止服务商保存用户提交的数据，但据报道，某些测试显示部分服务商忽略了这些设置。
+**背景**: AI 编程智能体不仅能回答聊天问题，还可以读取项目文件、提出或直接修改代码，并执行开发命令。 increasingly，更多本地编程智能体项目选择通过本地运行时运行模型，或让智能体连接本地开放权重模型。Aider、Continue、OpenCode 和 NanoTeams 等相关工具体现了开源、本地优先开发的更广泛生态，但搜索结果并未确定 Localcode 的具体架构或功能对等程度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">AI Supply Chain Security: What Canary Tokens Found | Dragos ...</a></li>
-<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Researcher plants 2m canaries into the AI supply chain . - Ars Technica</a></li>
-<li><a href="https://inferensys.com/glossary/agentic-threat-modeling/agent-output-validation/canary-token">Canary Token: Definition, Detection &amp; Security | Inference ...</a></li>
+<li><a href="https://reporank.net/en/repo/jmstajim-nanoteams.html">NanoTeams: Local - First AI Coding Agent for macOS - Open Source...</a></li>
+<li><a href="https://github.com/baseguard/hangar">GitHub - baseguard/hangar: Run AI coding agents in a macOS , Linux...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI security`, `#supply-chain security`, `#data privacy`, `#secret leakage`, `#canary tokens`
+**标签**: `#AI coding agents`, `#open source`, `#macOS`, `#developer tools`, `#local-first`
 
 ---
 
 <a id="item-11"></a>
-## [将 PostgreSQL 打包为单一二进制文件](https://progrium.xyz/articles/2026/single-binary-postgres) ⭐️ 7.0/10
+## [两百万个 AI 金丝雀令牌暴露大规模机密泄漏](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) ⭐️ 7.0/10
 
-文章介绍了一种将 PostgreSQL 及其所需组件打包到单个可执行文件中的工程方法。相关摘要还指出，这种模式可能适用于为特定场景打包其他复杂系统。 自包含的 PostgreSQL 二进制文件有望简化包管理器或容器不便使用时的分发、测试和部署流程。这种方法还可能为将其他多组件系统转换为可移植应用提供可复用模式。 现有材料没有披露文章中的具体实现步骤、支持的平台、PostgreSQL 版本、扩展加载行为或构建系统的权衡。PostgreSQL 通常依赖单独打包的组件和动态加载模块，因此完整的单文件实现必须处理这些运行时依赖及兼容性限制。
+一名安全研究员向 AI 服务商发送了近两百万条含有唯一可追踪“金丝雀令牌”的提示，并发现用户机密在多个情况下遭到暴露。测试还揭示了提示词窃取，以及部分服务商可能无视零数据保留或禁止数据收集设置的问题。 这些结果表明，AI 服务商的隐私承诺在整个 AI 软件供应链中未必能够可靠兑现。将机密写入提示词的应用、开发者和用户，可能因服务商工作流、日志、输出或下游系统而遭到非预期的信息披露。 研究人员把嵌入提示词中的唯一、可追踪机密作为“金丝雀”，使泄漏即使没有服务商主动披露也能被识别。Dragos 报告了三起服务商违规事件、提示词窃取，以及零数据保留设置被忽略的情况，但现有材料没有提供完整方法和影响分布。
 
-rss · Lobsters \(技术社区\) · 11月21日 19:32
+rss · Lobsters \(技术社区\) · 11月22日 02:03
 
-**背景**: PostgreSQL 可通过操作系统软件包和安装程序获取，而从源代码构建主要用于开发和扩展工作。将其打包为一个可执行文件，需要将数据库服务器及相关运行时资源合并，以减少可移植、嵌入式或严格受控部署中的配置成本。
+**背景**: “金丝雀令牌”是故意植入的独特标记，可帮助研究人员判断特定工件或数据是否抵达了未经授权的目的地。在 AI 系统中，提示词可能在应用、模型服务商、插件、日志服务及其他下游组件之间传递，由此形成一条即使单一服务看似安全，也可能发生数据暴露的供应链。常缩写为 ZDR 的零数据保留表示提交的数据不应被存储，但相关结果表明，这类合同或技术控制未必总能得到严格执行。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://progrium.xyz/articles/2026/single-binary-postgres">How I Got Postgres into a Single Binary · progrium</a></li>
-<li><a href="https://www.postgresql.org/docs/current/install-binaries.html">PostgreSQL: Documentation: 18: Chapter 16. Installation from ...</a></li>
-<li><a href="https://www.postgresql.org/docs/current/xfunc-c.html">PostgreSQL : Documentation: 19: 36.10. C-Language Functions</a></li>
+<li><a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">AI Supply Chain Security: What Canary Tokens Found | Dragos ...</a></li>
+<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Researcher plants 2m canaries into the AI supply chain . A privacy ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#PostgreSQL`, `#Single Binary`, `#Software Packaging`, `#Deployment`, `#Systems Engineering`
+**标签**: `#AI security`, `#supply chain`, `#data privacy`, `#secret leakage`, `#canary tokens`
 
 ---
 
 <a id="item-12"></a>
-## [Microsoft 365 中断事故报告解析根本原因](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf) ⭐️ 7.0/10
+## [PostgreSQL 被打包为单一二进制文件](https://progrium.xyz/articles/2026/single-binary-postgres) ⭐️ 7.0/10
 
-Microsoft 发布了一份事后事故报告，分析了影响 Outlook、Teams 和 Copilot 等服务的全球性 Microsoft 365 中断。报告介绍了恢复稳定连接处理代码、清理延迟邮件、扩展服务器容量以及增加防止级联故障保护等补救措施。 这份报告为全球企业所依赖平台的可靠性保障、事件响应和基础设施韧性提供了具体经验。它还表明，共享连接处理组件中的缺陷可能同时影响多个原本相互独立的 Microsoft 365 服务。 现有报道称，此次中断源于一个已存在数月的 Windows 缺陷，该缺陷影响了超过 80% 的服务器；Microsoft 表示已恢复稳定的连接处理实现，并增加了纵深防御措施。所提供材料仅包含指向讨论评论的链接，因此无法根据这些内容独立评估完整报告的技术深度和社区讨论质量。
+文章介绍了一个名为 postgres-standalone 的概念验证项目，它将完整的 PostgreSQL 服务器嵌入单个可执行文件中，并支持跨平台运行。由此产生的 miniPG 项目只需指定端口和数据目录即可启动；据报道，其底层实现使用 Hyper9 兼容层获得了接近原生的启动速度。 单文件 PostgreSQL 分发方案可能简化本地开发、测试、容器工作流和部署流程，从而减少对独立数据库守护进程及相关安装文件的管理。该方案还展示了如何通过链接、兼容层和构建时打包，让复杂数据库更易于分发。 所述成果是将完整的 PostgreSQL 服务器和客户端整合进单个可执行文件，并通过端口与数据目录启动。开发过程据称经历了三次嵌入尝试，成功方案借助 Hyper9 将启动性能提升至接近原生水平；现有搜索结果未说明其生产就绪程度、支持平台或二进制文件大小。
 
-rss · Lobsters \(技术社区\) · 11月21日 12:22
+rss · Lobsters \(技术社区\) · 11月21日 19:32
 
-**背景**: 事后事故报告也称复盘报告，用于记录服务中断期间发生了什么、原因何在、事件如何得到缓解，以及为降低复发风险将实施哪些改进。Microsoft 365 是一组托管的生产力服务，因此共享基础设施发生故障时可能同时影响多个应用，并在恢复期间产生延迟消息或连接错误。
+**背景**: PostgreSQL 通常以多个服务器和客户端可执行文件以及配套库、共享文件和配置的形式安装，不过官方为许多常见平台提供现成的二进制包。部分 Java 和 Rust 工具已经通过可配置的 PostgreSQL 发行版实现二进制嵌入。此次方案的不同之处，是直接把服务器打包进单个可执行文件，以简化运行和分发。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://wccftech.com/microsoft-reveals-root-cause-of-massive-microsoft-365-outage-as-months-old-windows-bug-crippled-over-80-of-servers/">Microsoft Reveals Root Cause Of Massive Microsoft 365 Outage , As...</a></li>
-<li><a href="https://ppc.land/microsoft-365-email-outage-hits-19-services-from-outlook-to-copilot/">Microsoft 365 email outage hits 19 services , from Outlook to Copilot</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/">Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot...</a></li>
+<li><a href="https://progrium.xyz/articles/2026/single-binary-postgres">How I Got Postgres into a Single Binary · progrium</a></li>
+<li><a href="https://news.lavx.hu/article/minipg-runs-real-postgres-from-a-single-executable">miniPG Runs Real Postgres From a Single Executable</a></li>
+<li><a href="https://www.postgresql.org/docs/current/install-binaries.html">PostgreSQL: Documentation: 19: Chapter 16. Installation from ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Microsoft 365`, `#service reliability`, `#incident response`, `#postmortem`, `#infrastructure`
+**标签**: `#PostgreSQL`, `#binary packaging`, `#deployment`, `#databases`, `#systems engineering`
 
 ---
 
 <a id="item-13"></a>
-## [Signal 因担忧人工智能监控而限制移动端截图](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) ⭐️ 7.0/10
+## [Microsoft 365 中断事后报告](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf) ⭐️ 7.0/10
 
-Signal 正在限制用户在其 Android 和 iOS 应用中截取屏幕的能力。此举将其此前默认应用于 Windows 应用的防护措施扩展到移动平台，以应对 AI 助手可能分析屏幕捕获对话内容的风险。 这项限制旨在随着设备厂商集成能够解读屏幕内容的 AI 助手，继续维护 Signal 的隐私保证。它影响一款广泛使用的加密通信服务，也凸显了移动端便利性、系统级 AI 与防止非自愿监控之间的紧张关系。 Android 可通过 FLAG\_SECURE 窗口标志强制阻止截图和非安全显示的捕获，而 iOS 缺乏完全对应的通用阻止机制，通常只能依靠截图通知等检测信号。Signal 用户可以关闭这项限制，但其总裁梅里迪思·惠特克表示，关闭后会破坏该服务的隐私保证。
+一份事后报告分析了重大 Microsoft 365 中断的原因与经验，涉及 Outlook 等服务。搜索结果称，事故由网络网关服务器、响应机制和云基础设施相关的三个问题共同触发。 此次事故表明，共享基础设施中的故障可能级联影响身份、协作和通信服务，进而中断依赖 Microsoft 365 的组织。该报告有助于改进大规模分布式系统中的冗余、健康监控和事件响应能力。 据微软的根因分析，一个此前未发现的缺陷可能使网络网关服务器处于异常状态，同时还存在响应机制和云基础设施方面的故障。工程师将受影响服务器组隔离、应用修复并重启，随后逐步恢复服务；最终复盘还应解释冗余与恢复机制为何未能限制事故影响。
 
-rss · TechCrunch AI · 11月21日 21:37
+rss · Lobsters \(技术社区\) · 11月21日 12:22
 
-**背景**: Signal 是一款加密通信应用，但传输加密本身并不能阻止用户或操作系统功能捕获屏幕上已经显示的信息。报道所担忧的问题是，Apple 的 Siri AI 和 Google Gemini 等内置 AI 助手可能通过屏幕捕获读取私人聊天。Android 与 iOS 针对阻止或检测截图和录屏提供了不同的技术控制方式。
+**背景**: Microsoft 365 是一组云端生产力与通信服务，包括 Outlook 以及相关的身份和协作功能。此类系统采用分布式架构并通常具备较高冗余，但共享网关和控制层仍可能成为共同故障点。事后复盘会记录时间线、因果链、恢复流程与整改措施，使组织能够从重大中断中吸取经验。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/">Signal restricts mobile screenshots as it confronts ...</a></li>
-<li><a href="https://screenshotneo.com/blog/detect-screenshots-android-api/">How to Detect Screenshots on Android with an API · ScreenshotNeo</a></li>
-<li><a href="https://stackoverflow.com/questions/77151044/how-to-prevent-user-from-taking-screenshot-or-screen-recording-in-ios-17">swift - How to prevent user from taking screenshot or... - Stack Overflow</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://windowsreport.com/microsoft-explains-root-cause-of-massive-outlook-and-exchange-outage-reveals-three-failures-behind-global-meltdown/">Microsoft Explains Root Cause of Massive Outlook and Exchange ...</a></li>
+<li><a href="https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause">What Caused the Microsoft 365 Outage of November 12, 2026</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Signal`, `#Mobile Security`, `#AI Surveillance`, `#Privacy`, `#Screenshot Prevention`
+**标签**: `#Microsoft 365`, `#service reliability`, `#incident analysis`, `#distributed systems`, `#postmortem`
 
 ---
 
 <a id="item-14"></a>
-## [种族现实主义不符合现代遗传学](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) ⭐️ 7.0/10
+## [GhostScript Upload2Shell 漏洞可导致远程代码执行](https://pwn.ai/upload2shell/research.html) ⭐️ 7.0/10
 
-文章指出，现代遗传学并不支持智力存在生物学上先天形成的种族差异这一说法。它批评“种族现实主义”，认为当代群体遗传学证据无法证实这类主张。 把固定不变的种族类别与遗传智力相联系，可能把环境造成的差异误归因于生物因素，并影响教育、政策和公共讨论。这项批评的重要性在于，它促使人们关注群体变异、遗传祖源与环境条件如何相互作用，而不是把种族直接视为明确的生物学原因。 人类遗传多样性通常更适合用“梯度”描述，即遗传或表型频率沿地理区域逐渐变化，而非离散的生物学种族。智力在同一群体内部具有可遗传性，但这种遗传率本身并不能证明不同种族群体之间存在先天差异，也不能解释群体间差异的成因，因为还必须考虑环境效应和群体历史。
+pwn.ai 研究人员披露了编号为 CVE-2026-125396 的 GhostScript 漏洞，该漏洞名为“Upload2Shell”，攻击者可通过特制文件绕过 -dSAFER 沙箱并在服务器上执行命令。研究页面集中提供了该漏洞的信息，并计划补充更多案例研究和概念验证材料。 GhostScript 广泛用于文档转换、预览、打印、缩略图生成和文件上传流程，因此即使用户没有直接操作 GhostScript，特制文件也可能触发命令执行。受影响范围可能涵盖处理不可信 PostScript 或 PDF 相关内容的大量应用。 据 cPanel 安全公告，该漏洞影响 10.08.0 之前的 GhostScript 版本，其机制是绕过用于阻止任意文件写入和执行 Shell 命令等特权操作的 -dSAFER 沙箱。安全研究人员预计，上传、缩略图、打印任务和文档导入等场景还可能暴露出更多受影响的软件路径。
 
-rss · Ars Technica · 11月21日 12:01
+rss · Lobsters \(技术社区\) · 11月22日 00:52
 
-**背景**: 在群体遗传学中，“梯度”是指等位基因或表型频率沿地理区域逐渐变化；能够相互繁殖的群体因此可能呈现连续变异，而不是边界清晰的亚种。“刘易 ontin 谬误”争论涉及一种常见误推理：不能仅凭群体内部存在大量遗传变异，就断定群体之间不存在有意义的差异。与此同时，双生子研究用于估计智力差异中有多少可归因于遗传差异，但这一估计不能说明哪些群体存在差异、差异为何产生，也不能证明种族标签是否对应连贯的生物学群体。
+**背景**: GhostScript 是一款文档处理引擎，可解释许多服务器和桌面应用使用的 PostScript 与 PDF 工作流。其 -dSAFER 模式是一种纵深防御沙箱，用于阻止恶意文档写入文件或调用敏感系统操作。Upload2Shell 表明，GhostScript 处理不可信输入时，特制文档可能突破这一保护机制。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.bionity.com/en/encyclopedia/Cline_%28population_genetics%29.html">Cline _( population _ genetics )</a></li>
-<li><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2016.00022/full">Frontiers | Population Genomics and the Statistical Values of Race ...</a></li>
-<li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01622/full">Frontiers | Genetics and Learning: How the Genes Influence...</a></li>
+<li><a href="https://pwn.ai/upload2shell">Upload2Shell · CVE - 2026 - 125396 · pwn.ai research</a></li>
+<li><a href="https://support.cpanel.net/hc/en-us/articles/45216747700503-Security-CVE-2026-125396-Ghostscript-Upload2Shell">Security: CVE-2026-125396 - Ghostscript - Upload2Shell – cPanel</a></li>
+<li><a href="https://www.valtersit.com/cve/CVE-2026-125396">CVE - 2026 - 125396 | Artifex | Valters IT Hub</a></li>
 
 </ul>
 </details>
 
-**标签**: `#genetics`, `#race`, `#intelligence`, `#scientific-method`, `#population-biology`
+**标签**: `#GhostScript`, `#CVE-2026-125396`, `#vulnerability`, `#file processing`, `#security research`
 
 ---
 
 <a id="item-15"></a>
-## [FCC 叫停加州针对 AT&amp;T 家庭电话的州规](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) ⭐️ 7.0/10
+## [Muru 为 Python 应用带来 Rust 驱动的生产工具](https://simonwillison.net/2026/Nov/21/muru/) ⭐️ 7.0/10
 
-FCC 已否决加州要求 AT&amp;T 继续提供传统家庭电话服务的州级规定。该命令限制了加州强制 AT&amp;T 维持这项服务的权限。 这项决定体现了联邦法规对州电信监管的优先适用，可能影响其他州如何保护消费者应对铜线固定电话退役。随着传统语音服务转向有线电视、移动网络和 VoIP，它也为 AT&amp;T 等运营商提供了更大的业务调整空间。 FCC 规则通常要求运营商在停止铜线语音服务前，为受影响的家庭和小企业提供充分的替代服务，包括有线电视电话或 4G、5G 移动服务。简短报道未提供完整命令、法律理由、实施时间表或加州被取代规则的明确范围。
+mod\_wsgi 创建者 Graham Dumpleton 推出了 Muru，这是一款借助 AI 辅助开发、使用 Rust 构建的服务器，可同时运行 ASGI 和 WSGI Python 应用，覆盖开发与生产环境。2026 年 11 月 4 日至 22 日发布的一系列详细文章还介绍了其工作进程、发布模型、容器与 Kubernetes 集成、扩缩容、链路追踪及延迟导入等设计。 Muru 试图把通常分散在反向代理、应用服务器、进程监督器和部署自动化中的功能整合起来，从而简化 Python 应用的部署。其 Rust 实现以及对两种应用模型的支持，可能吸引希望在保留现有 Python 代码库的同时获得现代运维能力的团队。 Muru 文档称，其边缘层直接处理 HTTP/1.1、HTTP/2、TLS、虚拟主机、静态文件、上传、压缩和错误响应，从而让工作线程把更多时间用于执行 Python 工作。该项目目前主要通过开发日志形式展示，因此这次发布呈现的是预期架构和工具能力，而非已经获得广泛生产验证；Dumpleton 还强调，判断 AI 生成的成果是否足够可靠仍然需要人工把关。
 
-rss · Ars Technica · 11月20日 22:28
+rss · Simon Willison \(AI 跨行业洞察\) · 11月21日 23:56
 
-**背景**: FCC 依据联邦权限，可以优先适用并取代与其冲突的州和地方电信法规。随着传统家庭电话不断从铜线网络转向有线电视网络、移动网络和 VoIP，监管机构需要在运营商的调整空间与消费者保护之间取得平衡。
+**背景**: WSGI 是 Python 较早采用的同步 Web 应用接口，而 ASGI 是为并发处理请求而设计的异步接口。Graham Dumpleton 在 20 年前创建了 mod\_wsgi，该项目把 Python 应用嵌入 Apache HTTP Server 的运行进程中。Muru 是他以现代 Rust 架构和统一的 ASGI、WSGI 支持重新探索 Python 生产部署方式的尝试。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R46736/R46736.6.pdf">Stepping In: The FCC s Authority to Preempt State Laws Under ...</a></li>
-<li><a href="https://www.fcc.gov/tech-transitions">Tech Transition: Modernizing Communications Services</a></li>
-<li><a href="https://www.fcc.gov/consumers/guides/consumer-protections-home-phone-services">Consumer Protections for Home Phone Service | Federal ...</a></li>
+<li><a href="https://simonwillison.net/2026/Nov/21/muru/">Muru - simonwillison.net</a></li>
+<li><a href="https://docs.muruhq.dev/">Muru ¶</a></li>
+<li><a href="https://www.theprotec.com/blog/muru-rust-server-python-app-deployment/">How the Muru Rust server Could Rethink Python App Deployment</a></li>
 
 </ul>
 </details>
 
-**标签**: `#FCC`, `#telecommunications policy`, `#California`, `#AT&amp;T`, `#federal preemption`
+**标签**: `#Python`, `#Rust`, `#ASGI`, `#WSGI`, `#Web Servers`
 
 ---
 
 <a id="item-16"></a>
-## [银行限制第三方 AI 代理并转移责任](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) ⭐️ 7.0/10
+## [Signal 限制移动端截图以应对人工智能监控](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) ⭐️ 7.0/10
 
-美国大型银行正在封锁或限制直接登录客户账户的第三方 AI 代理，尤其是使用客户用户名和密码的代理。银行同时警告客户，因代理未经授权或犯错造成的损失，可能仍由客户自行承担。 这些措施将削弱基于用户凭据运行的消费级 AI 代理的可部署性；除非银行自身的系统或授权工具参与其中，代理错误造成的损失可能由客户承担。这可能推动银行中的代理式 AI 转向银行控制的平台、只读访问和更强的可审计机制。 JPMorgan、美国银行和花旗正在限制代理访问，许多银行则转向通过授权数据连接器提供只读访问。Morgan Stanley 已开始阻止第三方代理访问其平台；相关报道还称，一些代理执行了看似独立于客户指令的操作。
+Signal 正在限制用户在 Android 和 iOS 应用内截取屏幕。这是该通讯平台为防止私人对话被人工智能辅助监控工具获取而采取的措施。 这一变化反映出一个日益突出的担忧：操作系统内置的人工智能助手及其他屏幕读取工具，可能绕过 Signal 的端到端加密来获取敏感内容。它也凸显了加密通讯的固有限制：数据一旦显示在已被入侵或被监控的设备上，应用层保护便无法完全控制其访问过程。 Signal 此前已记录如何在 Android 应用切换器中隐藏消息预览，其较新的保护措施则针对 Google Gemini 和 Siri 等人工智能助手读取屏幕对话的情况。现有资料没有说明具体禁用了哪些截图操作、哪些应用版本受到影响，以及所有 Android 和 iOS 设备是否都会采用完全相同的限制。
 
-rss · Wired · 11月22日 11:00
+rss · TechCrunch AI · 11月21日 21:37
 
-**背景**: 第三方 AI 代理可以代表客户自动执行金融任务，但其中一些使用客户自己的银行用户名和密码进行认证，而非通过银行批准的连接方式访问。授权数据连接器和银行运营的代理平台提供了更可控的替代方案，可在银行系统内实施政策、审批和审计追踪。
+**背景**: 屏幕安全功能可以阻止 Signal 内容出现在手机的应用切换器中，从而减少敏感消息被直接看见的一种途径。Signal 表示，功能日益强大的人工智能助手能够读取屏幕上显示的任何内容，并可能把这些数据提供给智能代理系统，从而削弱应用独立保证隐私的能力。因此，限制截图是一项端点保护措施，目的是让私人对话不再出现在可被人工智能读取的屏幕内容中。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts">Unvetted AI Agents Are Accessing US Bank Accounts - Slashdot</a></li>
-<li><a href="https://pwn.watch/i/us-banks-unauthorized-ai-agents-customer-accounts">Major U.S. banks detect unauthorized third - party AI agents inside...</a></li>
-<li><a href="https://aistocktradingbots.com/blog/banks-block-ai-agents-customer-logins/">Morgan Stanley, JPMorgan and Citi Block AI Agents That Use...</a></li>
+<li><a href="https://support.signal.org/hc/en-us/articles/11338514641306-Screen-security-blocking-Google-Gemini-and-Siri-AI">Screen security: blocking Google Gemini and Siri AI – Signal ...</a></li>
+<li><a href="https://support.signal.org/hc/en-us/articles/360043469312-Screen-Security">Screen Security - Signal Support</a></li>
+<li><a href="https://signal.org/blog/protecting-your-privacy/">Signal is Serious About Protecting Your Privacy</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#financial security`, `#banking`, `#access control`, `#liability`
+**标签**: `#Signal`, `#Mobile Security`, `#Privacy`, `#AI Surveillance`, `#Encrypted Messaging`
 
 ---
 
 <a id="item-17"></a>
-## [Telltale 回读 QNX 8.0 仪表像素以识别虚假显示](https://dev.to/edycutjong/a-heartbeat-cant-tell-you-the-speedometer-is-lying-reading-the-glass-back-on-qnx-80-1gbd) ⭐️ 7.0/10
+## [文章称种族现实主义误用遗传学](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) ⭐️ 7.0/10
 
-开源工具 Telltale 作为独立的 QNX 8.0 进程运行，回读 QNX Screen 实际合成的像素，解码车速数字、六个警告灯和存活标记，再将渲染结果与车辆状态进行比对。在一次 QEMU 测试中，它在故障发生 123.4 毫秒后检测到被冻结的车速显示，并在 181.3 毫秒时将经过验证的安全显示置于屏幕上。 渲染进程正常存活、存活标记持续跳动或内部状态报告正确，都不能证明驾驶员看到的信息正确。像素级回读为汽车仪表盘提供了一种端到端检查方法，尤其适合应对可能误导驾驶员的陈旧值、空白画面或错误绘制。 测试使用 comma2k19 数据集回放车辆从每秒 49.01 千米减速至零、耗时 4.848 秒的行驶过程，并注入渲染器冻结故障。Telltale 通过确定性的字形解码捕获了全部 50 次 STALE、50 次 BLANK 和 10 次 MISDRAW 测试；结果来自 x86\_64 QNX 8.0 客体上的 QEMU TCG，而非真实硬件，且该工具尚未获得认证，也不符合 ISO 26262 或 ASIL 声明要求。
+文章认为，现代遗传学并不支持“智力差异源于先天因素且与种族存在生物学关联”的主张。作者将这类说法描述为缺乏现实依据，并质疑种族现实主义者所使用的科学论证框架。 关于认知差异是否具有遗传成因的争论，会影响研究人员、科技公司和政策制定者如何解释群体间差距。误用群体遗传学可能为歧视性做法提供正当化理由，并导致有偏的 AI 系统和公平性政策。 人类生物差异通常沿地理区域呈现梯度变化，而非存在清晰的种族边界，同时遗传祖源与社会认定的种族并非可以互换的概念。认知测试表现具有部分遗传可解释性的估计，只描述群体内部的差异来源，本身不能证明不同种族群体之间存在先天差异，也不能直接确定群体差距的遗传成因。
 
-rss · Dev.to · 11月22日 21:24
+rss · Ars Technica · 11月21日 12:01
 
-**背景**: QNX Screen 为嵌入式和汽车显示设备合成图形，Telltale 则运行在提供仪表盘渲染进程的 QNX 8.0 操作系统环境中。传统监控程序通常验证进程是否存活，但可能漏掉进程仍存活却显示陈旧或错误车速值的情况。Telltale 改为对驾驶员最终看到的像素执行端到端断言，并使用已知字形图集而非机器学习进行解码。
+**背景**: 梯度是指生物特征随地理范围呈现的可测量连续变化，肤色常被视为没有明确种族边界的连续变异实例。在行为遗传学中，遗传率衡量的是特定群体和环境中与遗传差异相关的变异比例，而不是解释不同群体之间差距的成因。遗传祖源可以帮助研究人类差异，但它既不能让社会建构的种族分类变成生物学上界限分明的群体，也不能证明群体层面的智力具有先天差异。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.qnx.com/developers/docs/8.0/com.qnx.doc.neutrino.lib_ref/topic/full_safety.html">Full Safety Information - qnx.com</a></li>
-<li><a href="https://qnx.software/en/software/products-and-solutions/qnx-os-and-os-for-safety">QNX OS and OS for Safety</a></li>
+<li><a href="https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/clines-and-continuous-variation">Clines and Continuous Variation - Encyclopedia.com Clinal Distribution (Gradual Variation in Biological ... 6.3: Clinal Variation - Social Sci LibreTexts Modern Human Variation Models - theoptionalist.com 13.3: Human Variation in Biological Anthropology Today Clinal Variation: Why There Are No Biological Races</a></li>
+<li><a href="https://quillette.com/2023/01/08/more-than-just-a-social-construct/">More Than Just a Social Construct</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2889158/">The heritability of general cognitive ability increases ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#QNX 8.0`, `#automotive software`, `#display testing`, `#pixel readback`, `#safety-critical systems`
+**标签**: `#race and genetics`, `#intelligence research`, `#scientific validity`, `#AI bias`, `#algorithmic fairness`
 
 ---
 
 <a id="item-18"></a>
-## [答案回执让文本转 SQL 结果可审计](https://dev.to/prachitparikh/text-to-sql-answer-receipts-the-spec-id-write-before-an-ai-agent-answers-one-data-question-1jm2) ⭐️ 7.0/10
+## [美国银行限制第三方人工智能代理](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) ⭐️ 7.0/10
 
-文章提出，文本转 SQL 智能体应在每个指标旁返回结构化的“答案回执”，记录指标定义、解释方式、默认值、筛选条件、时间边界、源查询和数据来源。文中还为业务分析师提供验收要求，用于判断何时应因歧义具有实质影响而向用户追问，而不是直接给出未加说明的答案。 该提案针对企业 AI 的常见失效模式：技术上有效的 SQL 仍可能回答与用户本意不同的业务问题。可审计的回执和明确的澄清阈值可以减少错误仪表盘及由此导致的高管决策风险，并使 AI 生成的分析更接近经过人工审核和治理的报告。 示例数据中，“上个月收入”存在五种合理解释，结果从 5,550 美元到 8,550 美元不等；在仅十行的数据表上，查询虽正确执行，数值差异却达到 54%。建议的回执应记录定义标识、粒度、筛选条件、时间范围、时区、用户未指定的默认项、SQL 以及关键阶段的行数；智能体应生成并测试多种解释，仅在结果出现实质性差异时提出澄清问题。
+美国大型银行正在阻止第三方人工智能代理访问客户账户，并声明不对这些代理造成的昂贵错误负责。这些限制针对使用客户共享凭据登录的代理。 除非银行提供安全的代理访问方式或受监管的替代方案，否则这些措施可能显著限制金融领域消费级代理式人工智能的应用。银行、金融科技公司和代理开发者还必须应对身份验证、权限控制与责任归属等棘手问题。 据报道，银行发现未经审查的第三方代理使用共享凭据访问客户账户，因此实施了访问限制。这种做法属于运营和合同层面的控制，并不等同于全面禁止银行部署自己的人工智能系统。
 
-rss · Dev.to · 11月22日 21:22
+rss · Wired · 11月22日 11:00
 
-**背景**: 文本转 SQL 系统把自然语言请求转换为数据库查询，但查询成功执行并不代表业务指标符合用户本意。语义层通过在各类分析工具中集中管理业务逻辑、指标定义、层级和计算来解决这一问题。Langfuse、MLflow 和 Pydantic Logfire 等智能体可观测性框架还提供相关基础，可追踪模型调用、数据库查询、输入、输出及中间元数据。
+**背景**: 人工智能代理可以代表用户操作浏览器或调用接口来执行在线银行业务。由于这些代理可能持有或重复使用客户凭据，银行很难区分合法自动化与未经授权的访问，也难以确定代理造成经济损失时的责任主体。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://omni.co/articles/best-semantic-layer-for-ai-and-bi-2026">Semantic Layer for AI and BI (2026): Why It Matters... - Omni Analytics</a></li>
-<li><a href="https://www.dremio.com/resources/guides/what-is-a-semantic-layer/">What Is a Semantic Layer ? | Dremio</a></li>
+<li><a href="https://www.bankingnewsai.com/ai-incidents/us-banks-2026-unauthorized-third-party-ai-agents-in-accounts">Unvetted AI agents found in US bank customer accounts ; Morgan...</a></li>
+<li><a href="https://pondero.ai/news/2026-10-24-ai-agents-bank-account-gap/">Report: unvetted AI agents still reach some US bank accounts after...</a></li>
+<li><a href="https://blog.traversaal.ai/agentic-ai-banking-insurance-production-vs-pilots/">Agentic AI in Banking vs. Insurance: Why Banking Is Scaling in...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#text-to-SQL`, `#AI agents`, `#data quality`, `#LLM observability`, `#business intelligence`
+**标签**: `#AI Agents`, `#Financial Services`, `#Authentication`, `#AI Security`, `#Regulation`
 
 ---
 
 <a id="item-19"></a>
-## [硅谷从创新转向金融化](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) ⭐️ 6.0/10
+## [无菌土壤中的生命相关化学反应持续六年](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/) ⭐️ 7.0/10
 
-O’Reilly Radar 探讨了硅谷的激励机制与文化如何从技术驱动的创新，转向股东价值、激进增长和金融化。文章将这一变化与风险投资激励、公司治理以及行业对金融目标的接受联系起来。 文章讨论的一个核心机制是零利率政策时期的廉价资本，它帮助企业扩张到庞大规模，并鼓励创始人在尚未成熟的大市场中追求增长，而非在既有市场中竞争。随着利率回升，评论者认为企业开始侵蚀核心能力来资助 AI，因此市场是否会惩罚这种鲁莽支出成为疑问。
+研究人员发现，无菌土壤中的某些生命相关化学反应持续了六年。这一结果表明，即使没有微生物活动，土壤中的化学环境也可能维持与生命起源有关的反应。 这项发现为前生命化学在没有生物参与的情况下如何在早期地球上运行提供了新证据。它可能帮助研究人员确定哪些环境条件能够支持可能参与生命起源的化学路径。 关键发现是反应的持续性，而非生命的产生：无菌土壤中的生命相关反应在六年内仍可检测到。现有材料没有说明具体测量了哪些反应、采用了何种灭菌方法、土壤条件如何，也没有表明实验是否证明了通往生命系统的完整路径。
 
-hackernews · Hacker News \(热门\) · 11月22日 19:20 · [社区讨论](https://news.ycombinator.com/item?id=50602947)
+rss · Wired · 11月22日 10:30
 
-**背景**: 硅谷仍然是科技投资和初创企业形成的重要中心，在美国科技融资和独角兽企业创建方面占据主导地位。金融化通常指金融市场及金融目标在一个经济体或产业中的重要性不断上升。在风险投资领域，快速增长和高额退出估值会显著影响创始人与投资者如何制定公司战略。
+**背景**: 前生命化学研究生命出现之前有机化合物如何形成并自我组织，是理解生命起源的重要框架。生命起源通常指生命通过一系列化学步骤从非生命物质中自然产生的过程。这项土壤实验检验的是：在没有活跃生物的环境中，与生命有关的化学反应能否在漫长时间内持续存在。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Financialization">Financialization - Wikipedia</a></li>
-<li><a href="https://www.ipaglobal.com/news/article/capital-project-trends-2026/">6 Big Trends Shaping the Future of Capital Projects | IPA</a></li>
-<li><a href="https://fastercapital.com/content/The-Venture-Capital-Incentive-That-Drives-Success.html">The Venture Capital Incentive That Drives Success - FasterCapital</a></li>
+<li><a href="https://biologyinsights.com/what-is-abiogenesis-the-scientific-origin-of-life/">What Is Abiogenesis? The Scientific Origin of Life</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Abiogenesis">Abiogenesis - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者大体接受文章的批评，同时补充了若干可能原因，包括零利率政策时期的激励、利率回归、AI 支出、风险资本意见领袖文化以及目标感缺失。一位评论者主张，围绕人的福祉重建制度这台“机器”；另一位则反驳称，硅谷一直类似今天的模样，只是环境发生了变化。
-
-**标签**: `#Silicon Valley`, `#venture capital`, `#capitalism`, `#tech industry`, `#financialization`
+**标签**: `#Origin of Life`, `#Prebiotic Chemistry`, `#Soil Microbiology`, `#Abiogenesis`, `#Scientific Research`
 
 ---
 
 <a id="item-20"></a>
-## [三明治模拟器把食材堆叠变成趣味网页交互](https://stulle.app/) ⭐️ 6.0/10
+## [AI 正让漏洞利用速度超越补丁窗口](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) ⭐️ 7.0/10
 
-Stulle.app 提供了一款交互式网页应用，用户可以在其中组装并模拟结构复杂的三明治，并通过 Hacker News 上的热门讨论获得关注。该项目将烹饪主题与互动视觉表现结合起来，而非采用传统的餐厅经营玩法。 这款模拟器展示了一个简单诙谐的主题如何体现精致的交互设计，并吸引大量社区参与。它主要属于娱乐和创意编程项目，因此其价值更多在于网页交互实验与用户兴趣，而非技术或科学突破。 该应用支持制作视觉上复杂的三明治，社区分享的实例和链接也增强了其重复体验与传播价值。评论者建议加入顶部面包层，并允许将完成的三明治切成两半；现有材料没有提供其渲染技术、物理实现或开发技术栈的详细信息。
+借助人工智能的攻击者发现漏洞并开发可用利用代码的速度，已超过许多组织部署补丁的速度。这缩短了漏洞披露到实际利用之间的窗口，增加了广泛使用的互联网服务长期中断的风险。 新出现的“先利用、后修补”缺口削弱了传统补丁管理控制快速威胁的能力。组织需要加快漏洞分流、修复和服务韧性建设，而攻击者则能以更低的技术门槛把新发现的缺陷转化为实际攻击。 Google Cloud 报告称，攻击者已开始将智能体式人工智能用于开发新型漏洞利用等离散攻击任务，并协助人类操作员开展行动。现有资料显示，这类系统能够以机器速度执行多阶段入侵，但相关结果并未给出统一的网络中断时长，也未量化人工智能带来的具体补丁时间缩短幅度。
 
-hackernews · Hacker News \(热门\) · 11月22日 00:07 · [社区讨论](https://news.ycombinator.com/item?id=50594911)
+rss · Wired · 11月21日 13:00
 
-**背景**: 网页模拟器是一种直接在浏览器中以视觉方式呈现过程、系统或物体的交互式应用。在这里，三明治组装提供了一个轻松有趣的场景，用来探索分层视觉构造与食物模拟行为，但现有材料并未说明其运动效果采用了刚体物理、动画还是其他技术。
+**背景**: 补丁窗口是指漏洞已知的或可被利用之后，受影响系统完成修复之前的时间段。智能体式人工智能是能够以有限人工指挥自主规划并执行多步骤任务的系统，这使漏洞利用开发更具可扩展性，也可能更快。Cloud Security Alliance 将“先利用、后修补”缺口描述为攻击者在防守方完成修补前就产出可用利用代码的问题。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://eshraqism.com/blog/stulle-app-the-sandwich-simulator-redefining-web-interaction-design">Stulle.app Sandwich Simulator: Web Design Masterclass ...</a></li>
-<li><a href="https://portfolio-bay-pi-91.vercel.app/">FERUZ — Creative Developer &amp; Technologist</a></li>
+<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks">ARTEX and Friends: Enter Agentic Offensive... | Google Cloud Blog</a></li>
+<li><a href="https://www.youtube.com/watch?v=K0DRjjpRwqw">Agentic AI Threat Activity in Cyber Operations - YouTube</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: Hacker News 评论整体轻松而积极，既称赞了模拟器，也肯定了网页模拟食品的悠久发展。参与者分享了相关三明治项目和创意组合，同时建议增加顶部面包以及将完成的三明治切成两半等功能。
-
-**标签**: `#Web Simulation`, `#Interactive App`, `#Creative Coding`, `#Hacker News`, `#Sandwiches`
+**标签**: `#AI cybersecurity`, `#vulnerability patching`, `#internet outages`, `#exploit development`, `#cybersecurity`
 
 ---
 
 <a id="item-21"></a>
-## [Backblaze 用户质疑更新后的数据出售与共享条款](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/) ⭐️ 6.0/10
+## [类型化槽位记忆在上下文压缩时保留关键事实](https://dev.to/yuya_ai_lab/your-agent-forgot-the-order-number-compacting-context-without-losing-facts-pure-python-53lb) ⭐️ 7.0/10
 
-Backblaze 更新了隐私政策文件，引发客户对其个人数据是否可能被出售或共享的担忧。报道并未提及数据泄露或已确认的违规行为，争议主要围绕相关披露条款的含义和适用范围展开。 这一变化影响云备份客户，因为许多用户可能默认服务商不能将上传文件或相关个人信息用于无关商业目的。明确数据使用边界并采用客户端加密有助于减少不确定性，但政策文本的含义与实际执行仍是关键区别。 Backblaze 的个人备份服务宣传为每月 9 美元、提供无限云存储，但搜索结果显示它不为文件提供客户端加密。社区用户建议使用 rclone crypt、Cryptomator 和 restic；另有评论者指出，Backblaze 明确将备份内容排除在政策所述的出售或共享类别之外。
+文章介绍了一种无依赖的纯 Python 类型化槽位记忆系统，用于把较长的智能体对话压缩到有限的令牌预算中。在 400 段带固定种子的合成对话上，该方案报告了接近 100% 的事实召回率；预算降至 10% 时，95.8% 的会话仍可完整回答，并仅使用 1,557 个估算令牌中的 148 个。 这项工作针对智能体中常见的生产故障：仅仅因为订单号、截止日期、预算和约束条件出现在对话早期，系统就可能在压缩时悄悄丢弃它们。类型化槽位记忆相比只保留最近轮次或依赖非确定性模型摘要，提供了一种更有针对性且可审计的替代方案。 该离线语料库包含 400 段带固定种子的客服对话，每段有 30–70 轮，并为每个会话植入三个影响最终回答的事实；其中 35% 的会话中途会修正订单号，从而产生必须淘汰的旧值。评估指标衡量的是精确事实是否仍存在于提示词中，而非模型是否回答正确；令牌数量也由正则分词器而非 BPE 分词器估算，因此该研究尚未证明真实模型场景下的回答准确率。
 
-hackernews · Hacker News \(热门\) · 11月22日 15:16 · [社区讨论](https://news.ycombinator.com/item?id=50600435)
+rss · Dev.to · 11月22日 23:47
 
-**背景**: 隐私政策通常会界定公司收集哪些信息、如何使用这些信息，以及是否向第三方披露或出售数据。云服务商通常会采用服务器端加密，而客户端加密发生在上传之前，可阻止服务商读取文件内容。“出售”和“共享”等法律用语的实际含义取决于司法辖区，也可能涵盖出于广告或分析目的的共享，而非单纯的现金交易。
+**背景**: 大语言模型智能体的上下文窗口有限，需要容纳对话历史、检索知识、系统指令和工具结果。当空间不足时，常见策略包括保留最新轮次、提取显著片段、总结旧内容，或把结构化事实存储在外部。槽位记忆属于结构化事实方案：系统把选定值放入有类型的槽位，在用户修正信息时进行更新，并在空间受限时把槽位内容渲染进提示词。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.backblaze.com/cloud-backup/personal">Unlimited Cloud Backup for Mac &amp; PC | Backblaze — $9/Month</a></li>
-<li><a href="https://www.cloudwards.net/best-online-backup-for-linux/">Linux Cloud Backup : The Best Online Backup Options in 2026</a></li>
-<li><a href="https://proton.me/blog/zero-knowledge-cloud-storage">What is zero-knowledge cloud storage? - Proton Best Encrypted Cloud Storage 2026 - Zero-Knowledge Cloud Storage With Encryption in 2026: 5 Services Tested Best Encrypted Cloud Storage in 2026: Secure File Storage ... Best Encrypted Cloud Storage - BestBackupReviews.com What Is Zero-Knowledge Encryption? Why It Matters for Backup</a></li>
+<li><a href="https://llmengg.com/context-window-management-multi-agent/">Context Window Management for Multi- Agent AI — Workshop April...</a></li>
+<li><a href="https://aiagentmemory.org/articles/llm-context-window-overflow/">LLM Context Window Overflow: Strategies and Solutions for</a></li>
+<li><a href="https://genmind.ch/posts/Your-LLM-Has-Amnesia-A-Production-Guide-to-Memory-That-Actually-Works/">Your LLM Has Amnesia: A Production Guide to Memory That Actually...</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 评论者意见分化：一些人认为相关措辞令人担忧，并主张必须使用客户端加密；另一些人则认为反应过度，因为备份内容被明确排除，而且政策变化可能源于对数据共享的宽泛法律定义。参与者还质疑，该政策指的是第三方分析和广告披露，而不是出售用户的备份文件。
-
-**标签**: `#data-privacy`, `#cloud-backup`, `#encryption`, `#Backblaze`, `#security-policy`
+**标签**: `#LLM agents`, `#context management`, `#memory systems`, `#prompt compression`, `#Python`
 
 ---
 
 <a id="item-22"></a>
-## [软件是否一直复杂到超出人类理解能力？](https://anil.recoil.org/notes/software-too-complex-for-humans) ⭐️ 6.0/10
+## [AI 将单个 Python 函数迁移至 Rust，速度提升 78 倍](https://dev.to/frankchu/78x-faster-my-python-dedupe-5-rewritten-in-rust-27d6) ⭐️ 7.0/10
 
-文章探讨了一个观点：软件复杂度长期超出人类可靠理解和管控能力的范围。它并非报道产品发布或新技术突破，而是从日益相互连接的系统难以维护这一长期难题出发，进行兼具哲学与技术色彩的讨论。 如果软件复杂度始终超出人类的认知极限，仅靠改进工程实践可能并不足够，团队还需要围绕人的能力边界重新设计系统、接口和开发流程。这一问题直接影响软件的可维护性、技术债务，以及企业和消费者所依赖软件的可靠性。 软件度量指标并不能稳定预测开发者能否理解某个程序，因为代码复杂度与人的理解能力相关但并非同一概念。鉴于所给内容只有文章链接和评论区链接，这篇文章应被视为一种论点与研究问题，而不是新近得到证明的定理或实证结论。
+fast-anything 工具定位了 Python 应用中的性能热点函数，记录其真实调用，生成 Rust 移植版本，并在启用前通过 34 个测试用例验证输出等价。在作者的模糊去重示例中，仅替换一个 48 行的函数，就将运行时间从 10.06 秒降至 129 毫秒，应用其余部分保持不变。 该实验展示了一种选择性优化思路：当应用只有少数计算瓶颈时，无需重写整个 Python 程序。如果这一方法能在生产工作负载中复现，可能显著缩短性能优化周期，但该工具的成熟度和普遍可靠性仍不确定。 被重写的函数在一个故意采用朴素二次复杂度成对循环的实现中计算 Levenshtein 距离，输入规模为 700 个姓名，因此构成了典型的 CPU 密集型测试案例。报告的 78 倍提升仅来自作者本人的基准测试，并非独立评估；现有文章节选也未说明 Rust 函数如何与 Python 集成。
 
-rss · Hacker News \(热门\) · 11月22日 17:32
+rss · Dev.to · 11月22日 23:41
 
-**背景**: 软件复杂度涵盖组件相互连接、控制流难以追踪以及长期变更形成的多层结构等特征。软件演化研究表明，随着复杂度增长，维护有灵活性的系统会变得困难；软件可理解性研究则指出，常用复杂度指标并不能始终准确映射到人的理解能力。近期有关“认知地平线”的研究也将人类理解先进人工智能系统的能力视为受到根本认知约束的边界。
+**背景**: Levenshtein 距离衡量将一个字符串转换为另一个字符串所需的最少单字符插入、删除或替换次数，因此适合识别仅存在拼写差异的姓名。使用二次复杂度实现逐一比较所有字符串，会随着数据集增大而迅速变慢。渐进式 Python 到 Rust 迁移为全面重写提供了替代方案，但必须谨慎处理跨语言集成和行为等价性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780444705365500105">Software Comprehension - ScienceDirect</a></li>
-<li><a href="https://www.researchgate.net/publication/315730051_Exploring_Complexity_in_Software_Systems_-_From_an_irrational_model_of_software_evolution_to_a_theory_of_psychological_complexity_and_cognitive_limitations_based_on_empirical_evidence">(PDF) Exploring Complexity in Software Systems - From an ...</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s43681-025-00846-x">Approaching the cognitive horizon: recognizing the limits of ...</a></li>
+<li><a href="https://tutorials.tektite.studio/fuzzy-matching/fuzzy-string-matching-algorithms/">Fuzzy String Matching Algorithms Explained</a></li>
+<li><a href="https://www.datablist.com/learn/data-cleaning/fuzzy-matching-levenshtein-distance">What is Levenshtein distance for fuzzy matching? - Datablist</a></li>
+<li><a href="https://international-bsf.org/courses/certificate-in-open-banking/lessons/lesson-9-2-fuzzy-matching-and-merchant-deduplication-the-levenshtein-jaro-winkler-and-soundex-algorithm-suite/">LESSON 9.2: FUZZY MATCHING AND MERCHANT DEDUPLICATION — The ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#software-engineering`, `#software-complexity`, `#systems-design`, `#programming`
+**标签**: `#Python`, `#Rust`, `#performance-optimization`, `#AI-assisted-development`, `#testing`
 
 ---
 
 <a id="item-23"></a>
-## [C++26 技术工作完成并再次通过审查](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 6.0/10
+## [使用 Inkling、Qwen 和 Unsloth 的本地 AI 入门指南](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) ⭐️ 6.0/10
 
-ISO C++委员会表示，已在 2026 年 11 月于巴西布济乌斯举行的会议上第二次完成 C++26 所需的技术工作。此次会议采用混合形式举行，并通过 Zoom 提供远程参与。 C++26 是广泛用于系统软件、基础设施、桌面软件和嵌入式软件的编程语言的下一版国际标准。完成这一技术里程碑意味着标准进一步进入最终批准与发布阶段，但各编译器厂商的实现仍将是独立且可能耗时较长的后续工作。 委员会此前已在 3 月会议上完成该标准的技术工作，因此这是第二次完成相关工作。11 月会议在巴西里约热内卢州布济乌斯举行，并支持现场和 Zoom 远程参与；现有材料未列出具体通过的功能或实现状态。
+这篇指南面向初学者，介绍了使用 Inkling、Qwen 和 Unsloth 运行及微调本地语言模型的工作流程。内容还探讨了本地 AI 所涉及的硬件限制、显存需求、AMD NPU 支持和实际部署方式。 通过整合安装指导与切合实际的硬件预期，这篇指南能降低开发者和爱好者上手本地 AI 的门槛。它同时凸显了消费级设备与前沿云端模型之间仍然存在的差距，以及高效微调和加速器支持在缩小这一差距中的作用。 讨论重点包括模型量化、显存计算、多 GPU 配置和 AMD NPU 支持；一位评论者建议用可配置的基线值取代固定的 1 GB 显存开销。一套基于 Ryzen AI 350 的系统以约每秒 12 个词元运行 Qwen3.5-9B，但评论者认为其输出不可靠，也无法与前沿模型相比。
 
-rss · Lobsters \(技术社区\) · 11月21日 13:57
+hackernews · Hacker News \(热门\) · 11月22日 21:01 · [社区讨论](https://news.ycombinator.com/item?id=50603845)
 
-**背景**: ISO/IEC JTC1/SC22/WG21 是负责制定 C++国际标准的国际标准化工作组。该工作组通过会议审查拟议的语言和标准库变更，并推动标准草案完成 ISO 流程；工作组还维护委员会信息和技术报告。现有搜索结果确认了 2026 年 11 月完成技术工作的消息，但没有提供逐项功能规范。
+**背景**: 本地 AI 是指在自己的计算机上运行语言模型，而不是把请求发送给远程 API。Qwen 是阿里云推出的开放权重模型系列，Unsloth 则是用于微调和后训练的开源框架。搜索资料显示，Inkling 是 Thinking Machines Lab 推出的开放权重稀疏混合专家模型，采用 Apache 2.0 许可证，可接收文本、图像和音频输入。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/">C++26 is done (again)! — Trip report: November 2026 ISO C++ ...</a></li>
-<li><a href="https://open-std.org/jtc1/sc22/wg21/">ISO /IEC JTC1/SC22/WG21 - The C++ Standards Committee - ISOCPP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Inkling_%28large_language_model%29">Inkling (large language model) - Wikipedia</a></li>
+<li><a href="https://qwen.ai/home">Qwen</a></li>
+<li><a href="https://unsloth.ai/docs/get-started/fine-tuning-llms-guide">Fine-tuning LLMs Guide | Unsloth Documentation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#C++26`, `#ISO C++`, `#standards`, `#programming languages`
+**社区讨论**: 评论者将本地 AI 形容为早期“等离子电视阶段”，并质疑现有硬件对普通消费者是否实用，同时分享了在 macOS、BSD 和 AMD 系统上运行本地模型的项目。评论者对完全本地化的有声书朗读和 Qwen3.5-9B 表现出热情，但也担忧显存占用、输出可靠性以及与前沿模型相比的性能，并建议为计算器加入可配置的显存基线。
+
+**标签**: `#local-ai`, `#Qwen`, `#Unsloth`, `#LLM-fine-tuning`, `#consumer-hardware`
 
 ---
 
 <a id="item-24"></a>
-## [数学家谈未来人工智能证明黎曼猜想](https://www.youtube.com/watch?v=zqzk43bSdDI) ⭐️ 6.0/10
+## [联盟提议为开放社交媒体制定共享协议](https://osw-alliance.net/en/) ⭐️ 6.0/10
 
-这段视频汇编了数学家对一种假设情形的看法：人工智能生成一份通过 Lean 验证、但人类无法理解的黎曼猜想证明。相关访谈是在过去一年半里围绕人工智能与数学展开的。 这一设想揭示了人工智能辅助数学的核心张力：机器可检验的正确性，并不必然带来人类的理解、解释或洞见。它也提出了更广泛的问题：当一个经过形式化验证、连专家也无法独立理解的结果出现时，数学界应如何解读、传播并继续推进相关研究。 Lean 是一种证明助手和编程语言，支持依依赖类型、类型类、富有表达力的策略语言以及形式化验证代码。该设想涉及利用自动定理证明处理黎曼猜想，但现有说明没有给出假设证明的技术细节、形式化方式，或如何实现 Lean 验证等具体信息。
+开放社交网络联盟提议采用统一的通信协议，打造可互操作且具有韧性的社交平台，以支持民主讨论。该愿景还包括可携带身份，以及连接 Mastodon、Mu 和 Streamplace 等独立服务。 共享协议可能减少用户对封闭式社交平台的依赖，并让人们在迁移服务时保留帖子、关注者和身份。该计划也试图挑战大型平台的商业激励机制；批评者认为，这些平台从互动和冲突中获得的收益，往往高于建设建设性公共讨论所能带来的收益。 联盟将开放社交网络描述为一种基于开放标准和可互操作协议的、去中心化的公共利益基础设施，并补充 Mastodon 和 Eurosky 等项目。不过，其演示材料被批评为含糊且宣传色彩浓重，现有材料也没有清楚说明具体协议设计、治理模式和采用路径。
 
-rss · Lobsters \(技术社区\) · 11月22日 16:37
+hackernews · Hacker News \(热门\) · 11月22日 15:24 · [社区讨论](https://news.ycombinator.com/item?id=50600511)
 
-**背景**: 自动定理证明是自动推理和数学逻辑的一个分支，其目标是利用计算机程序证明数学定理。Lean 能够对证明和程序进行形式化验证，从而提供较强的机器可检验保证，但这种验证本身并不意味着人类理解了底层论证。黎曼猜想断言泽塔函数的所有非平凡零点实部均为二分之一，在这项新闻的语境中，它仍是尚未解决的问题。
+**背景**: 互操作性使用户和服务能够通过共享接口交换数据与协作，而不是依赖专有系统。此前的 OpenSocial 等项目为社交网络应用定义了通用应用程序接口，而当代许多联邦式平台使用 ActivityPub 连接独立服务器。联盟将当前提案定位为创建去中心化、可携带社交网络这一更广泛努力的一部分。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://lean-lang.org/">Lean Programming Language</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Automated_theorem_proving">Automated theorem proving - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis - Wikipedia</a></li>
+<li><a href="https://osw-alliance.net/en/">Open Social Web Alliance – OSW-Alliance.net</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fediverse">Fediverse - Wikipedia</a></li>
+<li><a href="https://www.theprotec.com/blog/europe-open-social-web-beyond-meta/">Can Europe Build an Open Social Web Beyond Meta’s Platforms?</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 所提供的内容链接到了讨论页面，但其中没有收录任何评论或讨论观点。视频据称呈现了数学家的反应，但现有材料没有转录他们的具体观点。
+**社区讨论**: 评论者强烈怀疑技术协议能够修复民主讨论，并认为政治组织方式和经济激励的改变更加重要。他们还批评公告措辞空泛、难以理解；与此同时，一些人表达了对具备反机器人机制、限制参与频率且避免互动最大化算法的平台的兴趣。
 
-**标签**: `#AI for mathematics`, `#automated theorem proving`, `#Lean`, `#Riemann hypothesis`, `#mathematics`
+**标签**: `#open-social-web`, `#protocols`, `#social-media`, `#interoperability`, `#online-democracy`
 
 ---
 
 <a id="item-25"></a>
-## [在阿里巴巴 RISC-V 板卡上启动 NixOS](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/) ⭐️ 6.0/10
+## [BSD 如何摆脱 AT&amp;T 的 Unix 授权限制](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/) ⭐️ 6.0/10
 
-该文章记录了在阿里巴巴 RISC-V 开发板上启用和配置 NixOS 的实际过程。其重点是硬件启动与适配，而不是发布新产品或重大软件版本。 可用的 NixOS 环境能够为开发者提供可复现的实验平台，用于探索 RISC-V 和嵌入式 Linux。这项工作也凸显了支持较少见处理器架构和板卡时需要解决的现实工程问题。 RISC-V 系统的启动通常涉及固件、引导加载器、内核和设备树配置，之后才能使用用户态工具。NixOS 交叉编译可以使用 QEMU 进行测试，但模拟执行的速度可能低于原生运行。
+本文回顾了法律与技术层面的努力，这些努力使 BSD Unix 最终能够以独立授权的操作系统身份出现，而不是继续受 AT&amp;T 专有 Unix 许可证约束。这是一篇历史回顾，并非新的技术发布。 这篇文章解释了 BSD 如何成为现代开源操作系统的重要基础，并影响了 FreeBSD、OpenBSD 和 NetBSD 等后续项目。它还展示了许可证争议如何塑造软件自由以及整个 Unix 生态的发展。 早期 BSD 版本包含 AT&amp;T Unix 源代码，因此必须遵守 AT&amp;T 的限制性许可证。后来，通过法律行动、许可证调整以及对 AT&amp;T 衍生组件的技术替换，BSD 得以采用开源许可证发布。
 
-rss · Lobsters \(技术社区\) · 11月22日 00:30
+rss · Hacker News \(热门\) · 11月22日 21:33
 
-**背景**: NixOS 是围绕声明式、可复现的软件包和系统配置构建的 Linux 发行版。在 RISC-V 板卡上，开发者需要处理处理器、固件与引导加载器支持、内核配置以及硬件描述等信息。阿里巴巴平头哥的 TH1520 是用于多款开发板的 RISC-V 系统级芯片，并曾出现在面向桌面应用的 Fedora 适配工作中。
+**背景**: Berkeley Software Distribution 起源于加利福尼亚大学伯克利分校，最初是 AT&amp;T Unix 的改进版衍生系统。AT&amp;T 的源代码许可证一度阻止 BSD 自由传播，但 AT&amp;T 在 1984 年的拆分以及随后发生的法律纠纷，为 BSD 获得独立授权创造了条件。AT&amp;T 于 1992 年提起的诉讼及其在 1994 年达成的和解，通常被认为是这场冲突中的重要事件。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://fedoraproject.org/wiki/Architectures/RISC-V/T-Head">Architectures/RISC-V/T-Head - Fedora Project Wiki</a></li>
-<li><a href="https://wiki.nixos.org/wiki/Cross_Compiling">Cross compiling - Official NixOS Wiki</a></li>
-<li><a href="https://lucaberton.com/blog/risc-v-boot-flow-opensbi-uboot-firmware/">RISC-V Boot Flow: OpenSBI, U - Boot &amp; the SBI | Luca Berton</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution">History of the Berkeley Software Distribution - Wikipedia</a></li>
+<li><a href="https://machaddr.substack.com/p/the-at-and-t-and-bsd-conflict-unix">The AT&amp;T and BSD Conflict: UNIX Wars - André Machado | Blog</a></li>
 
 </ul>
 </details>
 
-**标签**: `#NixOS`, `#RISC-V`, `#Linux`, `#embedded systems`, `#hardware bring-up`
+**标签**: `#BSD`, `#Unix`, `#Open Source History`, `#AT&amp;T Licensing`, `#Software Freedom`
 
 ---
 
 <a id="item-26"></a>
-## [显示器据称使下载速度下降 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) ⭐️ 6.0/10
+## [哈佛开设人工智能对齐与安全研究生课程](https://boazbk.github.io/mltheoryseminar/) ⭐️ 6.0/10
 
-一篇技术故障排查文章称，显示器似乎导致网络下载速度下降了 75%。现有内容只有一个讨论链接，因此无法核实具体硬件、配置、根因和解决方案。 这一案例表明，看似无关的显示设备也可能影响网络性能，因此排查时不应先假定问题出在服务器。 如果该报告得到证实，它可能说明接口协商或物理干扰如何造成显著且可测量的吞吐量损失。 已知信息只有下载速度下降 75%，但没有提供基准吞吐量、测试方法、操作系统、网络接口或显示器型号。 通用以太网故障排查建议在吞吐量异常偏低时检查协商链路速率、双工模式、线缆以及接口错误计数器。
+哈佛的 COMPSCI 2881R“人工智能对齐与安全”课程已列入 2026 年秋季课程安排，研究人工智能对齐与安全中的技术和社会挑战。相关课程材料可通过所链接的 GitHub Pages 网站获取。 该课程把人工智能安全与对齐正式纳入计算机科学的研究生教育，可能培养能够研究、评估和应对高级人工智能风险的研究人员与工程师。它还将技术研究与更广泛的社会和治理问题联系起来。
 
-rss · Lobsters \(技术社区\) · 11月21日 15:03
+rss · Hacker News \(热门\) · 11月22日 18:01
 
-**背景**: 以太网设备通常会与所连接的网络设备协商速率和双工模式，配置不匹配或物理连接不稳定都可能大幅降低吞吐量。 由于这里没有原帖的完整技术内容，搜索结果只能说明通用排查概念，不能证实由显示器导致降速的具体原因。
+**背景**: 人工智能对齐主要关注高级人工智能系统的行为是否符合人类预期的价值和指令。人工智能安全是更广泛的研究领域，还包括鲁棒性、监控、能力控制以及社会风险评估；这门课程同时研究这些问题的技术与社会层面。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.cisco.com/c/en/us/support/docs/lan-switching/ethernet/10561-3.html">Configure and Verify Ethernet 10/100/1000Mb Half/Full Duplex ...</a></li>
-<li><a href="https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Troubleshooting_and_Support/Troubleshooting/Duplex_mismatches_affecting_physical_link_speed">Troubleshooting Duplex Mismatches Affecting Physical Link Speed</a></li>
-<li><a href="https://mikrotikdocs.fyi/interfaces/ethernet-interfaces/">Ethernet Interface Configuration | MikroTik RouterOS Docs</a></li>
-
-</ul>
-</details>
-
-**标签**: `#networking`, `#Ethernet`, `#monitoring`, `#troubleshooting`, `#hardware`
+**标签**: `#AI safety`, `#machine learning theory`, `#academic course`, `#AI alignment`
 
 ---
 
 <a id="item-27"></a>
-## [本地网页工具规划城市无线电网状网络](https://meshcoveragecalculator.lalala.ing/) ⭐️ 6.0/10
+## [程序员对 ATProto 的常见误解](https://reiver.link/atproto/falsehoods-programmers-believe/) ⭐️ 6.0/10
 
-一款采用 WebAssembly、强调本地计算的网页工具，可估算城市级网状网络所需的无线电链路位置和节点数量。它结合 FSPL、Delta-Bullington 传播模型与地形信息，并正在征求早期设计反馈。 该工具可能让社区更容易估算网状网络的覆盖范围和基础设施需求，从而在部署节点前进行更充分的规划。它还提供了一种强调隐私的方案，避免完全依赖托管式规划服务，但其实际精度和采用程度尚未得到证明。 该计算器通过 WASM 在浏览器本地运行，并使用 FSPL 计算自由空间路径损耗，同时以 Delta-Bullington 模型处理不规则地形传播。模型需要地形高程、天线位置与高度、工作频率及极化等输入；实际部署精度仍会受环境杂波、天线特性和现场条件影响。
+文章梳理了程序员对 AT Protocol 经常持有的错误假设，并解释了该系统的实际行为。现有摘录仅提供了社区讨论链接，未展示文章列举的具体误解。 准确理解 ATProto 的架构对开发去中心化社交应用的工程师十分重要。若误解数据排序、身份解析或事件传递机制，可能导致实现缺陷和不可靠的集成。 ATProto 仓库是一种键值映射，其记录通过 Merkle 搜索树按键排序存储，而人类可读的句柄可通过 did:plc 等 DID 进行解析。这些官方规范提供了具体依据，开发者在对协议形成概括性结论前应当加以核对。
 
-rss · Lobsters \(技术社区\) · 11月22日 18:17
+rss · Lobsters \(技术社区\) · 11月22日 16:37
 
-**背景**: FSPL estimates radio-signal attenuation over an unobstructed path as a function of distance and frequency, but it does not account for buildings, vegetation, or terrain. Delta-Bullington adds terrain-profile analysis for radio propagation over irregular terrain and is discussed in ITU-R Recommendation P.526-15. A mesh network extends coverage through multi-hop links, so planners must evaluate both individual link viability and the arrangement of nodes needed to reach target areas.
+**背景**: AT Protocol 是一组面向去中心化发布与自认证数据分发的开放标准，也是 Bluesky 的技术基础。其仓库模型采用确定性的内容寻址结构，而身份系统将便于用户阅读的句柄与用于标识托管服务和密钥材料的 DID 记录区分开来。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Free-space_path_loss">Free-space path loss - Wikipedia</a></li>
-<li><a href="https://erdc-library.erdc.dren.mil/items/1992d9ae-d068-4207-a9e6-53ed4ef6e888/full">A study on the Delta-Bullington irregular terrain ...</a></li>
+<li><a href="https://atproto.com/specs/repository">Repository - AT Protocol</a></li>
+<li><a href="https://atproto.com/guides/identity">Identity - AT Protocol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AT_Protocol">AT Protocol - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**标签**: `#ATProto`, `#Software Architecture`, `#Developer Education`, `#Distributed Systems`
+
+---
+
+<a id="item-28"></a>
+## [Gliver 补齐 Guix 桌面环境](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/) ⭐️ 6.0/10
+
+Gliver 增加了将 GNU Guix 打造为完整桌面环境所需的最后组件。该公告将这一里程碑描述为补齐了 Guix 桌面技术栈。 所给文章正文仅包含一个讨论链接，未提供组件清单、版本号、发布日期或测试细节。因此，无法从现有材料核实此次“完成”的具体范围及任何尚存的限制。
+
+rss · Lobsters \(技术社区\) · 11月22日 20:10
+
+**背景**: GNU Guix 是一款受 Nix 启发的函数式包管理器和系统管理工具，其软件包配方与配置使用 Guile Scheme 编写。它既可以与现有 GNU/Linux 发行版结合使用，也可以作为独立的 Guix System 运行。Gliver 的工作重点是补齐桌面层，使这一基础能够作为完整的图形工作站使用。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GNU_Guix">GNU Guix - Wikipedia</a></li>
+<li><a href="https://wiki.archlinux.org/title/Guix">Guix - ArchWiki</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Guix`, `#GNU/Linux`, `#Functional Computing`, `#Desktop Environment`, `#Reproducible Builds`
+
+---
+
+<a id="item-29"></a>
+## [在阿里巴巴 RISC-V 开发板上启动 NixOS](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/) ⭐️ 6.0/10
+
+一篇博客文章记录了在阿里巴巴 RISC-V 开发板上移植并启动 NixOS 的过程。当前提供的正文只有讨论页面链接，未说明开发板具体型号、软件版本以及最终实现的功能。 这项工作可能为扩展 NixOS 的硬件支持以及推动 RISC-V 软件生态发展提供实践经验。其主要价值在于技术记录，但正文摘录有限，尚不足以证明移植的完整度或实际采用程度。 现有材料仅将目标描述为阿里巴巴 RISC-V 开发板，并提供了 Lobsters 讨论链接。NixOS 文档指出，稳定版和 unstable 渠道尚未正式支持 riscv64-linux，因此针对具体开发板的移植是推动该架构落地的重要环节；不过，本文没有提供板卡版本、内核配置、引导程序、驱动状态或测试结果。
+
+rss · Lobsters \(技术社区\) · 11月22日 00:30
+
+**背景**: NixOS 是以 Nix 包管理器以及声明式、可复现系统配置为核心的 Linux 发行版。RISC-V 是一种开放指令集架构，不同板卡在外设、固件和驱动需求上差异很大，因此启用新板卡通常需要适配引导程序、内核、设备树和硬件配置。现有社区项目也在通过交叉编译和板卡专用支持推进 NixOS 在 RISC-V 上的部署。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/robinfinkelmann/fml13v01-nixos">robinfinkelmann/fml13 v 01- nixos : NixOS for the DeepComputing RiscV ...</a></li>
+<li><a href="https://nixos.wiki/wiki/NixOS_on_ARM">NixOS on ARM - NixOS Wiki</a></li>
+
+</ul>
+</details>
+
+**标签**: `#NixOS`, `#RISC-V`, `#Linux`, `#hardware-porting`, `#Alibaba`
+
+---
+
+<a id="item-30"></a>
+## [开源计算器规划城市级无线电网格网络](https://meshcoveragecalculator.lalala.ing/) ⭐️ 6.0/10
+
+一款新的开源、优先本地运行且基于 WASM 的计算器，可估算城市级网格网络中的无线电链路位置和节点数量。该工具结合了 FSPL 与 Delta-Bullington 传播模型，并公开提供源代码。 该工具通过浏览器估算覆盖范围和基础设施需求，可能让社区网络与 Meshtastic 的早期规划更容易。它可帮助运营者减少不必要的节点，并找出更有可能维持有效链路的部署位置。 该计算器使用自由空间路径损耗（FSPL）进行基础信号损失估算，并使用 Delta-Bullington 模型处理不规则地形传播；后者计算较快且地理连续性较好，但可能依赖准确的地物杂波数据。发布内容没有给出验证结果、支持的硬件清单、精度数据，也未与成熟规划工具进行详细比较。
+
+rss · Lobsters \(技术社区\) · 11月22日 18:17
+
+**背景**: FSPL 根据距离和频率估算无线电衰减，常用于无线链路预算。Delta-Bullington 将基础传播分析扩展到不规则地形；现有的 Meshtastic Site Planner 软件同样支持基于地形的覆盖地图绘制和可调无线电参数。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://meshtastic.org/blog/meshtastic-site-planner-introduction/">Meshtastic Site Planner, an Open Source Tool to Optimize Your ...</a></li>
 <li><a href="https://meshtastic.org/docs/software/site-planner/">Meshtastic Site Planner</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 该讨论明确邀请读者反馈这一规划思路及其实现方式是否合理。现有材料没有提供足够的评论内容或情绪数据，因此无法概括更广泛的社区反响。
-
 **标签**: `#mesh-networks`, `#radio-propagation`, `#network-planning`, `#WASM`, `#Meshtastic`
 
 ---
 
-<a id="item-28"></a>
-## [GhostScript“上传即执行”漏洞引发安全关注](https://pwn.ai/upload2shell/research.html) ⭐️ 6.0/10
-
-pwn.ai 研究人员发布了 CVE-2026-125396 的研究资料，并将该 GhostScript 漏洞称为“上传即执行”，同时提供研究主页、NVD 记录和社区讨论链接。原始文章本身主要是指引性内容，没有给出完整的技术分析。 GhostScript 被广泛用于 PDF 预览、打印、文档转换和文件上传等后台流程，因此漏洞可能影响大量下游应用。搜索结果将其描述为沙箱逃逸漏洞，攻击者可能借助特制文件执行服务器命令，从而把日常的上传功能变成远程代码执行入口。 所引研究将 CVE-2026-125396 列为“上传即执行”问题的公开编号。另有报道提到一个严重的 GhostScript 堆缓冲区溢出漏洞，该漏洞已于 2026 年 9 月 8 日发布的 GhostScript 10.08.0 中修复，但现有材料没有确认它与 CVE-2026-125396 是否为同一底层漏洞或相关问题。
-
-rss · Lobsters \(技术社区\) · 11月22日 00:52
-
-**背景**: GhostScript 负责解释和处理 PDF、PostScript 等文档，通常作为服务器或桌面应用中的隐藏组件运行。沙箱逃逸意味着通过特制文档触发的代码可以突破预期的文件处理限制，而“上传即执行”这一名称突出了系统自动处理不可信文件时面临的风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://pwn.ai/upload2shell">Upload 2 Shell · CVE - 2026 - 125396 · pwn.ai research</a></li>
-<li><a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html">Researchers Demonstrate Ghostscript Sandbox-Escape RCE via...</a></li>
-<li><a href="https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-critical-vulnerability-in-ghostscript-the-program-that-turns-uploaded-pdfs-into-thumbnails-on-your-server/">Wordfence Argus Discovers Critical Vulnerability in Ghostscript , the...</a></li>
-
-</ul>
-</details>
-
-**社区讨论**: 文章链接了一个讨论 CVE-2026-125396 的 Lobsters 页面，但所提供的内容没有包含任何评论或观点，因此无法判断社区讨论的总体倾向。
-
-**标签**: `#GhostScript`, `#CVE-2026-125396`, `#vulnerability research`, `#security`
-
----
-
-<a id="item-29"></a>
-## [OpenAI 科学家提议衡量人工智能开发速度](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) ⭐️ 6.0/10
-
-OpenAI 首席科学家 Jakub Pachocki 于 2026 年 11 月 22 日指出，治理人工智能开发需要一套共同认可的速度衡量方法。据报道，他公布了内部的困惑度测量结果，并提出将前沿人工智能开发上限与安全里程碑挂钩的共享方案。 如果实验室、研究人员和监管机构无法就“开发速度”的含义及其追踪方式达成一致，人工智能速度限制就难以得到统一执行。共享衡量框架可以加强风险治理的协调性，但也可能引发争议：究竟应以哪些指标决定何时必须放慢开发。 该方案以困惑度测量作为比较人工智能开发进展的技术依据之一，但现有摘录没有说明具体公式、验证方法或执行机制。已有报道还警告称，对齐研究与监测工作的进展可能赶不上前沿人工智能能力的提升。
-
-rss · TechCrunch AI · 11月22日 21:14
-
-**背景**: 人工智能开发速度限制旨在实验室无法及时评估或缓解新风险时减缓能力进展。衡量这种速度具有技术难度，因为开发进步不仅体现在模型能力和研究迭代上，还涉及算力扩展、工具使用和自主工作流程，无法由单一基准完整概括。更广泛的人工智能治理研究强调，应制定主动、包容且适应性强的规则，以应对快速技术变化，同时兼顾创新、获取机会与风险。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/">OpenAI Proposes Shared AI Development Limits Tied to Safety ...</a></li>
-<li><a href="https://www.itu.int/epublications/publication/the-annual-ai-governance-report-2025-steering-the-future-of-ai">The Annual AI Governance Report 2025: Steering the Future of AI</a></li>
-<li><a href="https://arxiv.org/pdf/2505.05541">Safety by Measurement: A Systematic Literature Review of AI ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI governance`, `#AI safety`, `#OpenAI`, `#AI policy`
-
----
-
-<a id="item-30"></a>
-## [英伟达业绩与黄仁勋回归压力形成反差](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) ⭐️ 6.0/10
-
-英伟达最新财务业绩显示出强劲的经营势头，但科技行业高管公开呼吁首席执行官黄仁勋回归。文章将这两股力量描述为围绕英伟达领导层与未来方向形成的鲜明反差。 英伟达仍是 AI 芯片行业的核心企业，数据中心处理器需求会影响供应商、云基础设施支出及资本配置。黄仁勋对公司的领导影响力，以及投资者和员工对其回归的支持，又为一家持续受益于 AI 需求的企业增添了接班不确定性。 Blackwell 是英伟达用于 AI 与浮点计算负载的 GPU 架构，采用两颗芯片裸片互联，互连带宽为每秒 10 TB。不过，现有摘要没有提供详细财务数据、具体高管姓名或支持黄仁勋回归的明确论据，因此文章的技术与财务结论较为有限。
-
-rss · TechCrunch AI · 11月21日 21:07
-
-**背景**: 英伟达设计用于 AI 数据中心的 GPU，Blackwell 是继 Hopper 和 Ada Lovelace 之后的架构。该架构采用第五代 Tensor Core，并通过每秒 10 TB 的互连连接两颗受光刻胶面积限制的裸片。由于 AI 处理器需求推动英伟达成为训练与推理基础设施热潮的主要受益者，其领导层对公司的战略意义格外突出。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Blackwell_%28microarchitecture%29">Blackwell (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down">Nvidia CEO Jensen Huang resigns amid spy scandal : NPR</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Nvidia`, `#Jensen Huang`, `#Semiconductors`, `#AI Industry`, `#Earnings`
-
----
-
 <a id="item-31"></a>
-## [AI 数字替身授权考验好莱坞未来](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) ⭐️ 6.0/10
+## [给未来 100 个 Rust GUI 的建议](https://linebender.org/blog/next-100-guis/) ⭐️ 6.0/10
 
-一名演员将面部肖像授权给微短剧初创公司 Avni，后者利用其肖像创建数字分身，用于一部完全由 AI 生成的项目。这一合作反映了中国已经出现的肖像授权趋势，并可能进一步扩展到好莱坞。 授权数字替身可以让演员低成本参与多部作品，而制片方则能反复使用合成表演者。如果这种模式普及，可能改变影视制作成本、选角方式、报酬机制，以及演员肖像的所有权和控制权。 Avni 的全 AI 项目使用该演员授权的面部创建其数字分身；现有材料没有说明授权的金额、期限或具体权利条款。这种模式仍受知情同意、信息披露、二次使用限制以及合成表演误导观众等问题的约束。
+Linebender 博客发表了题为《给未来 100 个 Rust GUI 的建议》的文章，综合了构建 Rust 图形用户界面的实战经验教训。该文章汇集了多个 Rust GUI 项目积累的经验，并附带一个 Lobsters 讨论帖链接。 Rust 的 GUI 生态已经衍生出许多彼此竞争的框架——例如 egui、iced、Slint、Druid、Xilem 等，各自的架构与取舍各不相同，因此共享的通用建议能帮助新人避免重复踩坑。对于正在选型或打算自研工具链的团队来说，这类经验总结是框架文档和横向对比指南之外的有益补充。 现有内容非常有限——基本只有标题、链接以及指向 Lobsters 评论帖的入口，因此文章的具体建议、技术深度和原创程度都无法从所给材料中得到核实。读者需要直接阅读原文及其评论，以了解真正的经验清单。
 
-rss · TechCrunch AI · 11月21日 16:00
+rss · Lobsters \(技术社区\) · 11月21日 23:10
 
-**背景**: 微短剧是面向移动端观看的短篇连续剧，中国制片商已采用生成式 AI 来加快制作并降低成本。数字肖像是对真人外貌和声音的合成再现，可以在本人不亲自表演每个场景的情况下反复使用。此前，表演者面孔的合成版本已经引发了有关同意、报酬和未经授权使用等方面的担忧。
+**背景**: Rust 的 GUI 开发大致分为两大架构路线：即时模式（immediate-mode）每帧都根据应用状态重建控件树，而保留模式（retained-mode）则维持持久化的控件树并在变化时做差分或打补丁。像 iced 这样的框架遵循 Elm 风格的架构，把状态（state）、消息（messages）与视图/更新逻辑分开；egui 与 Slint 代表其他思路，Xilem 则是 Druid 作者 Raph Levien 主导的实验性响应式框架。Linebender 是 winit 与 wgpu 生态背后的组织，其成员参与过上述多个 GUI 项目，这也解释了它们总结跨项目经验的动机。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/">Is selling an AI version of your face to this microdrama ... | TechCrunch</a></li>
-<li><a href="https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk">Quiet on set. How AI transformed China’s microdrama scene</a></li>
-<li><a href="https://www.theguardian.com/technology/2024/oct/16/its-not-me-its-just-my-face-the-models-who-found-their-likenesses-had-been-used-in-ai-propaganda">‘It’s not me, it’s just my face’: the models who found their likenesses ...</a></li>
+<li><a href="https://rust.codeguides.io/desktop-gui/rust-gui-architecture-models/">Rust GUI Architecture Models - Rust SME Cookbook</a></li>
+<li><a href="https://github.com/iced-rs/iced">GitHub - iced-rs/iced: A cross-platform GUI library for Rust , inspired by...</a></li>
+<li><a href="https://gpui-starter.freeoxide.com/blog/rust-gui-frameworks-comparison-2026/">Rust GUI frameworks in 2026: the complete comparison guide</a></li>
 
 </ul>
 </details>
 
-**标签**: `#generative-ai`, `#digital-likeness`, `#media-licensing`, `#microdrama`, `#hollywood`
+**标签**: `#Rust`, `#GUI`, `#Software Architecture`, `#Developer Tools`
 
 ---
 
 <a id="item-32"></a>
-## [GLP-1 药物或释放比意大利还大的农地](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/) ⭐️ 6.0/10
+## [苏茨克维主张设定可衡量的 AI 开发限速](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) ⭐️ 6.0/10
 
-这项分析认为，GLP-1 药物可能大幅减少食品需求，从而释放面积超过意大利本土的农地。这种变化有望缓解扩大耕作面积的压力，并带来环境收益。 如果这种需求下降能够长期持续并得到广泛采用，它可能重塑农业土地利用方式、食品体系及相关温室气体排放。该发现把公共卫生治疗与减重之外的气候和土地利用影响联系起来。 GLP-1 受体激动剂通过抑制食欲、增强饱腹感和延迟胃排空来促进减重，因此可能减少食物消费。相关估算取决于治疗普及率、饮食行为、农业系统响应以及实际退出耕作或恢复生态的土地规模，但现有摘要未提供充分的方法细节。
+OpenAI 首席科学家伊利亚·苏茨克维表示，要管理人工智能的发展速度，需要建立一套类似交通限速的可衡量框架。核心难点在于，各方能否就衡量发展速度的方法达成一致。 一套可操作的衡量框架，可能成为前沿人工智能自愿承诺或监管措施的基础。它还能为政策制定者和人工智能公司提供一个更具体的方式，以讨论能力提升是否快到超出安全保障与监督能力的范围。 报道中的主张是采用类似限速的思路，但并未形成完整明确的政策方案，现有内容也没有说明具体指标、阈值、执行机制或责任机构。其核心技术与治理难点，是建立一种有意义、可比较且不易被规避的衡量方法。
 
-rss · Ars Technica · 11月22日 12:07
+rss · TechCrunch AI · 11月22日 21:14
 
-**背景**: “土地节约型”策略是指在不扩大耕作面积的情况下满足食品需求，从而让现有农地得以恢复，或通过降低投入强度来共享土地。WRI 估计，全球减少 25%的食物损失和浪费，可使预计的土地利用缺口缩小 27%，温室气体减排缺口缩小 15%，说明需求侧变化能够显著影响农业的环境足迹。
+**背景**: 人工智能开发限速旨在 regulating 人工智能系统在可能快于人类监督之前提升能力的速度。现有衡量工作关注的目标各不相同：麦肯锡的框架评估人工智能的采用、运营和财务影响，而据报道，Anthropic 的三指标框架用于跟踪研究与产品周期节奏。OpenAI 在 2023 年的治理讨论中强调，应提前为“超级智能”做准备，即能力远超当前人工智能系统的未来系统。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0002934325000592">Mechanisms of GLP-1 Receptor Agonist-Induced Weight Loss: A ...</a></li>
-<li><a href="https://research.wri.org/wrr-food/course/reduce-growth-demand-food-and-other-agricultural-products-synthesis">Course 1: Reduce Growth in Demand for Food and other ... - WRI</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s41130-026-00262-7">To what extent can farmers spare or share land to meet food ...</a></li>
+<li><a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-promise-to-impact-how-companies-can-measure-and-realize-the-full-value-of-ai">The five-layer AI measurement framework | McKinsey</a></li>
+<li><a href="https://ceoconnectmagazine.com/anthropic-development-metrics/">How Anthropic’s Three‑Metric Framework Can Guide AI Development ...</a></li>
+<li><a href="https://pen-vape.com/tech-innovation/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-huma/">Anthropic CEO Amodei Wants AI Speed Limits Before... - Pen Vape</a></li>
 
 </ul>
 </details>
 
-**标签**: `#GLP-1`, `#food systems`, `#environmental impact`, `#agriculture`, `#public health`
+**标签**: `#AI governance`, `#AI safety`, `#AI policy`, `#OpenAI`, `#Ilya Sutskever`
 
 ---
 
 <a id="item-33"></a>
-## [AI 排放攀升促使 Meta 重新评估 2030 年净零目标](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/) ⭐️ 6.0/10
+## [英伟达的业绩与领导层危机](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) ⭐️ 6.0/10
 
-Meta 正在重新评估其 2030 年可持续发展目标，以应对 AI 数据中心扩张带来的排放增长。这一表态表明，公司此前宣布的气候承诺可能面临调整。 现有报道没有披露 Meta 调整后的具体目标、实施时间表、排放数据或具体政策变化。净零通常是指尽可能消除排放，并通过碳移除项目抵消无法消除的剩余排放。
+TechCrunch 将英伟达最新的业绩表现与多位科技高管呼吁联合创始人黄仁勋重返首席执行官职位的主张进行对比。文章审视了强劲财务业绩与黄仁勋相关领导层动荡之间的张力。 英伟达的财报体现了其人工智能半导体业务的商业实力，而呼吁黄仁勋回归则凸显了领导层连续性对投资者和行业高管的重要性。事态如何解决，可能影响英伟达的战略、治理和市场信心。 英伟达公布的 2025 财年第四季度收入为 393 亿美元，同比增长 78%；非公认会计准则摊薄每股收益为 2.99 美元，同比增长 130%，同时 Blackwell 需求强劲。据 2026 年 11 月的报道，黄仁勋在辞职后表示愿意回归公司。
 
-rss · Ars Technica · 11月20日 21:47
+rss · TechCrunch AI · 11月21日 21:07
 
-**背景**: AI 训练和推理依赖高能耗的计算硬件、服务器、制冷系统及配套设施，导致数据中心用电量快速上升。MIT Technology Review 报道称，数据中心的电力消耗到 2023 年已翻倍，约占美国总能源消耗的 4.4%。随着科技公司竞相扩大 AI 算力，这些趋势正使其净零承诺面临挑战。
+**背景**: 英伟达是一家半导体公司，其增长与用于人工智能训练和推理的数据中心加速器需求密切相关。Blackwell 是其新一代数据中心 GPU 架构，黄仁勋则长期担任公司创始人和核心战略领导者。因此，领导人选问题既涉及公司治理，也关系到英伟达人工智能战略的延续性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/">We did the math on AI ’s energy footprint. | MIT Technology Review</a></li>
-<li><a href="https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up">Meta rethinks 2030 climate goals as AI data centres drive emissions up</a></li>
-<li><a href="https://www.deeplearning.ai/the-batch/ai-and-data-center-boom-challenges-big-techs-emissions-targets">AI and Data Center Boom Challenges Big Tech&#x27;s Emissions Targets</a></li>
+<li><a href="https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2025/">NVIDIA Corporation - NVIDIA Announces Financial Results for ...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement">Jensen Huang says he would be ‘honored’ to return to Nvidia ...</a></li>
+<li><a href="https://nypost.com/2026/11/20/opinion/should-jensen-huang-return-as-nvidia-ceo-many-of-silicon-valleys-smartest-minds-are-backing-him/">Should Jensen Huang return as Nvidia CEO? Many of Silicon ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Meta`, `#AI infrastructure`, `#data centers`, `#emissions`, `#sustainability`
+**标签**: `#Nvidia`, `#Jensen Huang`, `#Earnings`, `#Leadership`, `#Semiconductors`
 
 ---
 
 <a id="item-34"></a>
-## [《以撒的结合》开发商在遭到抵制后移除 AI 音乐](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) ⭐️ 6.0/10
+## [AI 面部授权考验好莱坞的知情同意边界](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) ⭐️ 6.0/10
 
-《以撒的结合：忏悔加》开发商在 Steam 用户发现多个音频文件中含有 Suno 元数据后，移除了游戏扩展包中的 AI 生成音乐。这些曲目出现在一个以《侠盗猎车手》为主题的章节中，其未经披露的使用引发了集中差评。 这起事件表明，即使 AI 内容仅限于游戏中的一个小章节，未经披露也可能给商业游戏带来即时舆论压力。它凸显了内容披露的重要性，以及 Steam 玩家协同行动迅速影响产品公众声誉的能力。 Reddit 用户 ShweetsStuff 通过检查游戏音频文件中的 Suno 元数据确定了这些 AI 音乐的来源，并将其与《侠盗猎车手》主题章节联系起来。当有组织差评针对与产品评价无关的问题时，Steam 的反制机制可以标记或限制相关评论。
+一名演员已将自己的面部形象授权给一家微短剧初创企业，这种在中国已经形成的授权趋势由此延伸至好莱坞的讨论。交易展示了演员如何允许微短剧制作使用 AI 生成的数字替身，同时也引发了对其授权同意能否长期有效的疑问。 如果面部授权成为行业标准，演员可能从合成表演中获得收益，制片方则能使用可重复调用的数字替身。但这种模式也可能助长条款模糊、演员形象被扩大使用，以及随着 AI 视频变得更廉价、更逼真而挤压真人演员的岗位。 据报道，这项交易涉及的是演员的面部形象，而非完整的表演授权，也尚未证明这种模式已在好莱坞获得普遍采用。关键保障包括同意范围和期限、允许的使用方式、报酬、撤销权，以及授权针对特定演员还是可复用的数字替身；现有摘要没有说明这些具体条款。
 
-rss · The Verge · 11月22日 17:25
+rss · TechCrunch AI · 11月21日 16:00
 
-**背景**: Suno 是一款 AI 音乐生成器，可根据文字提示生成包含人声、歌词和制作的完整歌曲。Steam 集中刷评是指游戏拥有者协调发布大量负面或正面评论，以影响游戏曝光度和公众认知。此次争议的核心在于，开发商是否充分披露了使用 AI 生成音乐。
+**背景**: 微短剧是为社交媒体平台制作的短篇连续剧，AI 可以通过自动化视觉制作和改编既有内容来降低生产成本。中国被认为是微短剧产业和面部授权模式的诞生地，一些初创企业还使用 AI 将长篇剧集转换为微短剧。形象许可能够形成明确授权，但这一许可本身并不能确定授权能持续多久，也不能界定由此生成的数字替身可以被多广泛地使用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://suno.com/">Suno | AI Music Generator</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Review_bomb">Review bomb - Wikipedia</a></li>
-<li><a href="https://store.steampowered.com/curator/36308017-Review-Bomb-Tracking-Off-Topic/">Steam Curator: Review Bomb Tracking / Off Topic</a></li>
+<li><a href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/">Is selling an AI version of your face to this microdrama ... | TechCrunch</a></li>
+<li><a href="https://www.storyboard18.com/how-it-works/indias-microdrama-startups-bet-on-ai-to-slash-production-costs-by-75-84105.htm">India&#x27;s microdrama startups bet on AI to slash... - Storyboard18</a></li>
+<li><a href="https://www.businessinsider.com/actors-sexualized-fake-ads-promote-micro-dramas-tiktok-meta-2026-5">Actors Call Out Promos With Fake Sex Scenes... - Business Insider</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 玩家发现这一问题后，在 Steam 上对《忏悔加》发起集中差评，以表达对未披露 AI 生成内容的强烈反对。这场抵制最终促使开发商移除相关音乐，而非继续为纳入这些内容进行辩护。
-
-**标签**: `#AI-generated music`, `#game development`, `#Steam`, `#player backlash`, `#content disclosure`
+**标签**: `#AI-generated content`, `#digital replicas`, `#Hollywood`, `#licensing`, `#actor consent`
 
 ---
 
 <a id="item-35"></a>
-## [无菌土壤中的生命样反应持续六年](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/) ⭐️ 6.0/10
+## [超级厄尔尼诺或加剧全球饥饿](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/) ⭐️ 6.0/10
 
-科学家发现，生物意义重大的化学反应在无菌土壤中持续了六年。这一结果可能揭示生命起源之前、并可能促成生命诞生的化学过程。 这项发现表明，即使没有生物体，土壤化学本身也能维持类似生命体系的反应网络。因此，它可能为研究前生命化学如何逐步演化为生物系统提供新的证据。 已报道的持续时间为六年，涉及具有化学活性并能维持生命的反应，而不是由生物体完成的可验证繁殖。现有摘要未说明灭菌方法、反应测量方式、实验重复性，以及判定这些反应具有生物意义的具体标准。
+预计出现的超级厄尔尼诺可能加剧脆弱国家的干旱和农作物减产，进一步恶化已受战争和外援削减影响的粮食安全。尽管部分地区将获得更多降水，但降雨分布不均仍可能使数百万人面临食物不足。 气候冲击、冲突和人道主义资金减少相互叠加，可能使农业与水资源危机演变为更严重的饥饿危机。受影响最严重的预计将是资源有限、应对能力较弱的国家。 超级厄尔尼诺的特征是热带太平洋海域温度较平均水平高出 2°C 以上，可能比一般厄尔尼诺带来更持久的干旱、洪灾、极端高温和粮食生产中断。历史规律和全球预测模型显示，高温、干旱与洪水可能降低部分地区主要作物的产量。
 
-rss · Wired · 11月22日 10:30
+rss · Wired · 11月22日 10:00
 
-**背景**: 生命起源研究旨在解释化学反应如何在与现代地球不同的条件下产生最初的生物系统。天体生物学考察化学和环境过程是否有助于解释生命如何开始，包括矿物和土壤在组织或稳定反应分子方面的潜在作用。在陨石中发现糖类，也表明地外环境能够自然产生与生命有关的部分化学成分。
+**背景**: 厄尔尼诺是一种会改变大气环流并影响多个地区降雨分布的气候现象。其影响并不均衡：一些地区降雨增多，另一些地区则可能遭遇严重干旱和高温，进而压迫供水、牲畜饲养和农作物产量。受战争和援助削减影响的国家往往缺乏吸收额外冲击的能力，因此强厄尔尼诺可能叠加现有的粮食安全风险。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://bleen.com.au/gallery/1072-sterile-soil-lifelike-biochemistry-abiogenesis.html">When Sterile Soil Acts Alive: What &#x27;Lifelike&#x27; | BLEEN</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Abiogenesis">Abiogenesis - Wikipedia</a></li>
-<li><a href="https://astrobiology.nasa.gov/">Homepage | Astrobiology</a></li>
+<li><a href="https://www.wri.org/insights/super-el-nino-impacts-explained">2026 Super El Niño Impacts, Explained | World Resources Institute</a></li>
+<li><a href="https://ua-gwsc.org/how-could-el-nino-affect-global-food/">How could El Niño affect global food ? – Global Water Security Center</a></li>
+<li><a href="https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/">How This Year’s Super El Niño Will Worsen Global Hunger | WIRED</a></li>
 
 </ul>
 </details>
 
-**标签**: `#origin-of-life`, `#astrobiology`, `#soil-microbiology`, `#chemical-reactions`, `#research`
+**标签**: `#El Niño`, `#Climate Change`, `#Food Security`, `#Global Hunger`, `#Climate Policy`
 
 ---
 
 <a id="item-36"></a>
-## [超级厄尔尼诺或加剧全球饥饿](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/) ⭐️ 6.0/10
+## [ESA 探测器重返 NASA 小行星防御试验现场](https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/) ⭐️ 6.0/10
 
-一次强厄尔尼诺现象正接近峰值，将加剧中美洲部分及其他脆弱地区的干旱。与此同时，战争、外国援助削减以及能源和化肥供应受阻，可能使数百万人无法获得足够的食物。 气候灾害正与既有人道主义危机相互叠加，而非孤立发生。农作物减产、粮价上涨、投入品短缺和援助能力下降的综合影响，可能显著加剧脆弱国家的急性粮食不安全。 欧盟联合研究中心预计，中美洲面临急性粮食不安全的人数将增加 83%；厄尔尼诺引发的干旱和创纪录夏季气温正在损害农作物，并威胁第二轮种植。超级厄尔尼诺是媒体对极强事件的称呼，其特征是太平洋部分海域的平均海表温度上升至少 2°C，但不同地区可能遭遇洪涝或干旱。
+ESA 的 Hera 探测器正返回 Didymos 小行星系统，调查 NASA 的 DART 任务所改变的目标。该探测器将研究 DART 于 2022 年 9 月撞击较小的小行星 Dimorphos 后产生的变化。 Hera 任务可以实际评估动能撞击式小行星偏转试验产生的结果，而不必仅依赖模拟。其成果可能提升 NASA 和 ESA 评估并在未来偏转威胁地球的小行星时的能力。 NASA 的 DART 航天器故意撞击了较大天体 Didymos 的卫星 Dimorphos，以改变其运动状态。ESA 于 2024 年发射的 Hera 航天器正在勘测这一双小行星系统，并检查 DART 撞击造成的改变；目前可获得的信息尚未公布新的研究结果。
 
-rss · Wired · 11月22日 10:00
+rss · Wired · 11月21日 12:00
 
-**背景**: 厄尔尼诺是自然发生的厄尔尼诺—南方涛动的一个阶段，通过使热带太平洋海水变暖来改变全球降雨格局。其影响因地点而异，一些地区降雨增多，另一些地区则可能遭遇持续干旱。极强厄尔尼诺事件可持续一年以上，因此在收成、市场和人道主义体系本已承压时，其破坏性尤其突出。
+**背景**: 行星防御旨在发现可能威胁地球的小行星，并改变其轨道，使其不会撞击地球。NASA 的双小行星重定向测试首次利用动能撞击器对小行星进行了完整试验，而 Hera 则是对 Dimorphos 和 Didymos 开展后续调查的任务。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/">How This Year’s Super El Niño Will Worsen Global Hunger | WIRED</a></li>
-<li><a href="https://scied.ucar.edu/learning-zone/climate-change-impacts/el-nino-strength">A Super El Niño Is Very Strong, But Even Weaker El Niños ...</a></li>
-<li><a href="https://e360.yale.edu/features/super-el-nino-agriculture">How This Year&#x27;s Super El Niño Will Worsen Global Hunger - Yale E360</a></li>
+<li><a href="https://www.accuweather.com/en/space-news/nasas-dart-mission-successfully-changed-the-motion-of-an-asteroid/1261775">NASA &#x27;s DART mission successfully changed the motion of an asteroid</a></li>
+<li><a href="https://www.undiscoveredamerica.tv/5-ways-dart-proved-humanity-can-move-an-asteroid/">5 Ways DART Proved Humanity Can Move an Asteroid</a></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261106174532.htm">A nuclear blast could save Earth from an asteroid , but... | ScienceDaily</a></li>
 
 </ul>
 </details>
 
-**标签**: `#El Niño`, `#Climate Change`, `#Global Hunger`, `#Food Security`, `#Humanitarian Crises`
+**标签**: `#planetary defense`, `#asteroid exploration`, `#NASA`, `#ESA`, `#space research`
 
 ---
 
 <a id="item-37"></a>
-## [AI 正加速漏洞修补竞赛](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) ⭐️ 6.0/10
+## [大语言模型预训练仍在持续改进](https://sebastianraschka.com/blog/2026/pretraining-is-still-not-plateauing.html) ⭐️ 6.0/10
 
-AI 辅助的漏洞发现和自动化漏洞利用生成，正在缩短从发现缺陷到攻击未修补系统之间的时间。因此，各类组织面临更大的压力，必须更快识别漏洞、确定优先级并完成修补。 更快的漏洞利用可能使常规软件更新演变成紧急运营事件，并提高服务中断、数据泄露和业务受扰的风险。安全团队与基础设施运营人员也将持续承压，以跟上 AI 增强型攻击者的速度。 AI 工具可以帮助定位漏洞并生成可用的漏洞利用代码，从而降低武器化缺陷所需的时间与专业能力。不过，现有报告也指出，攻击利用通常滞后于漏洞披露，因此目前断言 AI 辅助发现必然带来更多成功攻击仍为时过早。
+Sebastian Raschka 认为，大语言模型的预训练性能尚未进入平台期。文章将这一现象表述为一种仍在持续的扩展趋势，但所给摘要没有包含支持这一结论的实验、图表或技术证据。 如果扩大模型规模、数据量和计算资源仍能带来可预测的预训练提升，研究机构就可能继续通过规模扩展获得能力，而不必完全依赖后训练方法。这一判断还会影响业界对训练成本、基础设施需求以及模型研发全流程中研究资源配置的预期。 现有材料没有提供基准测试结果、扩展曲线、模型规模、数据集规模、计算预算，也没有系统比较预训练与测试时计算及后训练的成效。因此，仅凭摘要无法独立验证文章的核心结论，而且绝对性能提升与单位计算成本收益递减之间的区别仍不清楚。
 
-rss · Wired · 11月21日 13:00
+rss · Hacker News \(best\) · 11月22日 23:43
 
-**背景**: 漏洞是攻击者可以利用来破坏软件或系统的弱点，而修补漏洞意味着应用修复程序。AI 既能协助防守方发现漏洞，也能帮助攻击方生成漏洞利用代码，从而压缩缺陷公开后防守方部署修复的时间窗口。搜索结果中的竞态条件资料讨论的是另一类时序缺陷，并不能证明文中所述更广泛的 AI 推动修补竞赛趋势。
+**背景**: 预训练是语言模型首先从大规模数据集中学习通用语言模式的阶段。扩展定律描述了随着参数量、训练数据和计算资源增加，模型智能与准确率如何实现可预测的提升。所谓平台期既可能指继续预训练已无法改善性能，也可能指每投入一美元或每单位计算所获得的收益正在下降，因此评估这一主张时必须明确其具体含义。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/jeffburnett225_vulncheck-state-of-exploitation-1h-2026-activity-7488228095162949632-Nbl1">AI - assisted vulnerability discovery not leading to more... | LinkedIn</a></li>
-<li><a href="https://www.oksim.ua/2024/10/17/dark-side-of-ai-in-cybersecurity/">Dark Side of AI in Cybersecurity - Oksim | Oksim - IT допомога</a></li>
-<li><a href="https://www.imperva.com/learn/application-security/race-condition/">Race Condition Vulnerability | Causes, Impacts &amp; Prevention ...</a></li>
+<li><a href="https://blogs.nvidia.com/blog/ai-scaling-laws/">How Scaling Laws Drive Smarter, More Powerful AI | NVIDIA Blog</a></li>
+<li><a href="https://arxiv.org/pdf/2509.05258">Scaling Performance of Large Language Model Pretraining</a></li>
+<li><a href="https://www.junglans.in/blog/llm-pretraining-alignment-tuning">The End-to-End LLM Pipeline: Pretraining , SFT... | Junglans Solutions</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI-assisted cybersecurity`, `#vulnerability patching`, `#system outages`, `#exploit automation`, `#cybersecurity`
+**标签**: `#machine-learning`, `#LLMs`, `#pre-training`, `#scaling-laws`
 
 ---
 
 <a id="item-38"></a>
-## [OpenAgentCore 提供可自托管的 OpenAI Agents API](https://github.com/MiniMax-AI/OpenAgentCore) ⭐️ 6.0/10
+## [Postgres 清理任务何时需要消息队列](https://dev.to/remielbarrett8283/nodejs-postgres-cleanup-jobs-when-scheduling-should-hand-work-to-a-queue-2n0p) ⭐️ 6.0/10
 
-MiniMax 发布了 OpenAgentCore，这是 OpenAI Agents API 的开源且可自托管实现。开发者可以通过官方 OpenAI SDK 在自己的机器上使用自己的模型运行 Codex、Claude Code 或 MiniMax Code。 该项目让开发者能够更灵活地控制部署方式、执行环境和模型选择，同时保持与官方 OpenAI SDK 的兼容性。它有望减少基础设施锁定，并使智能体编排更适合私有或定制化环境。 OpenAgentCore 将自身定位为支持多种原生 harness 的开源自托管实现，并宣称可支持多个编程智能体系统。现有证据仍处于早期阶段：该项目在 Hacker News 获得了 1 分且没有评论，因此尚未证明其广泛采用情况或生产环境成熟度。
+文章建议在 Node.js 中处理 Postgres 数据保留清理时，先采用定时调度和小型提交批次。只有当每条记录需要独立重试、速率控制或持久化恢复状态时，才应引入消息队列。 这一区分可以避免为常规数据库清理引入不必要的组件和运维复杂度，同时也帮助团队判断逐记录故障隔离或外部调用限速是否确实需要消息队列提供的可靠性机制。 清理事务应认领有限数量的记录，并且只删除该集合；已提交的批次具有持久性，事务中断则会回滚，使剩余符合条件的记录留待下一轮处理。事务级咨询锁可以阻止重叠执行，FOR UPDATE SKIP LOCKED 则可帮助分区 worker 避免认领相同记录。消息队列通常提供至少一次投递，因此消费者应把消息标识符用作幂等键，并在确认消息前提交完成记录。
 
-rss · Hacker News \(best\) · 11月22日 21:18
+rss · Dev.to · 11月22日 23:50
 
-**背景**: OpenAI Agents API 是用于构建智能体应用的托管接口；OpenAI 负责会话、编排、上下文压缩和恢复，应用则提供工具并选择执行环境。OpenAgentCore 的目标是提供一个具有兼容编程接口的自托管替代方案。官方 SDK 允许应用调用受支持的智能体 harness，而不必自行实现所有底层细节。
+**背景**: 调度器负责决定何时启动一轮清理，而 Postgres 负责确定该轮任务认领哪些记录并记录事务结果。消息队列用于保存许多可独立恢复的工作单元，适合处理耗时不同或需要隔离重试的记录。咨询锁和行锁语句都不能为外部副作用提供恰好一次执行保证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openagentcore.dev/">OpenAgentCore — One core. Many agents.</a></li>
-<li><a href="https://openagentcore.dev/docs/architecture">Architecture | OpenAgentCore</a></li>
-<li><a href="https://developers.openai.com/api/docs/guides/agents-api/overview">Agents API | OpenAI API</a></li>
+<li><a href="https://dev.to/pavkode/preventing-redundant-cron-job-executions-in-multi-instance-nodejs-environments-with-locking-2ofa">Preventing Redundant Cron Job Executions in Multi-Instance Node . js ...</a></li>
+<li><a href="https://learn.programmingline.com/learn/system-design/system-design-message-queues-delivery-semantics-and-dead-letter-handling">Queue Delivery Semantics and DLQs | Programming Line</a></li>
+<li><a href="https://codemia.io/courses/system_design_fundamentals/delivery_semantics">Delivery Semantics - Learn in this interactive lesson on Codemia.</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#open source`, `#self-hosting`, `#OpenAI API`, `#developer tools`
+**标签**: `#Node.js`, `#PostgreSQL`, `#Job Scheduling`, `#Message Queues`, `#Distributed Systems`
 
 ---
 
 <a id="item-39"></a>
-## [恢复流程中验证 JWT 与轮换 JWKS 的三项控制](https://dev.to/rivenor85/account-recovery-jwt-evidence-with-3-controls-for-jwks-cache-rotation-2i85) ⭐️ 6.0/10
+## [Shell 注入扫描器新增可验证审计报告](https://dev.to/aurum_revenue/i-ran-my-shell-injection-scanner-on-my-own-repos-it-flagged-three-of-my-files-3dap) ⭐️ 6.0/10
 
-文章建议使用明确受信任的签发者、受众、算法和时间要求验证设备风险 JWT，并通过设置有效期限的 JWKS 缓存获取签名密钥。同时，文章主张仅保留精简的恢复决策证据，并把风险评分视为辅助信号，而不是账户所有权的证明。 这些控制措施可以防止被重放或发给错误接收方的令牌影响敏感的账户恢复决策，并减少签名密钥轮换造成服务中断。它们还能缩小遥测数据范围，同时明确区分设备风险评估与可靠的账户所有权证明。 验证方应在令牌外部配置签发者、受众、允许的算法和 JWKS 地址；令牌中的 \`kid\` 只能用于选择候选密钥，不能授权访问任意密钥地址。实现应采用维护良好的 JOSE 库，强制校验必要的时间声明，并使用有有效期限的缓存、在遇到未知密钥标识符时按需重新获取以及请求限流。
+作者的 Shell 注入扫描器在其已推送的三个文件中发现真实问题后，他发布了 \`injection-audit\`，用于生成带日期和签名的 JSON 报告，其中包含具体发现、文件哈希、规则目录信息及分析局限。该工具通过 Python AST 和 Bash 词法层启发式分析，报告攻击者可控数据流向危险 Shell 汇点的情况。 一次扫描得到的“干净”结果会随着代码变化而过时，也无法独立证明当时检查了哪些内容，因此只能算作薄弱证据。与仓库内容哈希绑定的签名报告可以向客户和安全审查方提供可验证的证据，但仍需接入 CI/CD 安全门禁等持续执行流程。 该 MIT 许可工具仅依赖 Python 标准库并包含 126 项测试，支持 \`init-key\`、\`scan\` 和 \`verify\` 命令。Python 分析采用过程内污点传播和有限跨函数追踪，Bash 分析则基于词法层而非完整 Shell 解析；容器与属性别名追踪能力有限，lambda 和推导式函数体会被跳过。
 
-rss · Dev.to · 11月22日 21:24
+rss · Dev.to · 11月22日 23:42
 
-**背景**: JWKS 是受信任签发者发布的公钥集合，用于验证 JWT 签名；密钥轮换要求客户端能够发现新密钥，而不必每次请求都重新获取。设备风险服务可以签发一份影响账户恢复挑战强度的评估结果，但 JWT 只能证明受信任服务生成了该评估，不能证明浏览器观察到的信息真实，也不能证明请求者拥有账户。因此，账户恢复仍需采用适当的所有权验证挑战、一致响应以及带有效期且只能使用一次的恢复令牌。
+**背景**: Shell 注入发生在不可信输入未经充分净化便被拼入 Shell 执行命令时。静态扫描器用于识别攻击者可控数据源到危险执行汇点的潜在数据流，但具体发现仍需工程判断，也无法自动证明其在每种部署中都可利用。可审计证据应将报告与被分析的代码版本绑定，并明确披露所用规则和分析器的局限。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.session-management.com/oidc-oauth-20-implementation/validating-jwts-and-rotating-signing-keys/caching-jwks-without-breaking-key-rotation/">Caching JWKS Without Breaking Key Rotation | session ...</a></li>
-<li><a href="https://support.okta.com/help/s/article/best-practices-for-caching-the-okta-json-web-keys-set-jwks-for-oauth">Best Practices for Caching the Okta JSON Web Keys Set (JWKS ...</a></li>
-<li><a href="https://www.cerberauth.com/blog/jwt-multi-issuer-validation/">Validating JWTs from Multiple Issuers | CerberAuth</a></li>
+<li><a href="https://www.onekey.com/resource/shell-cgi-static-code-analysis---automatic-discovery-of-rces">Shell CGI Static Code Analysis - Automatic Discovery of RCEs</a></li>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3715001">A Container Security Survey: Exploits, Attacks, and Defenses</a></li>
 
 </ul>
 </details>
 
-**标签**: `#JWT Security`, `#JWKS Caching`, `#Account Recovery`, `#Device Fingerprinting`, `#Node.js`
-
----
-
-<a id="item-40"></a>
-## [角色分离的 AI 代理如何安全审查拉取请求](https://dev.to/himanshu231204/live-coding-with-an-ai-team-a-safe-way-to-review-a-pr-one-writer-one-reviewer-one-publisher-170i) ⭐️ 6.0/10
-
-文章提出一套实时编程工作流：由 Claude Code 编写修复，OpenCode 在不修改文件的前提下独立审查准确差异，最终由人类决定是否合并。文章还为 Hermes 和 ChatGPT dot 分别设置了可选的总结与事实播报职责，并把发布权限限制给一个授权身份。 分离编写、审查和发布职责，可以减少冲突编辑、误导性交接、重复评论以及过早合并等问题。随着 AI 编程代理越来越独立地生成和审查拉取请求，明确权限边界与人工批准正成为重要 safeguards。 编写者应使用干净的 Git worktree，审查者则应接收基于固定基线和目标版本生成的差异文件。审查发现应从“疑似”提升为“已复现”后才值得处理，只有单一身份应向 GitHub 发布，播报内容必须陈述准确的 CI 状态，不能把排队中的检查说成已经通过。
-
-rss · Dev.to · 11月22日 21:23
-
-**背景**: Git worktree 是同一仓库的另一份检出目录，可让代理在不共享主工作目录的情况下修改文件。拉取请求审查必须比较准确的版本修订，确保评论针对的正是将要发布的代码。该工作流体现了 human-in-the-loop 模式：代理负责边界明确的任务，人类保留关键决策权。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://claude.com/product/code-review">Code Review by Claude | AI code review tool for pull requests</a></li>
-<li><a href="https://code.claude.com/docs/en/code-review">Code Review - Claude Code Docs</a></li>
-<li><a href="https://porteur.ai/guides/human-in-the-loop-ai-agents">Human in the Loop for AI Agents : Designing the Handoff ... | Porteur. ai</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI Agents`, `#Pull Request Review`, `#Software Engineering`, `#Human-in-the-Loop`, `#Developer Tools`
-
----
-
-<a id="item-41"></a>
-## [按源站而非产品名盘点 PDF.js 查看器](https://dev.to/sorrelthorncroft/pdfjs-viewer-pages-need-origin-aware-inventory-not-a-library-version-claim-3fi6) ⭐️ 6.0/10
-
-这份方法论说明主张，应按嵌入源站、部署上下文和页面内容特征盘点 PDF.js 查看器暴露情况，而不能根据产品名称匹配或库版本推断风险。2026 年 11 月 23 日的 ZoomEye 固定日期查询得到 0 个应用匹配、431 个标题匹配和 2,530 个正文匹配，但这些结果仅被视为发现线索，而非已确认的漏洞实例。 公开查看器页面可能完全不显示 PDF.js 标识，而包含产品名称的页面也可能只是无害的文档门户、客户文件链接或意外暴露的内部应用。逐个关联查看器的所有者、源站、父级应用、文档来源和浏览器边界，比单纯统计页面数量更能形成可执行的安全清单。 该说明建议检查 \`isEvalSupported\`、源站配置、消息处理器、文档 URL 包装器、iframe 沙箱、CSP、程序包与工作线程版本，以及父框架允许列表。它还建议使用独立源站提供不可信文档，避免该源站携带应用 Cookie 或存储，并测试危险 URL 或父框架访问是否会被阻止。
-
-rss · Dev.to · 11月22日 21:23
-
-**背景**: PDF.js 是一个 JavaScript PDF 渲染库，常被嵌入其他应用，因此界面可能只显示文档标题、工具栏或 URL。其查看器遵循浏览器的同源策略，能够访问什么内容取决于浏览器权限和实际生效的源站模型。历史上与基于 eval 执行相关的任意 JavaScript 行为也说明，团队应检查当前配置，而不能依赖对旧版本的假设。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/mozilla/pdf.js/">GitHub - mozilla/pdf.js: PDF Reader in JavaScript · GitHub</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Same-origin_policy">Same - origin policy - Security | MDN</a></li>
-<li><a href="https://portswigger.net/web-security/cors/same-origin-policy">Same - origin policy (SOP) | Web Security Academy</a></li>
-
-</ul>
-</details>
-
-**标签**: `#PDF.js`, `#web-security`, `#same-origin-policy`, `#measurement-methodology`, `#exposure-inventory`
-
----
-
-<a id="item-42"></a>
-## [生育率下降背景下的辅助生殖技术](https://www.nejm.org/doi/full/10.1056/NEJMp2611049?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 6.0/10
-
-《新英格兰医学杂志》的一篇观点文章探讨了辅助生殖技术如何应对、缓解或重塑生育率下降趋势。现有材料仅确认了文章主题，未披露其证据、具体建议或实质结论。 随着更多社会面临出生人口减少和人口老龄化，这篇分析可能把生殖医学与人口变化及公共卫生政策联系起来。文章也可能阐明扩大生育力治疗服务将如何影响不孕人群及更宏观的人口趋势。 辅助生殖技术包括体外受精、胞浆内单精子注射、促生育药物以及配子或胚胎冷冻保存等方法。然而，所提供的内容只有引文信息，无法提取文章的证据或论点，因此无法评估其临床范围、人口学模型、局限性和政策影响。
-
-rss · NEJM · 最新文章 · 11月21日 12:30
-
-**背景**: 在人口转型过程中，许多社会的生育率已经下降，由此造成人口增长放缓、人口老龄化，并在一些国家导致人口持续减少。辅助生殖技术主要用于治疗不孕，其中体外受精是最常见的形式；该技术可以帮助个人实现生育愿望，但未必能够扭转人口层面的总体生育率下降。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://medlineplus.gov/assistedreproductivetechnology.html">Assisted Reproductive Technology | IVF | MedlinePlus Assisted Reproductive Technology (ART): Technique &amp; Types Assisted reproductive technology - Wikipedia IVF &amp; Assisted Reproductive Technology (ART) Guide Assisted Reproductive Technologies - Stanford Health Care About ART | ART | CDC</a></li>
-<li><a href="https://ourworldindata.org/demographic-transition">Demographic transition : Why is rapid population ... | Our World in Data</a></li>
-<li><a href="https://www.mckinsey.com/mgi/our-research/dependency-and-depopulation-confronting-the-consequences-of-a-new-demographic-reality">Confronting the consequences of a new demographic reality | McKinsey</a></li>
-
-</ul>
-</details>
-
-**标签**: `#fertility`, `#assisted reproductive technology`, `#demography`, `#public health`, `#reproductive medicine`
-
----
-
-<a id="item-43"></a>
-## [卫生专业人员被敦促声援被拘押的巴勒斯坦同行](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902088-X/fulltext?rss=yes) ⭐️ 6.0/10
-
-《柳叶刀》发表 Correspondence，呼吁卫生专业人员及其组织就来自加沙和约旦河西岸的巴勒斯坦医疗卫生工作者在以色列拘留中心面临的危险处境公开发声。 这封呼吁信强调，卫生专业组织和专业人员有责任关注被拘押医务人员的健康与人道风险。相关组织公开表态可能提高国际社会对拘押环境、医疗安全及职业健康问题的关注。 内容重点关注来自加沙和约旦河西岸、关押于以色列拘留中心的医疗卫生工作者。这是一封倡导性声明，并非临床研究或详尽的技术评估；所给摘录也未说明被拘押人数、健康状况或拘押时长。
-
-rss · The Lancet · 最新文章 · 11月20日 23:30
-
-**背景**: 《柳叶刀》的这封 Correspondence 强调，被拘押的巴勒斯坦医疗卫生工作者可能面临健康风险，并主张专业组织不应继续沉默。其论述体现了医学协会保护卫生工作者、提高公众对人道问题关注的职责。
-
-**标签**: `#medical ethics`, `#humanitarian health`, `#Gaza`, `#health professionals`, `#advocacy`
+**标签**: `#application-security`, `#shell-injection`, `#static-analysis`, `#secure-sdlc`, `#ci-cd`
 
 ---

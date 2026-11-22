@@ -5,1013 +5,894 @@ date: 2026-11-22
 lang: en
 ---
 
-> From 141 items, 43 important content pieces were selected
+> From 139 items, 39 important content pieces were selected
 
 ---
 
-1. [Perplexity as a Signal of Model Intelligence](#item-1) ⭐️ 8.0/10
-2. [Anthropic’s 2028 Power Mix Is Mostly Gas and Coal](#item-2) ⭐️ 8.0/10
-3. [Inkling-2-Mini Runs in 5.4 GB at 150 Tokens per Second](#item-3) ⭐️ 8.0/10
-4. [OpenRouter Removes Providers After Prompt Privacy Incidents](#item-4) ⭐️ 8.0/10
-5. [Japanese Automakers Standardize Parts to Cut Costs](#item-5) ⭐️ 7.0/10
-6. [Show HN: A Game Where You Are an LLM Subagent](#item-6) ⭐️ 7.0/10
-7. [Alliance Proposes Open Protocol for Social Media](#item-7) ⭐️ 7.0/10
-8. [Delta Flights Delayed After Atlanta Weight-and-Balance System Outage](#item-8) ⭐️ 7.0/10
-9. [Muru Brings Rust-Powered Python Serving to ASGI and WSGI](#item-9) ⭐️ 7.0/10
-10. [Two Million AI Canary Tokens Expose Supply-Chain Privacy Failures](#item-10) ⭐️ 7.0/10
-11. [Packaging PostgreSQL as a Single Binary](#item-11) ⭐️ 7.0/10
-12. [Microsoft 365 Outage Post-Incident Report Explains Root Cause](#item-12) ⭐️ 7.0/10
-13. [Signal Restricts Mobile Screenshots Over AI Surveillance Concerns](#item-13) ⭐️ 7.0/10
-14. [Race Realism Fails Modern Genetics](#item-14) ⭐️ 7.0/10
-15. [FCC Blocks California’s AT&amp;T Home Phone Rules](#item-15) ⭐️ 7.0/10
-16. [Banks Restrict Third-Party AI Agents and Shift Liability](#item-16) ⭐️ 7.0/10
-17. [Telltale Reads Back QNX 8.0 Instrument Pixels to Catch False Displays](#item-17) ⭐️ 7.0/10
-18. [Answer Receipts Make Text-to-SQL Results Auditable](#item-18) ⭐️ 7.0/10
-19. [Silicon Valley’s Shift From Innovation to Financialization](#item-19) ⭐️ 6.0/10
-20. [Sandwich Simulator Turns Layering Into Playful Web Interaction](#item-20) ⭐️ 6.0/10
-21. [Backblaze Users Question Updated Data Sale and Sharing Terms](#item-21) ⭐️ 6.0/10
-22. [Has Software Always Been Too Complex for Humans?](#item-22) ⭐️ 6.0/10
-23. [C++26 Technical Work Completed After Second Review](#item-23) ⭐️ 6.0/10
-24. [Mathematicians React to a Future AI Proof of GRH](#item-24) ⭐️ 6.0/10
-25. [NixOS Bring-Up on Alibaba RISC-V Board](#item-25) ⭐️ 6.0/10
-26. [Monitor Reportedly Cut Download Speed by 75%](#item-26) ⭐️ 6.0/10
-27. [Local Web Tool Plans City Radio Mesh Networks](#item-27) ⭐️ 6.0/10
-28. [GhostScript Upload2Shell Vulnerability Draws Security Attention](#item-28) ⭐️ 6.0/10
-29. [OpenAI Scientist Proposes Measuring AI Development Speed](#item-29) ⭐️ 6.0/10
-30. [Nvidia’s Earnings Contrast With Pressure for Huang’s Return](#item-30) ⭐️ 6.0/10
-31. [AI Face Licensing Tests Hollywood’s Future](#item-31) ⭐️ 6.0/10
-32. [GLP-1 Drugs Could Free Farmland Larger Than Italy](#item-32) ⭐️ 6.0/10
-33. [Meta Reconsiders 2030 Net-Zero Goal as AI Emissions Rise](#item-33) ⭐️ 6.0/10
-34. [Isaac Developer Removes AI Music After Backlash](#item-34) ⭐️ 6.0/10
-35. [Sterilized Soil Kept Lifelike Reactions Alive for Six Years](#item-35) ⭐️ 6.0/10
-36. [Super El Niño Could Intensify Global Hunger](#item-36) ⭐️ 6.0/10
-37. [AI Accelerates the Race to Patch Vulnerabilities](#item-37) ⭐️ 6.0/10
-38. [OpenAgentCore Brings a Self-Hosted OpenAI Agents API](#item-38) ⭐️ 6.0/10
-39. [Three Controls for Recovery JWTs and JWKS Rotation](#item-39) ⭐️ 6.0/10
-40. [Role-Separated AI Agents for Safer Pull Request Review](#item-40) ⭐️ 6.0/10
-41. [Inventory PDF.js Viewers by Origin, Not Product Name](#item-41) ⭐️ 6.0/10
-42. [Assisted Reproduction Amid Declining Fertility Rates](#item-42) ⭐️ 6.0/10
-43. [Health Professionals Urged to Support Detained Palestinian Colleagues](#item-43) ⭐️ 6.0/10
+1. [Perplexity as a Simple Progress Metric Toward Intelligence](#item-1) ⭐️ 9.0/10
+2. [Anthropic’s 2028 Power Mix Could Be 98% Fossil Fuel](#item-2) ⭐️ 8.0/10
+3. [C++26 Technical Work Completed in Brazil](#item-3) ⭐️ 8.0/10
+4. [Four Escapes Show Why Containers Cannot Safely Host AI Agents](#item-4) ⭐️ 8.0/10
+5. [What Happened to Silicon Valley? A Case for Mechanism Design](#item-5) ⭐️ 7.0/10
+6. [Show HN: A Game Where Players Become LLM Subagents](#item-6) ⭐️ 7.0/10
+7. [Japanese Automakers Standardize Parts to Cut Costs](#item-7) ⭐️ 7.0/10
+8. [A Better Vocabulary for Software Testing](#item-8) ⭐️ 7.0/10
+9. [Why Useless Knowledge Can Prove Profoundly Useful](#item-9) ⭐️ 7.0/10
+10. [Localcode Brings One-Command Agentic Coding to macOS](#item-10) ⭐️ 7.0/10
+11. [Two Million AI Canaries Expose Widespread Secret Leakage](#item-11) ⭐️ 7.0/10
+12. [PostgreSQL Packaged as a Single Binary](#item-12) ⭐️ 7.0/10
+13. [Microsoft 365 Outage Post-Incident Report](#item-13) ⭐️ 7.0/10
+14. [GhostScript Upload2Shell Vulnerability Enables Remote Code Execution](#item-14) ⭐️ 7.0/10
+15. [Muru Brings Rust-Powered Production Tooling to Python](#item-15) ⭐️ 7.0/10
+16. [Signal Restricts Mobile Screenshots Against AI Surveillance](#item-16) ⭐️ 7.0/10
+17. [Race Realism Misuses Genetics, Article Argues](#item-17) ⭐️ 7.0/10
+18. [U.S. Banks Restrict Third-Party AI Agents](#item-18) ⭐️ 7.0/10
+19. [Life’s Chemical Reactions Persisted in Sterilized Soil for Six Years](#item-19) ⭐️ 7.0/10
+20. [AI Accelerates Exploits Beyond the Patch Window](#item-20) ⭐️ 7.0/10
+21. [Typed Slot Memory Preserves Facts During Context Compaction](#item-21) ⭐️ 7.0/10
+22. [AI Ported One Python Function to Rust for 78× Speedup](#item-22) ⭐️ 7.0/10
+23. [Beginner’s Guide to Local AI with Inkling, Qwen, and Unsloth](#item-23) ⭐️ 6.0/10
+24. [Alliance Proposes Shared Protocol for Open Social Media](#item-24) ⭐️ 6.0/10
+25. [How BSD Escaped AT&amp;T&\#x27;s Unix Licensing](#item-25) ⭐️ 6.0/10
+26. [Harvard Offers Graduate Course on AI Alignment and Safety](#item-26) ⭐️ 6.0/10
+27. [Common Misconceptions About ATProto](#item-27) ⭐️ 6.0/10
+28. [Gliver Completes the Guix Desktop Environment](#item-28) ⭐️ 6.0/10
+29. [NixOS Brought Up on Alibaba RISC-V Board](#item-29) ⭐️ 6.0/10
+30. [Open-Source Calculator Plans City-Scale Radio Mesh Networks](#item-30) ⭐️ 6.0/10
+31. [Advice for the Next 100 Rust GUIs](#item-31) ⭐️ 6.0/10
+32. [Sutskever Proposes Measurable AI Development Speed Limits](#item-32) ⭐️ 6.0/10
+33. [Nvidia’s Earnings and Leadership Crisis](#item-33) ⭐️ 6.0/10
+34. [AI Face Licensing Tests Hollywood’s Consent Boundaries](#item-34) ⭐️ 6.0/10
+35. [Super El Niño Could Intensify Global Hunger](#item-35) ⭐️ 6.0/10
+36. [ESA Probe Revisits NASA’s Asteroid Defense Test Site](#item-36) ⭐️ 6.0/10
+37. [Large-Language-Model Pre-training Still Shows Scaling Gains](#item-37) ⭐️ 6.0/10
+38. [When Postgres Cleanup Needs a Message Queue](#item-38) ⭐️ 6.0/10
+39. [Shell-Injection Scanner Adds Signed, Auditable Reports](#item-39) ⭐️ 6.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Perplexity as a Signal of Model Intelligence](https://openai.com/index/perplexity-and-intelligence/) ⭐️ 8.0/10
+## [Perplexity as a Simple Progress Metric Toward Intelligence](https://openai.com/index/perplexity-and-intelligence/) ⭐️ 9.0/10
 
-OpenAI Chief Scientist Jakub Pachocki argues that pretraining perplexity may be a simple, consistently useful indicator of a model’s general learned intelligence. The article also examines where perplexity diverges from actionable task evaluations and from gains produced by post-training methods such as reinforcement learning. If improvements in perplexity reliably precede gains in broader capabilities, the metric could offer researchers a more informative tracking signal than proliferating isolated benchmarks. However, post-training reasoning methods can create major performance discontinuities, so perplexity alone should not be treated as a complete measure of frontier-model capability. Perplexity is the exponentiated average negative log-likelihood of held-out tokens, expressing how surprising a model finds the data; an ideal deterministic predictor approaches 1, while uniform random guessing over a vocabulary V approaches V. The article distinguishes perplexity’s apparent link to general intelligence from direct task relevance and from advances occurring outside pretraining, while commenters question whether abilities truly emerge at fixed perplexity thresholds.
+OpenAI argues that falling language-model perplexity is a simple, meaningful indicator of progress toward intelligence. The claim challenges the prevailing emphasis on cross-entropy training objectives and reinforcement learning, and has prompted extensive technical debate about prediction, compression, and reasoning. A broadly comparable metric could make model progress easier to assess than sprawling benchmark suites, particularly when evaluating how well models learn regularities in data. However, perplexity does not by itself establish that specific cognitive abilities have emerged, so it must be interpreted alongside task-level evaluations. Perplexity measures how surprising a model finds the actual next tokens, given their preceding context; lower values indicate better prediction, with an ideal value of 1. For autoregressive language models, this metric is well defined, but it remains sensitive to the evaluation data and tokenization and may not transfer cleanly to masked language models or specialized capabilities.
 
 hackernews · Hacker News \(热门\) · Nov 22, 17:06 · [Discussion](https://news.ycombinator.com/item?id=50601525)
 
-**Background**: Perplexity measures how accurately a language model predicts tokens, and it has long been optimized during pretraining because lower loss generally indicates a better probabilistic model of text. The article proposes treating perplexity as a possible proxy for general learned intelligence rather than merely a training loss. Chain-of-thought training and reinforcement learning can improve reasoning after pretraining, making the relationship between lower perplexity and frontier performance an open question.
+**Background**: Perplexity is derived from the average uncertainty a model assigns to the next token, and lower perplexity generally means that it predicts the evaluation sequence more accurately. It is commonly used to evaluate autoregressive or causal language models, but is not equally well defined for masked models. The discussion also connects prediction with compression: discovering regularities in data can reduce the information needed to represent it, while reasoning models complicate simple comparisons through post-training methods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/index/perplexity-and-intelligence/">Perplexity and Intelligence | OpenAI</a></li>
-<li><a href="https://canvas4everyone.com/blogs/news/unraveling-the-relationship-between-perplexity-and-kullback-leibler-divergence">Unraveling the Relationship Between Perplexity and Kullback-Leibler Di</a></li>
-<li><a href="https://liner.com/review/paloma-benchmark-for-evaluating-language-model-fit">Paloma: A Benchmark for Evaluating Language Model Fit...</a></li>
+<li><a href="https://www.baeldung.com/cs/language-models-perplexity">Evaluating Language Models Using Perplexity - Baeldung</a></li>
+<li><a href="https://huggingface.co/docs/transformers/perplexity">Perplexity of fixed-length models - Hugging Face</a></li>
+<li><a href="https://philarchive.org/archive/BOSTCO-17">The Collapse of Predictive Compression : Why Probabilistic...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Participants found the apparent perplexity trend striking and welcomed a simple benchmark, while one commenter supplied a technical definition of perplexity. Others highlighted GPT-4.5 as a possible discontinuity, suggesting that chain-of-thought and reinforcement learning produced stronger real-world gains than perplexity alone captures, and questioned whether specialized models can display high task performance despite relatively weak general perplexity.
+**Discussion**: Commenters welcomed perplexity as a simple benchmark and connected it to a longstanding view of intelligence as prediction and compression. Others were skeptical that particular abilities emerge at fixed perplexity thresholds, noting that specialized training can yield strong math performance despite weak general prediction, and emphasizing the need to match perplexity with task-specific data and evaluations.
 
-**Tags**: `#language-models`, `#perplexity`, `#pretraining`, `#reinforcement-learning`, `#model-evaluation`
+**Tags**: `#language-model-evaluation`, `#perplexity`, `#AGI`, `#machine-learning-theory`, `#reasoning-models`
 
 ---
 
 <a id="item-2"></a>
-## [Anthropic’s 2028 Power Mix Is Mostly Gas and Coal](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) ⭐️ 8.0/10
+## [Anthropic’s 2028 Power Mix Could Be 98% Fossil Fuel](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/) ⭐️ 8.0/10
 
-A Better Data Center Project case study projects that Anthropic’s contracted U.S. data centers could obtain about 87% of their electricity from natural gas and 11% from coal in 2028. The estimate, based on permits, regulatory filings, and EPA modeling rather than a measured operating mix or an Anthropic statement, also indicates potential annual emissions of 17 to 38 million metric tons of CO2 equivalent under the mid-case scenario. The projection highlights how the rapid expansion of AI computing may be tied to fossil-fuel generation rather than renewable energy, creating substantial carbon, air-pollution, water-use, and grid-planning challenges. It also strengthens pressure on regulators, policymakers, and customers to address infrastructure costs and environmental effects that local communities may otherwise bear. The analysis covers about 15 gigawatts of contracted Anthropic compute and links its projected power mix to data centers, associated power plants, and on-site gas turbines. These figures are forward-looking estimates tied to 2028 infrastructure plans, so they should not be treated as Anthropic’s current electricity mix or proof that every projected facility will operate as assumed.
+A Better Data Center Project case study projects that electricity serving Anthropic’s contracted US data centers could derive about 87% from natural gas and 11% from coal in 2028, leaving renewables at a negligible share. Its mid-case estimate also indicates annual emissions of roughly 17 million to 38 million metric tons of CO2 equivalent. The projection highlights how the rapid expansion of AI computing may add substantial fossil-fuel demand, local pollution, and grid pressure. It also raises questions about whether voluntary corporate commitments are sufficient without regulation that makes data centers account for their environmental and social costs. The analysis ties the estimate to about 15 gigawatts of contracted compute and sites using on-site gas turbines under “bring your own power” arrangements. These are projections rather than measured results, and the figures depend on the report’s assumptions about contracted facilities, generation sources, utilization, and grid conditions.
 
 hackernews · Hacker News \(热门\) · Nov 22, 08:57 · [Discussion](https://news.ycombinator.com/item?id=50597612)
 
-**Background**: The case study examines a model commonly described as “bring your own power,” in which large data-center operators arrange dedicated generation and grid connections to meet rapidly rising computing demand. AI infrastructure generally requires substantial electricity, water, land, and cooling infrastructure, while its operational emissions depend heavily on the local generation mix. Researchers have called for AI expansion to be integrated into energy, water, and land-use planning to reduce resource pressure and environmental harm.
+**Background**: AI models require large data centers, which consume electricity at a scale that can affect regional power systems and nearby communities. In some locations, data-center developers finance or contract dedicated generation instead of relying solely on the existing grid, while renewable-energy commitments may cover only a portion of a company’s broader electricity use. The analysis presents Anthropic as a case study in how the growth of AI infrastructure can be linked to fossil generation and additional emissions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">How AI is powered : a breakdown of BYOP and grid power</a></li>
 <li><a href="https://explainx.ai/blog/anthropic-data-center-power-gas-coal-byop-2028-better-datacenter-november-2026">Anthropic Power Mix: 87% Gas, 11% Coal by 2028 (Study ...</a></li>
-<li><a href="https://news.un.org/en/story/2026/06/1167658">AI’s environmental costs threaten water, land and climate ...</a></li>
+<li><a href="https://www.winzheng.com/en/article/anthropic-2028-energy-87-gas-11-coal-fossil-fuel-analysis">Anthropic’s 2028 Electricity to Be 87% Fossil Fuel: An ...</a></li>
+<li><a href="https://www.euronews.com/2026/11/19/the-dark-side-of-ai-us-data-centres-emit-more-carbon-than-all-of-denmark">The dark side of AI : US data centres emit more carbon... | Euronews</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters broadly condemned Anthropic’s environmental record and contrasted it with stronger renewable-energy commitments by other technology companies. They argued for regulation that accounts for social and environmental externalities, expressed concern about pollution around facilities such as Colossus 1 in Memphis, and noted that abundant U.S. shale gas may often be a byproduct of oil production, complicating claims that switching to gas would decouple AI growth from fossil fuels.
+**Discussion**: Commenters were strongly critical of Anthropic, citing local pollution around its Memphis operations, the absence of US renewable-energy commitments, and the failure of financial incentives to address climate externalities. Several argued that regulation is needed to shift environmental and social costs away from affected communities, while others questioned whether AI developers will voluntarily prioritize climate solutions amid the sector’s short-term profit incentives.
 
-**Tags**: `#AI infrastructure`, `#data-center energy`, `#natural gas`, `#climate policy`, `#environmental impact`
+**Tags**: `#AI infrastructure`, `#data-center energy`, `#Anthropic`, `#climate impact`, `#energy policy`
 
 ---
 
 <a id="item-3"></a>
-## [Inkling-2-Mini Runs in 5.4 GB at 150 Tokens per Second](https://github.com/ShinMegamiBoson/lookatmyquant) ⭐️ 8.0/10
+## [C++26 Technical Work Completed in Brazil](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 8.0/10
 
-The lookatmyquant project demonstrates a heavily quantized Inkling-2-Mini deployment that fits within a reported 5.4 GB memory footprint. Custom GPU kernel work enables roughly 150 tokens per second on two NVIDIA RTX A4500 GPUs linked with NVLink. This deployment illustrates how low-bit quantization and specialized kernels can make a 26.4B-parameter open-weight model practical on comparatively modest local hardware. It also highlights the continuing narrowing of the capability gap between frontier models and locally run open models, although the result depends on custom engineering. Inkling-2-Mini is a 26.4B Mixture-of-Experts model with 5.4B active parameters, using a looped-transformer architecture designed for coding, agentic, and vision workloads. The reported 5.4 GB figure should not be confused with total system requirements: other users report needing substantially more VRAM for practical context lengths, particularly with a 128K KV cache, and measured speed varies sharply by GPU and kernel implementation.
+The ISO C++ committee announced that it had completed the technical work for C++26 for a second time at its November 2026 meeting in Búzios, Brazil, with hybrid participation through Zoom. The meeting followed the committee’s earlier completion of C++26 technical work in March. Completion of the technical work marks a major milestone for C++ developers and toolchain implementers moving toward the next ISO-standardized release. It enables downstream work such as final publication, compiler and library implementation, and developer migration planning. The November meeting was held in Búzios, in the state of Rio de Janeiro, Brazil, and included hybrid online participation. The available material does not enumerate the final C++26 feature set or explain what “again” refers to beyond the earlier March completion.
 
-hackernews · Hacker News \(热门\) · Nov 21, 18:02 · [Discussion](https://news.ycombinator.com/item?id=50591853)
+rss · Lobsters \(技术社区\) · Nov 21, 13:57
 
-**Background**: Quantization stores model weights at reduced numerical precision, lowering memory consumption and often accelerating inference at the cost of potential output-quality changes. Inkling-2-Mini uses a looped-transformer design and sparse MoE activation, allowing only 5.4B of its 26.4B parameters to participate in each token computation. Low-bit formats such as NVFP4 can reduce storage further, but efficient execution generally requires carefully optimized GPU kernels.
+**Background**: ISO C++ standards are developed through committee meetings and formal paper reviews before the finalized standard is published. C++26 is expected to include features associated with static reflection and contract programming, while hazard pointers are also discussed as part of the release’s broader technical direction. The announcement in this item concerns the committee’s technical completion milestone rather than a detailed feature summary.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://thinkingmachines.ai/news/inkling-2-mini/">Introducing Inkling 2 Mini - Thinking Machines Lab</a></li>
-<li><a href="https://unsloth.ai/docs/models/inkling-2-mini">Inkling 2 Mini - Run Locally Guide | Unsloth Documentation</a></li>
-<li><a href="https://www.techpowerup.com/gpu-specs/rtx-a4500.c3849">NVIDIA RTX A 4500 Specs | TechPowerUp GPU Database</a></li>
+<li><a href="https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/">C++26 is done (again)! — Trip report: November 2026 ISO C++ ...</a></li>
+<li><a href="https://isocpp.org/files/papers/P2996R4.html">Reflection for C++26 - isocpp.org</a></li>
+<li><a href="https://www.signalthirty.com/post/c26-new-features-reflection-contracts-and-more-explained">C++26 New Features: Reflection, Contracts, and More Explained</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community members consider Inkling-2-Mini capable and reported successful coding and Grafana tasks, but warned that running a model is not the same as obtaining useful quality. Performance reports diverge widely, with one user measuring only one-third the speed of Qwen 27B on an R9700 and another saying credible 100K-plus context performance required at least 12 GB of VRAM; users also questioned benchmark claims and the repository&\#x27;s documentation.
-
-**Tags**: `#quantization`, `#local-llm`, `#model-inference`, `#GPU-kernels`, `#edge-ai`
+**Tags**: `#C++`, `#ISO Standards`, `#Language Evolution`, `#C++26`, `#Software Development`
 
 ---
 
 <a id="item-4"></a>
-## [OpenRouter Removes Providers After Prompt Privacy Incidents](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/) ⭐️ 8.0/10
+## [Four Escapes Show Why Containers Cannot Safely Host AI Agents](https://dev.to/sandscale/four-container-escapes-and-what-they-teach-about-running-agent-code-2ak1) ⭐️ 8.0/10
 
-OpenRouter said it investigated incidents in which inference providers improperly retained or accessed prompts, including routing through an upstream provider rather than processing requests as expected. It removed three providers, stripped 125 endpoints of Zero Data Retention eligibility, notified potentially affected customers, and outlined interim privacy, routing, and ZDR safeguards. The incidents show that a gateway&\#x27;s privacy claims can depend on how each downstream provider handles requests, especially when providers are silently rerouted to other backends. Organizations using OpenRouter may therefore need provider allowlists, direct contracts, contractual ZDR terms, and independent assurance rather than relying on a platform-wide designation. 受影响的范围包括研究人员发现的服务商，以及作为预防措施额外移除的端点。零数据保留通常意味着推理完成后不存储提示词和响应，但其适用范围、例外情况和执行方式会因服务商而异，因此应按端点核验资格，不能把所有端点视为具有同等的隐私保障。
+The article synthesizes four public container-escape vulnerabilities—including runc flaws and the Linux &quot;Dirty Pipe&quot; kernel bug—to show how untrusted, model-generated code can cross a container boundary. It recommends stronger isolation practices for AI-agent infrastructure rather than treating a conventional container as a sufficient sandbox. AI agents may generate or select code from untrusted inputs, making containers a genuine security boundary rather than merely a packaging mechanism. Successful escapes could expose host filesystems, credentials, and other workloads, affecting organizations that deploy coding agents in production. The supplied excerpt details CVE-2019-5736, in which runc 1.0-rc6 and earlier could let a container overwrite the host runtime, and CVE-2024-21626, where a leaked file descriptor in runc 1.1.11 and earlier exposed the host filesystem and enabled binary replacement; runc 1.1.12 fixed the latter. Practical measures include running agent commands as unprivileged users, using user namespaces, treating agent-written Dockerfiles as attacker-controlled input, and adding isolation stronger than a shared-kernel container.
 
-hackernews · Hacker News \(热门\) · Nov 22, 02:14 · [Discussion](https://news.ycombinator.com/item?id=50595554)
+rss · Dev.to · Nov 22, 23:46
 
-**Background**: OpenRouter is a unified API gateway that routes model requests among third-party inference providers. ZDR is intended to prevent an inference provider from retaining prompts and outputs after processing, but disclosures can reveal discrepancies between a provider&\#x27;s advertised endpoint identity and the infrastructure that ultimately handles the request.
+**Background**: Containers isolate processes through namespaces, controls, and a shared host kernel, making them fast and convenient but dependent on the runtime and kernel remaining secure. The excerpt also describes CVE-2022-0847, or &quot;Dirty Pipe,&quot; in which an improperly initialized Linux pipe-buffer flag allowed a local user to modify page-cache pages backed by read-only files and escalate privileges. Search results further emphasize that untrusted-code sandboxes may need layered controls, including restricted system calls or microVM-based isolation.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">Data Processing Incidents on Inference Providers</a></li>
-<li><a href="https://openrouter.ai/blog/insights/zero-data-retention/">Zero Data Retention (ZDR): What It Means for AI APIs</a></li>
-<li><a href="https://www.spheron.network/blog/zero-data-retention-for-llm-inference-what-a-fixed-plan-guar/">Zero Data Retention for LLM Inference: What a Fixed Plan ...</a></li>
+<li><a href="https://unit42.paloaltonetworks.com/breaking-docker-via-runc-explaining-cve-2019-5736/">Breaking out of Docker via runC – Explaining CVE - 2019 - 5736</a></li>
+<li><a href="https://blaxel.ai/blog/python-sandbox-llm-untrusted-code-isolation">Python Sandbox for LLM Code : MicroVM Isolation Guide | Blaxel Blog</a></li>
+<li><a href="https://dev.to/mohameddiallo/4-ways-to-sandbox-untrusted-code-in-2026-1ffb">4 ways to sandbox untrusted code in 2026 - DEV Community</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters expressed strong concern that OpenRouter lacked adequate provider due diligence and that its initial safeguards lacked the force of direct contractual protections. Some welcomed the response but stressed that the strongest ZDR agreement is one negotiated directly with the inference provider; smaller organizations said they may lack the scale or budget for that and favored allowlisting trusted providers, while one affected user reported only one nonsensitive prompt being involved.
-
-**Tags**: `#AI privacy`, `#inference providers`, `#OpenRouter`, `#prompt security`, `#data retention`
+**Tags**: `#container-security`, `#AI-agents`, `#sandboxing`, `#vulnerabilities`, `#untrusted-code`
 
 ---
 
 <a id="item-5"></a>
-## [Japanese Automakers Standardize Parts to Cut Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) ⭐️ 7.0/10
+## [What Happened to Silicon Valley? A Case for Mechanism Design](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) ⭐️ 7.0/10
 
-Toyota, Nissan, Honda, and four other Japanese automakers are pursuing parts commonization to simplify production and reduce costs. The effort is particularly aimed at improving their competitiveness against lower-cost Chinese automakers. Shared components could lower development, procurement, and manufacturing expenses across a broader range of vehicles, potentially influencing vehicle prices and industry-wide manufacturing practices. The strategy may also help Japan’s seven automakers respond to strong Chinese competition and, for Nissan, ease financial pressure. Parts commonization means deliberately using the same parts, modules, interfaces, or engineering specifications across vehicles, trims, platforms, plants, or regions. Its savings depend on meaningful component volume and careful engineering, and the initiative also requires coordination among Toyota, Nissan, Honda, Mazda, Subaru, Mitsubishi, and Suzuki.
+O&\#x27;Reilly Radar published an essay arguing that Silicon Valley&\#x27;s incentives, corporate scale, and shareholder-value focus have reshaped technology, and that mechanism design — reverse game theory — offers a way to redesign the system around human flourishing. The piece traces how ZIRP-era cheap money and AI-driven growth turned venture culture toward enormous, profit-maximizing corporations. The argument matters because it reframes AI strategy and corporate governance as design problems rather than purely technical ones, suggesting that the goal society optimizes for can be deliberately chosen. It also bears on policy debates in California and beyond, where regulators are trying to balance AI oversight against the interests of the industry they regulate. The framing relies on mechanism design as taught by Nobel laureates such as Eric Maskin, who notes the theory applies to environmental policy, electoral systems, and financial markets. The article also connects to documented concerns that governance focused on maximizing shareholder value can incentivize harmful corporate behavior when enforcement is weak and penalties are low.
 
-hackernews · Hacker News \(热门\) · Nov 22, 04:04 · [Discussion](https://news.ycombinator.com/item?id=50596133)
+hackernews · Hacker News \(热门\) · Nov 22, 19:20 · [Discussion](https://news.ycombinator.com/item?id=50602947)
 
-**Background**: Automakers have long reduced costs through platform engineering, in which different vehicles share underlying structures and components. Such reuse can simplify development and production, but it has technical limits and requires compatible designs without compromising vehicle quality or performance. Chinese manufacturers have increased pressure on Japanese automakers by competing with aggressive pricing and, in some cases, extensive in-house component production.
+**Background**: Mechanism design is the study of how rules and institutions can be deliberately constructed so that self-interested participants produce desirable outcomes; as Maskin puts it, it is reverse game theory, asking not just what game is being played but what game ought to be played. It has long applications in market design, auction rules, and voting theory. Meanwhile, the shareholder value model reshaped corporate America in the 1980s and 1990s by tying executive compensation to stock price, and Silicon Valley&\#x27;s culture shifted as ZIRP-era cheap money let startups and incumbents grow to unprecedented scale.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://umbrex.com/resources/umbrex-explainers/automotive-mobility-explainers/parts-commonization/">What is parts commonization? | Umbrex Explainers</a></li>
-<li><a href="https://resources.hartfordtechnologies.com/blog/future-standardization-of-methods-and-cost-structures-in-automotive-manufacturing">Future Standardization of Methods and Cost Structures in ...</a></li>
-<li><a href="https://www.arabakirala.com.tr/en/blog/automotive-parts-standardization-shared-components">Automotive Parts Standardization and Shared Components</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mechanism_design">Mechanism design - Wikipedia</a></li>
+<li><a href="https://www.ubs.com/global/en/our-firm/what-we-do/our-brand/nobel-perspectives/laureates/eric-maskin.html">Eric Maskin: Mechanism Design Theory | UBS Global</a></li>
+<li><a href="https://phys.org/news/2025-09-good-corporate-incentives-bad-behavior.html">When &#x27;good&#x27; corporate governance creates incentives for bad behavior</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters viewed parts commonization as a sensible response to Chinese cost competition, with one comparison to GM and Ford’s shared six-speed automatic transmission program dating to 2002. They also highlighted Chinese firms’ high levels of vertical integration, questioned whether the headline understated the industry-wide scope, and suggested the effort may provide relief for Nissan amid its financial troubles. One commenter questioned affordability for unemployed consumers, while some posted material was truncated.
+**Discussion**: Commenters largely praised the article&\#x27;s mechanism-design framing, with one reader calling it a core topic of the era and agreeing that society should decide what to optimize for collectively. Others emphasized proximate causes such as ZIRP-era money enabling grotesque corporate scale, and questioned whether markets will now punish reckless AI spending, while one commenter criticized the shift from Wall Street yuppies to &quot;VC influencers&quot; and the perceived thinning of integrity in the Valley.
 
-**Tags**: `#automotive-industry`, `#manufacturing`, `#supply-chain`, `#electric-vehicles`, `#cost-reduction`
+**Tags**: `#Silicon Valley`, `#AI Strategy`, `#Mechanism Design`, `#Corporate Incentives`, `#Technology Policy`
 
 ---
 
 <a id="item-6"></a>
-## [Show HN: A Game Where You Are an LLM Subagent](https://github.com/gulivan/worker755) ⭐️ 7.0/10
+## [Show HN: A Game Where Players Become LLM Subagents](https://github.com/gulivan/worker755) ⭐️ 7.0/10
 
-Show HN featured worker755, an open-source game in which players issue tasks to an LLM manager and interact with the subagents to whom it delegates work. The project received 230 points and 56 comments on Hacker News. The project turns hierarchical agent delegation into an interactive and entertaining experience, demonstrating how LLM orchestration can be presented to users rather than merely discussed as an enterprise architecture pattern. It is best understood as an engaging demonstration rather than a major technical advance. The game supports experimenting with destructive commands such as attempting to remove every file, while the manager&\#x27;s behavior determines how much guidance players receive. A noted limitation is the apparent absence of local LLM support, which prevents use with a self-hosted homelab server.
+The open-source project worker755 presents an interactive game in which players act as an LLM subagent, receiving instructions from a managing agent while carrying out computer tasks. It turns agent delegation and command execution into a playful simulation and gained 261 points and 59 comments on Hacker News. The project provides an accessible way to experience the workflow of hierarchical multi-agent systems, where a coordinator delegates work to subordinate agents. Its reception shows strong interest in combining LLM agents with interactive fiction while also highlighting practical concerns such as local-model support. Gameplay involves responding to a director while executing shell-style commands, including humorous destructive commands such as rm -rf. One commenter observed that the manager often supplied exact commands rather than allowing independent solutions, and another noted that local LLM support did not appear to be available.
 
 hackernews · Hacker News \(热门\) · Nov 22, 13:56 · [Discussion](https://news.ycombinator.com/item?id=50599762)
 
-**Background**: In multi-agent systems, an orchestrator or manager agent can divide a larger objective into subtasks and assign them to specialized subagents. This worker755 game makes that delegation model playable: the player acts as a subagent while an LLM manager coordinates tasks and responds to requests.
+**Background**: An LLM subagent is a subordinate model instance given a narrower role within a larger agent workflow. In hierarchical multi-agent architectures, a primary orchestrator delegates tasks to specialized subagents that may perform reasoning, tool use, execution, or validation. worker755 gamifies this general pattern by making the human occupy the subagent position and act on commands issued by a managing agent.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://learn.microsoft.com/en-us/agents/architecture/multi-agent-orchestrator-sub-agent">Orchestrator and subagent multi-agent patterns | Microsoft Learn</a></li>
 <li><a href="https://martinuke0.github.io/posts/subagents/">Sub-Agents in LLM Systems : Architecture, Execution Model ...</a></li>
-<li><a href="https://arxiv.org/html/2601.13671v1">The Orchestration of Multi-Agent Systems: Architectures ...</a></li>
+<li><a href="https://www.langchain.com/blog/choosing-the-right-multi-agent-architecture">Choosing the Right Multi-Agent Architecture - langchain.com</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Players generally found the game fun and praised its creative treatment of agent delegation. Some wanted the manager to stop revealing exact commands and allow more independent play, while another commenter wanted local LLM support; playful suggestions also included trying to delete every file and deploying reverse Turing tests against humans.
+**Discussion**: Commenters generally found the game fun and humorous, particularly when testing dangerous shell commands and observing the director&\#x27;s reactions. Practical criticisms included the manager revealing exact solutions and the apparent absence of local LLM support, while the thread offered limited deeper analysis of the underlying agent architecture.
 
-**Tags**: `#LLM agents`, `#AI games`, `#multi-agent systems`, `#developer tools`, `#open source`
+**Tags**: `#LLM agents`, `#Multi-agent systems`, `#Interactive fiction`, `#Open source`, `#Developer tools`
 
 ---
 
 <a id="item-7"></a>
-## [Alliance Proposes Open Protocol for Social Media](https://osw-alliance.net/en/) ⭐️ 7.0/10
+## [Japanese Automakers Standardize Parts to Cut Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/) ⭐️ 7.0/10
 
-The Open Social Web Alliance is advocating a shared, standardized communication protocol for interoperable and resilient social media. Its policy paper proposes decentralized social infrastructure and sets a goal of reaching 100 million users on open social networks by 2028. A common open protocol could reduce dependence on closed platforms and make services easier to migrate between, potentially improving user control and resilience. The proposal also seeks to strengthen democratic discourse, although its economic and governance assumptions remain open to debate. The alliance identifies infrastructure, governance, funding, appeal, and public mandate as five central challenges. The supplied homepage offers little technical detail, so the proposal&\#x27;s exact protocol design, implementation readiness, and funding model are not yet clear from the available material.
+Toyota, Nissan, Honda, and other major Japanese automakers are pursuing greater standardization of vehicle components to reduce costs and improve competitiveness against Chinese manufacturers. The effort includes suppliers and broader supply-chain efficiencies, although the supplied material does not specify particular components or implementation dates. Sharing components can reduce development, procurement, and production costs across different vehicle models, helping Japanese automakers compete on price with efficient Chinese manufacturers. It may also require automakers and suppliers to coordinate more closely, potentially affecting parts suppliers and vehicle availability in global markets. Platform standardization generally means using common architectures and major components across multiple models, including engines, transmissions, and chassis in some cases. The available details do not establish which parts will be standardized, how much savings are expected, or whether all seven Japanese automakers named in the discussion are formally participating in the same program.
 
-hackernews · Hacker News \(热门\) · Nov 22, 15:24 · [Discussion](https://news.ycombinator.com/item?id=50600511)
+hackernews · Hacker News \(热门\) · Nov 22, 04:04 · [Discussion](https://news.ycombinator.com/item?id=50596133)
 
-**Background**: An open social protocol is a shared technical standard that allows people and services built by different organizations to communicate and exchange social content. Existing examples include ActivityPub, a W3C-recommended decentralized networking standard, and the AT Protocol and Nostr, both designed around open or decentralized social-network approaches. Such protocols seek to avoid lock-in by separating the underlying communication layer from individual applications and service providers.
+**Background**: A vehicle platform is a shared set of design, engineering, production, and major components used to support outwardly different models. Automakers use platform sharing to reduce development costs by limiting the number of distinct parts and architectures they must design and manufacture. Search results also describe broader cost-cutting efforts among Japanese automakers as competition from Chinese manufacturers intensifies.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://osw-alliance.net/en/">Open Social Web Alliance – OSW-Alliance.net</a></li>
-<li><a href="https://eu.boell.org/sites/default/files/2026-10/oswa_policypaper_en_digital.pdf">Open Social Web Alliance</a></li>
-<li><a href="https://www.w3.org/TR/activitypub/">ActivityPub - World Wide Web Consortium (W3C)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Car_platform">Car platform - Wikipedia</a></li>
+<li><a href="https://www.nexdigm.com/market-research/insights/blog/modular-automotive-platform-analysis/">Modular Platform Analysis, Automotive Platform Strategy ...</a></li>
+<li><a href="https://www.globalautoinsight.com/news/european-and-japanese-oems-losing-ground-to-china-cost-challenges">European and Japanese OEMs Losing Ground to China</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters welcomed the goal of trustworthy, bot-resistant, non-retention-maximizing alternatives but criticized the alliance&\#x27;s prose as vague and technically uninformative. They also questioned whether democracy can be engineered through software, arguing that anger and discord are often easier to monetize than constructive participation; one commenter also warned that users are unlikely to migrate en masse unless the new system offers compelling practical benefits.
+**Discussion**: Commenters generally view parts standardization as a necessary response to Chinese automakers’ cost advantage, while some argue that the headline understates a trend affecting all major manufacturers. Comparisons were drawn to GM and Ford’s cooperation on a six-speed automatic transmission since 2002, although the shared clutch and gearing did not eliminate differences in solenoids and electronics; other comments questioned affordability and suggested the initiative could support Nissan’s financial position.
 
-**Tags**: `#open social web`, `#protocols`, `#social media`, `#interoperability`, `#online democracy`
+**Tags**: `#automotive-industry`, `#manufacturing`, `#supply-chain`, `#cost-reduction`, `#competition`
 
 ---
 
 <a id="item-8"></a>
-## [Delta Flights Delayed After Atlanta Weight-and-Balance System Outage](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html) ⭐️ 7.0/10
+## [A Better Vocabulary for Software Testing](https://alperenkeles.com/posts/vocab-for-testing/) ⭐️ 7.0/10
 
-An outage in Delta Air Lines&\#x27; automated weight-and-balance system disrupted flights at Atlanta and other hubs, with reports citing delays to at least 3,500 flights. Staff had to count bags and calculate aircraft weight manually while the FAA briefly imposed a ground stop on Atlanta-bound flights. The incident shows how a failure in a single operational calculation system can cascade into widespread delays across a carrier&\#x27;s network. It also highlights the risks of relying on tightly integrated automation during periods of exceptionally heavy holiday travel. The failed system automates aircraft weight-and-balance calculations, a safety-critical process used to determine whether departing aircraft are properly loaded. Reports say staff fell back to manual baggage counting and weight calculations; the cause of the outage and the full scope of affected flights were not established in the available results.
+The article proposes a richer testing vocabulary and a five-axis taxonomy for distinguishing what software tests examine and which quality concerns they address. It aims to replace ambiguous labels with more precise terms that teams can use to align testing scope, terminology, and expectations. Shared terminology helps engineers, reviewers, product stakeholders, and automated systems describe test intent consistently. More precise classification can improve test planning, reveal coverage gaps, and reduce disputes caused by labels such as unit, integration, functional, and non-functional testing. The proposed framework distinguishes five dimensions of testing concerns rather than relying only on the familiar model of functional versus non-functional properties and unit versus integration levels. Community participants suggested concrete semantic assertion names, such as an approximate-equality assertion with relative-error reporting, so failures can communicate both intent and remediation guidance.
 
-rss · Hacker News \(热门\) · Nov 22, 19:51
+hackernews · Hacker News \(热门\) · Nov 21, 22:15 · [Discussion](https://news.ycombinator.com/item?id=50594182)
 
-**Background**: Hartsfield–Jackson Atlanta International Airport is Delta&\#x27;s largest hub, so operational disruption there can affect many connecting itineraries as well as other Delta hubs. Aircraft weight-and-balance systems calculate load limits and distribute weight for safe flight; airline operations control centers coordinate flight dispatch, aircraft status, crew scheduling, maintenance, weather, air traffic services, and customer support. A manual workaround can preserve safety but is slower and harder to scale, particularly during peak travel periods.
+**Background**: Software testing taxonomy attempts to organize tests according to what they cover, such as business behavior, performance, resilience, or robustness. Prior frameworks also distinguish test levels such as unit, integration, and system testing, but boundaries can become disputed when teams use the same labels for different concerns. CMU&\#x27;s software engineering institute has previously explored taxonomies as a way to assess testing expertise and plan more complete test programs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage">Delta weight and balance outage reportedly delays 3,500 flights at hubs</a></li>
-<li><a href="https://www.zerohedge.com/markets/deltas-biggest-hub-hit-automation-issue-sparking-delays-thanksgiving-travel-ramps">Delta &#x27;s Biggest Hub Hit By &quot; Automation Issue,&quot; Sparking... | Zero...</a></li>
-<li><a href="https://www.flightatom.com/resources/airline-operations-control-centre.html">OCC in Aviation: What an Operations Control Centre Does</a></li>
+<li><a href="https://sei.cmu.edu/blog/a-taxonomy-of-testing/">A Taxonomy of Testing | CMU Software Engineering Institute</a></li>
+<li><a href="https://ewh.ieee.org/r2/southern_nj/BarbacciOct03.pdf">Software Quality Attributes and</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#airline-operations`, `#system-outage`, `#infrastructure-resilience`, `#automation`, `#incident-response`
+**Discussion**: Most commenters welcomed the proposed shared vocabulary and praised its ability to clarify distinct testing concerns. Others questioned whether the five-axis taxonomy adds enough practical value over the classic two-dimensional model, while suggesting that strongly typed languages can eliminate some invalid-input cases before runtime and simplify the unit-integration boundary.
+
+**Tags**: `#software-testing`, `#testing-vocabulary`, `#quality-engineering`, `#software-architecture`, `#developer-tools`
 
 ---
 
 <a id="item-9"></a>
-## [Muru Brings Rust-Powered Python Serving to ASGI and WSGI](https://simonwillison.net/2026/Nov/21/muru/) ⭐️ 7.0/10
+## [Why Useless Knowledge Can Prove Profoundly Useful](https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf) ⭐️ 7.0/10
 
-Graham Dumpleton, creator of mod\_wsgi, introduced Muru, an AI-assisted Rust application server for running both ASGI and WSGI Python applications in development and production. He is documenting the project through a detailed series of posts covering worker architecture, zero-downtime releases, Kubernetes integration, autoscaling, tracing, and other design choices. Muru could give Python teams a modern server architecture that supports synchronous and asynchronous applications while reducing the operational complexity associated with production deployment. Its creator&\#x27;s two decades of experience with mod\_wsgi and its explicit integration with containers and Kubernetes may make it particularly relevant to teams seeking a unified development-to-production platform. Muru&\#x27;s design includes importing the application once and forking workers, supporting WSGI and ASGI together, performing releases without full server restarts, using canaries without a service mesh, and working with Kubernetes rather than around it. Dumpleton says AI performs much of the surface-level work, while he retains responsibility for evaluating adequacy and continuing to refine the server until he would trust it in production.
+Harvey Harpers&\#x27;s 1939 essay argues that pursuing knowledge without an immediate practical application can generate major scientific and social benefits over time. The item resurfaced this historical argument as a concise case for supporting curiosity-driven basic research. The essay remains relevant to debates over how governments, universities, and funders should allocate money when basic research has uncertain or delayed returns. It challenges the assumption that research funding must promise immediate commercial or practical results. The central distinction is between immediate usefulness and longer-term value: apparently useless inquiry may create unexpected knowledge that becomes transformative in a different context. The available item provides only a summary and a link to comments, so it does not substantiate further technical claims or specific historical examples.
 
-rss · Simon Willison \(AI 跨行业洞察\) · Nov 21, 23:56
+rss · Hacker News \(热门\) · Nov 22, 22:10
 
-**Background**: WSGI is Python&\#x27;s standard interface for synchronous web applications, while ASGI supports asynchronous applications and protocols such as WebSockets, including compatibility paths for synchronous applications. mod\_wsgi is a long-established Apache module for hosting WSGI applications in production and is maintained by Muru creator Graham Dumpleton. Muru is intended as a new standalone server that combines modern deployment capabilities with support for both interfaces.
+**Background**: Basic research seeks to expand knowledge rather than solve an immediate operational problem, and its practical benefits can emerge only after years or through applications not foreseen at the outset. Harpers&\#x27;s essay belongs to a broader historical defense of investigating questions whose value cannot yet be demonstrated.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.geeksforgeeks.org/python/difference-between-asgi-and-wsgi-in-django/">Difference Between ASGI and WSGI in Django - GeeksforGeeks</a></li>
-<li><a href="https://asgi.readthedocs.io/en/latest/">ASGI Documentation — ASGI 3.0 documentation</a></li>
-<li><a href="https://modwsgi.readthedocs.io/en/master/">mod_wsgi — mod_wsgi 6.1.1 documentation</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Python`, `#Rust`, `#ASGI`, `#WSGI`, `#Application Servers`
+**Tags**: `#research-policy`, `#basic-research`, `#history-of-science`, `#scientific-funding`, `#knowledge`
 
 ---
 
 <a id="item-10"></a>
-## [Two Million AI Canary Tokens Expose Supply-Chain Privacy Failures](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) ⭐️ 7.0/10
+## [Localcode Brings One-Command Agentic Coding to macOS](https://github.com/mjwsolo/localcode) ⭐️ 7.0/10
 
-A security researcher seeded two million unique canary tokens into AI prompts across the supply chain, then traced where they appeared. The tests uncovered three provider breaches, prompt theft, and cases in which Zero Data Retention settings were ignored. The findings show that sensitive information submitted to AI services may persist, travel through downstream infrastructure, or appear in places operators believe are private. This creates material privacy and security risks for users whose prompts contain credentials, proprietary data, or personal information. Each secret was previously unused, and the researcher controlled the infrastructure receiving requests, allowing every token to be linked to exactly one prompt sent to one provider. A canary token is a unique, trackable string embedded as a tripwire for detecting unauthorized disclosure or context leakage.
+Localcode is an open-source project for running agentic coding workflows locally on a Mac with a single command. The supplied item does not provide a release date, version, model support details, or other substantive feature information. The project could lower the setup barrier to local AI-assisted development while giving macOS users an open-source alternative to cloud-centered coding assistants. Its broader impact remains uncertain because the available description provides little evidence about capabilities, adoption, or reliability. Localcode is positioned around local-first operation, macOS support, and one-command setup, with source code hosted on GitHub. The provided material does not confirm whether it runs models fully on-device, which providers it supports, or what sandboxing and approval controls it provides.
 
-rss · Lobsters \(技术社区\) · Nov 22, 02:03
+rss · Hacker News \(热门\) · Nov 22, 22:18
 
-**Background**: AI supply chains can involve model providers, application platforms, logging systems, and downstream processors that handle prompts or generated outputs. Canary tokens make otherwise invisible leakage measurable by revealing where planted data later appears. Zero Data Retention settings are intended to prevent service providers from storing submitted data, but the reported tests found some providers disregarding them.
+**Background**: An AI coding agent can read project files, propose or make code changes, and execute development commands rather than merely returning a chat response. Local coding-agent projects increasingly focus on running models through local runtimes or connecting agents to local, open-weight models. Related tools such as Aider, Continue, OpenCode, and NanoTeams illustrate a broader ecosystem centered on open source, local-first development, though the search results do not establish Localcode&\#x27;s exact architecture or feature parity.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">AI Supply Chain Security: What Canary Tokens Found | Dragos ...</a></li>
-<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Researcher plants 2m canaries into the AI supply chain . - Ars Technica</a></li>
-<li><a href="https://inferensys.com/glossary/agentic-threat-modeling/agent-output-validation/canary-token">Canary Token: Definition, Detection &amp; Security | Inference ...</a></li>
+<li><a href="https://reporank.net/en/repo/jmstajim-nanoteams.html">NanoTeams: Local - First AI Coding Agent for macOS - Open Source...</a></li>
+<li><a href="https://github.com/baseguard/hangar">GitHub - baseguard/hangar: Run AI coding agents in a macOS , Linux...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI security`, `#supply-chain security`, `#data privacy`, `#secret leakage`, `#canary tokens`
+**Tags**: `#AI coding agents`, `#open source`, `#macOS`, `#developer tools`, `#local-first`
 
 ---
 
 <a id="item-11"></a>
-## [Packaging PostgreSQL as a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres) ⭐️ 7.0/10
+## [Two Million AI Canaries Expose Widespread Secret Leakage](https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/) ⭐️ 7.0/10
 
-The article presents an engineering approach for packaging PostgreSQL and its required components into one executable file. The linked summary also suggests that the method may be reusable for packaging other complex systems for specialized deployment scenarios. A self-contained PostgreSQL binary could simplify distribution, testing, and deployment in environments where package managers or containers are inconvenient. The approach may also establish a reusable model for turning other multi-component systems into portable applications. The provided material does not disclose the article&\#x27;s implementation steps, supported platforms, PostgreSQL version, extension-loading behavior, or build-system tradeoffs. PostgreSQL normally relies on separately packaged components and dynamically loadable modules, so a complete single-binary implementation must address those runtime dependencies and compatibility constraints.
+A security researcher sent nearly two million AI prompts containing unique, trackable canary tokens to AI providers and detected cases where user secrets were exposed. The testing also uncovered prompt theft and providers apparently ignoring Zero Data Retention or no-data-collection settings. The findings suggest that privacy assurances offered by AI providers may not reliably survive across the AI software supply chain. Applications, developers, and users who place secrets in prompts could therefore face unexpected disclosure through provider workflows, logs, outputs, or downstream systems. The researcher used unique, trackable secrets embedded in prompts as canaries, allowing leakage to be identified without relying only on provider disclosures. Dragos reports three provider breaches, prompt theft, and instances in which Zero Data Retention settings were ignored, though the available material does not provide a complete methodology or impact breakdown.
 
-rss · Lobsters \(技术社区\) · Nov 21, 19:32
+rss · Lobsters \(技术社区\) · Nov 22, 02:03
 
-**Background**: PostgreSQL is available through operating-system packages and installers, while building it from source is primarily recommended for development and extension work. Packaging it as one executable would bundle the database server and associated runtime assets, reducing setup friction for portable, embedded, or tightly controlled deployments.
+**Background**: Canary tokens are deliberately embedded, unique markers that let researchers determine whether a specific artifact or piece of data reaches an unauthorized destination. In AI systems, prompts may pass among applications, model providers, plugins, logging services, and other downstream components, creating a supply chain in which data can be exposed even when an individual service appears secure. Zero Data Retention, commonly abbreviated ZDR, indicates that submitted data should not be stored, but the reported findings suggest that such contractual or technical controls may not always be enforced.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://progrium.xyz/articles/2026/single-binary-postgres">How I Got Postgres into a Single Binary · progrium</a></li>
-<li><a href="https://www.postgresql.org/docs/current/install-binaries.html">PostgreSQL: Documentation: 18: Chapter 16. Installation from ...</a></li>
-<li><a href="https://www.postgresql.org/docs/current/xfunc-c.html">PostgreSQL : Documentation: 19: 36.10. C-Language Functions</a></li>
+<li><a href="https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens">AI Supply Chain Security: What Canary Tokens Found | Dragos ...</a></li>
+<li><a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/">Researcher plants 2m canaries into the AI supply chain . A privacy ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#PostgreSQL`, `#Single Binary`, `#Software Packaging`, `#Deployment`, `#Systems Engineering`
+**Tags**: `#AI security`, `#supply chain`, `#data privacy`, `#secret leakage`, `#canary tokens`
 
 ---
 
 <a id="item-12"></a>
-## [Microsoft 365 Outage Post-Incident Report Explains Root Cause](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf) ⭐️ 7.0/10
+## [PostgreSQL Packaged as a Single Binary](https://progrium.xyz/articles/2026/single-binary-postgres) ⭐️ 7.0/10
 
-Microsoft published a post-incident report examining a widespread Microsoft 365 outage that disrupted services including Outlook, Teams, and Copilot. The report describes recovery measures such as restoring stable connection-handling code, clearing delayed emails, expanding server capacity, and adding protections against cascading failures. The report offers concrete lessons for service reliability, incident response, and infrastructure resilience in a platform used by organizations worldwide. It also illustrates how a defect in a shared connection-handling component can affect many otherwise independent Microsoft 365 services. Available reporting attributes the outage to a months-old Windows bug that impaired more than 80% of servers, while Microsoft says it restored the stable connection-handling implementation and added defense-in-depth safeguards. The material supplied here is only a link to discussion comments, so the full report&\#x27;s technical depth and the quality of community discussion cannot be independently assessed from the provided content.
+The article presents a proof of concept named postgres-standalone, which embeds a complete PostgreSQL server into one executable that can run across platforms. The resulting miniPG project requires only a port and a data directory, while its underlying implementation reportedly used the Hyper9 compatibility layer to achieve near-native startup speeds. A single-file PostgreSQL distribution could simplify local development, testing, container workflows, and deployment by reducing the need to manage a separate database daemon and its surrounding installation files. The approach also illustrates how linking, compatibility layers, and build-time packaging can make a complex database easier to distribute. The stated result is a full PostgreSQL server and client in one executable, started with a port and a data directory. Development reportedly required three attempts to embed PostgreSQL, with the successful approach using Hyper9 to approach native startup performance; the available search results do not establish production readiness, supported platforms, or binary size.
 
-rss · Lobsters \(技术社区\) · Nov 21, 12:22
+rss · Lobsters \(技术社区\) · Nov 21, 19:32
 
-**Background**: A post-incident report, also called a postmortem, documents what failed during a service outage, why it happened, how the incident was mitigated, and what changes are planned to reduce recurrence risk. Microsoft 365 is a collection of hosted productivity services, so a failure in shared infrastructure can interrupt several applications at once and generate delayed messages or connection errors during recovery.
+**Background**: PostgreSQL is normally installed as multiple server and client executables plus supporting libraries, shared files, and configuration, although operating-system packages are available for many common platforms. Binary embedding is already used in some Java and Rust tooling, typically through configurable PostgreSQL distributions. The new effort differs by packaging the server directly into one executable for simpler operation and distribution.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://wccftech.com/microsoft-reveals-root-cause-of-massive-microsoft-365-outage-as-months-old-windows-bug-crippled-over-80-of-servers/">Microsoft Reveals Root Cause Of Massive Microsoft 365 Outage , As...</a></li>
-<li><a href="https://ppc.land/microsoft-365-email-outage-hits-19-services-from-outlook-to-copilot/">Microsoft 365 email outage hits 19 services , from Outlook to Copilot</a></li>
-<li><a href="https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/">Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot...</a></li>
+<li><a href="https://progrium.xyz/articles/2026/single-binary-postgres">How I Got Postgres into a Single Binary · progrium</a></li>
+<li><a href="https://news.lavx.hu/article/minipg-runs-real-postgres-from-a-single-executable">miniPG Runs Real Postgres From a Single Executable</a></li>
+<li><a href="https://www.postgresql.org/docs/current/install-binaries.html">PostgreSQL: Documentation: 19: Chapter 16. Installation from ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Microsoft 365`, `#service reliability`, `#incident response`, `#postmortem`, `#infrastructure`
+**Tags**: `#PostgreSQL`, `#binary packaging`, `#deployment`, `#databases`, `#systems engineering`
 
 ---
 
 <a id="item-13"></a>
-## [Signal Restricts Mobile Screenshots Over AI Surveillance Concerns](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) ⭐️ 7.0/10
+## [Microsoft 365 Outage Post-Incident Report](https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf) ⭐️ 7.0/10
 
-Signal is limiting users’ ability to take screenshots in both its Android and iOS applications. The change extends protections it had already applied by default to the Windows app in response to the risk that AI assistants could analyze captured conversations. The restriction is intended to preserve Signal’s privacy guarantees as device makers integrate AI assistants capable of interpreting on-screen content. It affects a widely used encrypted messaging service and highlights growing tension between mobile convenience, system-level AI, and protection against unwanted surveillance. Android can enforce strong screenshot and display-capture blocking through the FLAG\_SECURE window flag, whereas iOS lacks an equivalent universal prevention mechanism and generally relies on detection signals such as screenshot notifications. Signal’s users can disable the new restriction, although Signal’s president Meredith Whittaker reportedly said doing so would break the service’s privacy guarantees.
+A post-incident report examines the causes and lessons of a significant Microsoft 365 outage affecting services such as Outlook. Search results attribute the incident to three interacting failures involving networking gateway servers, response handling, and cloud fabric. The outage demonstrated how failures in shared infrastructure can cascade across identity, collaboration, and communications services, disrupting organizations that depend on Microsoft 365. The report is operationally valuable for improving redundancy, health monitoring, and incident response in large distributed systems. Microsoft&\#x27;s root-cause analysis reportedly identified a previously undetected defect that could leave networking gateway servers unhealthy, alongside response and cloud fabric failures. Engineers isolated affected server groups, applied fixes, restarted them, and returned them to service gradually, while final review details were expected to clarify why redundancy and recovery systems did not contain the incident.
 
-rss · TechCrunch AI · Nov 21, 21:37
+rss · Lobsters \(技术社区\) · Nov 21, 12:22
 
-**Background**: Signal is an encrypted messaging application, but encrypted transmission does not by itself prevent a user or an operating-system feature from capturing information already displayed on a screen. The reported concern is that built-in AI assistants such as Apple’s Siri AI and Google Gemini could read private chats through screen capture. Android and iOS offer different technical controls for resisting or detecting screenshots and recordings.
+**Background**: Microsoft 365 is a collection of cloud productivity and communications services, including Outlook and related identity and collaboration capabilities. Such systems are distributed and highly redundant, but shared gateways and control layers can become common failure points. A post-incident review documents the timeline, causal chain, recovery process, and corrective actions so organizations can learn from major disruptions.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/">Signal restricts mobile screenshots as it confronts ...</a></li>
-<li><a href="https://screenshotneo.com/blog/detect-screenshots-android-api/">How to Detect Screenshots on Android with an API · ScreenshotNeo</a></li>
-<li><a href="https://stackoverflow.com/questions/77151044/how-to-prevent-user-from-taking-screenshot-or-screen-recording-in-ios-17">swift - How to prevent user from taking screenshot or... - Stack Overflow</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2026_Microsoft_outage">2026 Microsoft outage - Wikipedia</a></li>
+<li><a href="https://windowsreport.com/microsoft-explains-root-cause-of-massive-outlook-and-exchange-outage-reveals-three-failures-behind-global-meltdown/">Microsoft Explains Root Cause of Massive Outlook and Exchange ...</a></li>
+<li><a href="https://controlplane.com/blog/post/microsoft-365-outage-november-2026-cause">What Caused the Microsoft 365 Outage of November 12, 2026</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Signal`, `#Mobile Security`, `#AI Surveillance`, `#Privacy`, `#Screenshot Prevention`
+**Tags**: `#Microsoft 365`, `#service reliability`, `#incident analysis`, `#distributed systems`, `#postmortem`
 
 ---
 
 <a id="item-14"></a>
-## [Race Realism Fails Modern Genetics](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) ⭐️ 7.0/10
+## [GhostScript Upload2Shell Vulnerability Enables Remote Code Execution](https://pwn.ai/upload2shell/research.html) ⭐️ 7.0/10
 
-The article argues that biologically innate racial differences in intelligence are neither realistic nor scientifically valid under modern genetics. It criticizes “race realism” as a claim that contemporary population-genetic evidence cannot substantiate. Claims linking immutable racial categories to inherited intelligence can misattribute differences shaped by environment to biology and influence education, policy, and public debate. The critique matters because it shifts attention toward how population variation, genetic ancestry, and environmental conditions interact rather than treating race as a straightforward biological cause. Human genetic diversity is often described through clines, in which genetic or phenotypic frequencies change gradually across geography, rather than discrete biological races. Intelligence is heritable within populations, but heritability does not by itself establish innate differences between racial groups or identify the causes of differences between populations, where environmental effects and population history must also be considered.
+Researchers at pwn.ai disclosed CVE-2026-125396, nicknamed “Upload2Shell,” a GhostScript vulnerability that allows crafted files to escape the -dSAFER sandbox and execute commands on the server. The research page provides a central reference for the vulnerability and additional case studies and proof-of-concept material. GhostScript is widely used behind document conversion, preview, printing, thumbnail generation, and upload workflows, so a crafted file may trigger command execution even when users do not interact directly with GhostScript. The vulnerability therefore has broad implications for applications that process untrusted PostScript or PDF-related content. The flaw targets GhostScript versions earlier than 10.08.0, according to the cPanel advisory, and involves escaping the -dSAFER sandbox intended to block privileged operations such as arbitrary file writes and shell-command execution. Security researchers expect additional vulnerable software paths to emerge through uploads, thumbnails, print jobs, and document imports.
 
-rss · Ars Technica · Nov 21, 12:01
+rss · Lobsters \(技术社区\) · Nov 22, 00:52
 
-**Background**: In population genetics, a cline is a gradual geographic change in allele or phenotype frequencies; interbreeding populations can therefore show continuous variation rather than sharply bounded subspecies. The “Lewontin fallacy” debate concerns the mistaken inference from substantial genetic variation within populations to the absence of meaningful variation between them. Separately, twin studies estimate how much variation in intelligence is attributable to genetic differences, but that estimate does not determine which groups differ, why they differ, or whether racial labels identify coherent biological populations.
+**Background**: GhostScript is a document-processing engine that interprets PostScript and PDF workflows used by many servers and desktop applications. Its -dSAFER mode is a defense-in-depth sandbox designed to stop malicious documents from writing files or invoking sensitive system operations. Upload2Shell demonstrates that crafted documents can potentially defeat this protection when GhostScript processes untrusted input.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.bionity.com/en/encyclopedia/Cline_%28population_genetics%29.html">Cline _( population _ genetics )</a></li>
-<li><a href="https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2016.00022/full">Frontiers | Population Genomics and the Statistical Values of Race ...</a></li>
-<li><a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01622/full">Frontiers | Genetics and Learning: How the Genes Influence...</a></li>
+<li><a href="https://pwn.ai/upload2shell">Upload2Shell · CVE - 2026 - 125396 · pwn.ai research</a></li>
+<li><a href="https://support.cpanel.net/hc/en-us/articles/45216747700503-Security-CVE-2026-125396-Ghostscript-Upload2Shell">Security: CVE-2026-125396 - Ghostscript - Upload2Shell – cPanel</a></li>
+<li><a href="https://www.valtersit.com/cve/CVE-2026-125396">CVE - 2026 - 125396 | Artifex | Valters IT Hub</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#genetics`, `#race`, `#intelligence`, `#scientific-method`, `#population-biology`
+**Tags**: `#GhostScript`, `#CVE-2026-125396`, `#vulnerability`, `#file processing`, `#security research`
 
 ---
 
 <a id="item-15"></a>
-## [FCC Blocks California’s AT&amp;T Home Phone Rules](https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/) ⭐️ 7.0/10
+## [Muru Brings Rust-Powered Production Tooling to Python](https://simonwillison.net/2026/Nov/21/muru/) ⭐️ 7.0/10
 
-The FCC has preempted California rules that would require AT&amp;T to continue offering traditional home phone service. The order limits California’s authority to compel AT&amp;T to maintain that service. The decision represents federal preemption of state telecommunications regulation and could affect how other states protect consumers from the retirement of copper-based landlines. It also gives AT&amp;T and other providers greater flexibility as fixed voice service migrates toward cable, mobile, and VoIP alternatives. FCC rules generally require providers to offer affected customers an adequate replacement before discontinuing copper voice service, including cable phone service or 4G or 5G mobile service. The brief report does not provide the full order, legal reasoning, implementation timeline, or the precise scope of California’s displaced rules.
+Graham Dumpleton, creator of mod\_wsgi, introduced Muru, an AI-assisted Rust server for running both ASGI and WSGI Python applications in development and production. A detailed series of posts published from November 4–22, 2026 covers its workers, release model, container and Kubernetes integration, scaling, tracing, and use of lazy imports. Muru could simplify Python deployment by consolidating functions commonly spread across a reverse proxy, application server, process supervisor, and deployment tooling. Its Rust implementation and support for both application models may appeal to teams seeking modern operational features without abandoning existing Python codebases. Muru&\#x27;s documentation says its edge layer handles HTTP/1.1, HTTP/2, TLS, virtual hosts, static files, uploads, compression, and errors directly, leaving worker threads more time for Python work. The project is still being presented through a development diary, so the announcement demonstrates intended architecture and tooling rather than broad production adoption; Dumpleton also emphasizes that human review remains central to deciding whether AI-generated work is good enough.
 
-rss · Ars Technica · Nov 20, 22:28
+rss · Simon Willison \(AI 跨行业洞察\) · Nov 21, 23:56
 
-**Background**: The FCC can preempt conflicting state and local telecommunications laws under federal authority. Traditional home phone service has increasingly shifted from copper networks toward cable-based service, mobile service, and VoIP, requiring regulators to balance provider flexibility with consumer protections during the transition.
+**Background**: WSGI is Python&\#x27;s older synchronous web-application interface, while ASGI is an asynchronous interface designed to handle concurrent requests. mod\_wsgi, created by Graham Dumpleton 20 years ago, embeds Python applications in an Apache HTTP Server process. Muru is his attempt to revisit production Python serving with a modern Rust-based architecture and unified ASGI and WSGI support.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.congress.gov/crs_external_products/R/PDF/R46736/R46736.6.pdf">Stepping In: The FCC s Authority to Preempt State Laws Under ...</a></li>
-<li><a href="https://www.fcc.gov/tech-transitions">Tech Transition: Modernizing Communications Services</a></li>
-<li><a href="https://www.fcc.gov/consumers/guides/consumer-protections-home-phone-services">Consumer Protections for Home Phone Service | Federal ...</a></li>
+<li><a href="https://simonwillison.net/2026/Nov/21/muru/">Muru - simonwillison.net</a></li>
+<li><a href="https://docs.muruhq.dev/">Muru ¶</a></li>
+<li><a href="https://www.theprotec.com/blog/muru-rust-server-python-app-deployment/">How the Muru Rust server Could Rethink Python App Deployment</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#FCC`, `#telecommunications policy`, `#California`, `#AT&amp;T`, `#federal preemption`
+**Tags**: `#Python`, `#Rust`, `#ASGI`, `#WSGI`, `#Web Servers`
 
 ---
 
 <a id="item-16"></a>
-## [Banks Restrict Third-Party AI Agents and Shift Liability](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) ⭐️ 7.0/10
+## [Signal Restricts Mobile Screenshots Against AI Surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/) ⭐️ 7.0/10
 
-Major US banks are blocking or restricting third-party AI agents that log into customer accounts, particularly when agents use customer credentials directly. They are also warning customers that losses caused by unauthorized or mistaken agent actions may remain the customer&\#x27;s responsibility. The measures make credential-based consumer AI agents harder to deploy and place responsibility for agent errors with customers unless the bank&\#x27;s own systems or authorized tools are involved. This could reshape agentic AI in banking toward bank-controlled platforms, read-only access, and stronger auditability. JPMorgan, Bank of America, and Citi are restricting agent access, while many banks are moving toward read-only connections through authorized data connectors. Morgan Stanley has begun blocking third-party agents from its platforms; reports also describe some agents taking actions that appeared independent of customers&\#x27; instructions.
+Signal is limiting users’ ability to take screenshots within its Android and iOS applications. The restriction is part of the messaging platform’s effort to prevent private conversations from being exposed to AI-assisted surveillance. The change reflects growing concern that operating-system AI assistants and other screen-reading tools can collect sensitive content despite Signal’s encryption. It highlights a broader limitation of encrypted messaging: once data appears on a compromised endpoint, application-level protections cannot fully control how it is accessed. Signal previously documented using Screen Security to hide message previews in the Android app switcher, but its newer protections are aimed at blocking AI assistants such as Google Gemini and Siri from reading on-screen conversations. The available material does not specify which screenshot operations are blocked, which app versions are affected, or whether every Android and iOS device receives identical restrictions.
 
-rss · Wired · Nov 22, 11:00
+rss · TechCrunch AI · Nov 21, 21:37
 
-**Background**: Third-party AI agents can automate financial tasks by acting on a customer&\#x27;s behalf, but some authenticate using the customer&\#x27;s own banking username and password rather than an institution-approved connection. Authorized data connectors and bank-operated agent platforms offer more controlled alternatives by applying policies, approvals, and audit trails within the bank&\#x27;s systems.
+**Background**: Screen Security can prevent Signal content from appearing in the phone’s app switcher, reducing one route through which sensitive messages become visible. Signal says increasingly capable AI assistants can read whatever is displayed on screen and may make that data available to agentic systems, undermining the app’s ability to independently guarantee privacy. Blocking screenshots is therefore an endpoint-protection measure intended to keep private conversations out of AI-readable screen content.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts">Unvetted AI Agents Are Accessing US Bank Accounts - Slashdot</a></li>
-<li><a href="https://pwn.watch/i/us-banks-unauthorized-ai-agents-customer-accounts">Major U.S. banks detect unauthorized third - party AI agents inside...</a></li>
-<li><a href="https://aistocktradingbots.com/blog/banks-block-ai-agents-customer-logins/">Morgan Stanley, JPMorgan and Citi Block AI Agents That Use...</a></li>
+<li><a href="https://support.signal.org/hc/en-us/articles/11338514641306-Screen-security-blocking-Google-Gemini-and-Siri-AI">Screen security: blocking Google Gemini and Siri AI – Signal ...</a></li>
+<li><a href="https://support.signal.org/hc/en-us/articles/360043469312-Screen-Security">Screen Security - Signal Support</a></li>
+<li><a href="https://signal.org/blog/protecting-your-privacy/">Signal is Serious About Protecting Your Privacy</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#financial security`, `#banking`, `#access control`, `#liability`
+**Tags**: `#Signal`, `#Mobile Security`, `#Privacy`, `#AI Surveillance`, `#Encrypted Messaging`
 
 ---
 
 <a id="item-17"></a>
-## [Telltale Reads Back QNX 8.0 Instrument Pixels to Catch False Displays](https://dev.to/edycutjong/a-heartbeat-cant-tell-you-the-speedometer-is-lying-reading-the-glass-back-on-qnx-80-1gbd) ⭐️ 7.0/10
+## [Race Realism Misuses Genetics, Article Argues](https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/) ⭐️ 7.0/10
 
-The open-source Telltale watchdog runs as a separate QNX 8.0 process, reads pixels composed by QNX Screen, decodes the speedometer digits, six warning lamps, and a liveness tick, and compares the rendered output with vehicle state. In a recorded QEMU test, it detected a frozen speedometer 123.4 ms after the fault and placed a verified safe display on screen at 181.3 ms. A healthy renderer process, an advancing heartbeat, or a correct internal report does not prove that a driver is seeing correct information. Pixel-level readback offers a practical end-to-end check for automotive instrument clusters, especially where stale, blank, or misdrawn values could mislead drivers. The test replayed a deceleration from 49.01 km/h to zero in 4.848 seconds using the comma2k19 dataset and injected a renderer freeze. Telltale caught all 50 STALE runs, all 50 BLANK runs, and all 10 MISDRAW runs through deterministic glyph decoding; its results were measured under QEMU with TCG on an x86\_64 QNX 8.0 guest, not on hardware, and the tool is not certified or ISO 26262 or ASIL compliant.
+The article argues that modern genetics does not support claims that intelligence differences are innate and biologically tied to race. It characterizes such claims as scientifically unrealistic and challenges the scientific framing used by race-realist advocates. The dispute over genetic causes of cognitive differences affects how researchers, technology companies, and policymakers interpret group-level disparities. Misusing population genetics could legitimize discriminatory practices or produce biased AI systems and fairness policies. Human biological variation often follows geographic clines rather than sharp racial boundaries, while genetic ancestry and socially defined race are not interchangeable categories. Estimates that cognitive-test performance is partly heritable describe variance within populations and do not, by themselves, establish innate differences between racial groups or identify genetic causes of group gaps.
 
-rss · Dev.to · Nov 22, 21:24
+rss · Ars Technica · Nov 21, 12:01
 
-**Background**: QNX Screen composes graphics for embedded and automotive displays, while QNX 8.0 provides the operating-system environment in which the instrument-cluster renderer runs. Conventional watchdogs often verify process liveness, but they may miss a renderer that remains alive yet presents an obsolete or incorrect speedometer value. Telltale instead applies an end-to-end assertion to the final pixels visible to the driver, using a known glyph atlas rather than machine learning.
+**Background**: A cline is a measurable biological gradient across geography; skin pigmentation is a commonly cited example of continuous variation without clearly bounded racial categories. In behavioral genetics, heritability quantifies how much variation within a given population and environment is associated with genetic differences, not the causes of differences between populations. Genetic ancestry can inform human variation research, but it does not make socially constructed racial classifications biologically discrete or establish innate group-level intelligence.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.qnx.com/developers/docs/8.0/com.qnx.doc.neutrino.lib_ref/topic/full_safety.html">Full Safety Information - qnx.com</a></li>
-<li><a href="https://qnx.software/en/software/products-and-solutions/qnx-os-and-os-for-safety">QNX OS and OS for Safety</a></li>
+<li><a href="https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/clines-and-continuous-variation">Clines and Continuous Variation - Encyclopedia.com Clinal Distribution (Gradual Variation in Biological ... 6.3: Clinal Variation - Social Sci LibreTexts Modern Human Variation Models - theoptionalist.com 13.3: Human Variation in Biological Anthropology Today Clinal Variation: Why There Are No Biological Races</a></li>
+<li><a href="https://quillette.com/2023/01/08/more-than-just-a-social-construct/">More Than Just a Social Construct</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2889158/">The heritability of general cognitive ability increases ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#QNX 8.0`, `#automotive software`, `#display testing`, `#pixel readback`, `#safety-critical systems`
+**Tags**: `#race and genetics`, `#intelligence research`, `#scientific validity`, `#AI bias`, `#algorithmic fairness`
 
 ---
 
 <a id="item-18"></a>
-## [Answer Receipts Make Text-to-SQL Results Auditable](https://dev.to/prachitparikh/text-to-sql-answer-receipts-the-spec-id-write-before-an-ai-agent-answers-one-data-question-1jm2) ⭐️ 7.0/10
+## [U.S. Banks Restrict Third-Party AI Agents](https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/) ⭐️ 7.0/10
 
-The article proposes that text-to-SQL agents return structured answer receipts alongside every metric, documenting metric definitions, interpretations, defaults, filters, time boundaries, source queries, and provenance. It also gives business analysts requirements for deciding when material ambiguity should trigger a clarification question rather than an unqualified answer. The proposal addresses a common enterprise AI failure mode: technically valid SQL can still answer a different business question from the one intended. Auditable receipts and explicit clarification thresholds could reduce incorrect dashboards and executive decisions while making AI-generated analytics resemble governed, human-reviewed reporting. The illustrated fixture contains five plausible readings of “revenue last month” that produce values from $5,550 to $8,550, a 54% spread despite correct execution on a ten-row table. The proposed receipt records definition identifiers, grain, filters, time range, timezone, unstated defaults, SQL, and row counts at key stages; agents should generate and test multiple interpretations, then ask a question when their results diverge materially.
+Major U.S. banks are blocking third-party AI agents from accessing customer accounts and disclaiming responsibility for costly mistakes made by those bots. The restrictions target agents that log in using customer-shared credentials. The measures could materially limit consumer agentic AI deployments in financial services unless banks offer secure agent access or regulated alternatives. They also shift liability toward users and raise difficult authentication and control questions for banks, fintechs, and agent developers. Reportedly, banks detected unvetted third-party agents accessing customer accounts with shared credentials, prompting access restrictions. The cutoff is an operational and contractual control rather than a general prohibition on banks deploying their own AI systems.
 
-rss · Dev.to · Nov 22, 21:22
+rss · Wired · Nov 22, 11:00
 
-**Background**: Text-to-SQL systems translate natural-language requests into database queries, but successful execution does not guarantee that the business metric matches the user’s intent. A semantic layer addresses this by centralizing business logic, metric definitions, hierarchies, and calculations across analytics tools. Agent observability frameworks such as Langfuse, MLflow, and Pydantic Logfire provide a related foundation by tracing model calls, database queries, inputs, outputs, and intermediate metadata.
+**Background**: AI agents can perform online banking tasks by operating browsers or APIs on a user&\#x27;s behalf. Because such agents may hold or reuse customer credentials, banks face challenges in distinguishing legitimate automation from unauthorized access and determining who bears responsibility when an agent causes financial harm.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://omni.co/articles/best-semantic-layer-for-ai-and-bi-2026">Semantic Layer for AI and BI (2026): Why It Matters... - Omni Analytics</a></li>
-<li><a href="https://www.dremio.com/resources/guides/what-is-a-semantic-layer/">What Is a Semantic Layer ? | Dremio</a></li>
+<li><a href="https://www.bankingnewsai.com/ai-incidents/us-banks-2026-unauthorized-third-party-ai-agents-in-accounts">Unvetted AI agents found in US bank customer accounts ; Morgan...</a></li>
+<li><a href="https://pondero.ai/news/2026-10-24-ai-agents-bank-account-gap/">Report: unvetted AI agents still reach some US bank accounts after...</a></li>
+<li><a href="https://blog.traversaal.ai/agentic-ai-banking-insurance-production-vs-pilots/">Agentic AI in Banking vs. Insurance: Why Banking Is Scaling in...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#text-to-SQL`, `#AI agents`, `#data quality`, `#LLM observability`, `#business intelligence`
+**Tags**: `#AI Agents`, `#Financial Services`, `#Authentication`, `#AI Security`, `#Regulation`
 
 ---
 
 <a id="item-19"></a>
-## [Silicon Valley’s Shift From Innovation to Financialization](https://www.oreilly.com/radar/what-happened-to-silicon-valley/) ⭐️ 6.0/10
+## [Life’s Chemical Reactions Persisted in Sterilized Soil for Six Years](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/) ⭐️ 7.0/10
 
-O’Reilly Radar examines how Silicon Valley’s incentive structures and culture shifted from technology-driven innovation toward shareholder value, aggressive growth, and financialization. The analysis links this transformation to venture-capital incentives, corporate governance, and the industry’s embrace of financial objectives. 这种转变影响科技公司如何配置资本、评估风险和定义成功，并波及初创企业、员工、投资者及更广泛的科技生态。文章还把硅谷当前的 AI 支出热潮置于一种更长的历史之中，即奖励规模扩张而非持久技术进步的激励机制。 A central mechanism discussed is ZIRP-era cheap capital, which enabled companies to grow to enormous scale and encouraged founders to pursue large markets rather than compete in established ones. As interest rates returned, commenters argued that companies began cannibalizing core capabilities to fund AI, raising questions about whether markets will penalize reckless spending.
+Researchers found that biologically important chemical reactions continued in sterilized soil over a six-year period. The result suggests that soil chemistry alone may sustain some reactions relevant to the emergence of life. The finding offers new evidence for how prebiotic chemistry could have operated on early Earth without living organisms. It may help researchers identify environmental conditions that supported chemical pathways potentially involved in abiogenesis. The key observation was persistence, not the production of life: biologically important reactions remained detectable for six years in sterilized soil. The supplied material does not specify which reactions were measured, the sterilization method, the soil conditions, or whether the experiment demonstrated a complete pathway toward living systems.
 
-hackernews · Hacker News \(热门\) · Nov 22, 19:20 · [Discussion](https://news.ycombinator.com/item?id=50602947)
+rss · Wired · Nov 22, 10:30
 
-**Background**: Silicon Valley remains a major center of technology investment and startup formation, with the region dominating U.S. tech funding and unicorn creation. Financialization generally describes the growing importance of financial markets and financial objectives within an economy or industry. In venture capital, rapid growth and large exit valuations can strongly shape how founders and investors set company strategy.
+**Background**: Prebiotic chemistry studies how organic compounds formed and self-organized before life existed, providing a framework for understanding abiogenesis. Abiogenesis is the natural process by which life arises from nonliving matter through chemical steps. The soil experiment tests whether environments lacking active organisms can nevertheless sustain chemically relevant reactions over long periods.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Financialization">Financialization - Wikipedia</a></li>
-<li><a href="https://www.ipaglobal.com/news/article/capital-project-trends-2026/">6 Big Trends Shaping the Future of Capital Projects | IPA</a></li>
-<li><a href="https://fastercapital.com/content/The-Venture-Capital-Incentive-That-Drives-Success.html">The Venture Capital Incentive That Drives Success - FasterCapital</a></li>
+<li><a href="https://biologyinsights.com/what-is-abiogenesis-the-scientific-origin-of-life/">What Is Abiogenesis? The Scientific Origin of Life</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Abiogenesis">Abiogenesis - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Comments largely accepted the article’s critique while adding several possible explanations, including ZIRP-era incentives, the return of interest rates, AI spending, VC influencer culture, and a lack of purpose. One commenter argued that governance requires rebuilding the institutional “machine” around human flourishing, while another countered that Silicon Valley has always resembled its present culture and that only its circumstances have changed.
-
-**Tags**: `#Silicon Valley`, `#venture capital`, `#capitalism`, `#tech industry`, `#financialization`
+**Tags**: `#Origin of Life`, `#Prebiotic Chemistry`, `#Soil Microbiology`, `#Abiogenesis`, `#Scientific Research`
 
 ---
 
 <a id="item-20"></a>
-## [Sandwich Simulator Turns Layering Into Playful Web Interaction](https://stulle.app/) ⭐️ 6.0/10
+## [AI Accelerates Exploits Beyond the Patch Window](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) ⭐️ 7.0/10
 
-Stulle.app presents an interactive web application in which users assemble and simulate elaborate sandwiches, drawing attention through a popular Hacker News discussion. The project combines a culinary theme with interactive visual behavior rather than offering a conventional restaurant-management game. The simulator illustrates how a simple, humorous subject can demonstrate polished interaction design and attract substantial community engagement. It is primarily an entertainment and creative-coding project, so its significance lies more in web experimentation and audience interest than in technological or scientific advances. The application supports the construction of visually elaborate sandwiches, with individual community examples and shared links contributing to its replay value. Suggested improvements include adding a top bread layer and allowing the finished sandwich to be cut in half; the available material provides no detailed information about its rendering technology, physics implementation, or development stack.
+AI-enabled attackers are discovering vulnerabilities and developing working exploits faster than many organizations can deploy patches. This shortens the interval between disclosure and exploitation, increasing the risk that widely used internet services will suffer prolonged outages. The emerging exploit-before-patch gap makes conventional patch management less effective at containing fast-moving threats. Organizations need faster vulnerability triage, remediation, and service-resilience measures, while attackers gain a lower technical barrier to turning newly found flaws into operational attacks. Google Cloud reports that adversaries are beginning to use agentic AI for discrete offensive tasks, including developing novel exploits and supporting human operators. The available results indicate these systems can operate at machine speed across multi-stage intrusions, but they do not quantify a universal outage duration or the precise AI-driven reduction in patch time.
 
-hackernews · Hacker News \(热门\) · Nov 22, 00:07 · [Discussion](https://news.ycombinator.com/item?id=50594911)
+rss · Wired · Nov 21, 13:00
 
-**Background**: A web simulator is an interactive application that visually represents a process, system, or object directly in a browser. In this case, sandwich assembly provides a playful setting for exploring layered visual construction and simulated food behavior, although the supplied material does not establish whether the movements use rigid-body physics, animation, or another technique.
+**Background**: A patch window is the period between a vulnerability becoming known or exploitable and the affected system receiving a fix. Agentic AI refers to systems that can plan and carry out multi-step tasks with limited human direction, making exploit development more scalable and potentially faster. Cloud Security Alliance describes the exploit-before-patch gap as the problem of attackers producing usable exploits before defenders finish patching.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://eshraqism.com/blog/stulle-app-the-sandwich-simulator-redefining-web-interaction-design">Stulle.app Sandwich Simulator: Web Design Masterclass ...</a></li>
-<li><a href="https://portfolio-bay-pi-91.vercel.app/">FERUZ — Creative Developer &amp; Technologist</a></li>
+<li><a href="https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks">ARTEX and Friends: Enter Agentic Offensive... | Google Cloud Blog</a></li>
+<li><a href="https://www.youtube.com/watch?v=K0DRjjpRwqw">Agentic AI Threat Activity in Cyber Operations - YouTube</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The Hacker News comments are broadly playful and appreciative, praising both the simulator and the long history of simulated food on the web. Participants shared related sandwich projects and creative combinations, while also suggesting features such as adding bread on top and cutting the completed sandwich in half.
-
-**Tags**: `#Web Simulation`, `#Interactive App`, `#Creative Coding`, `#Hacker News`, `#Sandwiches`
+**Tags**: `#AI cybersecurity`, `#vulnerability patching`, `#internet outages`, `#exploit development`, `#cybersecurity`
 
 ---
 
 <a id="item-21"></a>
-## [Backblaze Users Question Updated Data Sale and Sharing Terms](https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/) ⭐️ 6.0/10
+## [Typed Slot Memory Preserves Facts During Context Compaction](https://dev.to/yuya_ai_lab/your-agent-forgot-the-order-number-compacting-context-without-losing-facts-pure-python-53lb) ⭐️ 7.0/10
 
-Backblaze updated its privacy documentation, prompting customers to question whether their personal data may be sold or shared. No data breach or confirmed policy violation was reported; the concern centers on the wording and scope of the disclosure. The change affects cloud-backup customers who may assume that service operators cannot use their uploaded files or associated personal information for unrelated commercial purposes. Clearer boundaries and client-side encryption could reduce uncertainty, although policy interpretation and real-world enforcement remain important distinctions. Backblaze&\#x27;s personal backup service is advertised at $9 per month for unlimited cloud storage, but search results note that it does not provide client-side encryption for files. Community suggestions include rclone crypt, Cryptomator, and restic, although a commenter says Backblaze excludes backup content from the sale-or-sharing categories described in the policy.
+The article introduces a dependency-free, pure-Python typed slot-memory system for fitting long agent conversations into limited token budgets. Across 400 seeded synthetic transcripts, it reports nearly 100% fact recall, with 95.8% of sessions fully answerable at a 10% budget using 148 of 1,557 estimated tokens. The work addresses a common production failure in which agents silently discard old but essential details, such as order numbers, deadlines, budgets, and constraints, merely because they occurred early in a conversation. Typed slot memory offers a more targeted and auditable alternative to keeping recent turns or relying on nondeterministic model-generated summaries. The offline corpus contains 400 seeded support conversations of 30–70 turns, with three answer-critical facts per session and stale order identifiers introduced in 35% of sessions. Evaluation measures whether exact facts remain in the prompt, not whether a model answers correctly, and token counts come from a regex tokenizer rather than a BPE tokenizer; the study therefore does not establish real-world model accuracy.
 
-hackernews · Hacker News \(热门\) · Nov 22, 15:16 · [Discussion](https://news.ycombinator.com/item?id=50600435)
+rss · Dev.to · Nov 22, 23:47
 
-**Background**: A privacy policy generally defines what information a company collects, how it uses that information, and whether it discloses it to third parties or sells it. Cloud providers commonly apply server-side encryption, but client-side encryption occurs before upload, preventing the provider from reading file contents. The legal meaning of terms such as “sale” and “sharing” can depend on the jurisdiction and may include sharing for advertising or analytics rather than a cash sale.
+**Background**: An LLM agent has a finite context window that may hold conversation history, retrieved knowledge, system instructions, and tool results. When that space fills, common policies either keep the newest turns, extract salient passages, summarize old content, or store structured facts externally. Slot memory belongs to the structured-fact category: selected values are assigned typed slots, updated when corrections occur, and rendered into the prompt when space is constrained.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.backblaze.com/cloud-backup/personal">Unlimited Cloud Backup for Mac &amp; PC | Backblaze — $9/Month</a></li>
-<li><a href="https://www.cloudwards.net/best-online-backup-for-linux/">Linux Cloud Backup : The Best Online Backup Options in 2026</a></li>
-<li><a href="https://proton.me/blog/zero-knowledge-cloud-storage">What is zero-knowledge cloud storage? - Proton Best Encrypted Cloud Storage 2026 - Zero-Knowledge Cloud Storage With Encryption in 2026: 5 Services Tested Best Encrypted Cloud Storage in 2026: Secure File Storage ... Best Encrypted Cloud Storage - BestBackupReviews.com What Is Zero-Knowledge Encryption? Why It Matters for Backup</a></li>
+<li><a href="https://llmengg.com/context-window-management-multi-agent/">Context Window Management for Multi- Agent AI — Workshop April...</a></li>
+<li><a href="https://aiagentmemory.org/articles/llm-context-window-overflow/">LLM Context Window Overflow: Strategies and Solutions for</a></li>
+<li><a href="https://genmind.ch/posts/Your-LLM-Has-Amnesia-A-Production-Guide-to-Memory-That-Actually-Works/">Your LLM Has Amnesia: A Production Guide to Memory That Actually...</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Commenters were divided: some considered the wording alarming and recommended client-side encryption as a hard requirement, while others said the reaction was excessive because backup content is excluded and the change may reflect broad legal definitions of data sharing. Participants also questioned whether the policy referred to third-party analytics and advertising disclosures rather than the sale of users&\#x27; backup files.
-
-**Tags**: `#data-privacy`, `#cloud-backup`, `#encryption`, `#Backblaze`, `#security-policy`
+**Tags**: `#LLM agents`, `#context management`, `#memory systems`, `#prompt compression`, `#Python`
 
 ---
 
 <a id="item-22"></a>
-## [Has Software Always Been Too Complex for Humans?](https://anil.recoil.org/notes/software-too-complex-for-humans) ⭐️ 6.0/10
+## [AI Ported One Python Function to Rust for 78× Speedup](https://dev.to/frankchu/78x-faster-my-python-dedupe-5-rewritten-in-rust-27d6) ⭐️ 7.0/10
 
-The article examines the proposition that software complexity has persistently exceeded the limits of reliable human comprehension and management. Rather than reporting a product launch or new technical result, it offers a philosophical and technical inquiry grounded in the long-running difficulty of maintaining increasingly interconnected systems. If software has always exceeded human cognitive limits, better engineering practices alone may not be sufficient; teams may need to redesign systems, interfaces, and development processes around human constraints. The issue directly affects maintainability, technical debt, and the reliability of software used by businesses and consumers. Software metrics do not consistently predict how comprehensible a program will be to developers, because complexity and human understanding are related but distinct concepts. The article&\#x27;s framing should therefore be treated as an argument and research question, not as a newly established theorem or an empirical finding presented in the supplied content.
+The fast-anything tool identified a performance-critical Python function, recorded its real invocations, generated a Rust port, and validated equivalent outputs across 34 test cases before enabling it. In the author&\#x27;s fuzzy-deduplication example, changing one 48-line function reduced runtime from 10.06 seconds to 129 milliseconds while leaving the rest of the application unchanged. The experiment illustrates a selective optimization strategy that can avoid rewriting an entire Python application when only a small computational bottleneck matters. If reproducible on production workloads, this approach could shorten performance-engineering cycles, though the tool&\#x27;s maturity and general reliability remain uncertain. The rewritten function implements Levenshtein-distance computation within a deliberately naive quadratic pairwise loop over 700 names, making it an ideal CPU-bound test case. The reported 78× result is a single author&\#x27;s benchmark rather than an independent evaluation, and the supplied article excerpt does not establish how the Rust function is integrated with Python.
 
-rss · Hacker News \(热门\) · Nov 22, 17:32
+rss · Dev.to · Nov 22, 23:41
 
-**Background**: Software complexity encompasses structural properties such as interconnected components, difficult control flow, and accumulated layers of changes. Research on software evolution highlights the difficulty of maintaining flexible systems as complexity grows, while studies of software comprehension caution that conventional complexity metrics do not always map neatly onto human understanding. More recent work on a cognitive horizon similarly frames human comprehension of advanced AI systems as bounded by fundamental cognitive constraints.
+**Background**: Levenshtein distance measures the minimum number of single-character insertions, deletions, and substitutions needed to transform one string into another, making it useful for identifying names that differ by typos. Comparing every pair with a quadratic implementation can become expensive as the dataset grows. Incremental Python-to-Rust porting offers an alternative to full rewrites, although cross-language integration and behavioral equivalence must be handled carefully.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780444705365500105">Software Comprehension - ScienceDirect</a></li>
-<li><a href="https://www.researchgate.net/publication/315730051_Exploring_Complexity_in_Software_Systems_-_From_an_irrational_model_of_software_evolution_to_a_theory_of_psychological_complexity_and_cognitive_limitations_based_on_empirical_evidence">(PDF) Exploring Complexity in Software Systems - From an ...</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s43681-025-00846-x">Approaching the cognitive horizon: recognizing the limits of ...</a></li>
+<li><a href="https://tutorials.tektite.studio/fuzzy-matching/fuzzy-string-matching-algorithms/">Fuzzy String Matching Algorithms Explained</a></li>
+<li><a href="https://www.datablist.com/learn/data-cleaning/fuzzy-matching-levenshtein-distance">What is Levenshtein distance for fuzzy matching? - Datablist</a></li>
+<li><a href="https://international-bsf.org/courses/certificate-in-open-banking/lessons/lesson-9-2-fuzzy-matching-and-merchant-deduplication-the-levenshtein-jaro-winkler-and-soundex-algorithm-suite/">LESSON 9.2: FUZZY MATCHING AND MERCHANT DEDUPLICATION — The ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#software-engineering`, `#software-complexity`, `#systems-design`, `#programming`
+**Tags**: `#Python`, `#Rust`, `#performance-optimization`, `#AI-assisted-development`, `#testing`
 
 ---
 
 <a id="item-23"></a>
-## [C++26 Technical Work Completed After Second Review](https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/) ⭐️ 6.0/10
+## [Beginner’s Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth) ⭐️ 6.0/10
 
-The ISO C++ committee said it completed the technical work needed for C++26 for a second time during its November 2026 meeting in Búzios, Brazil. The meeting was conducted in a hybrid format, with remote participation through Zoom. C++26 is the next international standard for a language widely used in systems, infrastructure, desktop, and embedded software. Reaching this technical milestone advances the standard toward its final approval and publication process, although implementation by compiler vendors will remain a separate and potentially lengthy task. The committee had already completed the standard&\#x27;s technical work during its March meeting, making this the second completion milestone. The November meeting took place in Búzios, Rio de Janeiro, Brazil, and included both in-person and Zoom participation; the supplied material does not identify specific adopted features or implementation status.
+The article presents a beginner-oriented workflow for running and fine-tuning local language models with Inkling, Qwen, and Unsloth. It also examines the hardware constraints, VRAM requirements, AMD NPU support, and practical deployments involved in local AI. By consolidating setup guidance and realistic hardware expectations, the guide can make local AI more accessible to developers and enthusiasts. It also highlights the continuing gap between consumer machines and frontier cloud models, as well as the role of efficient fine-tuning and accelerator support in narrowing that gap. The discussion centers on model quantization, VRAM calculations, multi-GPU setups, and AMD NPU support; one commenter proposed replacing a fixed 1 GB graphics-memory overhead with a configurable baseline. A reported Ryzen AI 350 system ran Qwen3.5-9B at about 12 tokens per second, but the commenter judged its output unreliable and not comparable to frontier models.
 
-rss · Lobsters \(技术社区\) · Nov 21, 13:57
+hackernews · Hacker News \(热门\) · Nov 22, 21:01 · [Discussion](https://news.ycombinator.com/item?id=50603845)
 
-**Background**: ISO/IEC JTC1/SC22/WG21 is the international working group responsible for standardizing C++. Its meetings review proposed language and library changes and advance the draft standard through the ISO process; the group also maintains committee information and technical reports. The supplied search results confirm the November 2026 technical completion but do not provide a feature-by-feature specification.
+**Background**: Local AI refers to running language models on a user’s own computer rather than sending requests to a remote API. Qwen is Alibaba Cloud’s family of open-weight models, while Unsloth is an open-source framework for fine-tuning and post-training them. Inkling is described in the search material as an Apache 2.0-licensed, open-weights sparse mixture-of-experts model from Thinking Machines Lab that accepts text, image, and audio input.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/">C++26 is done (again)! — Trip report: November 2026 ISO C++ ...</a></li>
-<li><a href="https://open-std.org/jtc1/sc22/wg21/">ISO /IEC JTC1/SC22/WG21 - The C++ Standards Committee - ISOCPP</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Inkling_%28large_language_model%29">Inkling (large language model) - Wikipedia</a></li>
+<li><a href="https://qwen.ai/home">Qwen</a></li>
+<li><a href="https://unsloth.ai/docs/get-started/fine-tuning-llms-guide">Fine-tuning LLMs Guide | Unsloth Documentation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#C++26`, `#ISO C++`, `#standards`, `#programming languages`
+**Discussion**: Commenters described local AI as an early “plasma TV phase” and questioned whether current hardware is practical for ordinary consumers, while sharing projects that run local models on macOS, BSD, and AMD systems. Enthusiasm for fully local audiobook narration and Qwen3.5-9B was tempered by concerns about VRAM, output reliability, and performance relative to frontier models; one commenter suggested a configurable VRAM baseline for the calculator.
+
+**Tags**: `#local-ai`, `#Qwen`, `#Unsloth`, `#LLM-fine-tuning`, `#consumer-hardware`
 
 ---
 
 <a id="item-24"></a>
-## [Mathematicians React to a Future AI Proof of GRH](https://www.youtube.com/watch?v=zqzk43bSdDI) ⭐️ 6.0/10
+## [Alliance Proposes Shared Protocol for Open Social Media](https://osw-alliance.net/en/) ⭐️ 6.0/10
 
-A video compilation brings together mathematicians’ responses to a hypothetical scenario in which AI produces a Lean-verified proof of the Riemann hypothesis that humans cannot understand. The video draws on interviews conducted over the past year and a half about AI in mathematics. The scenario highlights a central tension in AI-assisted mathematics: machine-checkable correctness may not guarantee human understanding, explanation, or insight. It also raises questions about how the field would interpret, communicate, and build on a formally verified result that experts cannot independently understand. Lean is a proof assistant and programming language that supports dependent types, type classes, an expressive tactic language, and formally verified code. The premise concerns automated theorem proving for the Riemann hypothesis, but the provided description gives no technical details about the hypothetical proof, its formalization, or how Lean verification would be achieved.
+The Open Social Web Alliance proposes a common communication protocol for interoperable, resilient social platforms intended to support democratic discourse. Its vision also includes portable identities and connections among independent services such as Mastodon, Mu, and Streamplace. A shared protocol could reduce dependence on closed social platforms and make it easier for users to move between services without losing posts, followers, or identities. It also seeks to challenge the business incentives of large platforms, which critics argue often profit more from engagement and conflict than from constructive public discourse. The alliance describes the Open Social Web as decentralized public-interest infrastructure based on open standards and interoperable protocols, supplementing projects such as Mastodon and Eurosky. However, the presentation has been criticized as vague and promotional, and the specific protocol design, governance model, and adoption path remain unclear in the supplied material.
 
-rss · Lobsters \(技术社区\) · Nov 22, 16:37
+hackernews · Hacker News \(热门\) · Nov 22, 15:24 · [Discussion](https://news.ycombinator.com/item?id=50600511)
 
-**Background**: Automated theorem proving is a field of automated reasoning and mathematical logic in which computer programs prove mathematical theorems. Lean can formally verify proofs and programs, providing strong machine-checkable guarantees, although such verification does not by itself establish that humans grasp the underlying argument. The Riemann hypothesis states that all nontrivial zeros of the zeta function have real part one-half, and remains an unresolved problem in this news context.
+**Background**: Interoperability allows users and services to exchange data and interact through shared interfaces rather than proprietary systems. Earlier efforts such as OpenSocial defined common application programming interfaces for social web applications, while many contemporary federated platforms use ActivityPub to connect independent servers. The alliance frames its proposal as an extension of this broader effort to create a decentralized, portable social web.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lean-lang.org/">Lean Programming Language</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Automated_theorem_proving">Automated theorem proving - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Riemann_hypothesis">Riemann hypothesis - Wikipedia</a></li>
+<li><a href="https://osw-alliance.net/en/">Open Social Web Alliance – OSW-Alliance.net</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fediverse">Fediverse - Wikipedia</a></li>
+<li><a href="https://www.theprotec.com/blog/europe-open-social-web-beyond-meta/">Can Europe Build an Open Social Web Beyond Meta’s Platforms?</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The provided content links to a discussion page but includes no comments or viewpoints from that discussion. The video itself reportedly features mathematicians’ reactions, but their specific arguments are not transcribed in the supplied material.
+**Discussion**: Commenters strongly doubted that a technical protocol could repair democratic discourse, arguing that political organizing and changes to economic incentives are more important. They also called the announcement overly fluffy and difficult to understand, while some expressed interest in platforms that resist bots, rate-limit participation, and avoid engagement-maximizing algorithms.
 
-**Tags**: `#AI for mathematics`, `#automated theorem proving`, `#Lean`, `#Riemann hypothesis`, `#mathematics`
+**Tags**: `#open-social-web`, `#protocols`, `#social-media`, `#interoperability`, `#online-democracy`
 
 ---
 
 <a id="item-25"></a>
-## [NixOS Bring-Up on Alibaba RISC-V Board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/) ⭐️ 6.0/10
+## [How BSD Escaped AT&amp;T&\#x27;s Unix Licensing](https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/) ⭐️ 6.0/10
 
-The article documents the practical work of enabling and configuring NixOS on an Alibaba RISC-V development board. It focuses on a hardware bring-up process rather than a new product or major software release. A working NixOS setup can provide developers with a reproducible environment for experimenting with RISC-V and embedded Linux. The effort also highlights the practical gaps involved in supporting less-common processor architectures and boards. RISC-V bring-up commonly involves firmware, bootloader, kernel, and device-tree configuration before userspace tools become available. NixOS cross-compilation can use QEMU for testing, although emulation may reduce performance compared with native execution.
+This retrospective examines the legal and technical efforts that allowed BSD Unix to emerge as an independently licensed operating system rather than a derivative constrained by AT&amp;T&\#x27;s proprietary Unix license. It is a historical account rather than a new technical release. The story explains how BSD became one of the foundations of modern open-source operating systems and influenced later projects such as FreeBSD, OpenBSD, and NetBSD. It also illustrates how licensing disputes shaped software freedom and the broader Unix ecosystem. Early BSD releases incorporated AT&amp;T Unix source code and therefore had to follow AT&amp;T&\#x27;s restrictive license. The later separation was achieved through legal action, licensing changes, and technical replacement of AT&amp;T-derived components, enabling BSD to be distributed under an open-source license.
 
-rss · Lobsters \(技术社区\) · Nov 22, 00:30
+rss · Hacker News \(热门\) · Nov 22, 21:33
 
-**Background**: NixOS is a Linux distribution built around declarative, reproducible package and system configuration. On RISC-V boards, developers must account for the board&\#x27;s processor, firmware and bootloader support, kernel configuration, and hardware description. Alibaba&\#x27;s T-Head TH1520 is a RISC-V system-on-chip used by development boards and has been supported in Fedora-based desktop-oriented efforts.
+**Background**: The Berkeley Software Distribution began at the University of California, Berkeley, as an improved derivative of AT&amp;T Unix. AT&amp;T&\#x27;s source-code license initially prevented BSD from being distributed freely, but AT&amp;T&\#x27;s 1984 divestiture and subsequent legal disputes helped create room for an independently licensed BSD. The 1992 lawsuit by AT&amp;T and its 1994 settlement are commonly identified as important events in that conflict.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://fedoraproject.org/wiki/Architectures/RISC-V/T-Head">Architectures/RISC-V/T-Head - Fedora Project Wiki</a></li>
-<li><a href="https://wiki.nixos.org/wiki/Cross_Compiling">Cross compiling - Official NixOS Wiki</a></li>
-<li><a href="https://lucaberton.com/blog/risc-v-boot-flow-opensbi-uboot-firmware/">RISC-V Boot Flow: OpenSBI, U - Boot &amp; the SBI | Luca Berton</a></li>
+<li><a href="https://en.wikipedia.org/wiki/History_of_the_Berkeley_Software_Distribution">History of the Berkeley Software Distribution - Wikipedia</a></li>
+<li><a href="https://machaddr.substack.com/p/the-at-and-t-and-bsd-conflict-unix">The AT&amp;T and BSD Conflict: UNIX Wars - André Machado | Blog</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#NixOS`, `#RISC-V`, `#Linux`, `#embedded systems`, `#hardware bring-up`
+**Tags**: `#BSD`, `#Unix`, `#Open Source History`, `#AT&amp;T Licensing`, `#Software Freedom`
 
 ---
 
 <a id="item-26"></a>
-## [Monitor Reportedly Cut Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/) ⭐️ 6.0/10
+## [Harvard Offers Graduate Course on AI Alignment and Safety](https://boazbk.github.io/mltheoryseminar/) ⭐️ 6.0/10
 
-A technical troubleshooting post reports that a monitor was apparently reducing network download speeds by 75%. The supplied content contains only a link to a discussion, so the specific hardware, configuration, cause, and remedy cannot be verified from the available material. The case suggests that an apparently unrelated display device may affect network performance, making it important to diagnose the full hardware and cabling setup rather than assume the source server is at fault. If confirmed, the report could provide a useful example of how interface negotiation or physical interference can create a large, measurable throughput loss. The reported figure is a 75% reduction in download speed, but the available material gives no baseline throughput, test method, operating system, network interface, or monitor model. General Ethernet guidance recommends checking negotiated link speed, duplex mode, cabling, and interface error counters when throughput is unexpectedly low.
+Harvard&\#x27;s COMPSCI 2881R, titled “AI Alignment and Safety,” is listed for Fall 2026 as a graduate course addressing technical and societal challenges in AI alignment and safety. Course materials are available through the linked GitHub Pages site. The course formalizes AI safety and alignment as subjects of graduate study within computer science, potentially training researchers and engineers to evaluate and address advanced AI risks. It also connects technical research with broader societal and governance questions. COMPSCI 2881R是一门研究生级别的研究研讨课，据课程相关反思文章介绍，学生需要复现重要的人工智能安全论文并开展原创研究。现有公告对作业、评分标准、授课教师和完整日程介绍很少，因此不能把这些材料视为一份完整课程大纲。
 
-rss · Lobsters \(技术社区\) · Nov 21, 15:03
+rss · Hacker News \(热门\) · Nov 22, 18:01
 
-**Background**: Ethernet devices normally negotiate speed and duplex with the connected network equipment, and a mismatch or marginal physical connection can sharply reduce throughput. Because the original post’s full technical content is unavailable here, the search results only establish standard troubleshooting concepts and do not substantiate the claimed monitor-specific cause.
+**Background**: AI alignment generally concerns whether advanced AI systems behave consistently with intended human values and instructions. AI safety is a broader field that also includes robustness, monitoring, capability control, and assessment of societal risks; this course examines both its technical and societal dimensions.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.cisco.com/c/en/us/support/docs/lan-switching/ethernet/10561-3.html">Configure and Verify Ethernet 10/100/1000Mb Half/Full Duplex ...</a></li>
-<li><a href="https://documentation.meraki.com/Platform_Management/Dashboard_Administration/Troubleshooting_and_Support/Troubleshooting/Duplex_mismatches_affecting_physical_link_speed">Troubleshooting Duplex Mismatches Affecting Physical Link Speed</a></li>
-<li><a href="https://mikrotikdocs.fyi/interfaces/ethernet-interfaces/">Ethernet Interface Configuration | MikroTik RouterOS Docs</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#networking`, `#Ethernet`, `#monitoring`, `#troubleshooting`, `#hardware`
+**Tags**: `#AI safety`, `#machine learning theory`, `#academic course`, `#AI alignment`
 
 ---
 
 <a id="item-27"></a>
-## [Local Web Tool Plans City Radio Mesh Networks](https://meshcoveragecalculator.lalala.ing/) ⭐️ 6.0/10
+## [Common Misconceptions About ATProto](https://reiver.link/atproto/falsehoods-programmers-believe/) ⭐️ 6.0/10
 
-A local-first WebAssembly calculator estimates radio-link placement and the number of nodes needed for city-scale mesh networks. It combines FSPL and Delta-Bullington propagation models with terrain information and is seeking early design feedback. The tool could make mesh-network planning more accessible by helping communities estimate coverage and infrastructure requirements before deploying nodes. It also offers a privacy-friendly alternative to relying on hosted planning services, although its real-world accuracy and adoption remain unproven. The calculator runs locally in the browser through WASM and uses FSPL for free-space path loss plus Delta-Bullington for irregular-terrain propagation. Its model requires relevant inputs such as terrain elevation, antenna positions and heights, operating frequency, and polarization; actual deployment accuracy will still depend on real-world clutter, antenna characteristics, and environmental conditions.
+The article identifies false assumptions that programmers commonly hold about the AT Protocol and explains how the system actually behaves. The available excerpt links to community discussion but does not expose the article’s specific claims. Correctly understanding ATProto’s architecture is important for developers building decentralized social applications. Misconceptions about data ordering, identity resolution, or event delivery could lead to faulty implementations and unreliable integrations. ATProto repositories are key-value mappings whose records are stored in key-sorted order using a Merkle Search Tree, while human-readable handles can be resolved through DIDs such as did:plc. These official specifications provide concrete details that programmers should check before drawing broader conclusions about the protocol.
 
-rss · Lobsters \(技术社区\) · Nov 22, 18:17
+rss · Lobsters \(技术社区\) · Nov 22, 16:37
 
-**Background**: FSPL estimates radio-signal attenuation over an unobstructed path as a function of distance and frequency, but it does not account for buildings, vegetation, or terrain. Delta-Bullington adds terrain-profile analysis for radio propagation over irregular terrain and is discussed in ITU-R Recommendation P.526-15. A mesh network extends coverage through multi-hop links, so planners must evaluate both individual link viability and the arrangement of nodes needed to reach target areas.
+**Background**: The AT Protocol is a set of open standards for decentralized publishing and the distribution of self-authenticating data, and it serves as the technical foundation of Bluesky. Its repository model uses deterministic, content-addressed structures, while its identity system separates user-friendly handles from DID-based records that identify hosting services and key material.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Free-space_path_loss">Free-space path loss - Wikipedia</a></li>
-<li><a href="https://erdc-library.erdc.dren.mil/items/1992d9ae-d068-4207-a9e6-53ed4ef6e888/full">A study on the Delta-Bullington irregular terrain ...</a></li>
+<li><a href="https://atproto.com/specs/repository">Repository - AT Protocol</a></li>
+<li><a href="https://atproto.com/guides/identity">Identity - AT Protocol</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AT_Protocol">AT Protocol - Wikipedia</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#ATProto`, `#Software Architecture`, `#Developer Education`, `#Distributed Systems`
+
+---
+
+<a id="item-28"></a>
+## [Gliver Completes the Guix Desktop Environment](https://dustycloud.org/blog/gliver-completes-the-guix-desktop/) ⭐️ 6.0/10
+
+Gliver has added the final components needed to turn GNU Guix into a complete desktop environment. The announcement describes this milestone as completing the Guix desktop stack. 完整的桌面环境让 Guix 在保留函数式包管理和可复现配置特性的同时，更适合日常使用。它可能吸引希望采用可复现、声明式桌面方案的普通用户和开发者。 The supplied article includes only a link to the discussion and provides no component list, version number, release date, or testing details. Consequently, the precise scope of the completion and any remaining limitations cannot be verified from the available material.
+
+rss · Lobsters \(技术社区\) · Nov 22, 20:10
+
+**Background**: GNU Guix is a functional package manager and system-management tool inspired by Nix, with package recipes and configuration written in Guile Scheme. It can operate as part of another GNU/Linux distribution or as the standalone Guix System. Gliver&\#x27;s work focuses on supplying the desktop layer needed to use that foundation as a full graphical workstation.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GNU_Guix">GNU Guix - Wikipedia</a></li>
+<li><a href="https://wiki.archlinux.org/title/Guix">Guix - ArchWiki</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#Guix`, `#GNU/Linux`, `#Functional Computing`, `#Desktop Environment`, `#Reproducible Builds`
+
+---
+
+<a id="item-29"></a>
+## [NixOS Brought Up on Alibaba RISC-V Board](https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/) ⭐️ 6.0/10
+
+A blog post documents the process of porting and booting NixOS on an Alibaba RISC-V development board. The published excerpt contains only a link to the discussion, so the specific board model, software version, and achieved functionality are not stated. The effort may contribute practical knowledge for extending NixOS hardware support and enabling the growing RISC-V software ecosystem. Its value is primarily technical and documentary, although the limited excerpt provides little evidence about the port&\#x27;s completeness or broader adoption. The available material identifies the target as an Alibaba RISC-V development board and links to a Lobsters discussion. NixOS documentation notes that riscv64-linux is not officially supported in the stable and unstable channels, making individual board ports an important part of enabling the architecture; however, no board revision, kernel configuration, bootloader, driver status, or test results are available here.
+
+rss · Lobsters \(技术社区\) · Nov 22, 00:30
+
+**Background**: NixOS is a Linux distribution built around the Nix package manager and declarative, reproducible system configuration. RISC-V is an open instruction-set architecture whose boards can differ substantially in peripherals, firmware, and required drivers, so bringing up a new board commonly involves adapting the bootloader, kernel, device tree, and hardware configuration. Existing community efforts also pursue NixOS on RISC-V through cross-compilation and board-specific support.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/robinfinkelmann/fml13v01-nixos">robinfinkelmann/fml13 v 01- nixos : NixOS for the DeepComputing RiscV ...</a></li>
+<li><a href="https://nixos.wiki/wiki/NixOS_on_ARM">NixOS on ARM - NixOS Wiki</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#NixOS`, `#RISC-V`, `#Linux`, `#hardware-porting`, `#Alibaba`
+
+---
+
+<a id="item-30"></a>
+## [Open-Source Calculator Plans City-Scale Radio Mesh Networks](https://meshcoveragecalculator.lalala.ing/) ⭐️ 6.0/10
+
+A new open-source, local-first WASM calculator estimates radio-link placement and node counts for city-scale mesh networks. It combines FSPL and Delta-Bullington propagation models and is available with its source code. The tool could make early-stage community and Meshtastic network planning more accessible by providing a browser-based way to estimate coverage and infrastructure needs. It may help operators reduce unnecessary nodes and identify placements more likely to maintain viable links. The calculator uses free-space path loss, or FSPL, for basic signal-loss estimation and the Delta-Bullington model for irregular-terrain propagation; Delta-Bullington is fast and geographically continuous but can require accurate clutter data. The announcement provides no validation results, supported hardware inventory, precision figures, or detailed comparison with established planners.
+
+rss · Lobsters \(技术社区\) · Nov 22, 18:17
+
+**Background**: FSPL estimates radio attenuation with distance and frequency and is commonly used in wireless link budgets. Delta-Bullington extends basic propagation analysis to irregular terrain, while existing Meshtastic Site Planner software also offers terrain-based coverage mapping and adjustable radio parameters.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://meshtastic.org/blog/meshtastic-site-planner-introduction/">Meshtastic Site Planner, an Open Source Tool to Optimize Your ...</a></li>
 <li><a href="https://meshtastic.org/docs/software/site-planner/">Meshtastic Site Planner</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The linked discussion is framed as an open request for feedback on whether the planning idea and its approach make sense. The available material does not provide enough comment text or sentiment data to summarize broader community reactions.
-
 **Tags**: `#mesh-networks`, `#radio-propagation`, `#network-planning`, `#WASM`, `#Meshtastic`
 
 ---
 
-<a id="item-28"></a>
-## [GhostScript Upload2Shell Vulnerability Draws Security Attention](https://pwn.ai/upload2shell/research.html) ⭐️ 6.0/10
-
-Researchers associated with pwn.ai published research on CVE-2026-125396, a GhostScript vulnerability dubbed “Upload2Shell,” with links to its research hub and NVD record. The original post itself mainly directs readers to those references and community discussion rather than presenting a full technical analysis. GhostScript is widely used behind file-processing services, including PDF preview, printing, document conversion, and upload workflows, so an exploitable vulnerability can affect many downstream applications. Search results describe the issue as a sandbox escape that may allow crafted files to execute server commands, potentially turning otherwise routine uploads into remote code execution. The cited research identifies CVE-2026-125396 as the public identifier for the “Upload2Shell” issue. Separate reporting also discusses a critical GhostScript heap buffer overflow fixed in GhostScript 10.08.0 on September 8, 2026, but the supplied material does not establish whether that finding is the same underlying vulnerability or a related issue.
-
-rss · Lobsters \(技术社区\) · Nov 22, 00:52
-
-**Background**: GhostScript interprets and processes documents such as PDFs and PostScript files, often as a hidden component in servers and desktop applications. A sandbox escape means code running through a crafted document can gain capabilities beyond the restrictions intended for file processing, and the name “Upload2Shell” emphasizes the risk when untrusted files are automatically processed.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://pwn.ai/upload2shell">Upload 2 Shell · CVE - 2026 - 125396 · pwn.ai research</a></li>
-<li><a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html">Researchers Demonstrate Ghostscript Sandbox-Escape RCE via...</a></li>
-<li><a href="https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-critical-vulnerability-in-ghostscript-the-program-that-turns-uploaded-pdfs-into-thumbnails-on-your-server/">Wordfence Argus Discovers Critical Vulnerability in Ghostscript , the...</a></li>
-
-</ul>
-</details>
-
-**Discussion**: The post links to a Lobsters discussion about CVE-2026-125396, but no comments or viewpoints are included in the supplied content, so the community&\#x27;s sentiment cannot be assessed.
-
-**Tags**: `#GhostScript`, `#CVE-2026-125396`, `#vulnerability research`, `#security`
-
----
-
-<a id="item-29"></a>
-## [OpenAI Scientist Proposes Measuring AI Development Speed](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) ⭐️ 6.0/10
-
-OpenAI Chief Scientist Jakub Pachocki argued on November 22, 2026, that governing AI development requires a shared method for measuring its pace. He reportedly released internal perplexity measurements and proposed shared frontier-AI development limits tied to safety milestones. AI speed limits cannot be implemented consistently unless laboratories, researchers, and regulators can agree on what development speed means and how to track it. A shared measurement framework could make risk governance more coordinated, while also creating disputes over which indicators should determine when development must slow. The proposal uses perplexity measurements as part of the technical basis for comparing AI development progress, although the excerpt provides little detail about the exact formula, validation, or enforcement mechanism. The available reporting also warns that alignment and monitoring research may not advance as quickly as frontier AI capabilities.
-
-rss · TechCrunch AI · Nov 22, 21:14
-
-**Background**: AI development speed limits are intended to slow capability progress when laboratories cannot evaluate or mitigate new risks quickly enough. Measuring that speed is technically difficult because progress can involve model capabilities, research iteration, compute scaling, tool use, and autonomous workflows rather than a single benchmark. Broader AI governance research emphasizes proactive, inclusive, and adaptive rules that respond to rapid technological change without overlooking innovation, access, and risk.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.unite.ai/openai-proposes-shared-ai-development-limits-tied-to-safety-milestones/">OpenAI Proposes Shared AI Development Limits Tied to Safety ...</a></li>
-<li><a href="https://www.itu.int/epublications/publication/the-annual-ai-governance-report-2025-steering-the-future-of-ai">The Annual AI Governance Report 2025: Steering the Future of AI</a></li>
-<li><a href="https://arxiv.org/pdf/2505.05541">Safety by Measurement: A Systematic Literature Review of AI ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI governance`, `#AI safety`, `#OpenAI`, `#AI policy`
-
----
-
-<a id="item-30"></a>
-## [Nvidia’s Earnings Contrast With Pressure for Huang’s Return](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) ⭐️ 6.0/10
-
-Nvidia’s latest financial results portray a company with strong operating momentum, even as technology executives publicly urged CEO Jensen Huang to return. The article frames these as two sharply different signals surrounding Nvidia’s leadership and future direction. Nvidia remains central to the AI chip industry, where demand for data-center processors shapes suppliers, cloud infrastructure spending, and capital allocation. Huang’s leadership influence, combined with investor and employee support for his possible return, adds succession uncertainty to a company that continues to benefit from AI demand. Blackwell is Nvidia’s GPU architecture for AI and floating-point workloads and uses two dies connected by a 10 TB/s chip-to-chip interconnect. However, the supplied excerpt contains no detailed earnings figures, named executives, or specific arguments for Huang’s return, so its technical and financial conclusions remain limited.
-
-rss · TechCrunch AI · Nov 21, 21:07
-
-**Background**: Nvidia designs GPUs used in AI data centers, with Blackwell serving as the successor to Hopper and Ada Lovelace. Its latest architecture employs fifth-generation Tensor Cores and connects two reticle-limited dies through a 10 TB/s interconnect. Leadership at Nvidia carries unusual strategic importance because the company’s AI processors have made it a major beneficiary of industry-wide demand for training and inference infrastructure.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.nvidia.com/en-us/data-center/technologies/blackwell-architecture/">The Engine Behind AI Factories | NVIDIA Blackwell Architecture</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Blackwell_%28microarchitecture%29">Blackwell (microarchitecture) - Wikipedia</a></li>
-<li><a href="https://www.npr.org/2026/11/12/nx-s1-6037833/jensen-huang-nvidia-stepped-down">Nvidia CEO Jensen Huang resigns amid spy scandal : NPR</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#Nvidia`, `#Jensen Huang`, `#Semiconductors`, `#AI Industry`, `#Earnings`
-
----
-
 <a id="item-31"></a>
-## [AI Face Licensing Tests Hollywood’s Future](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) ⭐️ 6.0/10
+## [Advice for the Next 100 Rust GUIs](https://linebender.org/blog/next-100-guis/) ⭐️ 6.0/10
 
-An actor licensed his face to the microdrama startup Avni, which used his likeness to create a digital avatar for an entirely AI-generated project. The arrangement reflects a likeness-licensing trend already established in China and could expand in Hollywood. Licensing digital doubles could let actors appear in multiple low-cost productions without performing in each one, while giving studios access to reusable synthetic performers. If the model spreads, it could alter production economics, casting, compensation, and the ownership and control of actors’ likenesses. Avni’s wholly AI project used the actor’s licensed face to construct a digital avatar of him; the source material does not specify the license’s financial terms, duration, or rights provisions. The broader model remains constrained by consent, transparency, reuse limits, and the risk that synthetic performances may mislead audiences.
+The Linebender blog published an article titled &quot;Advice for the next 100 Rust GUIs,&quot; a synthesis of hard-won guidance for building Rust-based graphical user interfaces. The post collects lessons drawn from practical experience across multiple Rust GUI projects and is paired with a discussion thread on Lobsters. Rust&\#x27;s GUI ecosystem has proliferated into many competing frameworks — egui, iced, Slint, Druid, Xilem, and others — each with its own architecture and tradeoffs, so shared guidance can help newcomers avoid repeating the same mistakes. For teams choosing a stack or designing their own toolkit, this kind of distilled advice is a useful complement to framework documentation and comparison guides. The available content is minimal — essentially a title, a link, and a pointer to the Lobsters comment thread — so the article&\#x27;s specific recommendations, technical depth, and level of originality could not be verified from the provided material. Readers should consult the post and its comments directly for the actual list of lessons.
 
-rss · TechCrunch AI · Nov 21, 16:00
+rss · Lobsters \(技术社区\) · Nov 21, 23:10
 
-**Background**: Microdramas are short-form series designed for mobile viewing, and Chinese producers have adopted generative AI to produce them faster and at a lower cost. A digital likeness is a synthetic representation of a real person’s appearance and voice, which can be reused without the person physically performing every scene. Prior cases involving synthetic versions of performers’ faces have raised concerns about consent, compensation, and unauthorized use.
+**Background**: Rust GUI development spans two broad architectural families: immediate-mode UIs, which rebuild the widget tree every frame from application state, and retained-mode UIs, which keep a persistent widget tree and diff or patch it on change. Frameworks such as iced follow the Elm-style separation of state, messages, and view/update logic, while egui and Slint represent other approaches, and Xilem is an experimental reactive framework from Druid creator Raph Levien. Linebender is the group behind the winit and wgpu ecosystem, whose members have worked on several of these GUI efforts, which explains their interest in codifying cross-project lessons.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/">Is selling an AI version of your face to this microdrama ... | TechCrunch</a></li>
-<li><a href="https://www.cnn.com/2026/08/22/style/short-drama-ai-china-intl-hnk">Quiet on set. How AI transformed China’s microdrama scene</a></li>
-<li><a href="https://www.theguardian.com/technology/2024/oct/16/its-not-me-its-just-my-face-the-models-who-found-their-likenesses-had-been-used-in-ai-propaganda">‘It’s not me, it’s just my face’: the models who found their likenesses ...</a></li>
+<li><a href="https://rust.codeguides.io/desktop-gui/rust-gui-architecture-models/">Rust GUI Architecture Models - Rust SME Cookbook</a></li>
+<li><a href="https://github.com/iced-rs/iced">GitHub - iced-rs/iced: A cross-platform GUI library for Rust , inspired by...</a></li>
+<li><a href="https://gpui-starter.freeoxide.com/blog/rust-gui-frameworks-comparison-2026/">Rust GUI frameworks in 2026: the complete comparison guide</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#generative-ai`, `#digital-likeness`, `#media-licensing`, `#microdrama`, `#hollywood`
+**Tags**: `#Rust`, `#GUI`, `#Software Architecture`, `#Developer Tools`
 
 ---
 
 <a id="item-32"></a>
-## [GLP-1 Drugs Could Free Farmland Larger Than Italy](https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/) ⭐️ 6.0/10
+## [Sutskever Proposes Measurable AI Development Speed Limits](https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/) ⭐️ 6.0/10
 
-The analysis argues that GLP-1 drugs could reduce food demand enough to free agricultural land exceeding Italy’s total area. This would potentially lower pressure to cultivate additional land while producing environmental benefits. If sustained and widely adopted, lower food demand could reshape agricultural land use, food systems, and associated greenhouse gas emissions. The finding links public-health treatments to climate and land-use outcomes beyond individual weight loss. GLP-1 receptor agonists promote weight loss by suppressing appetite, increasing satiety, and delaying gastric emptying, which can reduce food consumption. The estimate depends on assumptions about treatment uptake, dietary behavior, agricultural responses, and how much land would actually be retired or restored, although the supplied description gives limited methodological detail.
+OpenAI chief scientist Ilya Sutskever argues that governing the pace of AI development will require a measurable framework comparable to speed limits. The core obstacle is agreeing on how to measure that development speed. A workable measurement framework could become a foundation for voluntary commitments or regulation of frontier AI development. It would also give policymakers and AI companies a more concrete way to discuss when capabilities are advancing too quickly for safeguards and oversight. The reported proposal is a speed-limit analogy rather than a fully specified policy, and the available excerpt does not identify the metrics, thresholds, enforcement mechanisms, or institutions involved. The central technical and governance challenge is establishing a measure that is meaningful, comparable, and resistant to gaming.
 
-rss · Ars Technica · Nov 22, 12:07
+rss · TechCrunch AI · Nov 22, 21:14
 
-**Background**: Land sparing means meeting food demand without expanding the area of cultivated land, potentially allowing existing farmland to be restored or shared through lower-intensity production. WRI estimates that reducing global food loss and waste by 25% could narrow the projected land-use gap by 27% and the greenhouse gas mitigation gap by 15%, illustrating how demand-side changes can affect agriculture’s environmental footprint.
+**Background**: AI development speed limits are proposed as a way to regulate how rapidly AI systems improve before potentially outpacing human oversight. Existing measurement efforts focus on different goals: McKinsey’s framework assesses AI adoption, operations, and financial impact, while Anthropic’s reported three-metric framework tracks research and product-cycle pace. OpenAI’s 2023 governance discussion emphasized preparing for superintelligence, a term used for future systems dramatically more capable than current AI.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.sciencedirect.com/science/article/pii/S0002934325000592">Mechanisms of GLP-1 Receptor Agonist-Induced Weight Loss: A ...</a></li>
-<li><a href="https://research.wri.org/wrr-food/course/reduce-growth-demand-food-and-other-agricultural-products-synthesis">Course 1: Reduce Growth in Demand for Food and other ... - WRI</a></li>
-<li><a href="https://link.springer.com/article/10.1007/s41130-026-00262-7">To what extent can farmers spare or share land to meet food ...</a></li>
+<li><a href="https://www.mckinsey.com/capabilities/quantumblack/our-insights/from-promise-to-impact-how-companies-can-measure-and-realize-the-full-value-of-ai">The five-layer AI measurement framework | McKinsey</a></li>
+<li><a href="https://ceoconnectmagazine.com/anthropic-development-metrics/">How Anthropic’s Three‑Metric Framework Can Guide AI Development ...</a></li>
+<li><a href="https://pen-vape.com/tech-innovation/anthropic-ceo-amodei-wants-ai-speed-limits-before-self-improvement-outpaces-huma/">Anthropic CEO Amodei Wants AI Speed Limits Before... - Pen Vape</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#GLP-1`, `#food systems`, `#environmental impact`, `#agriculture`, `#public health`
+**Tags**: `#AI governance`, `#AI safety`, `#AI policy`, `#OpenAI`, `#Ilya Sutskever`
 
 ---
 
 <a id="item-33"></a>
-## [Meta Reconsiders 2030 Net-Zero Goal as AI Emissions Rise](https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/) ⭐️ 6.0/10
+## [Nvidia’s Earnings and Leadership Crisis](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/) ⭐️ 6.0/10
 
-Meta is re-evaluating its 2030 sustainability goals in response to rising emissions associated with its expanding AI data-center infrastructure. The announcement signals a potential adjustment to a previously stated climate commitment. Meta’s review could influence how other technology companies reconcile rapid AI infrastructure expansion with emissions-reduction pledges. It also highlights growing pressure on data-center operators as electricity demand and carbon costs increase. The available report provides no revised target, implementation timetable, emissions figures, or specific policy changes for Meta. Net zero generally means reducing emissions as far as possible and using carbon-removal credits to offset residual emissions.
+TechCrunch contrasts Nvidia’s latest earnings performance with prominent technology executives calling for co-founder Jensen Huang to return as CEO. The article examines the tension between strong financial results and the leadership upheaval surrounding Huang. Nvidia’s earnings demonstrate the commercial strength of its AI semiconductor business, while calls for Huang’s return highlight the importance of leadership continuity to investors and industry executives. Any resolution could influence Nvidia’s strategy, governance, and market confidence. Nvidia reported fiscal fourth-quarter 2025 revenue of $39.3 billion, up 78% year over year, and non-GAAP diluted earnings per share of $2.99, up 130%, alongside strong Blackwell demand. Separately, Huang said he would be willing to return after resigning, according to reports dated November 2026.
 
-rss · Ars Technica · Nov 20, 21:47
+rss · TechCrunch AI · Nov 21, 21:07
 
-**Background**: AI training and inference require energy-intensive computing hardware, servers, cooling systems, and supporting facilities, causing data-center electricity consumption to rise rapidly. MIT Technology Review reported that data-center electricity consumption had doubled by 2023 and represented about 4.4% of total U.S. energy use. These trends are challenging corporate net-zero commitments as technology companies race to expand AI capacity.
+**Background**: Nvidia is a semiconductor company whose growth has been closely tied to demand for data-center accelerators used in AI training and inference. Blackwell is its newer data-center GPU architecture, and Huang has served as the company’s founder and central strategic leader. The leadership question therefore concerns both corporate governance and the continuity of Nvidia’s AI-focused strategy.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/">We did the math on AI ’s energy footprint. | MIT Technology Review</a></li>
-<li><a href="https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up">Meta rethinks 2030 climate goals as AI data centres drive emissions up</a></li>
-<li><a href="https://www.deeplearning.ai/the-batch/ai-and-data-center-boom-challenges-big-techs-emissions-targets">AI and Data Center Boom Challenges Big Tech&#x27;s Emissions Targets</a></li>
+<li><a href="https://investor.nvidia.com/news/press-release-details/2025/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2025/">NVIDIA Corporation - NVIDIA Announces Financial Results for ...</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement">Jensen Huang says he would be ‘honored’ to return to Nvidia ...</a></li>
+<li><a href="https://nypost.com/2026/11/20/opinion/should-jensen-huang-return-as-nvidia-ceo-many-of-silicon-valleys-smartest-minds-are-backing-him/">Should Jensen Huang return as Nvidia CEO? Many of Silicon ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Meta`, `#AI infrastructure`, `#data centers`, `#emissions`, `#sustainability`
+**Tags**: `#Nvidia`, `#Jensen Huang`, `#Earnings`, `#Leadership`, `#Semiconductors`
 
 ---
 
 <a id="item-34"></a>
-## [Isaac Developer Removes AI Music After Backlash](https://www.theverge.com/games/1039770/binding-of-isaac-ai-music) ⭐️ 6.0/10
+## [AI Face Licensing Tests Hollywood’s Consent Boundaries](https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/) ⭐️ 6.0/10
 
-The developer of The Binding of Isaac: Repentance Plus removed AI-generated music from the expansion after Steam users discovered Suno metadata in several audio files. The tracks appeared in a Grand Theft Auto-themed section and their undisclosed use prompted a wave of negative reviews. The episode illustrates how undisclosed AI-generated assets can cause immediate backlash against commercial games, even when the affected content is limited to a small segment. It highlights the importance of disclosure and how player coordination on Steam can rapidly affect a product&\#x27;s public reputation. Reddit user ShweetsStuff identified the AI music by finding Suno metadata in the game&\#x27;s audio files and linking the tracks to the Grand Theft Auto-themed section. Steam&\#x27;s review-bombing systems can flag or restrict reviews when coordinated campaigns target unrelated issues, such as undisclosed content practices.
+An actor has licensed his face to a microdrama startup, extending a face-licensing trend already established in China to a debate about Hollywood. The arrangement illustrates how performers may authorize AI-generated digital replicas for short-form drama production while raising questions about the durability of their consent. If face-licensing becomes standard, actors could earn revenue from synthetic performances while studios gain access to reusable digital replicas. However, the model could also normalize unclear consent terms, broader reuse of a performer’s likeness, and displacement of human actors as AI video becomes cheaper and more realistic. The reported deal concerns an actor’s face rather than a full acting performance and has not yet demonstrated Hollywood-wide adoption. Relevant safeguards include the scope and duration of consent, permitted uses, compensation, revocation rights, and whether the deal covers a named actor or a reusable digital replica; the available summary does not specify those terms.
 
-rss · The Verge · Nov 22, 17:25
+rss · TechCrunch AI · Nov 21, 16:00
 
-**Background**: Suno is an AI music generator that can create complete songs—including vocals, lyrics, and production—from a text prompt. Steam review bombing occurs when owners coordinate a large volume of negative or positive reviews to influence a game&\#x27;s visibility and public perception. The controversy here centers on whether the developer sufficiently disclosed the use of AI-generated music.
+**Background**: Microdramas are short-form episodic dramas designed for social-media platforms, where AI can reduce production costs by automating visual production and adapting existing content. China is described as the origin of both the microdrama industry and a face-licensing model, and some startups also use AI to convert long-form dramas into microdramas. Licensing a likeness can provide legitimate consent, but it does not by itself establish how long authorization lasts or how broadly the resulting replica may be used.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://suno.com/">Suno | AI Music Generator</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Review_bomb">Review bomb - Wikipedia</a></li>
-<li><a href="https://store.steampowered.com/curator/36308017-Review-Bomb-Tracking-Off-Topic/">Steam Curator: Review Bomb Tracking / Off Topic</a></li>
+<li><a href="https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/">Is selling an AI version of your face to this microdrama ... | TechCrunch</a></li>
+<li><a href="https://www.storyboard18.com/how-it-works/indias-microdrama-startups-bet-on-ai-to-slash-production-costs-by-75-84105.htm">India&#x27;s microdrama startups bet on AI to slash... - Storyboard18</a></li>
+<li><a href="https://www.businessinsider.com/actors-sexualized-fake-ads-promote-micro-dramas-tiktok-meta-2026-5">Actors Call Out Promos With Fake Sex Scenes... - Business Insider</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Players responded to the discovery by review-bombing Repentance Plus on Steam, expressing strong opposition to undisclosed AI-generated content. The backlash led the developer to remove the affected music rather than defend its inclusion.
-
-**Tags**: `#AI-generated music`, `#game development`, `#Steam`, `#player backlash`, `#content disclosure`
+**Tags**: `#AI-generated content`, `#digital replicas`, `#Hollywood`, `#licensing`, `#actor consent`
 
 ---
 
 <a id="item-35"></a>
-## [Sterilized Soil Kept Lifelike Reactions Alive for Six Years](https://www.wired.com/story/scientists-tried-to-kill-this-dirt-but-it-wouldnt-die/) ⭐️ 6.0/10
+## [Super El Niño Could Intensify Global Hunger](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/) ⭐️ 6.0/10
 
-Scientists found that biologically meaningful chemical reactions continued for six years in sterilized soil. The result may illuminate chemical processes that preceded and potentially enabled the origin of life on Earth. The finding suggests that soil chemistry alone can sustain reaction networks resembling those associated with life, even without living organisms. It could therefore offer astrobiologists new evidence for studying how prelife chemistry may have developed toward biological systems. The reported persistence lasted six years and involved chemically active, life-sustaining reactions rather than confirmed reproduction by living organisms. The available summary does not describe the sterilization method, reaction measurements, experimental replication, or criteria used to classify the reactions as biologically meaningful.
+A projected super El Niño could intensify droughts and crop losses in vulnerable countries, worsening food insecurity already aggravated by war and cuts to foreign aid. Some regions may become wetter, but the uneven distribution of rainfall could leave millions without sufficient food. The combination of climate shocks, conflict, and reduced humanitarian funding could turn an agricultural and water crisis into a broader hunger emergency. The effects are likely to fall disproportionately on countries with limited resources and fewer coping mechanisms. A super El Niño is characterized by tropical Pacific temperatures more than 2°C above average, potentially producing more persistent droughts, floods, extreme heat, and disruptions to food production than typical El Niño events. Historical patterns and global forecasting models indicate that heat, drought, and floods can reduce staple-crop yields in certain regions.
 
-rss · Wired · Nov 22, 10:30
+rss · Wired · Nov 22, 10:00
 
-**Background**: Abiogenesis is the study of how chemical reactions gave rise to the first living systems under conditions different from those of modern Earth. Astrobiology examines whether chemical and environmental processes can help explain how life began, including the potential roles of minerals and soil in organizing or stabilizing reactive molecules. The discovery of sugars in meteorites also demonstrates that extraterrestrial environments can naturally produce some chemical ingredients associated with life.
+**Background**: El Niño is a climate pattern that alters atmospheric circulation and rainfall across multiple regions. Its impacts are uneven: some areas receive heavier rainfall, while others experience severe drought and heat that can strain water supplies, livestock, and crop yields. Because countries already affected by war and aid cuts may have little capacity to absorb another shock, a strong El Niño can compound existing food-security risks.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://bleen.com.au/gallery/1072-sterile-soil-lifelike-biochemistry-abiogenesis.html">When Sterile Soil Acts Alive: What &#x27;Lifelike&#x27; | BLEEN</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Abiogenesis">Abiogenesis - Wikipedia</a></li>
-<li><a href="https://astrobiology.nasa.gov/">Homepage | Astrobiology</a></li>
+<li><a href="https://www.wri.org/insights/super-el-nino-impacts-explained">2026 Super El Niño Impacts, Explained | World Resources Institute</a></li>
+<li><a href="https://ua-gwsc.org/how-could-el-nino-affect-global-food/">How could El Niño affect global food ? – Global Water Security Center</a></li>
+<li><a href="https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/">How This Year’s Super El Niño Will Worsen Global Hunger | WIRED</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#origin-of-life`, `#astrobiology`, `#soil-microbiology`, `#chemical-reactions`, `#research`
+**Tags**: `#El Niño`, `#Climate Change`, `#Food Security`, `#Global Hunger`, `#Climate Policy`
 
 ---
 
 <a id="item-36"></a>
-## [Super El Niño Could Intensify Global Hunger](https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/) ⭐️ 6.0/10
+## [ESA Probe Revisits NASA’s Asteroid Defense Test Site](https://www.wired.com/story/a-space-probe-returns-to-astroids-where-nasa-tested-planetary-defense-systems/) ⭐️ 6.0/10
 
-A powerful El Niño is approaching its peak, bringing severe drought to parts of Central America and other vulnerable regions. Combined with wars, reduced foreign aid, and disrupted access to energy and fertilizer, the event could leave millions without enough food. Climate hazards are compounding existing humanitarian crises rather than occurring in isolation. The combined effects on harvests, food prices, farm inputs, and aid capacity could sharply increase acute food insecurity in already vulnerable countries. The EU’s Joint Research Centre projects an 83% increase in people facing acute food insecurity in Central America, where El Niño-induced drought and record summer temperatures are damaging crops and threatening a second planting cycle. A super El Niño is a media term for a very strong event involving average sea-surface temperatures in parts of the Pacific rising by at least 2°C, though individual regions may experience either flooding or drought.
+ESA’s Hera probe is returning to the Didymos system to investigate the asteroid system affected by NASA’s DART mission. Its observations will examine the changes produced when DART struck the smaller asteroid Dimorphos in September 2022. Hera provides an opportunity to evaluate the effects of a real kinetic-impact deflection attempt, rather than relying only on simulations. The results could improve NASA and ESA’s ability to assess and potentially deflect future asteroid threats. NASA’s DART spacecraft intentionally collided with Dimorphos, a moonlet of the larger asteroid Didymos, to change its motion. ESA’s Hera spacecraft, launched in 2024, is surveying the binary asteroid system and examining what DART’s impact altered; the available update does not report new findings yet.
 
-rss · Wired · Nov 22, 10:00
+rss · Wired · Nov 21, 12:00
 
-**Background**: El Niño is a phase of the naturally recurring El Niño–Southern Oscillation and alters global rainfall patterns by warming tropical Pacific waters. Its effects differ by location, with some regions becoming wetter while others experience prolonged drought. Very strong El Niño events can last for a year or more, making them especially damaging when harvests, markets, and humanitarian systems are already under pressure.
+**Background**: Planetary defense seeks to identify dangerous asteroids and alter their trajectories so they do not strike Earth. NASA’s Double Asteroid Redirection Test was the first full-scale test of a kinetic impactor against an asteroid, while Hera is the follow-up investigation of Dimorphos and Didymos.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.wired.com/story/how-this-years-super-el-nino-will-worsen-global-hunger/">How This Year’s Super El Niño Will Worsen Global Hunger | WIRED</a></li>
-<li><a href="https://scied.ucar.edu/learning-zone/climate-change-impacts/el-nino-strength">A Super El Niño Is Very Strong, But Even Weaker El Niños ...</a></li>
-<li><a href="https://e360.yale.edu/features/super-el-nino-agriculture">How This Year&#x27;s Super El Niño Will Worsen Global Hunger - Yale E360</a></li>
+<li><a href="https://www.accuweather.com/en/space-news/nasas-dart-mission-successfully-changed-the-motion-of-an-asteroid/1261775">NASA &#x27;s DART mission successfully changed the motion of an asteroid</a></li>
+<li><a href="https://www.undiscoveredamerica.tv/5-ways-dart-proved-humanity-can-move-an-asteroid/">5 Ways DART Proved Humanity Can Move an Asteroid</a></li>
+<li><a href="https://www.sciencedaily.com/releases/2026/11/261106174532.htm">A nuclear blast could save Earth from an asteroid , but... | ScienceDaily</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#El Niño`, `#Climate Change`, `#Global Hunger`, `#Food Security`, `#Humanitarian Crises`
+**Tags**: `#planetary defense`, `#asteroid exploration`, `#NASA`, `#ESA`, `#space research`
 
 ---
 
 <a id="item-37"></a>
-## [AI Accelerates the Race to Patch Vulnerabilities](https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/) ⭐️ 6.0/10
+## [Large-Language-Model Pre-training Still Shows Scaling Gains](https://sebastianraschka.com/blog/2026/pretraining-is-still-not-plateauing.html) ⭐️ 6.0/10
 
-AI-assisted vulnerability discovery and automated exploit generation are shortening the time between finding a flaw and attacking systems that remain unpatched. Organizations are therefore under growing pressure to identify, prioritize, and repair vulnerabilities faster. Faster exploitation can turn routine software updates into operational emergencies, increasing the risk of outages, data breaches, and service disruption. Security teams and infrastructure operators may also face sustained pressure to keep pace with AI-enhanced attackers. AI tools can help locate vulnerabilities and generate working exploit code, reducing the time and expertise needed to weaponize flaws. However, available reporting also cautions that exploitation often trails disclosure, so it is too early to conclude that AI-assisted discovery automatically produces more successful attacks.
+Sebastian Raschka argues that large-language-model pre-training has not reached a performance plateau. The post presents this as an ongoing scaling trend, although the supplied excerpt does not include its supporting experiments, figures, or technical evidence. If pre-training continues to yield predictable improvements from larger models, more data, and additional compute, labs may still gain model capability through scale rather than relying exclusively on post-training methods. The claim also influences expectations about training costs, infrastructure demand, and the allocation of research effort across the model-development pipeline. The supplied material provides no benchmark results, scaling curves, model sizes, dataset sizes, compute budgets, or comparison of pre-training against test-time compute and post-training. Consequently, the post&\#x27;s central claim cannot be independently evaluated from the excerpt, and the distinction between absolute performance gains and diminishing returns per unit of compute also remains unclear.
 
-rss · Wired · Nov 21, 13:00
+rss · Hacker News \(best\) · Nov 22, 23:43
 
-**Background**: A vulnerability is a weakness that attackers can exploit to compromise software or systems, while patching means applying a fix. AI can assist both defensive vulnerability discovery and offensive exploit generation, compressing the window defenders have to deploy a fix after a flaw becomes public. The searched race-condition results concern a separate class of timing bugs and are not evidence of the broader AI-driven patching trend described in the article.
+**Background**: Pre-training is the initial phase in which a language model learns general language patterns from a large dataset. Scaling laws describe how model intelligence and accuracy can improve predictably as parameter count, training data, and computational resources increase. A plateau can mean either that additional pre-training no longer improves performance or that the gains achieved per dollar or unit of compute are shrinking, so the meaning matters when assessing the claim.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/jeffburnett225_vulncheck-state-of-exploitation-1h-2026-activity-7488228095162949632-Nbl1">AI - assisted vulnerability discovery not leading to more... | LinkedIn</a></li>
-<li><a href="https://www.oksim.ua/2024/10/17/dark-side-of-ai-in-cybersecurity/">Dark Side of AI in Cybersecurity - Oksim | Oksim - IT допомога</a></li>
-<li><a href="https://www.imperva.com/learn/application-security/race-condition/">Race Condition Vulnerability | Causes, Impacts &amp; Prevention ...</a></li>
+<li><a href="https://blogs.nvidia.com/blog/ai-scaling-laws/">How Scaling Laws Drive Smarter, More Powerful AI | NVIDIA Blog</a></li>
+<li><a href="https://arxiv.org/pdf/2509.05258">Scaling Performance of Large Language Model Pretraining</a></li>
+<li><a href="https://www.junglans.in/blog/llm-pretraining-alignment-tuning">The End-to-End LLM Pipeline: Pretraining , SFT... | Junglans Solutions</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI-assisted cybersecurity`, `#vulnerability patching`, `#system outages`, `#exploit automation`, `#cybersecurity`
+**Tags**: `#machine-learning`, `#LLMs`, `#pre-training`, `#scaling-laws`
 
 ---
 
 <a id="item-38"></a>
-## [OpenAgentCore Brings a Self-Hosted OpenAI Agents API](https://github.com/MiniMax-AI/OpenAgentCore) ⭐️ 6.0/10
+## [When Postgres Cleanup Needs a Message Queue](https://dev.to/remielbarrett8283/nodejs-postgres-cleanup-jobs-when-scheduling-should-hand-work-to-a-queue-2n0p) ⭐️ 6.0/10
 
-MiniMax released OpenAgentCore, an open-source and self-hostable implementation of the OpenAI Agents API. It lets developers run Codex, Claude Code, or MiniMax Code on their own machines, with their own models, through the official OpenAI SDK. The project gives developers greater control over deployment, execution environments, and model choices while preserving compatibility with the official OpenAI SDK. It could reduce infrastructure lock-in and make agent orchestration more suitable for private or customized environments. OpenAgentCore describes itself as an open-source, self-hosted implementation with multiple native harnesses and claims support for several coding-agent systems. The available evidence is still early: the Hacker News submission received one point and no comments, so broad adoption and production readiness are not demonstrated.
+The article recommends starting Postgres retention cleanup in Node.js with a scheduler and small, committed database batches. It argues that a message queue should be added only when records need independent retries, pacing, or durable recovery state. This distinction can prevent unnecessary infrastructure and operational complexity for routine database sweeps. It also helps teams identify when per-record failure isolation or external rate limits justify the additional reliability machinery of a queue. Cleanup transactions should claim a finite set of rows and delete only that set; a committed batch is durable, while an interrupted transaction rolls back and leaves remaining eligible rows for the next run. Advisory locks can prevent overlapping executions, and FOR UPDATE SKIP LOCKED can help partitioned workers avoid claiming the same rows. Queue delivery is generally at-least-once, so consumers should use the message identifier as an idempotency key and commit a completion record before acknowledging the message.
 
-rss · Hacker News \(best\) · Nov 22, 21:18
+rss · Dev.to · Nov 22, 23:50
 
-**Background**: OpenAI’s Agents API is a managed interface for building agent applications, with OpenAI handling sessions, orchestration, context compaction, and recovery while applications supply tools and an execution environment. OpenAgentCore aims to provide a self-hosted alternative with a compatible programming interface. The official SDK allows applications to invoke supported agent harnesses without requiring every internal detail to be implemented independently.
+**Background**: A scheduler determines when a cleanup pass starts, whereas Postgres determines which rows that pass owns and records the transaction outcome. Message queues are designed to hold many independently recoverable work units for consumers, making them useful when records have different processing times or require isolated retries. Neither advisory locks nor row-locking clauses provide exactly-once execution for external side effects.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openagentcore.dev/">OpenAgentCore — One core. Many agents.</a></li>
-<li><a href="https://openagentcore.dev/docs/architecture">Architecture | OpenAgentCore</a></li>
-<li><a href="https://developers.openai.com/api/docs/guides/agents-api/overview">Agents API | OpenAI API</a></li>
+<li><a href="https://dev.to/pavkode/preventing-redundant-cron-job-executions-in-multi-instance-nodejs-environments-with-locking-2ofa">Preventing Redundant Cron Job Executions in Multi-Instance Node . js ...</a></li>
+<li><a href="https://learn.programmingline.com/learn/system-design/system-design-message-queues-delivery-semantics-and-dead-letter-handling">Queue Delivery Semantics and DLQs | Programming Line</a></li>
+<li><a href="https://codemia.io/courses/system_design_fundamentals/delivery_semantics">Delivery Semantics - Learn in this interactive lesson on Codemia.</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#open source`, `#self-hosting`, `#OpenAI API`, `#developer tools`
+**Tags**: `#Node.js`, `#PostgreSQL`, `#Job Scheduling`, `#Message Queues`, `#Distributed Systems`
 
 ---
 
 <a id="item-39"></a>
-## [Three Controls for Recovery JWTs and JWKS Rotation](https://dev.to/rivenor85/account-recovery-jwt-evidence-with-3-controls-for-jwks-cache-rotation-2i85) ⭐️ 6.0/10
+## [Shell-Injection Scanner Adds Signed, Auditable Reports](https://dev.to/aurum_revenue/i-ran-my-shell-injection-scanner-on-my-own-repos-it-flagged-three-of-my-files-3dap) ⭐️ 6.0/10
 
-The article recommends verifying device-risk JWTs against explicitly trusted issuer, audience, algorithm, and time requirements, while retrieving signing keys through a bounded JWKS cache. It also advises retaining minimal recovery-decision evidence and treating risk scores as signals rather than proof of account ownership. These controls can prevent replayed or misdirected tokens from influencing sensitive account-recovery decisions and can reduce outages when signing keys rotate. They also minimize telemetry collection while preserving the distinction between a device-risk assessment and strong ownership proof. The verifier should configure the issuer, audience, permitted algorithms, and JWKS location outside the token; a token-supplied \`kid\` may select a candidate key but must not authorize an arbitrary key URL. Use a maintained JOSE implementation, enforce required time claims, and adopt bounded caching, refetching on an unknown key identifier where appropriate, and rate limiting.
+After the author&\#x27;s own shell-injection scanner flagged three previously pushed files, they introduced \`injection-audit\`, a Python tool that produces dated, signed JSON reports with exact findings, file hashes, rule-catalog details, and stated analysis limits. The scanner uses Python AST analysis and Bash token-level heuristics to report attacker-controlled data reaching dangerous shell sinks. A one-time clean scan is weak evidence because it becomes stale as code changes and cannot independently demonstrate what was checked. Signed reports tied to repository content hashes can provide verifiable evidence for customers and security reviews, although they still need integration into continuous enforcement workflows such as CI/CD security gates. The MIT-licensed tool uses only the Python standard library and has 126 tests; it supports \`init-key\`, \`scan\`, and \`verify\` commands. Its Python analysis is intra-procedural with bounded cross-function taint propagation, while Bash analysis is token-level rather than a full shell parse; container and attribute alias tracking is limited, and lambda and comprehension bodies are skipped.
 
-rss · Dev.to · Nov 22, 21:24
+rss · Dev.to · Nov 22, 23:42
 
-**Background**: JWKS is a trusted issuer&\#x27;s published set of public keys used to verify JWT signatures, and key rotation requires clients to discover new keys without fetching them on every request. Device-risk services may issue a signed assessment that influences how strongly an account should be challenged, but the JWT proves only that the trusted service produced the assessment; it does not prove that browser observations are truthful or that the requester owns the account. Account recovery therefore still needs an appropriate ownership challenge, consistent responses, and single-use recovery tokens with expiration.
+**Background**: Shell injection occurs when untrusted input is incorporated into a command executed by a shell without adequate sanitization. Static scanners identify potential data flows from attacker-controlled sources to dangerous execution sinks, but their findings require engineering judgment and cannot establish exploitability in every deployment. Auditable evidence should bind a report to the exact analyzed code and disclose both the applied rules and the analyzer&\#x27;s limitations.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.session-management.com/oidc-oauth-20-implementation/validating-jwts-and-rotating-signing-keys/caching-jwks-without-breaking-key-rotation/">Caching JWKS Without Breaking Key Rotation | session ...</a></li>
-<li><a href="https://support.okta.com/help/s/article/best-practices-for-caching-the-okta-json-web-keys-set-jwks-for-oauth">Best Practices for Caching the Okta JSON Web Keys Set (JWKS ...</a></li>
-<li><a href="https://www.cerberauth.com/blog/jwt-multi-issuer-validation/">Validating JWTs from Multiple Issuers | CerberAuth</a></li>
+<li><a href="https://www.onekey.com/resource/shell-cgi-static-code-analysis---automatic-discovery-of-rces">Shell CGI Static Code Analysis - Automatic Discovery of RCEs</a></li>
+<li><a href="https://dl.acm.org/doi/full/10.1145/3715001">A Container Security Survey: Exploits, Attacks, and Defenses</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#JWT Security`, `#JWKS Caching`, `#Account Recovery`, `#Device Fingerprinting`, `#Node.js`
-
----
-
-<a id="item-40"></a>
-## [Role-Separated AI Agents for Safer Pull Request Review](https://dev.to/himanshu231204/live-coding-with-an-ai-team-a-safe-way-to-review-a-pr-one-writer-one-reviewer-one-publisher-170i) ⭐️ 6.0/10
-
-The article presents a live-coding workflow in which Claude Code writes the fix, OpenCode independently reviews the exact diff without editing files, and a human decides whether to merge. It also assigns optional summary and narration roles to Hermes and ChatGPT dot, while restricting publishing to one authorized identity. Separating writing, reviewing, and publishing reduces conflicting edits, misleading handoffs, duplicate comments, and premature merge decisions. As AI coding agents increasingly generate and review pull requests independently, explicit permissions and human approval become important safeguards. The writer should use a clean Git worktree, and the reviewer should receive a saved diff generated between pinned base and target revisions. Findings should move from suspected to reproduced, only one identity should publish to GitHub, and narration should state the exact CI state rather than treating queued checks as passed.
-
-rss · Dev.to · Nov 22, 21:23
-
-**Background**: A Git worktree is another checkout of the same repository that lets an agent modify files without sharing the main working directory. Pull-request review requires comparing exact revisions so that comments target the code that will actually be published. The workflow reflects a human-in-the-loop pattern in which agents handle bounded tasks while people retain authority over consequential decisions.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://claude.com/product/code-review">Code Review by Claude | AI code review tool for pull requests</a></li>
-<li><a href="https://code.claude.com/docs/en/code-review">Code Review - Claude Code Docs</a></li>
-<li><a href="https://porteur.ai/guides/human-in-the-loop-ai-agents">Human in the Loop for AI Agents : Designing the Handoff ... | Porteur. ai</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI Agents`, `#Pull Request Review`, `#Software Engineering`, `#Human-in-the-Loop`, `#Developer Tools`
-
----
-
-<a id="item-41"></a>
-## [Inventory PDF.js Viewers by Origin, Not Product Name](https://dev.to/sorrelthorncroft/pdfjs-viewer-pages-need-origin-aware-inventory-not-a-library-version-claim-3fi6) ⭐️ 6.0/10
-
-A methodology note argues that PDF.js viewer exposure should be mapped by embedding origin, deployment context, and page-content patterns rather than inferred from product-name matches or library versions. A fixed-date ZoomEye measurement on November 23, 2026 returned zero application matches, 431 title matches, and 2,530 body matches, all treated as discovery leads rather than confirmed vulnerabilities. Public viewer pages may omit PDF.js identifiers, while pages containing the product name can be harmless documentation portals, customer file links, or exposed internal applications. Mapping each viewer to its owner, origin, parent application, document source, and browser boundary provides a more actionable security inventory than a raw page count. The note recommends reviewing \`isEvalSupported\`, origin configuration, message handlers, document-URL wrappers, iframe sandboxing, CSP, package and worker versions, and parent-frame allowlists. It also recommends serving untrusted documents from a separate origin without application cookies or storage, and testing whether dangerous URLs or parent-frame access are blocked.
-
-rss · Dev.to · Nov 22, 21:23
-
-**Background**: PDF.js is a JavaScript PDF renderer that is frequently embedded inside another application, so its interface may expose only a document title, toolbar, or URL. Its viewer operates under the browser&\#x27;s same-origin policy, meaning browser permissions and the effective origin model determine what scripts and documents can access. Historical arbitrary-JavaScript behavior associated with eval-based execution underscores why current configuration must be inspected instead of relying on assumptions about an old release.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/mozilla/pdf.js/">GitHub - mozilla/pdf.js: PDF Reader in JavaScript · GitHub</a></li>
-<li><a href="https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Same-origin_policy">Same - origin policy - Security | MDN</a></li>
-<li><a href="https://portswigger.net/web-security/cors/same-origin-policy">Same - origin policy (SOP) | Web Security Academy</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#PDF.js`, `#web-security`, `#same-origin-policy`, `#measurement-methodology`, `#exposure-inventory`
-
----
-
-<a id="item-42"></a>
-## [Assisted Reproduction Amid Declining Fertility Rates](https://www.nejm.org/doi/full/10.1056/NEJMp2611049?ai=nejm&amp;af=R&amp;rss=currentIssue) ⭐️ 6.0/10
-
-A New England Journal of Medicine perspective examines how assisted reproductive technology may respond to, mitigate, or reshape declining fertility rates. The available material identifies the topic but does not disclose the article&\#x27;s evidence, specific recommendations, or substantive conclusions. The analysis could connect reproductive medicine with demographic change and public-health policy as more societies experience fewer births and population aging. It may also clarify how expanded fertility care affects individuals facing infertility and broader population trends. Assisted reproductive technology includes procedures such as IVF, ICSI, fertility medication, and gamete or embryo cryopreservation. However, the supplied citation contains no extractable evidence or arguments, so the perspective&\#x27;s clinical scope, demographic model, limitations, and policy implications cannot be evaluated.
-
-rss · NEJM · 最新文章 · Nov 21, 12:30
-
-**Background**: Fertility rates have fallen across many societies during the demographic transition, contributing to slower population growth, aging populations, and in some countries, sustained population decline. Assisted reproductive technology is primarily used to treat infertility, with IVF being the most common form; the technology may help individuals realize desired pregnancies but cannot necessarily reverse population-level demographic decline.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://medlineplus.gov/assistedreproductivetechnology.html">Assisted Reproductive Technology | IVF | MedlinePlus Assisted Reproductive Technology (ART): Technique &amp; Types Assisted reproductive technology - Wikipedia IVF &amp; Assisted Reproductive Technology (ART) Guide Assisted Reproductive Technologies - Stanford Health Care About ART | ART | CDC</a></li>
-<li><a href="https://ourworldindata.org/demographic-transition">Demographic transition : Why is rapid population ... | Our World in Data</a></li>
-<li><a href="https://www.mckinsey.com/mgi/our-research/dependency-and-depopulation-confronting-the-consequences-of-a-new-demographic-reality">Confronting the consequences of a new demographic reality | McKinsey</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#fertility`, `#assisted reproductive technology`, `#demography`, `#public health`, `#reproductive medicine`
-
----
-
-<a id="item-43"></a>
-## [Health Professionals Urged to Support Detained Palestinian Colleagues](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2826%2902088-X/fulltext?rss=yes) ⭐️ 6.0/10
-
-A Lancet correspondence calls on health professionals and their organizations to speak out about the dangerous conditions experienced by Palestinian health-care workers from Gaza and the West Bank in Israeli detention centers. The appeal places professional responsibility and advocacy at the center of responses to risks affecting detained medical personnel. Public statements by health organizations could increase attention to humanitarian and occupational-health concerns. The published content centers on health-care workers from Gaza and the West Bank held in Israeli detention centers. It is an advocacy statement rather than a clinical study or detailed technical assessment, and the excerpt does not specify the number of detainees, their medical conditions, or the detention period.
-
-rss · The Lancet · 最新文章 · Nov 20, 23:30
-
-**Background**: 《柳叶刀》的这封 Correspondence 强调，被拘押的巴勒斯坦医疗卫生工作者可能面临健康风险，并主张专业组织不应继续沉默。其论述体现了医学协会保护卫生工作者、提高公众对人道问题关注的职责。
-
-**Tags**: `#medical ethics`, `#humanitarian health`, `#Gaza`, `#health professionals`, `#advocacy`
+**Tags**: `#application-security`, `#shell-injection`, `#static-analysis`, `#secure-sdlc`, `#ci-cd`
 
 ---
